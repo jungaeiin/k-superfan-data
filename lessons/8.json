@@ -1,0 +1,256 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "One iced Americano, please.",
+        "jp": "アイスアメリカーノを一杯ください。",
+        "ko": "아이스 아메리카노 한 잔 주세요.",
+        "vi": "Cho tôi một ly Americano đá."
+      },
+      {
+        "en": "Come when the buzzer vibrates.",
+        "jp": "呼び出しベルが鳴ったら来てください。",
+        "ko": "진동벨 울리면 오세요.",
+        "vi": "Hãy đến khi chuông báo rung."
+      },
+      {
+        "en": "I'll help you with the payment.",
+        "jp": "お会計をどうぞ。",
+        "ko": "결제 도와드리겠습니다.",
+        "vi": "Tôi sẽ giúp bạn thanh toán."
+      },
+      {
+        "en": "What size would you like?",
+        "jp": "サイズはどうなさいますか？",
+        "ko": "사이즈는 어떻게 할까요?",
+        "vi": "Bạn muốn cỡ nào ạ?"
+      }
+    ],
+    "question": {
+      "en": "What is the correct expression to ask for 'one iced Americano' at a cafe?",
+      "jp": "カフェで「アイスアメリカーノを一杯」を頼む時、正しい表現はどれですか？",
+      "ko": "카페에서 '아이스 아메리카노 한 잔'을 달라고 할 때 올바른 표현은 무엇인가요?",
+      "vi": "Biểu hiện đúng để gọi 'một ly Americano đá' tại quán cà phê là gì?"
+    },
+    "answer_index": 0
+  },
+  "metadata": {
+    "titles": {
+      "en": "Ordering Coffee at a Korean Cafe",
+      "jp": "韓国のカフェでコーヒーを注文する",
+      "ko": "한국 카페에서 커피 주문하기",
+      "vi": "Gọi cà phê tại quán cà phê Hàn Quốc"
+    },
+    "thumbnail": "https://img.youtube.com/vi/AJHDbT2Mgnc/hqdefault.jpg",
+    "categories": {
+      "en": "Daily Korean",
+      "jp": "生活韓国語",
+      "ko": "생활 한국어",
+      "vi": "Tiếng Hàn sinh hoạt"
+    },
+    "difficulty": 1,
+    "youtube_id": "AJHDbT2Mgnc",
+    "youtube_url": "https://www.youtube.com/watch?v=AJHDbT2Mgnc"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Hello. I'd like to order.",
+        "jp": "こんにちは。注文します。",
+        "ko": "안녕하세요. 주문할게요.",
+        "vi": "Xin chào. Tôi muốn gọi món."
+      },
+      "end_time": 7.8,
+      "start_time": 5.2,
+      "vocabulary": [
+        {
+          "word": "주문하다",
+          "meanings": {
+            "en": "to order",
+            "jp": "注文する",
+            "vi": "gọi món, đặt hàng"
+          }
+        },
+        {
+          "word": "-ㄹ게요",
+          "meanings": {
+            "en": "I will... (expresses speaker's intention)",
+            "jp": "～しますね (話者の意志を表す)",
+            "vi": "Tôi sẽ... (thể hiện ý định của người nói)"
+          }
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "'-ㄹ게요' is a polite expression used to state one's intention. It's frequently used when ordering at a store.",
+        "jp": "「-ㄹ게요」は自分の意志を表す際に使う丁寧な表現です。店で注文する時によく使われます。",
+        "ko": "'-ㄹ게요'는 자신의 의지를 나타낼 때 사용하는 공손한 표현입니다. 가게에서 주문할 때 자주 사용돼요.",
+        "vi": "'-ㄹ게요' là một biểu hiện lịch sự được sử dụng để thể hiện ý định của bản thân. Nó thường được sử dụng khi gọi món ở cửa hàng."
+      }
+    },
+    {
+      "scripts": {
+        "en": "One iced Americano, please.",
+        "jp": "アイスアメリカーノを一杯ください。",
+        "ko": "아이스 아메리카노 한 잔 주세요.",
+        "vi": "Cho tôi một ly Americano đá."
+      },
+      "end_time": 11.5,
+      "start_time": 9,
+      "vocabulary": [
+        {
+          "word": "아이스 아메리카노",
+          "meanings": {
+            "en": "Iced Americano",
+            "jp": "アイスアメリカーノ",
+            "vi": "Americano đá"
+          }
+        },
+        {
+          "word": "한 잔",
+          "meanings": {
+            "en": "one cup/glass",
+            "jp": "一杯",
+            "vi": "một ly"
+          }
+        },
+        {
+          "word": "주세요",
+          "meanings": {
+            "en": "Please give me...",
+            "jp": "ください",
+            "vi": "Làm ơn cho tôi..."
+          }
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "In Korea, Iced Americano is often shortened to 'Ah-Ah' (아아). It's one of the most popular coffee drinks among Koreans.",
+        "jp": "韓国ではアイスアメリカーノを略して「アア(아아)」と呼ぶことが多いです。韓国人が最も好むコーヒーの一つです。",
+        "ko": "한국에서는 아이스 아메리카노를 줄여서 '아아'라고 부르는 경우가 많습니다. 한국인들이 가장 좋아하는 커피 중 하나예요.",
+        "vi": "Ở Hàn Quốc, Iced Americano thường được viết tắt là 'A-A' (아아). Đây là một trong những loại cà phê được người Hàn Quốc yêu thích nhất."
+      }
+    },
+    {
+      "scripts": {
+        "en": "What size would you like?",
+        "jp": "サイズはどうなさいますか？",
+        "ko": "사이즈는 어떻게 해드릴까요?",
+        "vi": "Bạn muốn cỡ nào ạ?"
+      },
+      "end_time": 15.6,
+      "start_time": 13.2,
+      "vocabulary": [
+        {
+          "word": "사이즈",
+          "meanings": {
+            "en": "size",
+            "jp": "サイズ",
+            "vi": "cỡ, kích thước"
+          }
+        },
+        {
+          "word": "어떻게",
+          "meanings": {
+            "en": "how",
+            "jp": "どのように",
+            "vi": "như thế nào"
+          }
+        },
+        {
+          "word": "-해 드릴까요?",
+          "meanings": {
+            "en": "Shall I do... for you?",
+            "jp": "～致しましょうか？",
+            "vi": "Để tôi làm... cho bạn nhé?"
+          }
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "This is a very polite expression used by staff when offering something or asking a customer a question.",
+        "jp": "店員が客に何かを提案したり尋ねたりする際に使う、非常に丁寧な表現です。",
+        "ko": "가게 직원이 손님에게 무언가를 제안하거나 물어볼 때 사용하는 매우 공손한 표현입니다.",
+        "vi": "Đây là một biểu hiện rất lịch sự được nhân viên sử dụng khi đề nghị hoặc hỏi khách hàng điều gì đó."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Okay, I'll help you with the payment.",
+        "jp": "はい、お会計をどうぞ。",
+        "ko": "네, 결제 도와드리겠습니다.",
+        "vi": "Vâng, tôi sẽ giúp bạn thanh toán."
+      },
+      "end_time": 19,
+      "start_time": 16.5,
+      "vocabulary": [
+        {
+          "word": "결제",
+          "meanings": {
+            "en": "payment",
+            "jp": "決済、支払い",
+            "vi": "thanh toán"
+          }
+        },
+        {
+          "word": "도와드리다",
+          "meanings": {
+            "en": "to help (honorific)",
+            "jp": "お手伝いする (謙譲語)",
+            "vi": "giúp đỡ (kính ngữ)"
+          }
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "'도와드리겠습니다' is the honorific form of '도와주다'. While it literally means 'I will help you', in this context it means 'I will process your payment'.",
+        "jp": "「도와드리겠습니다」は「도와주다」の謙譲語で、直訳すると「お手伝いします」ですが、ここでは「お会計を処理します」という意味で使われます。",
+        "ko": "'도와드리겠습니다'는 '도와주다'의 높임말로, 직역하면 'I will help you'이지만 여기서는 'I will process your payment'라는 의미로 쓰입니다.",
+        "vi": "'도와드리겠습니다' là dạng kính ngữ của '도와주다'. Mặc dù nghĩa đen là 'tôi sẽ giúp bạn', trong ngữ cảnh này nó có nghĩa là 'tôi sẽ tiến hành thanh toán cho bạn'."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Please come get it when the buzzer vibrates.",
+        "jp": "呼び出しベルが鳴ったら取りに来てください。",
+        "ko": "진동벨 울리면 가지러 오세요.",
+        "vi": "Khi chuông báo rung, xin mời đến lấy ạ."
+      },
+      "end_time": 22.3,
+      "start_time": 20.1,
+      "vocabulary": [
+        {
+          "word": "진동벨",
+          "meanings": {
+            "en": "vibrating buzzer/pager",
+            "jp": "呼び出しベル",
+            "vi": "chuông báo rung"
+          }
+        },
+        {
+          "word": "울리다",
+          "meanings": {
+            "en": "to ring, to vibrate",
+            "jp": "鳴る",
+            "vi": "rung, reo"
+          }
+        },
+        {
+          "word": "가지러 오다",
+          "meanings": {
+            "en": "to come to get/pick up",
+            "jp": "取りに来る",
+            "vi": "đến lấy"
+          }
+        }
+      ],
+      "section_num": 5,
+      "cultural_note": {
+        "en": "Many cafes and restaurants in Korea give you a vibrating pager after you order. The pager will ring or vibrate to let you know when your drink or food is ready.",
+        "jp": "韓国の多くのカフェやレストランでは、注文後に呼び出しベルを渡されます。飲み物や食べ物の準備ができると、ベルが鳴ったり振動したりして知らせてくれます。",
+        "ko": "한국의 많은 카페와 식당에서는 주문 후 진동벨을 줍니다. 음료나 음식이 준비되면 벨이 울리거나 진동하여 알려줍니다.",
+        "vi": "Nhiều quán cà phê và nhà hàng ở Hàn Quốc sẽ đưa cho bạn một thiết bị báo rung sau khi gọi món. Thiết bị sẽ rung hoặc reo lên để báo cho bạn biết khi đồ uống hoặc thức ăn của bạn đã sẵn sàng."
+      }
+    }
+  ]
+}

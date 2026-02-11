@@ -1,0 +1,67 @@
+[
+  {
+    "id": 4,
+    "youtube_id": "S3zCe2J7Ru4",
+    "thumbnail": "https://img.youtube.com/vi/S3zCe2J7Ru4/hqdefault.jpg",
+    "difficulty": 2,
+    "titles": {
+      "en": "[It Can't Be Helped] Teaser Trailer Analysis",
+      "jp": "[仕方がない] ティーザー予告編分析",
+      "ko": "[어쩔수가없다] 티저 예고편 분석",
+      "vi": "Phân tích Trailer Teaser [Không thể làm gì khác]"
+    },
+    "pub_date": "2026-02-11T16:23:00+09:00"
+  },
+  {
+    "id": 5,
+    "youtube_id": "ILdCDuJsEHU",
+    "thumbnail": "https://img.youtube.com/vi/ILdCDuJsEHU/hqdefault.jpg",
+    "difficulty": 3,
+    "titles": {
+      "en": "Talk Back, You're Dead",
+      "jp": "逆らえば死ぬぞ",
+      "ko": "대들면 뒤진다",
+      "vi": "Cãi lời là chết đấy"
+    },
+    "pub_date": "2026-02-11T16:23:00+09:00"
+  },
+  {
+    "id": 2,
+    "youtube_id": "VojkT0lvSug",
+    "thumbnail": "https://img.youtube.com/vi/VojkT0lvSug/hqdefault.jpg",
+    "difficulty": 2,
+    "titles": {
+      "en": "A Man Living with a King",
+      "jp": "王と暮らす男",
+      "ko": "왕과 사는 남자",
+      "vi": "Người đàn ông sống cùng Vua"
+    },
+    "pub_date": "2026-02-11T16:22:00+09:00"
+  },
+  {
+    "id": 3,
+    "youtube_id": "0O9rtOolCvw",
+    "thumbnail": "https://img.youtube.com/vi/0O9rtOolCvw/hqdefault.jpg",
+    "difficulty": 3,
+    "titles": {
+      "en": "The Price of Confession | Official Teaser Trailer | Netflix",
+      "jp": "自白の代価 | 公式ティーザー予告編 | ネットフリックス",
+      "ko": "자백의 대가 | 공식 티저 예고편 | 넷플릭스",
+      "vi": "Giá Của Lời Thú Tội | Trailer Teaser Chính Thức | Netflix"
+    },
+    "pub_date": "2026-02-11T16:22:00+09:00"
+  },
+  {
+    "id": 1,
+    "youtube_id": "D0kt6A8ZaKI",
+    "thumbnail": "https://img.youtube.com/vi/D0kt6A8ZaKI/hqdefault.jpg",
+    "difficulty": 2,
+    "titles": {
+      "en": "The Art of Sarah | Official Teaser | Netflix",
+      "jp": "サラの芸術 | 公式ティーザー | Netflix",
+      "ko": "레이디 두아  | 공식 티저 | 넷플릭스",
+      "vi": "Nghệ Thuật Của Sarah | Teaser Chính Thức | Netflix"
+    },
+    "pub_date": "2026-02-10T10:00:00+09:00"
+  }
+]

@@ -1,0 +1,197 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "That night, everything began.",
+        "jp": "あの夜、すべてが始まりました。",
+        "ko": "그날 밤, 모든 것이 시작되었습니다.",
+        "vi": "Đêm đó, mọi chuyện đã bắt đầu."
+      },
+      {
+        "en": "Only a confession can save you.",
+        "jp": "自白だけがあなたを救えます。",
+        "ko": "자백만이 당신을 구할 수 있습니다.",
+        "vi": "Chỉ có lời thú tội mới có thể cứu được bạn."
+      },
+      {
+        "en": "But, I won't be able to handle it...",
+        "jp": "でも、耐えられないでしょう…",
+        "ko": "하지만, 감당할 수 없을 거예요...",
+        "vi": "Nhưng, tôi sẽ không thể chịu đựng được đâu..."
+      },
+      {
+        "en": "The truth always demands a price.",
+        "jp": "真実は常に代価を要求します。",
+        "ko": "진실은 언제나 대가를 요구하죠.",
+        "vi": "Sự thật luôn đòi hỏi một cái giá."
+      }
+    ],
+    "question": {
+      "en": "Among the lines in the teaser, which expression hints at the difficulties the protagonist will face?",
+      "jp": "予告編のセリフの中で、主人公が今後直面する困難を暗示する表現は何でしょうか？",
+      "ko": "예고편의 대사 중, 주인공이 앞으로 겪게 될 어려움을 암시하는 표현은 무엇일까요?",
+      "vi": "Trong số các câu thoại trong đoạn giới thiệu, cụm từ nào ám chỉ những khó khăn mà nhân vật chính sẽ phải đối mặt?"
+    },
+    "answer_index": 2
+  },
+  "metadata": {
+    "titles": {
+      "en": "The Price of Confession | Official Teaser Trailer | Netflix",
+      "jp": "自白の代価 | 公式ティーザー予告編 | ネットフリックス",
+      "ko": "자백의 대가 | 공식 티저 예고편 | 넷플릭스",
+      "vi": "Giá Của Lời Thú Tội | Trailer Teaser Chính Thức | Netflix"
+    },
+    "thumbnail": "https://img.youtube.com/vi/0O9rtOolCvw/hqdefault.jpg",
+    "categories": {
+      "en": "Crime, Thriller, Mystery, Drama",
+      "jp": "犯罪、スリラー、ミステリー、ドラマ",
+      "ko": "범죄, 스릴러, 미스터리, 드라마",
+      "vi": "Tội phạm, Kinh dị, Bí ẩn, Chính kịch"
+    },
+    "difficulty": 3,
+    "youtube_id": "0O9rtOolCvw",
+    "youtube_url": "https://www.youtube.com/watch?v=0O9rtOolCvw"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "That night, everything began.",
+        "jp": "あの夜、すべてが始まりました。",
+        "ko": "그날 밤, 모든 것이 시작되었습니다.",
+        "vi": "Đêm đó, mọi chuyện đã bắt đầu."
+      },
+      "end_time": 3,
+      "start_time": 0,
+      "vocabulary": [
+        {
+          "word": "그날 밤",
+          "meanings": {
+            "en": "that night",
+            "jp": "あの夜",
+            "vi": "đêm đó"
+          }
+        },
+        {
+          "word": "시작되다",
+          "meanings": {
+            "en": "to begin, to be started",
+            "jp": "始まる",
+            "vi": "bắt đầu"
+          }
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "In Korean dramas and films, '그날 밤 (geu-nal bam)' (that night) is often used to hint at a crucial moment that serves as the beginning or turning point of an event. It's an effective cliché for building suspense in mystery or thriller genres.",
+        "jp": "韓国ドラマや映画で「그날 밤（クナル バム）」という表現は、事件の発端や転換点となる重要な瞬間を暗示する際によく使われます。ミステリーやスリラーのジャンルで緊張感を醸成するのに効果的なクリシェです。",
+        "ko": "한국 드라마나 영화에서 '그날 밤'이라는 표현은 흔히 사건의 발단이나 전환점이 되는 중요한 순간을 암시할 때 사용됩니다. 미스터리나 스릴러 장르에서 긴장감을 조성하는 데 효과적인 클리셰입니다.",
+        "vi": "Trong phim truyền hình và điện ảnh Hàn Quốc, cụm từ '그날 밤 (geu-nal bam)' (đêm đó) thường được dùng để gợi ý về một khoảnh khắc quan trọng, là khởi nguồn hay bước ngoặt của một sự kiện. Đây là một cách dùng từ hiệu quả để tạo không khí căng thẳng trong thể loại bí ẩn hoặc giật gân."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Only a confession can save you.",
+        "jp": "自白だけがあなたを救えます。",
+        "ko": "자백만이 당신을 구할 수 있습니다.",
+        "vi": "Chỉ có lời thú tội mới có thể cứu được bạn."
+      },
+      "end_time": 8,
+      "start_time": 5,
+      "vocabulary": [
+        {
+          "word": "자백",
+          "meanings": {
+            "en": "confession, admission",
+            "jp": "自白",
+            "vi": "lời thú tội, sự nhận tội"
+          }
+        },
+        {
+          "word": "구하다",
+          "meanings": {
+            "en": "to save, to rescue",
+            "jp": "救う",
+            "vi": "cứu, cứu giúp"
+          }
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "'자백 (ja-baek)' (confession) is often used as a legal term, and in Korean dramas, it frequently delves deeply into the act of admitting guilt and the moral and legal conflicts that arise from it. '구하다 (gu-ha-da)' (to save) can be used not only for physical rescue but also in an abstract sense, such as saving one's soul or honor.",
+        "jp": "「자백（チャベク）」は法律用語としてよく使われ、韓国ドラマでは罪を認める行為と、それによって生じる道徳的、法的な葛藤を深く描くことが多いです。「구하다（クハダ）」は物理的な救助だけでなく、魂や名誉を救うという抽象的な意味でも使われます。",
+        "ko": "'자백'은 법률 용어로 자주 쓰이며, 한국 드라마에서는 죄를 인정하는 행위와 그로 인한 도덕적, 법적 갈등을 심도 있게 다루는 경우가 많습니다. '구하다'는 물리적인 구조뿐 아니라, 영혼이나 명예를 구한다는 추상적인 의미로도 사용될 수 있습니다.",
+        "vi": "'자백 (ja-baek)' (lời thú tội) thường được dùng như một thuật ngữ pháp lý, và trong các bộ phim truyền hình Hàn Quốc, nó thường đi sâu vào hành động nhận tội cũng như những xung đột đạo đức và pháp lý phát sinh từ đó. '구하다 (gu-ha-da)' (cứu) không chỉ dùng cho việc cứu giúp về mặt thể chất mà còn có thể dùng với nghĩa trừu tượng như cứu rỗi linh hồn hay danh dự."
+      }
+    },
+    {
+      "scripts": {
+        "en": "But, I won't be able to handle it...",
+        "jp": "でも、耐えられないでしょう…",
+        "ko": "하지만, 감당할 수 없을 거예요...",
+        "vi": "Nhưng, tôi sẽ không thể chịu đựng được đâu..."
+      },
+      "end_time": 13,
+      "start_time": 10,
+      "vocabulary": [
+        {
+          "word": "감당하다",
+          "meanings": {
+            "en": "to handle, to bear, to cope with",
+            "jp": "耐える、対処する",
+            "vi": "chịu đựng, gánh vác, đối phó"
+          }
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "'감당하다 (gam-dang-ha-da)' means to have the ability to accept and deal with a difficult situation, responsibility, or consequence. In Korean society, this word is frequently used in relation to personal suffering or responsibility, and in dramas, it becomes an important expression to convey the protagonist's inner conflict.",
+        "jp": "「감당하다（カムダンハダ）」は、困難な状況や責任、結果を受け入れて処理する能力があることを意味します。韓国社会では特に個人的な苦痛や責任感と関連してこの単語が頻繁に使われ、ドラマでは主人公の内的葛藤を表す重要な表現となります。",
+        "ko": "'감당하다'는 어떤 어려운 상황이나 책임, 결과를 받아들이고 처리할 능력이 있음을 의미합니다. 한국 사회에서는 특히 개인적인 고통이나 책임감과 관련하여 이 단어가 자주 사용되며, 드라마에서는 주인공의 내적 갈등을 나타내는 중요한 표현이 됩니다.",
+        "vi": "'감당하다 (gam-dang-ha-da)' có nghĩa là có khả năng chấp nhận và đối phó với một tình huống, trách nhiệm hoặc hậu quả khó khăn. Trong xã hội Hàn Quốc, từ này thường được dùng liên quan đến nỗi đau cá nhân hoặc trách nhiệm, và trong phim truyền hình, nó trở thành một cách diễn đạt quan trọng để thể hiện mâu thuẫn nội tâm của nhân vật chính."
+      }
+    },
+    {
+      "scripts": {
+        "en": "The truth always demands a price.",
+        "jp": "真実は常に代価を要求します。",
+        "ko": "진실은 언제나 대가를 요구하죠.",
+        "vi": "Sự thật luôn đòi hỏi một cái giá."
+      },
+      "end_time": 18,
+      "start_time": 15,
+      "vocabulary": [
+        {
+          "word": "진실",
+          "meanings": {
+            "en": "truth",
+            "jp": "真実",
+            "vi": "sự thật"
+          }
+        },
+        {
+          "word": "대가",
+          "meanings": {
+            "en": "price, cost, compensation",
+            "jp": "代価、代償",
+            "vi": "cái giá, sự đền bù"
+          }
+        },
+        {
+          "word": "요구하다",
+          "meanings": {
+            "en": "to demand, to request",
+            "jp": "要求する",
+            "vi": "yêu cầu, đòi hỏi"
+          }
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "'대가 (dae-ga)' (price/cost) goes beyond a simple monetary meaning, encompassing profound implications such as sacrifice, effort, or responsibility that accompany an action or outcome. The phrase 'The truth demands a price' is a philosophical message frequently used in Korean thrillers and dramas to emphasize the difficulty of achieving justice and the suffering that entails.",
+        "jp": "「대가（テガ）」は単に金銭的な意味だけでなく、ある行動や結果に伴う犠牲や努力、責任などを包括する深遠な意味で使われます。特に「真実は代価を要求する」というフレーズは、韓国のスリラーやドラマで正義の実現の難しさとそれに伴う苦痛を強調する際によく登場する哲学的なメッセージです。",
+        "ko": "'대가(代價)'는 단순히 금전적인 의미를 넘어, 어떤 행동이나 결과에 따르는 희생이나 노력, 책임 등을 포괄하는 심오한 의미로 사용됩니다. 특히 '진실은 대가를 요구한다'는 문구는 한국의 스릴러나 드라마에서 정의 구현의 어려움과 그에 따르는 고통을 강조할 때 자주 등장하는 철학적인 메시지입니다.",
+        "vi": "'대가 (dae-ga)' (cái giá) không chỉ đơn thuần là ý nghĩa tiền bạc mà còn bao hàm những hàm ý sâu sắc như sự hy sinh, nỗ lực hay trách nhiệm đi kèm với một hành động hoặc kết quả. Cụm từ 'Sự thật luôn đòi hỏi một cái giá' là một thông điệp triết lý thường xuyên xuất hiện trong các bộ phim kinh dị và chính kịch Hàn Quốc để nhấn mạnh sự khó khăn trong việc đạt được công lý và những đau khổ đi kèm."
+      }
+    }
+  ]
+}

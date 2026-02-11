@@ -1,5 +1,18 @@
 [
   {
+    "id": 8,
+    "youtube_id": "AJHDbT2Mgnc",
+    "thumbnail": "https://img.youtube.com/vi/AJHDbT2Mgnc/hqdefault.jpg",
+    "difficulty": 1,
+    "titles": {
+      "en": "Ordering Coffee at a Korean Cafe",
+      "jp": "韓国のカフェでコーヒーを注文する",
+      "ko": "한국 카페에서 커피 주문하기",
+      "vi": "Gọi cà phê tại quán cà phê Hàn Quốc"
+    },
+    "pub_date": "2026-02-12T08:39:00+09:00"
+  },
+  {
     "id": 7,
     "youtube_id": "IVW8LNJn65A",
     "thumbnail": "https://img.youtube.com/vi/IVW8LNJn65A/hqdefault.jpg",

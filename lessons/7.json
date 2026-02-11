@@ -1,0 +1,232 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "The filming of the movie has begun.",
+        "jp": "映画の撮影が始まった。",
+        "ko": "영화 촬영이 시작되었다.",
+        "vi": "Việc quay phim đã bắt đầu."
+      },
+      {
+        "en": "It achieved 1st place in pre-sales.",
+        "jp": "前売り率1位を獲得した。",
+        "ko": "예매율 1위를 차지했다.",
+        "vi": "Nó đã đạt vị trí số 1 về tỷ lệ đặt vé trước."
+      },
+      {
+        "en": "It won an award at an international film festival.",
+        "jp": "国際映画祭で賞を受賞した。",
+        "ko": "국제 영화제에서 상을 받았다.",
+        "vi": "Nó đã giành giải thưởng tại một liên hoan phim quốc tế."
+      },
+      {
+        "en": "The release schedule has been postponed.",
+        "jp": "公開日程が延期された。",
+        "ko": "개봉 일정이 연기되었다.",
+        "vi": "Lịch phát hành đã bị hoãn lại."
+      }
+    ],
+    "question": {
+      "en": "What is the main news about director Ryoo Seung-wan's new film 'HUMINT'?",
+      "jp": "リュ・スンワン監督の新作「ヒューミント」に関する主要なニュースは何ですか？",
+      "ko": "류승완 감독의 신작 '휴민트'에 대한 주요 소식은 무엇인가요?",
+      "vi": "Tin tức chính về bộ phim mới 'HUMINT' của đạo diễn Ryoo Seung-wan là gì?"
+    },
+    "answer_index": 1
+  },
+  "metadata": {
+    "titles": {
+      "en": "Ryoo Seung-wan's New Film 'HUMINT' Ranks 1st in Pre-sales... Box Office Success Predicted",
+      "jp": "リュ・スンワン監督の新作「ヒューミント」、前売り率1位に浮上…興行予告",
+      "ko": "류승완 신작 '휴민트', 예매율 1위 올랐다…흥행 예고",
+      "vi": "Phim mới của đạo diễn Ryoo Seung-wan 'HUMINT' đứng đầu về tỷ lệ đặt vé trước... Dự báo thành công phòng vé"
+    },
+    "thumbnail": "https://img.youtube.com/vi/IVW8LNJn65A/hqdefault.jpg",
+    "categories": {
+      "en": "Entertainment News, Film",
+      "jp": "芸能ニュース、映画",
+      "ko": "연예뉴스, 영화",
+      "vi": "Tin tức giải trí, Điện ảnh"
+    },
+    "difficulty": 3,
+    "youtube_id": "IVW8LNJn65A",
+    "youtube_url": "https://www.youtube.com/watch?v=IVW8LNJn65A"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "This is news about director Ryoo Seung-wan's new film, 'HUMINT'.",
+        "jp": "リュ・スンワン監督の新作「ヒューミント」に関するニュースです。",
+        "ko": "류승완 감독의 새로운 영화, '휴민트'에 대한 소식입니다.",
+        "vi": "Đây là tin tức về bộ phim mới 'HUMINT' của đạo diễn Ryoo Seung-wan."
+      },
+      "end_time": 5,
+      "start_time": 0.001,
+      "vocabulary": [
+        {
+          "word": "류승완",
+          "meanings": {
+            "en": "Ryoo Seung-wan (name of a famous South Korean film director)",
+            "jp": "リュ・スンワン（韓国の有名映画監督の名前）",
+            "vi": "Ryoo Seung-wan (tên đạo diễn phim nổi tiếng Hàn Quốc)"
+          }
+        },
+        {
+          "word": "신작",
+          "meanings": {
+            "en": "new work, new film",
+            "jp": "新作",
+            "vi": "tác phẩm mới, phim mới"
+          }
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "Director Ryoo Seung-wan is one of South Korea's leading directors, having directed many box office hits such as 'Veteran' and 'Escape from Mogadishu'.",
+        "jp": "リュ・スンワン監督は、「ベテラン」や「モガディシュ脱出」など、多数のヒット作を手がけた韓国を代表する監督の一人です。",
+        "ko": "류승완 감독은 '베테랑', '모가디슈' 등 다수의 흥행작을 연출한 한국의 대표적인 감독 중 한 명입니다.",
+        "vi": "Đạo diễn Ryoo Seung-wan là một trong những đạo diễn hàng đầu Hàn Quốc, đã chỉ đạo nhiều bộ phim bom tấn như 'Veteran' và 'Escape from Mogadishu'."
+      }
+    },
+    {
+      "scripts": {
+        "en": "The film's title is 'HUMINT', a unique name that draws attention.",
+        "jp": "映画のタイトルは「ヒューミント」で、その独特な名前が目を引きます。",
+        "ko": "영화 제목은 '휴민트'로, 독특한 이름이 시선을 끕니다.",
+        "vi": "Tên phim là 'HUMINT', một cái tên độc đáo thu hút sự chú ý."
+      },
+      "end_time": 10,
+      "start_time": 5.001,
+      "vocabulary": [
+        {
+          "word": "휴민트",
+          "meanings": {
+            "en": "HUMINT (Human Intelligence, often referring to intelligence gathering through human sources, implying a spy/thriller genre)",
+            "jp": "ヒューミント（Human Intelligence、人的情報源による情報収集を意味し、スパイ/スリラージャンルを示唆）",
+            "vi": "HUMINT (Human Intelligence, thường chỉ hoạt động thu thập thông tin tình báo qua nguồn con người, gợi ý thể loại gián điệp/gay cấn)"
+          }
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "'HUMINT' is an abbreviation for 'Human Intelligence,' meaning information obtained through human sources. It hints at the film's genre characteristics.",
+        "jp": "「ヒューミント(HUMINT)」は「Human Intelligence」の略で、人を通じて得られる情報を意味します。映画のジャンル的特徴を垣間見ることができます。",
+        "ko": "'휴민트(HUMINT)'는 'Human Intelligence'의 줄임말로, 사람을 통해 얻는 정보를 뜻합니다. 영화의 장르적 특징을 엿볼 수 있습니다.",
+        "vi": "'HUMINT' là viết tắt của 'Human Intelligence', có nghĩa là thông tin thu thập qua nguồn con người. Nó gợi ý về đặc điểm thể loại của bộ phim."
+      }
+    },
+    {
+      "scripts": {
+        "en": "This new film is receiving great attention, having risen to 1st place in pre-sales.",
+        "jp": "この新作が前売り率1位に浮上し、大きな注目を集めています。",
+        "ko": "이 신작이 예매율 1위에 오르며 큰 관심을 받고 있습니다.",
+        "vi": "Bộ phim mới này đang nhận được sự quan tâm lớn khi vươn lên vị trí số 1 về tỷ lệ đặt vé trước."
+      },
+      "end_time": 15,
+      "start_time": 10.001,
+      "vocabulary": [
+        {
+          "word": "예매율",
+          "meanings": {
+            "en": "pre-sale rate, advance ticket sales rate",
+            "jp": "前売り率",
+            "vi": "tỷ lệ đặt vé trước"
+          }
+        },
+        {
+          "word": "1위",
+          "meanings": {
+            "en": "first place, number one",
+            "jp": "1位",
+            "vi": "vị trí số 1"
+          }
+        },
+        {
+          "word": "올랐다",
+          "meanings": {
+            "en": "rose, climbed (to a position)",
+            "jp": "上がった、浮上した",
+            "vi": "leo lên, vươn lên"
+          }
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "In Korea, the pre-sale rate before a film's release is considered one of the important indicators of its box office success. Ranking 1st shows high expectations for the opening period.",
+        "jp": "韓国では、映画公開前の前売り率は興行成績の重要な指標の一つとされています。1位は公開初期の高い期待感を示します。",
+        "ko": "한국에서 영화 개봉 전 예매율은 흥행의 중요한 지표 중 하나로 간주됩니다. 1위는 개봉 초반의 높은 기대감을 보여줍니다.",
+        "vi": "Ở Hàn Quốc, tỷ lệ đặt vé trước khi phim ra mắt được coi là một trong những chỉ số quan trọng về thành công phòng vé. Xếp hạng 1 cho thấy kỳ vọng cao trong giai đoạn mở màn."
+      }
+    },
+    {
+      "scripts": {
+        "en": "The news of ranking 1st in pre-sales foreshadows the film's box office success.",
+        "jp": "前売り率1位のニュースは、この映画の興行成功を予告しています。",
+        "ko": "예매율 1위 소식은 이 영화의 흥행을 미리 예고하고 있습니다.",
+        "vi": "Tin tức về việc đứng đầu tỷ lệ đặt vé trước báo trước sự thành công phòng vé của bộ phim này."
+      },
+      "end_time": 20,
+      "start_time": 15.001,
+      "vocabulary": [
+        {
+          "word": "흥행",
+          "meanings": {
+            "en": "box office success, commercial success",
+            "jp": "興行",
+            "vi": "thành công phòng vé"
+          }
+        },
+        {
+          "word": "예고",
+          "meanings": {
+            "en": "prediction, forecast, preview",
+            "jp": "予告、予見",
+            "vi": "dự báo, dự đoán"
+          }
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "High pre-sale rates for a film typically lead to strong audience numbers and box office success after its release.",
+        "jp": "映画の高い前売り率は通常、公開後も良好な観客数を記録し、興行成功につながることが多いです。",
+        "ko": "영화의 높은 예매율은 통상적으로 개봉 후에도 좋은 관객 수를 기록하며 흥행으로 이어지는 경우가 많습니다.",
+        "vi": "Tỷ lệ đặt vé trước cao của một bộ phim thường dẫn đến số lượng khán giả lớn và thành công phòng vé sau khi phát hành."
+      }
+    },
+    {
+      "scripts": {
+        "en": "This news was reported through SBS 'Good Morning Entertainment'.",
+        "jp": "このニュースはSBS「グッドモーニング芸能」を通じて報道されました。",
+        "ko": "이 소식은 SBS '굿모닝연예'를 통해 보도되었습니다.",
+        "vi": "Tin tức này được đưa tin qua chương trình 'Good Morning Entertainment' của SBS."
+      },
+      "end_time": 25,
+      "start_time": 20.001,
+      "vocabulary": [
+        {
+          "word": "SBS",
+          "meanings": {
+            "en": "Seoul Broadcasting System (a major South Korean television and radio network)",
+            "jp": "SBS（ソウル放送、韓国の主要なテレビ・ラジオ放送局）",
+            "vi": "SBS (Hệ thống Phát thanh Seoul, đài truyền hình và phát thanh lớn của Hàn Quốc)"
+          }
+        },
+        {
+          "word": "굿모닝연예",
+          "meanings": {
+            "en": "Good Morning Entertainment (name of an entertainment news segment/program)",
+            "jp": "グッドモーニング芸能（芸能ニュース番組名）",
+            "vi": "Good Morning Entertainment (tên một chương trình/phân đoạn tin tức giải trí)"
+          }
+        }
+      ],
+      "section_num": 5,
+      "cultural_note": {
+        "en": "SBS is one of South Korea's three major terrestrial broadcasting stations, along with KBS and MBC. 'Good Morning Entertainment' is a program that delivers entertainment news during the morning news slot.",
+        "jp": "SBSはKBS、MBCとともに韓国の三大地上波放送局の一つです。「グッドモーニング芸能」は朝のニュース時間帯に芸能ニュースを伝える番組です。",
+        "ko": "SBS는 KBS, MBC와 함께 한국의 3대 지상파 방송사 중 하나입니다. '굿모닝연예'는 아침 뉴스 시간대에 연예 소식을 전하는 프로그램입니다.",
+        "vi": "SBS là một trong ba đài truyền hình mặt đất lớn của Hàn Quốc, cùng với KBS và MBC. 'Good Morning Entertainment' là một chương trình đưa tin giải trí trong khung giờ tin tức buổi sáng."
+      }
+    }
+  ]
+}

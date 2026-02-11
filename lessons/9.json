@@ -1,0 +1,221 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "sesang",
+        "jp": "セサン",
+        "ko": "세상",
+        "vi": "sesang"
+      },
+      {
+        "en": "jinsil",
+        "jp": "ジンシル",
+        "ko": "진실",
+        "vi": "jinsil"
+      },
+      {
+        "en": "uri",
+        "jp": "ウリ",
+        "ko": "우리",
+        "vi": "uri"
+      },
+      {
+        "en": "geunal",
+        "jp": "クナル",
+        "ko": "그날",
+        "vi": "geunal"
+      }
+    ],
+    "question": {
+      "en": "Which of the following Korean words means 'truth'?",
+      "jp": "次のうち「truth」を意味する韓国語の単語はどれですか？",
+      "ko": "다음 중 'truth'를 의미하는 한국어 단어는 무엇인가요?",
+      "vi": "Từ tiếng Hàn nào sau đây có nghĩa là 'sự thật'?"
+    },
+    "answer_index": 1
+  },
+  "metadata": {
+    "titles": {
+      "en": "Pavane | Official Trailer",
+      "jp": "パヴァーヌ | 公式予告編",
+      "ko": "파반느 | 공식 예고편",
+      "vi": "Pavane | Trailer chính thức"
+    },
+    "thumbnail": "https://img.youtube.com/vi/XYN_5sELsII/hqdefault.jpg",
+    "categories": {
+      "en": "Drama",
+      "jp": "ドラマ",
+      "ko": "드라마",
+      "vi": "Phim chính kịch"
+    },
+    "difficulty": 1,
+    "youtube_id": "XYN_5sELsII",
+    "youtube_url": "https://www.youtube.com/watch?v=XYN_5sELsII"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Even if the world forgets us...",
+        "jp": "世界が私たちを忘れても…",
+        "ko": "세상이 우리를 잊어도...",
+        "vi": "Ngay cả khi thế giới lãng quên chúng ta..."
+      },
+      "end_time": 5.85,
+      "start_time": 3.25,
+      "vocabulary": [
+        {
+          "word": "세상",
+          "meanings": {
+            "en": "world",
+            "jp": "世界",
+            "vi": "thế giới"
+          }
+        },
+        {
+          "word": "우리",
+          "meanings": {
+            "en": "we, us",
+            "jp": "私たち",
+            "vi": "chúng tôi, chúng ta"
+          }
+        },
+        {
+          "word": "잊다",
+          "meanings": {
+            "en": "to forget",
+            "jp": "忘れる",
+            "vi": "quên"
+          }
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "In Korean, '우리' (uri - our) is often used to mean 'my' (e.g., 우리 집 - my house), reflecting a facet of Korean culture that emphasizes a sense of community.",
+        "jp": "韓国語では、「우리（ウリ）」はしばしば「私の」という意味で使われます（例：우리 집 - 私の家）。これは共同体意識を強調する韓国文化の一面を示しています。",
+        "ko": "한국어에서 '우리'는 '나의'를 의미하는 데 자주 사용됩니다(예: 우리 집 - my house). 이는 공동체 의식을 강조하는 한국 문화의 한 단면을 보여줍니다.",
+        "vi": "Trong tiếng Hàn, '우리' (uri - của chúng ta) thường được dùng với nghĩa 'của tôi' (ví dụ: 우리 집 - nhà của tôi), phản ánh một khía cạnh văn hóa Hàn Quốc nhấn mạnh ý thức cộng đồng."
+      }
+    },
+    {
+      "scripts": {
+        "en": "The truth doesn't change.",
+        "jp": "真実は変わらない。",
+        "ko": "진실은 변하지 않아.",
+        "vi": "Sự thật không hề thay đổi."
+      },
+      "end_time": 14.3,
+      "start_time": 12.1,
+      "vocabulary": [
+        {
+          "word": "진실",
+          "meanings": {
+            "en": "truth",
+            "jp": "真実",
+            "vi": "sự thật"
+          }
+        },
+        {
+          "word": "변하다",
+          "meanings": {
+            "en": "to change",
+            "jp": "変わる",
+            "vi": "thay đổi"
+          }
+        },
+        {
+          "word": "-지 않다",
+          "meanings": {
+            "en": "do not (negation grammar)",
+            "jp": "〜しない（否定の文法）",
+            "vi": "không (ngữ pháp phủ định)"
+          }
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "Adding '-지 않다' after a verb or adjective is a standard way to express negation in Korean. In spoken language, it's often shortened by placing '안' before the verb (e.g., 안 변해).",
+        "jp": "動詞や形容詞の後に「-지 않다」を付けることは、韓国語で否定を表現する標準的な方法です。話し言葉では、しばしば動詞の前に「안」を付けて短縮します（例：안 변해）。",
+        "ko": "동사나 형용사 뒤에 '-지 않다'를 붙이는 것은 한국어에서 부정을 표현하는 표준적인 방법입니다. 구어체에서는 종종 '안'을 동사 앞에 붙여 줄여 말하기도 합니다 (예: 안 변해).",
+        "vi": "Thêm '-지 않다' sau động từ hoặc tính từ là một cách tiêu chuẩn để thể hiện sự phủ định trong tiếng Hàn. Trong văn nói, nó thường được rút ngắn bằng cách đặt '안' trước động từ (ví dụ: 안 변해)."
+      }
+    },
+    {
+      "scripts": {
+        "en": "That day, what happened?",
+        "jp": "あの日、何があったんですか？",
+        "ko": "그날, 무슨 일이 있었던 거죠?",
+        "vi": "Ngày hôm đó, đã có chuyện gì xảy ra vậy?"
+      },
+      "end_time": 28.1,
+      "start_time": 25.5,
+      "vocabulary": [
+        {
+          "word": "그날",
+          "meanings": {
+            "en": "that day",
+            "jp": "あの日",
+            "vi": "ngày đó"
+          }
+        },
+        {
+          "word": "무슨",
+          "meanings": {
+            "en": "what, what kind of",
+            "jp": "何、どんな",
+            "vi": "gì, loại gì"
+          }
+        },
+        {
+          "word": "일",
+          "meanings": {
+            "en": "thing, matter, event",
+            "jp": "こと、出来事",
+            "vi": "việc, sự kiện"
+          }
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "Using '-거죠?' at the end of a sentence is a common way to seek confirmation or ask a question softly. It feels more conversational than a direct question.",
+        "jp": "文末に「-거죠?」を使うのは、相手に確認を求めたり、柔らかく質問したりする際の一般的な表現です。直接的な質問よりも会話的な響きがあります。",
+        "ko": "문장 끝에 '-거죠?'를 사용하는 것은 상대방에게 확인을 구하거나 부드럽게 질문할 때 쓰는 일반적인 표현입니다. 직접적인 질문보다 더 대화적인 느낌을 줍니다.",
+        "vi": "Sử dụng '-거죠?' ở cuối câu là một cách phổ biến để tìm kiếm sự xác nhận hoặc hỏi một câu hỏi một cách nhẹ nhàng. Nó tạo cảm giác trò chuyện hơn là một câu hỏi trực tiếp."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Only on Netflix.",
+        "jp": "ただNetflixで。",
+        "ko": "오직 넷플릭스에서.",
+        "vi": "Chỉ có trên Netflix."
+      },
+      "end_time": 37.5,
+      "start_time": 35.8,
+      "vocabulary": [
+        {
+          "word": "오직",
+          "meanings": {
+            "en": "only, solely",
+            "jp": "ただ、ひたすら",
+            "vi": "chỉ, duy nhất"
+          }
+        },
+        {
+          "word": "-에서",
+          "meanings": {
+            "en": "at, in, on (location particle)",
+            "jp": "〜で（場所の助詞）",
+            "vi": "tại, ở, trên (tiểu từ chỉ nơi chốn)"
+          }
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "Trailers for streaming services often end with the phrase 'Only on [Platform Name]'. It's a marketing strategy to emphasize the exclusivity of the content.",
+        "jp": "ストリーミングサービスの予告編は、しばしば「ただ[プラットフォーム名]で」というフレーズで終わります。これはコンテンツの独占性を強調するマーケティング戦略です。",
+        "ko": "스트리밍 서비스 예고편은 종종 '오직 [플랫폼 이름]에서'라는 문구로 끝납니다. 이는 해당 콘텐츠의 독점성을 강조하는 마케팅 전략입니다.",
+        "vi": "Các đoạn giới thiệu cho các dịch vụ phát trực tuyến thường kết thúc bằng cụm từ 'Chỉ có trên [Tên nền tảng]'. Đây là một chiến lược tiếp thị để nhấn mạnh tính độc quyền của nội dung."
+      }
+    }
+  ]
+}

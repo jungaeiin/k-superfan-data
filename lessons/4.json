@@ -1,0 +1,224 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "Something must be done",
+        "jp": "何かをしなければならない",
+        "ko": "무언가 해야만 한다",
+        "vi": "Phải làm gì đó"
+      },
+      {
+        "en": "There is no choice",
+        "jp": "選択の余地がない",
+        "ko": "선택의 여지가 없다",
+        "vi": "Không có lựa chọn nào"
+      },
+      {
+        "en": "There are many opportunities",
+        "jp": "多くの機会がある",
+        "ko": "기회가 많이 있다",
+        "vi": "Có nhiều cơ hội"
+      },
+      {
+        "en": "It's a very happy situation",
+        "jp": "とても幸せな状況だ",
+        "ko": "매우 행복한 상황이다",
+        "vi": "Đó là một tình huống rất vui vẻ"
+      }
+    ],
+    "question": {
+      "en": "What is the most appropriate meaning of '어쩔 수가 없다' in the context of the teaser trailer?",
+      "jp": "ティーザー予告編の文脈において、「어쩔 수가 없다」の最も適切な意味は何ですか？",
+      "ko": "티저 예고편의 맥락에서 '어쩔 수가 없다'의 가장 적절한 의미는 무엇인가요?",
+      "vi": "Trong bối cảnh trailer teaser, ý nghĩa phù hợp nhất của '어쩔 수가 없다' là gì?"
+    },
+    "answer_index": 1
+  },
+  "metadata": {
+    "titles": {
+      "en": "[It Can't Be Helped] Teaser Trailer Analysis",
+      "jp": "[仕方がない] ティーザー予告編分析",
+      "ko": "[어쩔수가없다] 티저 예고편 분석",
+      "vi": "Phân tích Trailer Teaser [Không thể làm gì khác]"
+    },
+    "thumbnail": "https://img.youtube.com/vi/S3zCe2J7Ru4/hqdefault.jpg",
+    "categories": {
+      "en": "Daily Conversation, Emotional Expression, Drama Vocabulary, Idiomatic Expressions",
+      "jp": "日常会話、感情表現、ドラマ語彙、慣用句",
+      "ko": "일상 대화, 감정 표현, 드라마 어휘, 관용구",
+      "vi": "Hội thoại hàng ngày, Biểu đạt cảm xúc, Từ vựng phim truyền hình, Thành ngữ"
+    },
+    "difficulty": 2,
+    "youtube_id": "S3zCe2J7Ru4",
+    "youtube_url": "https://www.youtube.com/watch?v=S3zCe2J7Ru4"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Really... is there nothing that can be done?",
+        "jp": "本当に…どうしようもないのでしょうか？",
+        "ko": "정말... 어쩔 수가 없는 건가요?",
+        "vi": "Thật sự... không còn cách nào khác sao?"
+      },
+      "end_time": 8,
+      "start_time": 5,
+      "vocabulary": [
+        {
+          "word": "어쩔 수가 없다",
+          "meanings": {
+            "en": "It can't be helped; there's nothing one can do.",
+            "jp": "仕方がない、どうすることもできない",
+            "vi": "Không thể làm gì khác, đành chịu"
+          }
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "'어쩔 수가 없다' is a common idiomatic expression used to convey resignation or helplessness in a situation. You often hear it in dramas or movies when protagonists face difficult circumstances.",
+        "jp": "「어쩔 수가 없다」は、状況に対する諦めや無力感を表現する際によく使われる慣用句です。ドラマや映画で主人公が困難な状況に直面したときによく耳にします。",
+        "ko": "'어쩔 수가 없다'는 상황에 대한 체념이나 무력감을 표현할 때 자주 사용되는 관용구입니다. 드라마나 영화에서 주인공이 어려운 상황에 직면했을 때 흔히 듣게 됩니다.",
+        "vi": "'어쩔 수가 없다' là một thành ngữ phổ biến được dùng để diễn tả sự cam chịu hoặc bất lực trước một tình huống. Bạn thường nghe thấy nó trong phim truyền hình hoặc điện ảnh khi các nhân vật chính đối mặt với hoàn cảnh khó khăn."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Even if I run, it's just the same place in the end.",
+        "jp": "逃げてみても、結局元の場所に戻るだけだ。",
+        "ko": "도망쳐봐도, 결국 제자리일 뿐이야.",
+        "vi": "Dù có chạy trốn, cuối cùng cũng chỉ là chỗ cũ mà thôi."
+      },
+      "end_time": 17,
+      "start_time": 13,
+      "vocabulary": [
+        {
+          "word": "도망치다",
+          "meanings": {
+            "en": "to run away, to escape",
+            "jp": "逃げる",
+            "vi": "chạy trốn, thoát khỏi"
+          }
+        },
+        {
+          "word": "결국",
+          "meanings": {
+            "en": "eventually, in the end",
+            "jp": "結局",
+            "vi": "cuối cùng"
+          }
+        },
+        {
+          "word": "제자리",
+          "meanings": {
+            "en": "original place, starting point",
+            "jp": "元の場所、元の位置",
+            "vi": "chỗ cũ, vị trí ban đầu"
+          }
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "'도망쳐봐도 결국 제자리일 뿐이야' is used to express that no matter how much one tries or avoids a situation, the fundamental problem remains unsolved or one cannot escape their fate. It often appears in tragic narratives in K-dramas.",
+        "jp": "「도망쳐봐도 결국 제자리일 뿐이야」は、いくら努力したり状況を避けようとしても、根本的な問題が解決されなかったり、運命から逃れられないことを表現する際に使われます。Kドラマの悲劇的な物語でよく登場するフレーズです。",
+        "ko": "'도망쳐봐도 결국 제자리일 뿐이야'는 아무리 노력하거나 상황을 회피하려 해도 근본적인 문제가 해결되지 않거나 운명에서 벗어날 수 없음을 표현할 때 사용됩니다. K-드라마의 비극적인 서사에서 자주 등장하는 문구입니다.",
+        "vi": "'도망쳐봐도 결국 제자리일 뿐이야' được dùng để diễn tả rằng dù có cố gắng hay trốn tránh tình huống đến đâu, vấn đề cơ bản vẫn không được giải quyết hoặc không thể thoát khỏi số phận. Nó thường xuất hiện trong các câu chuyện bi kịch của phim truyền hình Hàn Quốc."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Unavoidable fate, their story begins.",
+        "jp": "避けられない運命、彼らの物語が始まる。",
+        "ko": "피할 수 없는 운명, 그들의 이야기가 시작된다.",
+        "vi": "Định mệnh không thể tránh khỏi, câu chuyện của họ bắt đầu."
+      },
+      "end_time": 25,
+      "start_time": 20,
+      "vocabulary": [
+        {
+          "word": "피하다",
+          "meanings": {
+            "en": "to avoid, to evade",
+            "jp": "避ける",
+            "vi": "tránh, né tránh"
+          }
+        },
+        {
+          "word": "운명",
+          "meanings": {
+            "en": "fate, destiny",
+            "jp": "運命",
+            "vi": "định mệnh, số phận"
+          }
+        },
+        {
+          "word": "시작되다",
+          "meanings": {
+            "en": "to begin, to start",
+            "jp": "始まる",
+            "vi": "bắt đầu"
+          }
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "Expressions like 'unavoidable fate' are frequently used in dramas and movies as narration to create dramatic tension and draw viewers in. In Korean culture, 'fate' is often mentioned as a significant factor in relationships or events.",
+        "jp": "「피할 수 없는 운명」のような表現は、ドラマや映画で劇的な緊張感を作り出し、視聴者の没入感を誘うナレーションとして頻繁に使われます。韓国文化では「運命」は関係や出来事の重要な要因としてよく言及されます。",
+        "ko": "'피할 수 없는 운명'과 같은 표현은 드라마나 영화에서 극적인 긴장감을 조성하고 시청자의 몰입을 유도하는 내레이션으로 자주 사용됩니다. 한국 문화에서 '운명'은 관계나 사건의 중요한 요인으로 자주 언급됩니다.",
+        "vi": "Các biểu hiện như 'định mệnh không thể tránh khỏi' thường được dùng trong phim truyền hình và điện ảnh như lời dẫn chuyện để tạo kịch tính và thu hút người xem. Trong văn hóa Hàn Quốc, 'định mệnh' thường được nhắc đến như một yếu tố quan trọng trong các mối quan hệ hoặc sự kiện."
+      }
+    },
+    {
+      "scripts": {
+        "en": "There was nothing we could choose.",
+        "jp": "私たちが選べるものはなかった。",
+        "ko": "우리가 선택할 수 있는 건 없었어.",
+        "vi": "Chúng ta không có gì để lựa chọn."
+      },
+      "end_time": 32,
+      "start_time": 28,
+      "vocabulary": [
+        {
+          "word": "선택하다",
+          "meanings": {
+            "en": "to choose, to select",
+            "jp": "選択する、選ぶ",
+            "vi": "lựa chọn"
+          }
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "This line strongly expresses helplessness and resignation about a situation, similar to '어쩔 수가 없다'. It shows a perception that things unfold more by external circumstances or predetermined fate rather than individual will.",
+        "jp": "このセリフは、先に述べた「어쩔 수가 없다」と同様に、状況に対する無力感と諦めを強く表しています。個人の意志よりも外部環境や定められた運命によって物事が進むという認識を示しています。",
+        "ko": "이 대사는 앞서 나온 '어쩔 수가 없다'와 유사하게 상황에 대한 무력감과 체념을 강하게 드러냅니다. 개인의 의지보다는 외부 환경이나 정해진 운명에 의해 일이 흘러간다는 인식을 보여줍니다.",
+        "vi": "Câu thoại này thể hiện rõ sự bất lực và cam chịu trước một tình huống, tương tự như '어쩔 수가 없다'. Nó cho thấy một nhận thức rằng mọi việc diễn ra là do hoàn cảnh bên ngoài hoặc số phận đã định, hơn là ý chí cá nhân."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Yes, it can't be helped...",
+        "jp": "そうだ、仕方がない…",
+        "ko": "그래, 어쩔 수가 없어...",
+        "vi": "Đúng vậy, không thể làm gì khác..."
+      },
+      "end_time": 37,
+      "start_time": 35,
+      "vocabulary": [
+        {
+          "word": "그래",
+          "meanings": {
+            "en": "Yes, that's right (informal)",
+            "jp": "そう、はい（くだけた表現）",
+            "vi": "Đúng vậy, ừ (không trang trọng)"
+          }
+        }
+      ],
+      "section_num": 5,
+      "cultural_note": {
+        "en": "'그래, 어쩔 수가 없어...' is a way to express the feeling of resignation even more deeply. It is typically used in the flow of conversation to agree with the other person's opinion while reaffirming one's own helplessness. In Korean dramas, it can be a significant line hinting at a character's internal conflict.",
+        "jp": "「그래, 어쩔 수가 없어…」は、諦めの感情を一層深く表現する方法です。主に会話の流れで相手の意見に同調し、自身の無力感を再確認する際に使われます。韓国ドラマでは、登場人物の内面的な葛藤を示唆する重要なセリフとなることがあります。",
+        "ko": "'그래, 어쩔 수가 없어...'는 체념의 감정을 한층 더 깊게 표현하는 방식입니다. 주로 대화의 흐름에서 상대방의 의견에 동조하며 자신의 무력감을 재확인할 때 사용됩니다. 한국 드라마에서 인물의 내면적 갈등을 암시하는 중요한 대사가 될 수 있습니다.",
+        "vi": "'그래, 어쩔 수가 없어...' là cách thể hiện cảm giác cam chịu một cách sâu sắc hơn. Nó thường được dùng trong dòng chảy hội thoại để đồng tình với ý kiến của người khác đồng thời khẳng định lại sự bất lực của bản thân. Trong phim truyền hình Hàn Quốc, đây có thể là một câu thoại quan trọng ám chỉ xung đột nội tâm của nhân vật."
+      }
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "on earth",
+        "jp": "一体",
+        "ko": "대체",
+        "vi": "rốt cuộc"
+      },
+      {
+        "en": "Your Majesty",
+        "jp": "陛下",
+        "ko": "폐하",
+        "vi": "Bệ hạ"
+      },
+      {
+        "en": "I (royal)",
+        "jp": "寡人 (王が自身を指す言葉)",
+        "ko": "과인",
+        "vi": "Ta (đại từ xưng hô của vua)"
+      },
+      {
+        "en": "how dare",
+        "jp": "よくも",
+        "ko": "감히",
+        "vi": "dám"
+      }
+    ],
+    "question": {
+      "en": "Which of the following expressions does a king use to refer to himself?",
+      "jp": "次のうち、王が自身を指すときに使う表現は何でしょうか？",
+      "ko": "다음 중 왕이 자신을 칭할 때 사용하는 표현은 무엇일까요?",
+      "vi": "Trong các biểu thức sau, đâu là cách mà nhà vua dùng để gọi chính mình?"
+    },
+    "answer_index": 2
+  },
+  "metadata": {
+    "titles": {
+      "en": "A Man Living with a King",
+      "jp": "王と暮らす男",
+      "ko": "왕과 사는 남자",
+      "vi": "Người đàn ông sống cùng Vua"
+    },
+    "thumbnail": "https://img.youtube.com/vi/VojkT0lvSug/hqdefault.jpg",
+    "categories": {
+      "en": "Historical Drama, Fantasy, Romance",
+      "jp": "時代劇、ファンタジー、ロマンス",
+      "ko": "사극, 판타지, 로맨스",
+      "vi": "Phim cổ trang, Giả tưởng, Lãng mạn"
+    },
+    "difficulty": 2,
+    "youtube_id": "VojkT0lvSug",
+    "youtube_url": "https://www.youtube.com/watch?v=VojkT0lvSug"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Where on earth is this place? Why am I here...? (Murmuring) How dare you, from what era do you appear before the King's eyes!",
+        "jp": "ここはいったいどこだ？なぜ私がここに…？（ざわめき）よくも、どこの時代の者が王の目の前に現れたか！",
+        "ko": "여긴 대체 어디지? 내가 왜 여기에…? (웅성거리는 소리) 감히, 어느 시대의 자가 왕의 눈앞에 나타났는가!",
+        "vi": "Đây là đâu vậy? Sao tôi lại ở đây...? (Tiếng xì xào) Dám lắm, kẻ từ thời đại nào lại xuất hiện trước mặt nhà vua!"
+      },
+      "end_time": 8.5,
+      "start_time": 0,
+      "vocabulary": [
+        {
+          "word": "대체",
+          "meanings": {
+            "en": "on earth, in the world (used to emphasize questions)",
+            "jp": "一体、そもそも",
+            "vi": "rốt cuộc, cái quái gì"
+          }
+        },
+        {
+          "word": "감히",
+          "meanings": {
+            "en": "how dare one; presumptuously",
+            "jp": "よくも、あえて",
+            "vi": "dám, cả gan"
+          }
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "In historical dramas, '감히' (gam-hi) is often used when a king or high-ranking person scolds someone, emphasizing 'how dare you.' Also, the King's speech uses a formal interrogative ending '~는가?' (neun-ga?), differing from modern colloquial Korean.",
+        "jp": "時代劇で王や身分の高い人物が相手を叱るときに「감히（カミ）」という表現をよく使います。「よくも」という意味です。また、王のセリフは格式ある表現である「~는가?」を使っており、一般的な現代韓国語とは異なります。",
+        "ko": "사극에서 왕이나 높은 신분의 인물이 상대방을 꾸짖을 때 '감히'라는 표현을 자주 사용합니다. 또한, 왕의 대사는 격식체인 '~는가?'를 사용하여 일반적인 현대 한국어와 차이를 보입니다.",
+        "vi": "Trong phim cổ trang, từ '감히' (gam-hi) thường được sử dụng khi vua hoặc người có địa vị cao quát mắng ai đó, nhấn mạnh ý 'làm sao dám'. Ngoài ra, lời thoại của Vua sử dụng đuôi câu hỏi trang trọng '~는가?' (neun-ga?), khác với tiếng Hàn hiện đại thông thường."
+      }
+    },
+    {
+      "scripts": {
+        "en": "A king? What era do you think this is! This isn't a palace! (Silence) I am the King of Joseon, this nation. You must be a strange being sent by heaven.",
+        "jp": "王様ですって？今がどの時代だと思ってらっしゃるんですか！ここは宮殿じゃないですよ！（静寂）朕はこの国、朝鮮の国王である。お前はきっと天が遣わした奇妙な存在であろう。",
+        "ko": "왕이라니요? 지금이 어느 시대인데! 여긴 궁궐이 아니라구요! (정적) 과인은 이 나라 조선의 국왕이다. 네 놈은 필시 하늘이 내린 기이한 존재로구나.",
+        "vi": "Vua ư? Ngài nghĩ đây là thời đại nào chứ! Đây không phải cung điện! (Im lặng) Ta là quốc vương của Joseon này. Ngươi chắc hẳn là một sinh vật kỳ lạ được trời phái xuống."
+      },
+      "end_time": 17,
+      "start_time": 8.5,
+      "vocabulary": [
+        {
+          "word": "과인",
+          "meanings": {
+            "en": "I (royal self-referential pronoun, used by a king)",
+            "jp": "朕、寡人 (王が自身を指す言葉)",
+            "vi": "Ta (đại từ xưng hô của vua)"
+          }
+        },
+        {
+          "word": "조선",
+          "meanings": {
+            "en": "Joseon (a dynastic kingdom of Korea, 1392–1897)",
+            "jp": "朝鮮 (李氏朝鮮時代)",
+            "vi": "Joseon (triều đại phong kiến của Triều Tiên, 1392–1897)"
+          }
+        },
+        {
+          "word": "국왕",
+          "meanings": {
+            "en": "king of the nation, monarch",
+            "jp": "国王",
+            "vi": "quốc vương"
+          }
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "'과인' (gwa-in) is a royal pronoun used by a king to refer to himself. '조선' (Joseon) is the name of Korea's last dynastic kingdom, which existed from 1392 to 1897. These terms are primarily encountered in historical dramas.",
+        "jp": "「과인（クァイン）」は、王が自身を指すときに使う言葉です。「조선（チョソン）」は1392年から1897年まで存在した韓国最後の王朝国家の名前です。これらの表現は主に時代劇で接することができます。",
+        "ko": "'과인'은 왕이 자신을 칭할 때 쓰는 표현입니다. '조선'은 1392년부터 1897년까지 존재했던 한국의 마지막 왕조 국가의 이름입니다. 이러한 표현들은 사극에서 주로 접할 수 있습니다.",
+        "vi": "'과인' (gwa-in) là đại từ xưng hô mà vua dùng để chỉ bản thân. '조선' (Joseon) là tên của triều đại cuối cùng của Hàn Quốc, tồn tại từ năm 1392 đến năm 1897. Những thuật ngữ này chủ yếu được tìm thấy trong phim cổ trang."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Your Majesty, this is something called a smartphone... if it's connected to the internet, it's omnipotent. (Intrigued expression) Hmm, then use that strange device to serve me well. But, you must not disobey my command.",
+        "jp": "陛下、これはスマートフォンというものなんですが…インターネットに繋がれば万能なんです。（興味深い表情）ふむ、ではその奇妙な物で朕をよく補弼するがよい。ただし、私の命に逆らってはならないぞ。",
+        "ko": "폐하, 이건 스마트폰이라는 물건인데… 인터넷 연결만 되면 만능입니다. (흥미로운 표정) 흥, 허면 그 기묘한 물건으로 과인을 잘 보필하거라. 단, 내 명을 거역해서는 아니 된다.",
+        "vi": "Thưa bệ hạ, đây là thứ gọi là điện thoại thông minh... nếu kết nối internet thì nó vạn năng ạ. (Biểu cảm thích thú) Hừm, vậy thì ngươi hãy dùng cái vật kỳ lạ đó để phò tá ta thật tốt. Nhưng, ngươi không được phép trái lệnh của ta."
+      },
+      "end_time": 25,
+      "start_time": 17,
+      "vocabulary": [
+        {
+          "word": "폐하",
+          "meanings": {
+            "en": "Your Majesty, Your Imperial Majesty (addressing an emperor or king)",
+            "jp": "陛下",
+            "vi": "Bệ hạ"
+          }
+        },
+        {
+          "word": "보필하다",
+          "meanings": {
+            "en": "to assist, to serve (especially a superior or ruler)",
+            "jp": "補弼する、お仕えする",
+            "vi": "phò tá, giúp đỡ"
+          }
+        },
+        {
+          "word": "거역하다",
+          "meanings": {
+            "en": "to disobey, to defy, to go against",
+            "jp": "逆らう、背く",
+            "vi": "cãi lời, làm trái"
+          }
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "'폐하' (pye-ha) is an extremely respectful title used only for an emperor or king. It is rarely used in modern times, primarily appearing in historical dramas when addressing royalty. '보필하다' (bo-pil-ha-da) is also a formal verb used in contexts of serving a king or high-ranking official.",
+        "jp": "「폐하（ペハ）」は皇帝や国王にのみ使える最上級の敬称です。現代ではほとんど使われず、主に時代劇で王を呼ぶ際に使用されます。「보필하다（ボピルハダ）」も、王や高官に仕える状況で使われる格式ある動詞です。",
+        "ko": "'폐하'는 황제나 국왕에게만 사용할 수 있는 극존칭입니다. 현대에는 거의 사용되지 않으며, 주로 사극에서 왕을 부를 때 사용됩니다. '보필하다' 역시 왕이나 고위 관료를 모시는 상황에서 쓰이는 격식 있는 동사입니다.",
+        "vi": "'폐하' (pye-ha) là một cách xưng hô cực kỳ kính trọng, chỉ dành cho hoàng đế hoặc quốc vương. Nó hiếm khi được sử dụng trong thời hiện đại, chủ yếu xuất hiện trong phim cổ trang khi xưng hô với hoàng gia. '보필하다' (bo-pil-ha-da) cũng là một động từ trang trọng được sử dụng trong bối cảnh phục vụ vua chúa hoặc quan chức cấp cao."
+      }
+    }
+  ]
+}

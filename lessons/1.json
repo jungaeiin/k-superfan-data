@@ -1,0 +1,237 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "The act of drawing or sculpting",
+        "jp": "絵を描いたり彫刻したりする行為",
+        "ko": "그림을 그리거나 조각하는 행위",
+        "vi": "Hành động vẽ hoặc điêu khắc"
+      },
+      {
+        "en": "A meticulously planned scheme or deception to hide the truth",
+        "jp": "真実を隠すために綿密に計画された策略や欺瞞",
+        "ko": "진실을 감추기 위해 치밀하게 계획된 계략이나 속임수",
+        "vi": "Một kế hoạch hoặc sự lừa dối được sắp đặt tỉ mỉ để che giấu sự thật"
+      },
+      {
+        "en": "Beautiful works displayed in a museum",
+        "jp": "美術館に展示される美しい作品",
+        "ko": "박물관에 전시되는 아름다운 작품",
+        "vi": "Những tác phẩm đẹp được trưng bày trong bảo tàng"
+      },
+      {
+        "en": "Performing arts such as music, dance, and theater",
+        "jp": "音楽、ダンス、演劇のような舞台芸術",
+        "ko": "음악, 춤, 연극과 같은 공연 예술",
+        "vi": "Nghệ thuật biểu diễn như âm nhạc, khiêu vũ và sân khấu"
+      }
+    ],
+    "question": {
+      "en": "In the first learning dialogue, \"Every art is a perfect lie to hide the truth,\" what is the closest meaning of 'art' (예술)?",
+      "jp": "最初の学習セクションのセリフ「全ての芸術は、真実を隠すための完璧な嘘です。」で、「芸術」（예술）が意味するものとして最も近いものは何ですか？",
+      "ko": "첫 번째 학습 대사 \"모든 예술은, 진실을 숨기기 위한 완벽한 거짓이에요.\" 에서 '예술'이 의미하는 바와 가장 가까운 것은 무엇입니까?",
+      "vi": "Trong đoạn hội thoại học tập đầu tiên, \"Mỗi tác phẩm nghệ thuật là một lời nói dối hoàn hảo để che giấu sự thật,\" 'nghệ thuật' (예술) có ý nghĩa gần nhất là gì?"
+    },
+    "answer_index": 1
+  },
+  "metadata": {
+    "titles": {
+      "en": "The Art of Sarah | Official Teaser | Netflix",
+      "jp": "サラの芸術 | 公式ティーザー | Netflix",
+      "ko": "사라의 예술 | 공식 티저 | 넷플릭스",
+      "vi": "Nghệ Thuật Của Sarah | Teaser Chính Thức | Netflix"
+    },
+    "thumbnail": "https://img.youtube.com/vi/D0kt6A8ZaKI/hqdefault.jpg",
+    "categories": {
+      "en": "Drama, Mystery, Character Study",
+      "jp": "ドラマ、ミステリー、人物研究",
+      "ko": "드라마, 미스터리, 인물 탐구",
+      "vi": "Phim truyền hình, Bí ẩn, Nghiên cứu nhân vật"
+    },
+    "difficulty": 2,
+    "youtube_id": "D0kt6A8ZaKI",
+    "youtube_url": "https://www.youtube.com/watch?v=D0kt6A8ZaKI"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Every art is a perfect lie to hide the truth.",
+        "jp": "全ての芸術は、真実を隠すための完璧な嘘です。",
+        "ko": "모든 예술은, 진실을 숨기기 위한 완벽한 거짓이에요.",
+        "vi": "Mỗi tác phẩm nghệ thuật là một lời nói dối hoàn hảo để che giấu sự thật."
+      },
+      "end_time": 7.5,
+      "start_time": 3.2,
+      "vocabulary": [
+        {
+          "word": "예술",
+          "meanings": {
+            "en": "art",
+            "jp": "芸術",
+            "vi": "nghệ thuật"
+          }
+        },
+        {
+          "word": "진실",
+          "meanings": {
+            "en": "truth",
+            "jp": "真実",
+            "vi": "sự thật"
+          }
+        },
+        {
+          "word": "숨기다",
+          "meanings": {
+            "en": "to hide, to conceal",
+            "jp": "隠す",
+            "vi": "giấu, che giấu"
+          }
+        },
+        {
+          "word": "완벽하다",
+          "meanings": {
+            "en": "to be perfect",
+            "jp": "完璧だ",
+            "vi": "hoàn hảo"
+          }
+        },
+        {
+          "word": "거짓",
+          "meanings": {
+            "en": "lie, falsehood",
+            "jp": "嘘",
+            "vi": "lời nói dối"
+          }
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "In Korean dramas, 'art' (예술) is often used metaphorically to describe not just literal fine art, but also skillfully crafted schemes or acts of deception. Complex plots or theatrical performances used to conceal the truth are often likened to 'art,' emphasizing the drama's mystery or a character's psychology.",
+        "jp": "韓国ドラマでは、「芸術」（예술）は文字通りの美術だけでなく、巧妙に仕組まれた計画や人を欺く行為を比喩的に表現する際によく使われます。真実を隠すための複雑な策略や演劇的な行為を「芸術」になぞらえ、ドラマのミステリーや登場人物の心理を強調します。",
+        "ko": "한국 드라마에서 '예술'은 종종 문자 그대로의 미술뿐만 아니라, 교묘하게 설계된 계획이나 사람을 속이는 행위를 비유적으로 표현할 때 사용됩니다. 진실을 감추기 위한 복잡한 계략이나 연극적 행위를 '예술'에 빗대어 말하며 극의 미스터리나 인물의 심리를 강조합니다.",
+        "vi": "Trong phim truyền hình Hàn Quốc, 'nghệ thuật' (예술) thường được dùng một cách ẩn dụ để mô tả không chỉ nghệ thuật theo nghĩa đen mà còn cả những kế hoạch được thiết kế khéo léo hoặc hành vi lừa dối người khác. Những âm mưu phức tạp hoặc hành động kịch tính dùng để che giấu sự thật thường được ví như 'nghệ thuật', nhấn mạnh sự bí ẩn của bộ phim hoặc tâm lý của nhân vật."
+      }
+    },
+    {
+      "scripts": {
+        "en": "The painting she drew wasn't just a painting.",
+        "jp": "彼女が描いた絵は、ただの絵ではなかった。",
+        "ko": "그녀가 그린 그림은 단순한 그림이 아니었어.",
+        "vi": "Bức tranh cô ấy vẽ không chỉ đơn thuần là một bức tranh."
+      },
+      "end_time": 10.9,
+      "start_time": 8,
+      "vocabulary": [
+        {
+          "word": "그리다",
+          "meanings": {
+            "en": "to draw, to paint",
+            "jp": "描く",
+            "vi": "vẽ"
+          }
+        },
+        {
+          "word": "그림",
+          "meanings": {
+            "en": "painting, drawing",
+            "jp": "絵",
+            "vi": "bức tranh"
+          }
+        },
+        {
+          "word": "단순하다",
+          "meanings": {
+            "en": "to be simple, to be plain",
+            "jp": "単純だ",
+            "vi": "đơn giản"
+          }
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "In Korean dramas, when an object (e.g., a painting, letter, or item) is mentioned as 'not just a simple ~', it implies that the object holds a crucial clue or hidden meaning and will significantly impact the plot's development. This device is used to spark viewer curiosity and add depth to the story.",
+        "jp": "韓国ドラマでは、ある物（例えば、絵、手紙、物）が「ただの～ではなかった」と表現されるとき、それはその物が重要な手がかりや隠された意味を持ち、物語の展開に決定的な影響を与えることを暗示しています。これは視聴者の好奇心を刺激し、ストーリーに深みを与えるための仕掛けとして使われます。",
+        "ko": "한국 드라마에서 어떤 물건(예: 그림, 편지, 물건)이 '단순한 ~이 아니었다'고 언급될 때, 이는 그 물건이 중요한 단서나 숨겨진 의미를 가지고 있으며, 극의 전개에 결정적인 영향을 미친다는 것을 암시합니다. 이는 시청자의 호기심을 유발하고 스토리에 깊이를 더하는 장치로 활용됩니다.",
+        "vi": "Trong phim truyền hình Hàn Quốc, khi một vật thể (ví dụ: bức tranh, lá thư, đồ vật) được đề cập là 'không chỉ đơn thuần là một ~', điều đó ngụ ý rằng vật thể đó chứa đựng một manh mối quan trọng hoặc ý nghĩa ẩn giấu và sẽ ảnh hưởng đáng kể đến diễn biến cốt truyện. Cách thể hiện này được sử dụng để khơi gợi sự tò mò của người xem và tăng thêm chiều sâu cho câu chuyện."
+      }
+    },
+    {
+      "scripts": {
+        "en": "All of this, this is Sarah's art.",
+        "jp": "これら全てが、サラの芸術です。",
+        "ko": "이 모든 게, 사라의 예술입니다.",
+        "vi": "Tất cả những điều này, đây chính là nghệ thuật của Sarah."
+      },
+      "end_time": 14.1,
+      "start_time": 11.5,
+      "vocabulary": [
+        {
+          "word": "모든",
+          "meanings": {
+            "en": "all, every",
+            "jp": "全ての、あらゆる",
+            "vi": "tất cả, mọi"
+          }
+        },
+        {
+          "word": "-입니다",
+          "meanings": {
+            "en": "is/am/are (formal declarative suffix)",
+            "jp": "です/あります (丁寧な断定形)",
+            "vi": "là (đuôi câu trang trọng, khẳng định)"
+          }
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "'-입니다' is one of the most formal declarative sentence endings in Korean, primarily used in official situations or to convey strong conviction and declarative messages. In dramas, it's utilized to emphasize a character's authority, determination, or the importance of their lines.",
+        "jp": "「-입니다」は韓国語の最も丁寧な叙述形の語尾の一つで、主に公式な状況や強い確信、宣言的なメッセージを伝える際に使われます。ドラマでは、登場人物の権威、決断力、あるいはセリフの重要性を際立たせるために活用されます。",
+        "ko": "'-입니다'는 한국어의 가장 격식 있는 서술형 종결 어미 중 하나로, 주로 공식적인 상황이나 강한 확신, 선언적인 메시지를 전달할 때 사용됩니다. 드라마에서는 인물의 권위, 결단력, 혹은 대사의 중요성을 부각시키기 위해 활용됩니다.",
+        "vi": "'-입니다' là một trong những đuôi câu trần thuật trang trọng nhất trong tiếng Hàn, chủ yếu được sử dụng trong các tình huống chính thức hoặc để truyền đạt sự tin tưởng mạnh mẽ và thông điệp mang tính tuyên bố. Trong phim truyền hình, nó được sử dụng để nhấn mạnh quyền uy, sự quyết tâm của nhân vật, hoặc tầm quan trọng của lời thoại của họ."
+      }
+    },
+    {
+      "scripts": {
+        "en": "No one knew her true face.",
+        "jp": "彼女の本当の顔は、誰も知らなかった。",
+        "ko": "그녀의 진짜 얼굴은, 아무도 몰랐어.",
+        "vi": "Không ai biết khuôn mặt thật của cô ấy."
+      },
+      "end_time": 17,
+      "start_time": 14.8,
+      "vocabulary": [
+        {
+          "word": "진짜",
+          "meanings": {
+            "en": "real, true, genuine",
+            "jp": "本当の、本物の",
+            "vi": "thật, thực sự"
+          }
+        },
+        {
+          "word": "얼굴",
+          "meanings": {
+            "en": "face",
+            "jp": "顔",
+            "vi": "khuôn mặt"
+          }
+        },
+        {
+          "word": "아무도 ~ 모르다",
+          "meanings": {
+            "en": "no one knows ~",
+            "jp": "誰も～を知らない",
+            "vi": "không ai biết ~"
+          }
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "The phrase 'true face' (진짜 얼굴) is a common idiom in Korean dramas, often referring to a character's true nature, hidden truth, or real identity beyond their physical appearance. It implies dualistic aspects or plot twists, increasing the drama's suspense.",
+        "jp": "「本当の顔」（진짜 얼굴）という表現は、韓国ドラマにおいて、登場人物の見た目を超えた本性、隠された真実、あるいは実際の正体を意味する慣用句としてよく使われます。これは登場人物の二面性や反転要素を暗示し、ドラマの緊張感を高めます。",
+        "ko": "'진짜 얼굴'이라는 표현은 한국 드라마에서 인물의 외모를 넘어선 본성, 숨겨진 진실, 또는 실제 정체를 의미하는 관용구로 자주 사용됩니다. 이는 인물의 이중적인 면모나 반전 요소를 암시하며 극의 긴장감을 높입니다.",
+        "vi": "Cụm từ 'khuôn mặt thật' (진짜 얼굴) là một thành ngữ phổ biến trong phim truyền hình Hàn Quốc, thường dùng để chỉ bản chất thật, sự thật ẩn giấu hoặc danh tính thực sự của một nhân vật, vượt ra ngoài vẻ bề ngoài. Nó ngụ ý những khía cạnh đối lập hoặc tình tiết bất ngờ, làm tăng kịch tính cho bộ phim."
+      }
+    }
+  ]
+}

@@ -126,7 +126,7 @@
         "es": "Bueno, ¿dices que este es el lugar de exilio óptimo?\nDesigno este lugar como el lugar de exilio.",
         "id": "Jadi, maksud Anda ini adalah tempat pengasingan yang optimal.\nSaya menetapkan tempat ini sebagai tempat pengasingan.",
         "jp": "さて、最適な流刑地だということですね。\nここを流刑地に指定する。",
-        "ko": ">> 자 최적의 유배지란 말씀\n>> 이곳을 유배지로 지정한다.",
+        "ko": "자, 최적의 유배지란 말씀\n이곳을 유배지로 지정한다.",
         "vi": "Vậy, ý anh là đây là nơi lưu đày tối ưu nhất.\nTôi chỉ định nơi này làm nơi lưu đày."
       },
       "end_time": 20.119,
@@ -179,7 +179,7 @@
         "es": "¿Sabe quién es el noble exiliado? Es Nosangun Yi Yong. Fue el rey de este país hasta hace poco.",
         "id": "Apakah Anda tahu siapa bangsawan yang diasingkan itu? Dia adalah Pangeran Nosan, Yi Yong. Beliau adalah raja negara ini sampai baru-baru ini.",
         "jp": "追放された両班が誰かご存知ですか？魯山君李鏞です。少し前までこの国の王だった人ですよ。",
-        "ko": ">> 귀양온 양반이 누군지 아십니까?\n>> 노산군 이용이에요. 얼마 전까지이 나라의 왕이었던 사람이요.",
+        "ko": "귀양온 양반이 누군지 아십니까?\n노산군 이용휘에요. 얼마 전까지이 나라의 왕이었던 사람이요.",
         "vi": "Bạn có biết vị quý tộc bị lưu đày là ai không? Đó là Nosangun Yi Yong. Ông ấy là người từng là vua của đất nước này cho đến gần đây."
       },
       "end_time": 46.879,
@@ -242,7 +242,7 @@
         "es": ">> Aquellos que se comuniquen con Nosan deben morir.\n>> ¿Cómo se atreve ese miserable a insultar a la familia real?\n¡En marcha!",
         "id": ">> Mereka yang berkomunikasi dengan Nosan harus mati.\n>> Beraninya bajingan itu menghina keluarga kerajaan?\nBerangkat!",
         "jp": ">> 魯山と通じる者は死なねばならぬ。\n>> あの者が王族を侮辱するのか？\n出陣せよ！",
-        "ko": ">> 노산과 통하는 자는 죽어야 한다.\n>> 놈이 감히 왕족을 능멸하는가?\n출정하라.",
+        "ko": "노산과 통하는 자는 죽어야 한다.\n네 놈이 감히 왕족을 능멸하는가?\n출정하라.",
         "vi": ">> Kẻ nào giao du với Lỗ Sơn phải chết.\n>> Tên khốn đó dám khinh miệt hoàng tộc sao?\nXuất chinh!"
       },
       "end_time": 53.6,

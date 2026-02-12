@@ -69,12 +69,12 @@
   "learning_sections": [
     {
       "scripts": {
-        "en": "Have you not heard of Cheongnyeongpo, located inside Gwangjeonggol?\nIn winter, the cold air from the riverbank comes down from the cliffs.",
-        "es": "¿No has oído hablar de Cheongnyeongpo, ubicado dentro de Gwangjeonggol?\nEn invierno, el aire frío de la orilla del río baja desde los acantilados.",
-        "id": "Pernahkah Anda mendengar tentang Cheongnyeongpo, yang terletak di dalam Gwangjeonggol?\nDi musim dingin, udara dingin dari tepi sungai turun dari tebing.",
-        "jp": "クァンジョンゴルの内側に位置するチョンニョンポと聞いたことがありませんか？\n冬には川辺の冷気が崖から下りてくるのです。",
-        "ko": "광정골 안쪽에 위치한 청령부라고 들어보지 않습니까?\n겨울에는 강가해 냉기가 절벽에서선 한개 내려온 거야.",
-        "vi": "Bạn chưa nghe nói về Cheongnyeongpo, nằm bên trong Gwangjeonggol sao?\nVào mùa đông, khí lạnh từ bờ sông tràn xuống từ vách đá."
+        "en": "Haven't you heard of Cheongnyeongbu, located deep inside Gwangjeonggol? In winter, a cold chill comes from the riverside, and a biting cold descends from the cliffs.",
+        "es": "¿No ha oído hablar de Cheongnyeongbu, situado en lo profundo de Gwangjeonggol? En invierno, un frío gélido viene de la orilla del río, y un frío penetrante desciende de los acantilados.",
+        "id": "Tidakkah Anda pernah mendengar tentang Cheongnyeongbu, yang terletak jauh di dalam Gwangjeonggol? Saat musim dingin, hawa dingin datang dari tepi sungai, dan hawa dingin yang menusuk turun dari tebing.",
+        "jp": "クァンジョンゴルの奥に位置するチョンニョンブをご存じないですか？冬には、川辺から冷気、崖からは寒気が降りてくるんですよ。",
+        "ko": "광정골 안쪽에 위치한 청령부라고 들어보지 않습니까?\n겨울에는 강가에서 냉기가 절벽에서선 한기가 내려오는 거야.",
+        "vi": "Chẳng phải bạn đã từng nghe nói về Cheongnyeongbu, nằm sâu bên trong Gwangjeonggol sao? Vào mùa đông, hơi lạnh từ bờ sông và cái rét buốt từ vách đá sẽ ùa xuống."
       },
       "end_time": 12.679,
       "start_time": 0.28,
@@ -122,12 +122,12 @@
     },
     {
       "scripts": {
-        "en": ">> This remote place of exile...\n>> I designate this place as the site of exile.",
-        "es": ">> Este remoto lugar de exilio...\n>> Designo este lugar como el sitio de exilio.",
-        "id": ">> Tempat pengasingan terpencil ini...\n>> Aku menetapkan tempat ini sebagai lokasi pengasingan.",
-        "jp": ">> さあ、この僻地の流刑地というもの…\n>> ここを流刑地として指定する。",
-        "ko": ">> 자 해적에 유배지 안 말\n>> 이곳을 유배지로 시정한다.",
-        "vi": ">> Đây là nơi lưu đày hẻo lánh...\n>> Ta chỉ định nơi này làm nơi lưu đày."
+        "en": "So, you're saying this is the optimal place of exile.\nI designate this place as the place of exile.",
+        "es": "Bueno, ¿dices que este es el lugar de exilio óptimo?\nDesigno este lugar como el lugar de exilio.",
+        "id": "Jadi, maksud Anda ini adalah tempat pengasingan yang optimal.\nSaya menetapkan tempat ini sebagai tempat pengasingan.",
+        "jp": "さて、最適な流刑地だということですね。\nここを流刑地に指定する。",
+        "ko": ">> 자 최적의 유배지란 말씀\n>> 이곳을 유배지로 지정한다.",
+        "vi": "Vậy, ý anh là đây là nơi lưu đày tối ưu nhất.\nTôi chỉ định nơi này làm nơi lưu đày."
       },
       "end_time": 20.119,
       "start_time": 12.799,
@@ -175,12 +175,12 @@
     },
     {
       "scripts": {
-        "en": ">> Do you know who the exiled nobleman is?\n>> It is Prince Nosan, Yi Hong-wi. The person who was the king of this country until recently.",
-        "es": ">> ¿Sabe quién es el noble exiliado?\n>> Es el Príncipe Nosan, Yi Hong-wi. La persona que fue el rey de este país hasta hace poco.",
-        "id": ">> Apakah Anda tahu siapa bangsawan yang diasingkan itu?\n>> Dia adalah Pangeran Nosan, Yi Hong-wi. Orang yang menjadi raja negara ini sampai belum lama ini.",
-        "jp": ">> 流刑に来た両班が誰かご存知ですか？\n>> 魯山君（ノサングン）イ・ホンウィです。少し前までこの国の王だった方です。",
-        "ko": ">> 귀양원 양반이 누군지 아십니까?\n>> 노상군 이용이에요. 얼마 전까지이 나라의 왕이었던 사람이요.",
-        "vi": ">> Ngài có biết vị quý tộc bị lưu đày là ai không?\n>> Là Lỗ Sơn Quân, Lý Hoằng Vĩ. Người từng là vua của đất nước này cho đến gần đây."
+        "en": "Do you know who the exiled noble is? It's Prince Nosan, Yi Yong. He was the king of this country until just recently.",
+        "es": "¿Sabe quién es el noble exiliado? Es Nosangun Yi Yong. Fue el rey de este país hasta hace poco.",
+        "id": "Apakah Anda tahu siapa bangsawan yang diasingkan itu? Dia adalah Pangeran Nosan, Yi Yong. Beliau adalah raja negara ini sampai baru-baru ini.",
+        "jp": "追放された両班が誰かご存知ですか？魯山君李鏞です。少し前までこの国の王だった人ですよ。",
+        "ko": ">> 귀양온 양반이 누군지 아십니까?\n>> 노산군 이용이에요. 얼마 전까지이 나라의 왕이었던 사람이요.",
+        "vi": "Bạn có biết vị quý tộc bị lưu đày là ai không? Đó là Nosangun Yi Yong. Ông ấy là người từng là vua của đất nước này cho đến gần đây."
       },
       "end_time": 46.879,
       "start_time": 33.32,
@@ -228,12 +228,12 @@
       ],
       "section_num": 3,
       "cultural_note": {
-        "en": "Nosangun is the title King Danjong was demoted to after being overthrown by his uncle, Sejo. Referring to a former king by a demoted prince's title, instead of as king, was a significant political act showing his loss of status.",
-        "es": "Nosangun es el título al que fue degradado el Rey Danjong después de ser derrocado por su tío, Sejo. Referirse a un ex rey por el título de un príncipe degradado era un acto político significativo que mostraba su pérdida de estatus.",
-        "id": "Nosangun adalah gelar yang diberikan kepada Raja Danjong setelah digulingkan oleh pamannya, Sejo. Menyebut mantan raja dengan gelar pangeran yang diturunkan pangkatnya adalah tindakan politik yang signifikan yang menunjukkan hilangnya statusnya.",
-        "jp": "魯山君（ノサングン）は、端宗（タンジョン）が叔父である世祖（セジョ）に王位を奪われた後に降格された称号です。元王を王ではなく君（クン）として呼ぶことは、彼の地位が剥奪されたことを示す重要な政治的行為でした。",
-        "ko": "노상군은 단종이 삼촌인 세조에게 왕위를 빼앗긴 후 강등된 칭호입니다. 폐위된 왕을 왕이 아닌 군으로 부르는 것은 그의 지위가 박탈되었음을 보여주는 중요한 정치적 행위였습니다.",
-        "vi": "Lỗ Sơn Quân (Nosangun) là tước vị mà vua Danjong bị giáng xuống sau khi bị chú của mình là Sejo phế truất. Việc gọi một vị vua cũ bằng tước hiệu của một hoàng tử bị giáng chức là một hành động chính trị quan trọng cho thấy sự mất mát địa vị của ông."
+        "en": "Nosangun is the title King Danjong was demoted to after his throne was usurped by his uncle, Sejo. Referring to a deposed king as 'gun' instead of 'wang' (king) was a significant political act demonstrating the stripping of his status.",
+        "es": "Nosangun es el título al que el Rey Danjong fue degradado después de que su trono fuera usurpado por su tío, Sejo. Llamar a un rey depuesto 'gun' en lugar de 'wang' (rey) fue un acto político importante que demostró que su estatus había sido despojado.",
+        "id": "Nosangun adalah gelar yang diturunkan kepada Raja Danjong setelah takhtanya direbut oleh pamannya, Sejo. Memanggil raja yang digulingkan dengan 'gun' alih-alih 'wang' (raja) adalah tindakan politik penting yang menunjukkan bahwa statusnya telah dicopot.",
+        "jp": "魯山君（ノサングン）は、端宗（タンジョン）が叔父である世祖（セジョ）に王位を奪われた後、降格された称号です。廃位された王を王ではなく「君」と呼ぶことは、彼の地位が剥奪されたことを示す重要な政治的行為でした。",
+        "ko": "노산군은 단종이 삼촌인 세조에게 왕위를 빼앗긴 후 강등된 칭호입니다. 폐위된 왕을 왕이 아닌 군으로 부르는 것은 그의 지위가 박탈되었음을 보여주는 중요한 정치적 행위였습니다.",
+        "vi": "Lỗ Sơn Quân (Nosangun) là tước hiệu mà vua Danjong bị giáng cấp sau khi ngai vàng bị chú của mình là Sejo chiếm đoạt. Việc gọi một vị vua bị phế truất là 'quân' thay vì 'vương' (vua) là một hành động chính trị quan trọng cho thấy địa vị của ông đã bị tước bỏ."
       }
     },
     {
@@ -242,7 +242,7 @@
         "es": ">> Aquellos que se comuniquen con Nosan deben morir.\n>> ¿Cómo se atreve ese miserable a insultar a la familia real?\n¡En marcha!",
         "id": ">> Mereka yang berkomunikasi dengan Nosan harus mati.\n>> Beraninya bajingan itu menghina keluarga kerajaan?\nBerangkat!",
         "jp": ">> 魯山と通じる者は死なねばならぬ。\n>> あの者が王族を侮辱するのか？\n出陣せよ！",
-        "ko": ">> 노상과 통하는 자는 죽어야 한다.\n>> 놈이감이 왕족을 능멸하는가?\n출정하라.",
+        "ko": ">> 노산과 통하는 자는 죽어야 한다.\n>> 놈이 감히 왕족을 능멸하는가?\n출정하라.",
         "vi": ">> Kẻ nào giao du với Lỗ Sơn phải chết.\n>> Tên khốn đó dám khinh miệt hoàng tộc sao?\nXuất chinh!"
       },
       "end_time": 53.6,
@@ -305,7 +305,7 @@
         "es": "Ya no quiero creer en las personas que apreciaba y amaba por mi culpa.",
         "id": "Aku tidak ingin lagi percaya pada orang-orang yang kusayangi dan kucintai karena aku.",
         "jp": "これ以上私のせいで、私が大切にし、愛していた人々を信じたくない。",
-        "ko": "더 이상 나로 인해 내가 아끼고\n사랑하던 사람들을 믿고 싶지 않다.",
+        "ko": "더 이상 나로 인해 내가 아끼고\n사랑하던 사람들을 잃고 싶지 않다.",
         "vi": "Vì ta, ta không muốn tin vào những người mà ta đã trân trọng và yêu thương nữa."
       },
       "end_time": 58.35,
@@ -344,12 +344,12 @@
       ],
       "section_num": 5,
       "cultural_note": {
-        "en": "This line reflects the king's despair. Although the script says '믿고 싶지 않다' (don't want to believe), it's very likely a transcription error for '잃고 싶지 않다' (don't want to lose). This would reflect King Danjong's tragic sentiment of not wanting his loyal followers to be harmed because of him.",
-        "es": "Esta línea refleja la desesperación del rey. Aunque el guion dice '믿고 싶지 않다' (no quiero creer), es muy probable que sea un error de transcripción de '잃고 싶지 않다' (no quiero perder). Esto reflejaría el trágico sentimiento del rey Danjong de no querer que sus leales seguidores sufrieran daño por su culpa.",
-        "id": "Kalimat ini mencerminkan keputusasaan sang raja. Meskipun naskahnya mengatakan '믿고 싶지 않다' (tidak ingin percaya), kemungkinan besar ini adalah kesalahan transkripsi untuk '잃고 싶지 않다' (tidak ingin kehilangan). Ini akan mencerminkan sentimen tragis Raja Danjong yang tidak ingin para pengikut setianya celaka karenanya.",
-        "jp": "このセリフは王の絶望感を反映しています。台本では「믿고 싶지 않다」（信じたくない）となっていますが、文脈から「잃고 싶지 않다」（失いたくない）の転写エラーである可能性が非常に高いです。これは、自分のせいで忠臣たちが害されることをもはや望まないという端宗の悲劇的な心情を反映しています。",
-        "ko": "이 대사는 왕의 절망감을 나타냅니다. 대본에는 '믿고 싶지 않다'라고 되어 있지만, 문맥상 '잃고 싶지 않다'의 오타일 가능성이 매우 높습니다. 이는 자신 때문에 충신들이 해를 입는 것을 더 이상 원치 않는다는 단종의 비극적인 심정을 반영합니다.",
-        "vi": "Câu thoại này phản ánh sự tuyệt vọng của nhà vua. Mặc dù kịch bản ghi là '믿고 싶지 않다' (không muốn tin), rất có thể đây là lỗi ghi chép của '잃고 싶지 않다' (không muốn mất). Điều này sẽ phản ánh tình cảm bi thảm của vua Danjong khi không muốn những người trung thành của mình bị hại vì ông."
+        "en": "\"I don't want to lose them.\" This line expresses the king's despair. It reflects King Danjong's tragic sentiment that he no longer wishes for his loyal subjects to be harmed because of him.",
+        "es": "\"No quiero perderlos.\" Esta línea expresa la desesperación del rey. Refleja el trágico sentimiento del Rey Danjong de que ya no desea que sus fieles súbditos sufran daño a causa de él.",
+        "id": "\"Aku tidak ingin kehilangan mereka.\" Kalimat ini mengungkapkan keputusasaan raja. Ini mencerminkan perasaan tragis Raja Danjong bahwa ia tidak lagi ingin para pengikut setianya menderita karena dirinya.",
+        "jp": "「失いたくない。」このセリフは王の絶望感を表しています。これは、自分自身のせいで忠臣たちが害を受けることをこれ以上望まないという端宗の悲劇的な心情を反映しています。",
+        "ko": "\"잃고 싶지 않다.\" 이 대사는 왕의 절망감을 나타냅니다. 이는 자신 때문에 충신들이 해를 입는 것을 더 이상 원치 않는다는 단종의 비극적인 심정을 반영합니다.",
+        "vi": "\"Tôi không muốn mất họ.\" Lời thoại này thể hiện sự tuyệt vọng của nhà vua. Nó phản ánh tâm trạng bi kịch của vua Danjong, rằng ông không còn muốn những trung thần của mình bị hại vì mình nữa."
       }
     }
   ]

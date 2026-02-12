@@ -5,12 +5,20 @@
     "thumbnail": "https://img.youtube.com/vi/9sxEZuJskvM/hqdefault.jpg",
     "difficulty": 2,
     "titles": {
-      "en": "The Man Who Lives with the King",
+      "en": "The King's Warden (2026)",
       "es": "El Hombre que Vive con el Rey",
       "id": "Pria yang Hidup Bersama Raja",
       "jp": "王と生きる男",
       "ko": "왕과 사는 남자",
       "vi": "Người Đàn Ông Sống Cùng Vua"
+    },
+    "categories": {
+      "en": "Historical Drama",
+      "es": "Drama Histórico",
+      "id": "Drama Sejarah",
+      "jp": "時代劇",
+      "ko": "사극",
+      "vi": "Phim cổ trang"
     },
     "pub_date": "2026-02-12T12:25:07.549000+09:00"
   }

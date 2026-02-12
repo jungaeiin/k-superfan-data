@@ -1,0 +1,229 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "Exile (Yubae)",
+        "jp": "유배",
+        "ko": "유배",
+        "vi": "유배"
+      },
+      {
+        "en": "Appointment (Deungyong)",
+        "jp": "등용",
+        "ko": "등용",
+        "vi": "등용"
+      },
+      {
+        "en": "Pardon (Samyeon)",
+        "jp": "사면",
+        "ko": "사면",
+        "vi": "사면"
+      },
+      {
+        "en": "Praise (Chingchan)",
+        "jp": "칭찬",
+        "ko": "칭찬",
+        "vi": "칭찬"
+      }
+    ],
+    "question": {
+      "en": "In the Joseon Dynasty, what was the punishment called where officials or royalty who committed a crime were sent to live in a remote place?",
+      "jp": "In the Joseon Dynasty, what was the punishment called where officials or royalty who committed a crime were sent to live in a remote place?",
+      "ko": "조선시대에 죄를 지은 관료나 왕족을 먼 곳으로 보내 살게 하던 형벌을 무엇이라고 하나요?",
+      "vi": "In the Joseon Dynasty, what was the punishment called where officials or royalty who committed a crime were sent to live in a remote place?"
+    },
+    "answer_index": 0
+  },
+  "metadata": {
+    "titles": {
+      "en": "The Man Who Lives with the King",
+      "jp": "王と住む男",
+      "ko": "왕과 사는 남자",
+      "vi": "Người Đàn Ông Sống Cùng Vua"
+    },
+    "thumbnail": "https://img.youtube.com/vi/9sxEZuJskvM/hqdefault.jpg",
+    "categories": {
+      "en": "Historical Drama, Trailer",
+      "jp": "歴史ドラマ、予告編",
+      "ko": "역사 드라마, 예고편",
+      "vi": "Phim Lịch sử, Trailer"
+    },
+    "difficulty": 2,
+    "youtube_id": "9sxEZuJskvM",
+    "youtube_url": "https://www.youtube.com/watch?v=9sxEZuJskvM"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Now, a place of exile... I designate this place as the place of exile.",
+        "jp": "",
+        "ko": ">> 자 해적에 유배지 안 말\n>> 이곳을 유배지로 시정한다.",
+        "vi": ""
+      },
+      "end_time": 20.119,
+      "start_time": 12.799,
+      "vocabulary": [
+        {
+          "word": "유배지",
+          "meanings": {
+            "en": "place of exile",
+            "jp": "流刑地",
+            "vi": "nơi lưu đày"
+          }
+        },
+        {
+          "word": "지정하다",
+          "meanings": {
+            "en": "to designate, appoint",
+            "jp": "指定する",
+            "vi": "chỉ định"
+          }
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "'Yubae' (유배) was a form of punishment during the Joseon Dynasty where royalty or officials who committed crimes were sent to live in a remote, isolated place. It was one of the most severe political punishments.",
+        "jp": "",
+        "ko": "유배(流配)는 조선시대에 죄를 지은 왕족이나 관료들을 멀리 외딴곳으로 보내 살게 하던 형벌입니다. 정치적으로 매우 무거운 처벌 중 하나였습니다.",
+        "vi": ""
+      }
+    },
+    {
+      "scripts": {
+        "en": "Can you handle it?\nNo matter who gets it.\nSmile.\nYou've emptied a whole bowl of rice in a flash.",
+        "jp": "",
+        "ko": ">> 담당할 수 있겠느냐?\n>> 누가 얻든 말이다.\n>> 웃어.\n밥 항공기를 뚝딱 비우셨어.",
+        "vi": ""
+      },
+      "end_time": 29.679,
+      "start_time": 20.119,
+      "vocabulary": [
+        {
+          "word": "담당하다",
+          "meanings": {
+            "en": "to be in charge of, to handle",
+            "jp": "担当する",
+            "vi": "đảm đương, phụ trách"
+          }
+        },
+        {
+          "word": "뚝딱",
+          "meanings": {
+            "en": "in a flash, quickly",
+            "jp": "さっと、ぺろりと",
+            "vi": "trong nháy mắt, vèo một cái"
+          }
+        },
+        {
+          "word": "비우다",
+          "meanings": {
+            "en": "to empty",
+            "jp": "空にする",
+            "vi": "làm cho cạn, dọn sạch"
+          }
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "'밥 한 공기를 뚝딱 비우다' is an idiomatic expression meaning to finish a bowl of rice very quickly and heartily. It can be used to show that someone is in good health or has an easy-going personality.",
+        "jp": "",
+        "ko": "'밥 한 공기를 뚝딱 비우다'는 밥을 아주 빠르고 맛있게 다 먹었다는 관용적인 표현입니다. 그 사람의 건강 상태가 좋거나 소탈한 성격을 보여줄 때 사용되기도 합니다.",
+        "vi": ""
+      }
+    },
+    {
+      "scripts": {
+        "en": "Do you know who that exiled nobleman is?\nIt's Prince Nosan, Yi Hong-wi. The person who was the king of this country until recently.",
+        "jp": "",
+        "ko": ">> 귀양원 양반이 누군지 아십니까?\n>> 노상군 이용이에요. 얼마 전까지이\n나라의 왕이었던 사람이요.",
+        "vi": ""
+      },
+      "end_time": 46.879,
+      "start_time": 33.32,
+      "vocabulary": [
+        {
+          "word": "귀양",
+          "meanings": {
+            "en": "exile",
+            "jp": "流刑",
+            "vi": "lưu đày"
+          }
+        },
+        {
+          "word": "양반",
+          "meanings": {
+            "en": "nobleman (Joseon era)",
+            "jp": "両班 (ヤンバン)",
+            "vi": "quý tộc (thời Joseon)"
+          }
+        },
+        {
+          "word": "왕",
+          "meanings": {
+            "en": "king",
+            "jp": "王",
+            "vi": "vua"
+          }
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "Prince Nosan (노상군) was the title given to King Danjong, the 6th king of Joseon, after he was dethroned by his uncle, Grand Prince Suyang (later King Sejo). He is famous for his tragic life.",
+        "jp": "",
+        "ko": "노상군(魯山君)은 조선의 제6대 왕인 단종(端宗)이 그의 삼촌인 수양대군(세조)에게 왕위를 빼앗긴 후 강등되어 불린 이름입니다. 비극적인 삶을 산 왕으로 유명합니다.",
+        "vi": ""
+      }
+    },
+    {
+      "scripts": {
+        "en": "Those who communicate with Nosan must die.\nHow dare that bastard insult the royal family?\nMarch out!\nBecause of me, I no longer want to believe in the people I cherished and loved.",
+        "jp": "",
+        "ko": ">> 노상과 통하는 자는 죽어야 한다.\n>> 놈이감이 왕족을 능멸하는가?\n출정하라.\n더 이상 나로 인해 내가 아끼고\n사랑하던 사람들을 믿고 싶지 않다.",
+        "vi": ""
+      },
+      "end_time": 58.35,
+      "start_time": 42.039,
+      "vocabulary": [
+        {
+          "word": "통하다",
+          "meanings": {
+            "en": "to communicate with",
+            "jp": "通じる",
+            "vi": "thông đồng, giao tiếp"
+          }
+        },
+        {
+          "word": "왕족",
+          "meanings": {
+            "en": "royal family",
+            "jp": "王族",
+            "vi": "hoàng tộc"
+          }
+        },
+        {
+          "word": "능멸하다",
+          "meanings": {
+            "en": "to insult, to disdain",
+            "jp": "侮辱する",
+            "vi": "lăng mạ, khinh멸"
+          }
+        },
+        {
+          "word": "아끼다",
+          "meanings": {
+            "en": "to cherish, care for",
+            "jp": "大切にする",
+            "vi": "trân trọng, yêu quý"
+          }
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "During the Joseon Dynasty, contacting a deposed king was considered treason, a very grave crime. This was because it was seen as an act that threatened the legitimacy of the new king's authority.",
+        "jp": "",
+        "ko": "조선시대에 폐위된 왕과 접촉하는 것은 역모로 간주되어 매우 큰 죄였습니다. 이는 새로운 왕권의 정통성을 위협하는 행위로 여겨졌기 때문입니다.",
+        "vi": ""
+      }
+    }
+  ]
+}

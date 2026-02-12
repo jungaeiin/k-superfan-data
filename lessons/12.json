@@ -46,7 +46,7 @@
   },
   "metadata": {
     "titles": {
-      "en": "The Man Who Lives with the King",
+      "en": "The King's Warden (2026)",
       "es": "El Hombre que Vive con el Rey",
       "id": "Pria yang Hidup Bersama Raja",
       "jp": "王と生きる男",
@@ -69,12 +69,12 @@
   "learning_sections": [
     {
       "scripts": {
-        "en": "Haven't you heard of Cheongnyeongbu, located deep inside Gwangjeonggol? In winter, a cold chill comes from the riverside, and a biting cold descends from the cliffs.",
-        "es": "¿No ha oído hablar de Cheongnyeongbu, situado en lo profundo de Gwangjeonggol? En invierno, un frío gélido viene de la orilla del río, y un frío penetrante desciende de los acantilados.",
-        "id": "Tidakkah Anda pernah mendengar tentang Cheongnyeongbu, yang terletak jauh di dalam Gwangjeonggol? Saat musim dingin, hawa dingin datang dari tepi sungai, dan hawa dingin yang menusuk turun dari tebing.",
-        "jp": "クァンジョンゴルの奥に位置するチョンニョンブをご存じないですか？冬には、川辺から冷気、崖からは寒気が降りてくるんですよ。",
-        "ko": "광정골 안쪽에 위치한 청령부라고 들어보지 않습니까?\n겨울에는 강가에서 냉기가 절벽에서선 한기가 내려오는 거야.",
-        "vi": "Chẳng phải bạn đã từng nghe nói về Cheongnyeongbu, nằm sâu bên trong Gwangjeonggol sao? Vào mùa đông, hơi lạnh từ bờ sông và cái rét buốt từ vách đá sẽ ùa xuống."
+        "en": "Haven't you heard of Cheongnyeongpo, located deep within Gwangcheon Valley? In winter, cold air descends from the riverside, and a biting chill comes down from the cliffs.",
+        "es": "¿No ha oído hablar de Cheongnyeongpo, situado en lo profundo del Valle de Gwangcheon? En invierno, el aire frío desciende de la orilla del río y un frío penetrante baja de los acantilados.",
+        "id": "Pernahkah Anda mendengar tentang Cheongnyeongpo, yang terletak jauh di dalam Lembah Gwangcheon? Saat musim dingin, udara dingin turun dari tepi sungai dan hawa dingin yang menusuk datang dari tebing.",
+        "jp": "光川谷の奥に位置する清冷浦って、聞いたことありませんか？冬には、川辺からは冷気、崖からは寒気が降りてくるんですよ。",
+        "ko": "광천골 안쪽에 위치한 청령포라고 들어보지 않습니까?\n겨울에는 강가에서 냉기가 절벽에선 한기가 내려오는 거야.",
+        "vi": "Bạn chưa từng nghe nói về Cheongnyeongpo, nơi nằm sâu trong Thung lũng Gwangcheon sao? Vào mùa đông, hơi lạnh từ bờ sông và cái rét buốt từ vách đá tràn xuống."
       },
       "end_time": 12.679,
       "start_time": 0.28,

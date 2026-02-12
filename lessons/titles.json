@@ -1,5 +1,18 @@
 [
   {
+    "id": 11,
+    "youtube_id": "9sxEZuJskvM",
+    "thumbnail": "https://img.youtube.com/vi/9sxEZuJskvM/hqdefault.jpg",
+    "difficulty": 2,
+    "titles": {
+      "en": "The Man Who Lives with the King",
+      "jp": "王と住む男",
+      "ko": "왕과 사는 남자",
+      "vi": "Người Đàn Ông Sống Cùng Vua"
+    },
+    "pub_date": "2026-02-12T11:45:26.906000+09:00"
+  },
+  {
     "id": 9,
     "youtube_id": "XYN_5sELsII",
     "thumbnail": "https://img.youtube.com/vi/XYN_5sELsII/hqdefault.jpg",
@@ -102,18 +115,5 @@
       "vi": "Teaser Vợ Của Đại Quân Thế Kỷ 21: \"Xin hãy kết hôn với ta\""
     },
     "pub_date": "2026-02-10T17:30:00+09:00"
-  },
-  {
-    "id": 1,
-    "youtube_id": "D0kt6A8ZaKI",
-    "thumbnail": "https://img.youtube.com/vi/D0kt6A8ZaKI/hqdefault.jpg",
-    "difficulty": 2,
-    "titles": {
-      "en": "The Art of Sarah | Official Teaser | Netflix",
-      "jp": "サラの芸術 | 公式ティーザー | Netflix",
-      "ko": "레이디 두아  | 공식 티저 | 넷플릭스",
-      "vi": "Nghệ Thuật Của Sarah | Teaser Chính Thức | Netflix"
-    },
-    "pub_date": "2026-02-10T10:00:00+09:00"
   }
 ]

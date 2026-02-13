@@ -1,0 +1,199 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "Because the victim had too powerful a background.",
+        "es": "Porque la víctima tenía un trasfondo demasiado poderoso.",
+        "id": "Karena korban memiliki latar belakang yang terlalu kuat.",
+        "jp": "被害者が非常に強力な後ろ盾を持っていたからです。",
+        "ko": "피해자가 너무 강력한 배경을 가지고 있었기 때문입니다.",
+        "vi": "Vì nạn nhân có xuất thân quá thế lực."
+      },
+      {
+        "en": "Because there was a misunderstanding among the kidnappers regarding the target.",
+        "es": "Porque hubo un malentendido entre los secuestradores con respecto al objetivo.",
+        "id": "Karena ada kesalahpahaman di antara para penculik mengenai target.",
+        "jp": "誘拐犯たちの間でターゲットに関する勘違いがあったからです。",
+        "ko": "납치범들 사이에 목표물에 대한 착오가 있었기 때문입니다.",
+        "vi": "Vì có sự nhầm lẫn giữa những kẻ bắt cóc về mục tiêu."
+      },
+      {
+        "en": "Because the police responded too quickly.",
+        "es": "Porque la policía respondió demasiado rápido.",
+        "id": "Karena polisi merespons terlalu cepat.",
+        "jp": "警察の対応が早すぎたからです。",
+        "ko": "경찰이 너무 빨리 대응했기 때문입니다.",
+        "vi": "Vì cảnh sát đã phản ứng quá nhanh."
+      },
+      {
+        "en": "Because the store employee resisted strongly.",
+        "es": "Porque la empleada de la tienda se resistió con fuerza.",
+        "id": "Karena karyawan toko melawan dengan kuat.",
+        "jp": "店の従業員が強く抵抗したからです。",
+        "ko": "매장 직원이 강하게 저항했기 때문입니다.",
+        "vi": "Vì nhân viên cửa hàng đã chống trả quyết liệt."
+      }
+    ],
+    "question": {
+      "en": "Based on the provided information, what was the primary reason the kidnapping attempt went wrong?",
+      "es": "Según la información proporcionada, ¿cuál fue la razón principal por la que el intento de secuestro salió mal?",
+      "id": "Berdasarkan informasi yang diberikan, apa alasan utama percobaan penculikan itu salah?",
+      "jp": "提供された情報に基づくと、誘拐の試みがうまくいかなかった主な理由は何でしたか？",
+      "ko": "제공된 정보를 바탕으로, 납치 시도가 잘못된 주된 이유는 무엇이었습니까?",
+      "vi": "Dựa trên thông tin được cung cấp, lý do chính khiến nỗ lực bắt cóc thất bại là gì?"
+    },
+    "answer_index": 1
+  },
+  "metadata": {
+    "titles": {
+      "en": "Lady Dua | Trailer",
+      "es": "Lady Dua | Tráiler",
+      "id": "Lady Dua | Trailer",
+      "jp": "レディ・ドゥア | 予告編",
+      "ko": "레이디 두아 | 예고편",
+      "vi": "Lady Dua | Trailer"
+    },
+    "categories": {
+      "en": "Drama, Crime, Thriller",
+      "es": "Drama, Crimen, Thriller",
+      "id": "Drama, Kejahatan, Thriller",
+      "jp": "ドラマ、犯罪、スリラー",
+      "ko": "드라마, 범죄, 스릴러",
+      "vi": "Phim truyền hình, Tội phạm, Kinh dị"
+    },
+    "difficulty": 2,
+    "youtube_id": "example_id",
+    "youtube_url": "https://www.youtube.com/watch?v=example_id"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "The victim wasn't an ordinary person either. Or maybe they have powerful connections?",
+        "es": "La víctima tampoco era una persona común. ¿O quizás tienen conexiones poderosas?",
+        "id": "Korban juga bukan orang biasa. Atau mungkin mereka punya koneksi yang hebat?",
+        "jp": "被害者も普通の人間じゃなかったな。それとも、すごい後ろ盾があるのか？",
+        "ko": "피해자도 보통 사람 아니더라. 아니면 빽이 대단한 건가?",
+        "vi": "Nạn nhân cũng không phải người bình thường. Hay là họ có thế lực hậu thuẫn ghê gớm?"
+      },
+      "end_time": 7.0,
+      "start_time": 2.0,
+      "vocabulary": [
+        {
+          "word": "보통 사람",
+          "meanings": {
+            "en": "ordinary person",
+            "es": "persona común",
+            "id": "orang biasa",
+            "jp": "普通の人",
+            "vi": "người bình thường"
+          }
+        },
+        {
+          "word": "빽",
+          "meanings": {
+            "en": "powerful connections/backing",
+            "es": "conexiones/apoyos poderosos",
+            "id": "koneksi, dukungan",
+            "jp": "後ろ盾、コネ",
+            "vi": "thế lực hậu thuẫn, mối quan hệ"
+          }
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "'보통 사람 아니더라' means that the other person is not easy to deal with or comfortable around. '빽' refers to someone having a superior or powerful background compared to others.",
+        "es": "'보통 사람 아니더라' significa que la otra persona no es alguien fácil de tratar o con quien sentirse cómodo. '빽' se refiere a que alguien tiene un trasfondo superior o poderoso en comparación con los demás.",
+        "id": "'보통 사람 아니더라' berarti orang lain bukanlah orang yang mudah diajak bicara atau didekati. '빽' mengacu pada seseorang yang memiliki latar belakang yang superior atau berkuasa dibandingkan orang lain.",
+        "jp": "「보통 사람 아니더라」とは、相手が簡単であったり、気楽に接することのできない人物であることを意味します。「빽」は、その人の後ろ盾が他人より優れていたり、力がある場合を意味します。",
+        "ko": "\"보통 사람 아니더라.\" 는 상대방이 만만하거나 편안하지 않은 사람임을 의미합니다. \"빽\"은 그 사람의 뒷 배경이 남들보다 우월하거나 힘이 있는 경우를 의미합니다.",
+        "vi": "'보통 사람 아니더라' có nghĩa là đối phương không phải là người dễ đối phó hoặc không thoải mái khi ở gần. '빽' dùng để chỉ việc ai đó có xuất thân hoặc thế lực hậu thuẫn vượt trội, có quyền lực hơn người khác."
+      }
+    },
+    {
+      "scripts": {
+        "en": "It seems they had some misunderstanding among themselves, so they kidnapped a store employee instead of Sara Kim.",
+        "es": "Parece que hubo algún error entre ellos, así que secuestraron a una empleada de la tienda en lugar de a Sara Kim.",
+        "id": "Sepertinya ada kesalahpahaman di antara mereka, jadi mereka menculik karyawan toko, bukan Sara Kim.",
+        "jp": "彼らの間で何らかの勘違いがあったのか、サラ・キムではなく店の従業員を誘拐したんだ。",
+        "ko": "자기들 끼리 무슨 착오가 있었는지 사라킴이 아닌 매장 직원을 납치했던거지.",
+        "vi": "Có vẻ như họ đã nhầm lẫn gì đó giữa họ, nên đã bắt cóc nhân viên cửa hàng chứ không phải Sara Kim."
+      },
+      "end_time": 25.0,
+      "start_time": 19.0,
+      "vocabulary": [
+        {
+          "word": "착오",
+          "meanings": {
+            "en": "misunderstanding, error",
+            "es": "malentendido, error",
+            "id": "kesalahpahaman, kesalahan",
+            "jp": "勘違い、間違い",
+            "vi": "nhầm lẫn, sai sót"
+          }
+        },
+        {
+          "word": "납치하다",
+          "meanings": {
+            "en": "to kidnap",
+            "es": "secuestrar",
+            "id": "menculik",
+            "jp": "誘拐する",
+            "vi": "bắt cóc"
+          }
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "'착오' means a misunderstanding or a mistake. In the drama, it explains that they seem to have mistakenly kidnapped someone else, thinking they were Sara Kim.",
+        "es": "'착오' significa un malentendido o un error. En el drama, se explica que parece que secuestraron a otra persona por error, pensando que era Sara Kim.",
+        "id": "'착오' berarti kesalahpahaman atau kekeliruan. Dalam drama, dijelaskan bahwa mereka tampaknya salah menculik orang lain, mengira itu Sara Kim.",
+        "jp": "「착오」は誤解したり、勘違いをした場合を意味し、劇中では他の人をサラ・キムと誤解して間違って誘拐したようだと説明します。",
+        "ko": "\"착오\"는 오해하거나 착각을 한 경우를 의미하며, 극중에서는 다른 사람을 사라킴으로 오해해서 잘못 납치한 것 같다고 설명합니다.",
+        "vi": "'착오' có nghĩa là hiểu lầm hoặc nhầm lẫn. Trong phim, nó giải thích rằng họ dường như đã nhầm lẫn bắt cóc người khác, nghĩ rằng đó là Sara Kim."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Well, among those who come to the police station, is there anyone without a story? Let's call it humanity.",
+        "es": "Bueno, entre los que vienen a la comisaría, ¿hay alguien sin una historia? Digamos que es por humanidad.",
+        "id": "Yah, di antara mereka yang datang ke kantor polisi, apakah ada yang tidak punya cerita? Mari kita anggap itu kemanusiaan.",
+        "jp": "まあ、警察署に来る人の中に事情がない人なんていますか？人類愛としましょう。",
+        "ko": "뭐, 경찰서에 오는 사람중에 사연없는 사람 있겠습니까? 인류애라고 칩시다.",
+        "vi": "À, trong số những người đến đồn cảnh sát, có ai mà không có câu chuyện riêng đâu? Cứ coi đó là tình nhân loại đi."
+      },
+      "end_time": 95.0,
+      "start_time": 88.0,
+      "vocabulary": [
+        {
+          "word": "사연",
+          "meanings": {
+            "en": "story, circumstances",
+            "es": "historia, circunstancias",
+            "id": "cerita, keadaan",
+            "jp": "事情、いきさつ",
+            "vi": "câu chuyện, hoàn cảnh"
+          }
+        },
+        {
+          "word": "인류애",
+          "meanings": {
+            "en": "humanity, philanthropy, love for humanity",
+            "es": "humanidad, filantropía",
+            "id": "kemanusiaan, filantropi",
+            "jp": "人類愛",
+            "vi": "tình nhân loại, lòng nhân ái"
+          }
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "'사연' means that there is a cause and process behind a certain outcome. It implies that someone who has come all the way to the police station must have a reason. '인류애' refers to human love or kindness towards other humans, or the benevolent attitude of a good person towards those who are unfortunate.",
+        "es": "'사연' significa que hay una causa y un proceso detrás de un cierto resultado. Implica que alguien que ha llegado hasta la comisaría debe tener una razón. '인류애' se refiere al amor o la amabilidad humana hacia otros seres humanos, o la actitud benevolente de una buena persona hacia aquellos que son desafortunados.",
+        "id": "'사연' berarti ada sebab dan proses di balik suatu hasil tertentu. Ini menyiratkan bahwa seseorang yang telah datang ke kantor polisi pasti memiliki alasan. '인류애' mengacu pada cinta atau kebaikan manusia terhadap manusia lain, atau sikap baik hati seseorang terhadap orang-orang yang tidak beruntung.",
+        "jp": "「사연」は、ある結果について原因と過程があるという意味です。警察署まで来た人に、理由がないはずがないという意味です。「인류애」は、人間に対する人間の愛や親切さ、不幸な人々に対する善良な人の態度などを意味します。",
+        "ko": "\"사연\" 어떤 결과에 대해 원인과 과정이 있다는 의미입니다. 경찰서까지 온 사람이 원인이 없을 수 없을거라는 의미입니다. \"인류애\" 인간에 대한 인간의 사랑 또는 친절함, 불행한 사람을 대하는 선한 사람의 태도 등을 의미합니다.",
+        "vi": "'사연' có nghĩa là có nguyên nhân và quá trình đằng sau một kết quả nào đó. Nó ngụ ý rằng người đã đến đồn cảnh sát chắc chắn phải có lý do. '인류애' đề cập đến tình yêu hoặc lòng tốt của con người đối với con người, hoặc thái độ nhân ái của một người tốt đối với những người không may mắn."
+      }
+    }
+  ]
+}

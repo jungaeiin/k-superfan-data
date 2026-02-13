@@ -1,0 +1,217 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "They are typically very shy and reclusive.",
+        "es": "Suelen ser muy tímidas y recluidas.",
+        "id": "Mereka biasanya sangat pemalu dan tertutup.",
+        "jp": "彼女たちは通常、非常に内気で隠遁的です。",
+        "ko": "그들은 일반적으로 매우 수줍음이 많고 은둔적입니다.",
+        "vi": "Họ thường rất nhút nhát và sống ẩn dật."
+      },
+      {
+        "en": "They often use their beauty to trick humans for their own gain.",
+        "es": "A menudo usan su belleza para engañar a los humanos para su propio beneficio.",
+        "id": "Mereka sering menggunakan kecantikan mereka untuk menipu manusia demi keuntungan mereka sendiri.",
+        "jp": "彼女たちはしばしばその美貌を利用して人間を騙し、自分の利益を得ます。",
+        "ko": "그들은 종종 자신의 아름다움을 이용해 인간을 속여 이득을 취합니다.",
+        "vi": "Họ thường dùng vẻ đẹp của mình để lừa gạt con người nhằm trục lợi."
+      },
+      {
+        "en": "They aspire to become fully human, which implies a strong desire or 'wish'.",
+        "es": "Anhelan convertirse en humanos por completo, lo que implica un fuerte deseo o 'anhelo'.",
+        "id": "Mereka bercita-cita untuk menjadi manusia sepenuhnya, yang menyiratkan keinginan atau 'harapan' yang kuat.",
+        "jp": "彼女たちは完全に人間になることを熱望しており、これは強い願望や「願い」を意味します。",
+        "ko": "그들은 완전히 인간이 되기를 열망하며, 이는 강한 욕망이나 '소원'을 내포합니다.",
+        "vi": "Họ khao khát trở thành con người hoàn toàn, điều này ngụ ý một khao khát hoặc 'điều ước' mạnh mẽ."
+      },
+      {
+        "en": "They are usually not beautiful and lack mystery.",
+        "es": "Normalmente no son hermosas y carecen de misterio.",
+        "id": "Mereka biasanya tidak cantik dan kurang misterius.",
+        "jp": "彼女たちは通常、美しくなく神秘さに欠けています。",
+        "ko": "그들은 보통 아름답지 않고 신비로움이 부족합니다.",
+        "vi": "Họ thường không đẹp và thiếu sự thần bí."
+      }
+    ],
+    "question": {
+      "en": "According to Korean folklore mentioned in the lesson, what is a common characteristic of a gumiho that contrasts with this character's statement 'But you say you have no wish?'",
+      "es": "Según el folclore coreano mencionado en la lección, ¿cuál es una característica común de un gumiho que contrasta con la afirmación de este personaje '¿Pero dices que no tienes ningún deseo?'?",
+      "id": "Menurut cerita rakyat Korea yang disebutkan dalam pelajaran, karakteristik umum gumiho apa yang kontras dengan pernyataan karakter ini, 'Tapi kamu bilang tidak punya keinginan?'",
+      "jp": "授業で言及された韓国の説話によると、九尾狐の一般的な特徴のうち、この登場人物の「でも願いがないと？」という発言と対照的なものは何ですか？",
+      "ko": "수업에서 언급된 한국 설화에 따르면, 구미호의 일반적인 특징 중 이 등장인물의 \"근데 소원이 없다고요?\"라는 발언과 대조되는 것은 무엇인가요?",
+      "vi": "Theo truyền thuyết dân gian Hàn Quốc được đề cập trong bài học, đặc điểm chung nào của gumiho mâu thuẫn với câu nói 'Nhưng lại nói không có điều ước?' của nhân vật này?"
+    },
+    "answer_index": 2
+  },
+  "metadata": {
+    "titles": {
+      "en": "From Today, I'm Human | Official Trailer",
+      "es": "Desde hoy, soy humano | Tráiler oficial",
+      "id": "Mulai Hari Ini, Aku Manusia | Trailer Resmi",
+      "jp": "今日から人間ですけど | 公式予告編",
+      "ko": "오늘부터 인간입니다만 | 공식 예고편",
+      "vi": "Từ hôm nay, tôi là người | Trailer chính thức"
+    },
+    "categories": {
+      "en": "Drama, Comedy",
+      "es": "Drama, Comedia",
+      "id": "Drama, Komedi",
+      "jp": "ドラマ、コメディ",
+      "ko": "드라마, 코미디",
+      "vi": "Phim truyền hình, Hài kịch"
+    },
+    "difficulty": 1
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "What is this beast practicing Tao doing here?",
+        "es": "¿Qué está haciendo esta bestia que practica el Tao aquí?",
+        "id": "Binatang yang sedang berlatih Tao ini sebenarnya sedang apa di sini?",
+        "jp": "道を修めている獣が一体ここで何をしているのだ？",
+        "ko": "도 딱는 짐승이 대체 여기서 뭘 하고 있는게냐?",
+        "vi": "Con thú đang tu đạo này rốt cuộc đang làm gì ở đây vậy?"
+      },
+      "end_time": 6.47,
+      "start_time": 1.28,
+      "vocabulary": [
+        {
+          "word": "도 닦다",
+          "meanings": {
+            "en": "to practice Tao/asceticism, to cultivate oneself",
+            "es": "practicar el Tao, hacer penitencia",
+            "id": "berlatih Tao, bertapa",
+            "jp": "道を修める、修行する",
+            "vi": "tu đạo, tu luyện"
+          }
+        },
+        {
+          "word": "짐승",
+          "meanings": {
+            "en": "beast, animal",
+            "es": "bestia, animal",
+            "id": "binatang, hewan",
+            "jp": "獣、動物",
+            "vi": "con thú, động vật"
+          }
+        },
+        {
+          "word": "대체",
+          "meanings": {
+            "en": "what on earth, exactly (emphasizing a question)",
+            "es": "exactamente, a fin de cuentas",
+            "id": "sebenarnya, pada dasarnya",
+            "jp": "一体、そもそも",
+            "vi": "rốt cuộc, vậy thì"
+          }
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "In Korean folklore, there is a popular belief that a gumiho (a nine-tailed fox) can become human by practicing Tao.",
+        "es": "En el folclore coreano, existe la creencia popular de que un gumiho (un zorro de nueve colas) puede volverse humano practicando el Tao.",
+        "id": "Dalam cerita rakyat Korea, ada keyakinan populer bahwa gumiho (rubah berekor sembilan) bisa menjadi manusia dengan berlatih Tao.",
+        "jp": "韓国の説話では、九尾狐（九つの尾を持つ狐）は道を修めることで人間になれるという俗説が伝えられています。",
+        "ko": "한국 설화에서는 구미호(꼬리 아홉 달린 여우)는 도를 닦아 인간이 될 수 있다는 속설이 이어져 오고 있습니다.",
+        "vi": "Trong các truyền thuyết dân gian Hàn Quốc, có một niềm tin phổ biến rằng gumiho (cáo chín đuôi) có thể trở thành người bằng cách tu luyện đạo."
+      }
+    },
+    {
+      "scripts": {
+        "en": "I'm so proud that I am me.",
+        "es": "Estoy tan orgulloso de ser quien soy.",
+        "id": "Aku sangat bangga bahwa aku adalah diriku.",
+        "jp": "私は私が私であることがとても誇らしい。",
+        "ko": "나는 내가 나인게 너무 자랑스러워.",
+        "vi": "Tôi rất tự hào vì tôi là tôi."
+      },
+      "end_time": 20.0,
+      "start_time": 16.0,
+      "vocabulary": [
+        {
+          "word": "자랑스럽다",
+          "meanings": {
+            "en": "to be proud of",
+            "es": "estar orgulloso",
+            "id": "bangga",
+            "jp": "誇らしい",
+            "vi": "tự hào"
+          }
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "This is a narcissistic expression showing pride in oneself and self-love. Usually, saying this makes you seem annoying.",
+        "es": "Esta es una expresión narcisista que muestra orgullo por uno mismo y amor propio. Normalmente, decir esto te hace parecer molesto.",
+        "id": "Ini adalah ekspresi narsis yang menunjukkan kebanggaan pada diri sendiri dan cinta diri. Biasanya, mengatakan ini akan membuat Anda terlihat menyebalkan.",
+        "jp": "自分自身に対する誇りや自己愛などを表現するナルシシズム的な表現です。普通、このように言うと生意気だと思われます。",
+        "ko": "스스로에 대한 자랑스러움, 자기애 등을 표현하는 나르시시즘적인 표현입니다. 보통 이렇게 말하면 재수없어요.",
+        "vi": "Đây là một cách diễn đạt ái kỷ thể hiện sự tự hào về bản thân và lòng tự yêu mình. Thường thì nói như vậy sẽ khiến bạn bị coi là khó ưa."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Can't you tell just by looking? This beauty, this mystery. A gumiho? But you say you have no wish?",
+        "es": "¿No te das cuenta con solo mirar? Esta belleza, este misterio. ¿Un gumiho? ¿Pero dices que no tienes ningún deseo?",
+        "id": "Tidak bisakah kamu tahu hanya dengan melihat? Kecantikan ini, misteri ini. Gumiho? Tapi kamu bilang tidak punya keinginan?",
+        "jp": "見れば分からない？この美貌、この神秘さ。九尾狐ですって？でも願いがないと？",
+        "ko": "딱 보면 모르겠어? 이 미모, 이 신비로움 구미호요? 근데 소원이 없다고요.",
+        "vi": "Không nhìn là không biết sao? Vẻ đẹp này, sự thần bí này. Là cáo chín đuôi ư? Nhưng lại nói không có điều ước?"
+      },
+      "end_time": 28.0,
+      "start_time": 21.2,
+      "vocabulary": [
+        {
+          "word": "딱 보면 모르겠어?",
+          "meanings": {
+            "en": "Can't you tell just by looking? / Isn't it obvious?",
+            "es": "¿No te das cuenta con solo mirar? / ¿No es obvio?",
+            "id": "Tidak bisakah kamu tahu hanya dengan melihat? / Bukankah itu sudah jelas?",
+            "jp": "見れば分からない？ / 一目見ればわかるでしょう？",
+            "vi": "Không nhìn là không biết sao? / Nhìn là biết ngay mà?"
+          }
+        },
+        {
+          "word": "미모",
+          "meanings": {
+            "en": "beauty (of appearance)",
+            "es": "belleza",
+            "id": "kecantikan",
+            "jp": "美貌",
+            "vi": "vẻ đẹp, dung mạo"
+          }
+        },
+        {
+          "word": "신비로움",
+          "meanings": {
+            "en": "mystery, mysteriousness",
+            "es": "misterio, cualidad misteriosa",
+            "id": "misteri, kemisteriusan",
+            "jp": "神秘さ、神秘性",
+            "vi": "sự thần bí, sự huyền bí"
+          }
+        },
+        {
+          "word": "소원",
+          "meanings": {
+            "en": "wish, desire",
+            "es": "deseo, anhelo",
+            "id": "keinginan, harapan",
+            "jp": "願い、望み",
+            "vi": "điều ước, nguyện vọng"
+          }
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "\"Can't you tell just by looking?\" is an expression often used to emphasize excellence to the point where the other person can recognize it just by seeing, without needing verbal or behavioral explanations.",
+        "es": "\"¿No te das cuenta con solo mirar?\" es una expresión que se usa a menudo para enfatizar la excelencia hasta el punto de que la otra persona puede reconocerla con solo verla, sin necesidad de explicaciones verbales o de comportamiento.",
+        "id": "\"Tidak bisakah kamu tahu hanya dengan melihat?\" adalah ungkapan yang sering digunakan untuk menekankan keunggulan sedemikian rupa sehingga orang lain dapat mengenalinya hanya dengan melihat, tanpa perlu penjelasan lisan atau tindakan.",
+        "jp": "「見れば分からない？」は、相手に言葉や行為で説明しなくても、見るだけで察することができるほど卓越していることを強調する際によく使われる表現です。",
+        "ko": "\"딱 보면 모르겠어?\" 상대에게 말이나 행위로 설명을 하지 않아도 보기만 해도 알아챌 수 있을 만큼 탁월함을 강조할 때 자주 쓰이는 표현입니다.",
+        "vi": "\"Không nhìn là không biết sao?\" là một cách diễn đạt thường dùng để nhấn mạnh sự xuất sắc đến mức người khác có thể nhận ra chỉ bằng cách nhìn, mà không cần giải thích bằng lời nói hay hành động."
+      }
+    }
+  ]
+}

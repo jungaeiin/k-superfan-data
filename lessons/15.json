@@ -62,8 +62,8 @@
       "vi": "Phim truyền hình, Tội phạm, Kinh dị"
     },
     "difficulty": 2,
-    "youtube_id": "example_id",
-    "youtube_url": "https://www.youtube.com/watch?v=example_id"
+    "youtube_id": "628OJYuO6wU",
+    "youtube_url": "https://www.youtube.com/watch?v=628OJYuO6wU"
   },
   "learning_sections": [
     {
@@ -75,8 +75,8 @@
         "ko": "피해자도 보통 사람 아니더라. 아니면 빽이 대단한 건가?",
         "vi": "Nạn nhân cũng không phải người bình thường. Hay là họ có thế lực hậu thuẫn ghê gớm?"
       },
-      "end_time": 7.0,
-      "start_time": 2.0,
+      "end_time": 7,
+      "start_time": 2,
       "vocabulary": [
         {
           "word": "보통 사람",
@@ -118,8 +118,8 @@
         "ko": "자기들 끼리 무슨 착오가 있었는지 사라킴이 아닌 매장 직원을 납치했던거지.",
         "vi": "Có vẻ như họ đã nhầm lẫn gì đó giữa họ, nên đã bắt cóc nhân viên cửa hàng chứ không phải Sara Kim."
       },
-      "end_time": 25.0,
-      "start_time": 19.0,
+      "end_time": 25,
+      "start_time": 19,
       "vocabulary": [
         {
           "word": "착오",
@@ -161,8 +161,8 @@
         "ko": "뭐, 경찰서에 오는 사람중에 사연없는 사람 있겠습니까? 인류애라고 칩시다.",
         "vi": "À, trong số những người đến đồn cảnh sát, có ai mà không có câu chuyện riêng đâu? Cứ coi đó là tình nhân loại đi."
       },
-      "end_time": 95.0,
-      "start_time": 88.0,
+      "end_time": 95,
+      "start_time": 88,
       "vocabulary": [
         {
           "word": "사연",

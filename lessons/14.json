@@ -61,7 +61,9 @@
       "ko": "드라마, 코미디",
       "vi": "Phim truyền hình, Hài kịch"
     },
-    "difficulty": 1
+    "difficulty": 1,
+    "youtube_id": "V2qn8E7PB0c",
+    "youtube_url": "https://www.youtube.com/watch?v=V2qn8E7PB0c"
   },
   "learning_sections": [
     {
@@ -126,8 +128,8 @@
         "ko": "나는 내가 나인게 너무 자랑스러워.",
         "vi": "Tôi rất tự hào vì tôi là tôi."
       },
-      "end_time": 20.0,
-      "start_time": 16.0,
+      "end_time": 20,
+      "start_time": 16,
       "vocabulary": [
         {
           "word": "자랑스럽다",
@@ -159,7 +161,7 @@
         "ko": "딱 보면 모르겠어? 이 미모, 이 신비로움 구미호요? 근데 소원이 없다고요.",
         "vi": "Không nhìn là không biết sao? Vẻ đẹp này, sự thần bí này. Là cáo chín đuôi ư? Nhưng lại nói không có điều ước?"
       },
-      "end_time": 28.0,
+      "end_time": 28,
       "start_time": 21.2,
       "vocabulary": [
         {

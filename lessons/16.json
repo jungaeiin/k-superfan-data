@@ -1,0 +1,282 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "Park Geon is a necromancer with supernatural powers, indicating a fantasy setting.",
+        "es": "Park Geon es un nigromante con poderes sobrenaturales, lo que indica un entorno de fantasía.",
+        "id": "Park Geon adalah seorang ahli nujum dengan kekuatan supernatural, menunjukkan latar fantasi.",
+        "jp": "パク・ゴンは超自然的な力を持つ霊媒師で、ファンタジーの舞台を示しています。",
+        "ko": "박건은 초자연적인 힘을 가진 강령술사이며, 환상적인 배경을 나타냅니다.",
+        "vi": "Park Geon là một pháp sư gọi hồn có sức mạnh siêu nhiên, cho thấy một bối cảnh giả tưởng."
+      },
+      {
+        "en": "Park Geon is an extremely competent individual who can achieve impossible tasks, suggesting a sensitive situation and potential North Korean context.",
+        "es": "Park Geon es un individuo extremadamente competente que puede lograr tareas imposibles, lo que sugiere una situación delicada y un posible contexto norcoreano.",
+        "id": "Park Geon adalah individu yang sangat kompeten yang dapat menyelesaikan tugas-tugas mustahil, menunjukkan situasi yang sensitif dan potensi konteks Korea Utara.",
+        "jp": "パク・ゴンは不可能も成し遂げる非常に有能な人物であり、状況が敏感で北朝鮮と関連している可能性があることを暗示しています。",
+        "ko": "박건은 불가능한 일도 해내는 매우 유능한 인물이며, 상황이 민감하고 북한과 관련될 수 있음을 암시합니다.",
+        "vi": "Park Geon là một cá nhân cực kỳ năng lực, có thể hoàn thành những nhiệm vụ bất khả thi, gợi ý một tình huống nhạy cảm và bối cảnh có thể liên quan đến Bắc Triều Tiên."
+      },
+      {
+        "en": "Park Geon is known for illegally kidnapping people, suggesting a criminal underworld background.",
+        "es": "Park Geon es conocido por secuestrar personas ilegalmente, lo que sugiere un trasfondo del hampa criminal.",
+        "id": "Park Geon dikenal karena menculik orang secara ilegal, menunjukkan latar belakang dunia bawah tanah kriminal.",
+        "jp": "パク・ゴンは人々を不法に誘拐することで知られており、犯罪組織の背景を示唆しています。",
+        "ko": "박건은 사람들을 불법적으로 납치하는 것으로 유명하며, 범죄 조직의 배경을 암시합니다.",
+        "vi": "Park Geon nổi tiếng về việc bắt cóc người trái phép, gợi ý về bối cảnh thế giới ngầm tội phạm."
+      },
+      {
+        "en": "Park Geon is a medical professional specializing in reviving critically ill patients.",
+        "es": "Park Geon es un profesional médico especializado en reanimar a pacientes críticamente enfermos.",
+        "id": "Park Geon adalah seorang profesional medis yang mengkhususkan diri dalam menghidupkan kembali pasien yang sakit kritis.",
+        "jp": "パク・ゴンは重篤な患者を蘇生させる専門医療従事者です。",
+        "ko": "박건은 위독한 환자를 소생시키는 전문 의료인입니다.",
+        "vi": "Park Geon là một chuyên gia y tế chuyên hồi sinh bệnh nhân trong tình trạng nguy kịch."
+      }
+    ],
+    "question": {
+      "en": "What does the phrase \"Comrade Park Geon, who is said to even bring back the dead,\" combined with the term \"동무\" (dong-mu), primarily suggest about the character Park Geon and the setting?",
+      "es": "¿Qué sugiere principalmente la frase \"El camarada Park Geon, de quien se dice que incluso trae de vuelta a los muertos,\" combinada con el término \"동무\" (dong-mu), sobre el personaje Park Geon y el contexto?",
+      "id": "Apa yang terutama disiratkan oleh frasa \"Kamerad Park Geon, yang katanya bisa membawa kembali orang mati,\" digabungkan dengan istilah \"동무\" (dong-mu), tentang karakter Park Geon dan latar belakangnya?",
+      "jp": "「死者さえも連れてくるというパク・ゴン同志」というフレーズと「동무(トンム)」という呼称は、パク・ゴンという人物と背景について主に何を暗示していますか？",
+      "ko": "“죽은 사람도 잡아 온다는 박건 동무”라는 구절과 “동무”라는 호칭은 박건이라는 인물과 배경에 대해 주로 무엇을 암시합니까?",
+      "vi": "Cụm từ \"Đồng chí Park Geon, người được cho là có thể bắt cả người chết về\" kết hợp với từ \"동무\" (dong-mu) chủ yếu gợi ý điều gì về nhân vật Park Geon và bối cảnh?"
+    },
+    "answer_index": 1
+  },
+  "metadata": {
+    "titles": {
+      "en": "Humint | Trailer",
+      "es": "Humint | Tráiler",
+      "id": "Humint | Trailer",
+      "jp": "ヒューミント | 予告編",
+      "ko": "휴민트 | 예고편",
+      "vi": "Humint | Đoạn giới thiệu"
+    },
+    "categories": {
+      "en": "Movie, Action, Thriller",
+      "es": "Película, Acción, Thriller",
+      "id": "Film, Aksi, Thriller",
+      "jp": "映画、アクション、スリラー",
+      "ko": "영화, 액션, 스릴러",
+      "vi": "Phim, Hành động, Ly kỳ"
+    },
+    "difficulty": 3,
+    "youtube_id": "uKOYQ1e4lv4",
+    "youtube_url": "https://www.youtube.com/watch?v=uKOYQ1e4lv4"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Comrade Park Geon, who is said to even bring back the dead, has come to monitor me. Did you do anything that warrants monitoring?",
+        "es": "El camarada Park Geon, de quien se dice que incluso trae de vuelta a los muertos, ha venido a vigilarme. ¿Hizo usted algo que merezca ser vigilado?",
+        "id": "Kamerad Park Geon, yang katanya bisa membawa kembali orang mati, datang untuk mengawasiku. Apa Anda melakukan sesuatu yang pantas diawasi?",
+        "jp": "死者さえも連れてくるというパク・ゴン同志が私を監視しに来ましたが。監視されるような行動でもなさいましたか？",
+        "ko": "죽은 사람도 잡아 온다는 박건 동무가 날 감시하러 왔는데. 감시받을 행동이라도 하셨습니까?",
+        "vi": "Đồng chí Park Geon, người được cho là có thể bắt cả người chết về, đã đến để giám sát tôi. Anh đã làm gì mà cần phải bị giám sát?"
+      },
+      "end_time": 23.0,
+      "start_time": 14.0,
+      "vocabulary": [
+        {
+          "word": "잡아 온다",
+          "meanings": {
+            "en": "brings back (even the dead), captures and brings",
+            "es": "trae de vuelta, captura y trae",
+            "id": "membawa kembali, menangkap dan membawa",
+            "jp": "連れてくる、捕まえてくる",
+            "vi": "bắt về, mang về"
+          }
+        },
+        {
+          "word": "감시하다",
+          "meanings": {
+            "en": "to monitor, to surveil",
+            "es": "vigilar, monitorear",
+            "id": "mengawasi, memantau",
+            "jp": "監視する",
+            "vi": "giám sát, theo dõi"
+          }
+        },
+        {
+          "word": "동무",
+          "meanings": {
+            "en": "comrade (used mainly in North Korea)",
+            "es": "camarada (usado principalmente en Corea del Norte)",
+            "id": "kamerad (digunakan terutama di Korea Utara)",
+            "jp": "同志 (主に北朝鮮で使用)",
+            "vi": "đồng chí (chủ yếu dùng ở Bắc Triều Tiên)"
+          }
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "The phrase '죽은 사람도 잡아 온다' (even brings back the dead) is an exaggerated idiomatic expression referring to a capable person who can accomplish impossible tasks. Also, the title '동무' (dong-mu) is mainly used in North Korea to mean 'comrade,' implying that this conversation is set against a North Korean backdrop or a specific ideological situation.",
+        "es": "La frase '죽은 사람도 잡아 온다' (incluso trae de vuelta a los muertos) es una expresión idiomática exagerada que se refiere a una persona capaz que puede lograr tareas imposibles. Además, el término '동무' (dong-mu) se usa principalmente en Corea del Norte con el significado de 'camarada', lo que implica que esta conversación tiene lugar en un contexto norcoreano o en una situación ideológica específica.",
+        "id": "Ungkapan '죽은 사람도 잡아 온다' (bahkan bisa membawa kembali orang mati) adalah ekspresi idiomatik yang dilebih-lebihkan yang mengacu pada orang yang cakap yang dapat menyelesaikan tugas-tugas mustahil. Selain itu, sebutan '동무' (dong-mu) sebagian besar digunakan di Korea Utara untuk berarti 'kamerad', menyiratkan bahwa percakapan ini berlatar belakang Korea Utara atau situasi ideologis tertentu.",
+        "jp": "「죽은 사람も連れてくる」という言葉は、不可能なことでも成し遂げる有能な人を指す誇張された慣用表現です。また、「동무(トンム)」という呼称は、主に北朝鮮で「同志」の意味で使われるため、この会話が北朝鮮を背景にしているか、特殊なイデオロギー的状況にあることを示唆しています。",
+        "ko": "'죽은 사람도 잡아 온다'는 말은 불가능한 일도 해내는 유능한 사람을 가리키는 과장된 관용 표현입니다. 또한 '동무'라는 호칭은 주로 북한에서 '동지'의 의미로 사용되므로, 이 대화가 북한을 배경으로 하거나 특수한 이념적 상황에 놓여 있음을 암시합니다.",
+        "vi": "Cụm từ '죽은 사람도 잡아 온다' (thậm chí có thể bắt người chết về) là một thành ngữ phóng đại, ám chỉ người có năng lực có thể hoàn thành những việc bất khả thi. Ngoài ra, danh xưng '동무' (đồng chí) chủ yếu được sử dụng ở Bắc Triều Tiên với nghĩa 'đồng chí', ngụ ý rằng cuộc đối thoại này lấy bối cảnh ở Bắc Triều Tiên hoặc trong một tình huống tư tưởng đặc biệt."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Why did you disappear so cruelly? You don't have to die with me.",
+        "es": "¿Por qué desapareciste tan cruelmente? No hay necesidad de morir juntos.",
+        "id": "Mengapa Anda menghilang dengan begitu kejam? Anda tidak perlu mati bersama saya.",
+        "jp": "なぜそこまで過酷に消えたのですか？一緒に死ぬ必要はありません。",
+        "ko": "왜 이렇게까지 가혹하게 사라졌소? 같이 죽을 필요 없습니다.",
+        "vi": "Sao anh lại biến mất một cách tàn nhẫn như vậy? Anh không cần phải chết cùng tôi."
+      },
+      "end_time": 46.0,
+      "start_time": 42.0,
+      "vocabulary": [
+        {
+          "word": "가혹하게",
+          "meanings": {
+            "en": "cruelly, harshly, severely",
+            "es": "cruelmente, duramente",
+            "id": "dengan kejam, dengan keras",
+            "jp": "過酷に、厳しく",
+            "vi": "một cách tàn nhẫn, khắc nghiệt"
+          }
+        },
+        {
+          "word": "사라지다",
+          "meanings": {
+            "en": "to disappear, to vanish",
+            "es": "desaparecer",
+            "id": "menghilang",
+            "jp": "消える、姿を消す",
+            "vi": "biến mất"
+          }
+        },
+        {
+          "word": "-소",
+          "meanings": {
+            "en": "an archaic polite ending (used in historical dramas for serious, formal tone)",
+            "es": "un final educado arcaico (usado en dramas históricos para un tono serio y formal)",
+            "id": "akhiran sopan kuno (digunakan dalam drama sejarah untuk nada serius dan formal)",
+            "jp": "古風で丁寧な語尾 (時代劇などで真剣で格式ある雰囲気を演出する際に使用)",
+            "vi": "đuôi câu trang trọng cổ xưa (dùng trong phim cổ trang để tạo không khí nghiêm túc, trang trọng)"
+          }
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "The ending '-소' is an archaic speech style rarely used in modern times, primarily employed in historical dramas to create a serious and formal atmosphere. Furthermore, the expression '같이 죽는다' (to die together) indicates a deep bond where one person's misfortune signifies the end for another, showcasing a sense of shared destiny.",
+        "es": "La terminación '-소' es un estilo de habla arcaico rara vez usado en la actualidad, empleado principalmente en dramas históricos para crear una atmósfera seria y formal. Además, la expresión '같이 죽는다' (morir juntos) indica un vínculo profundo donde la desgracia de una persona significa el fin para otra, mostrando un sentido de destino compartido.",
+        "id": "Akhiran '-소' adalah gaya bicara kuno yang jarang digunakan di zaman modern, terutama digunakan dalam drama sejarah untuk menciptakan suasana serius dan formal. Selain itu, ungkapan '같이 죽는다' (mati bersama) menunjukkan ikatan yang dalam di mana kemalangan satu orang berarti akhir bagi orang lain, menunjukkan perasaan takdir bersama.",
+        "jp": "語尾「-소」は、現代ではあまり使われない古風な話し方で、時代劇などで真剣で格式のある雰囲気を演出する際に使われます。また、「같이 죽는다(一緒に死ぬ)」という表現は、一人の不幸が他の人の終わりを意味するほど深い絆を示し、運命共同体的な感情を見せるセリフです。",
+        "ko": "'-소'라는 어미는 현대에서는 잘 쓰지 않는 예스러운 말투로, 사극 등에서 진지하고 격식 있는 분위기를 연출할 때 사용됩니다. 또한 '같이 죽는다'는 표현은 한 사람의 불행이 다른 사람의 끝을 의미할 만큼 깊은 유대감을 나타내며, 운명 공동체적인 정서를 보여주는 대사입니다.",
+        "vi": "Đuôi câu '-소' là một kiểu nói cổ xưa ít được sử dụng trong thời hiện đại, chủ yếu dùng trong phim lịch sử để tạo không khí trang trọng và nghiêm túc. Hơn nữa, cụm từ '같이 죽는다' (chết cùng nhau) thể hiện một mối quan hệ gắn bó sâu sắc, nơi bất hạnh của một người có thể là dấu chấm hết cho người khác, thể hiện cảm giác cùng chung số phận."
+      }
+    },
+    {
+      "scripts": {
+        "en": "If I decide today, what's the maximum number of days it would take to get them out?",
+        "es": "Si decido hoy, ¿en cuántos días como máximo podría sacarlos?",
+        "id": "Jika saya memutuskan hari ini, paling lambat berapa hari Anda bisa mengeluarkan mereka?",
+        "jp": "今日決めれば、最大何日で助け出していただけますか？",
+        "ko": "오늘 결정하면 최대 몇 일안에 빼내 주실 수 있겠습니까?",
+        "vi": "Nếu tôi quyết định hôm nay, tối đa bao nhiêu ngày thì anh có thể đưa họ ra ngoài?"
+      },
+      "end_time": 10.0,
+      "start_time": 3.0,
+      "vocabulary": [
+        {
+          "word": "결정하다",
+          "meanings": {
+            "en": "to decide, to determine",
+            "es": "decidir",
+            "id": "memutuskan",
+            "jp": "決定する",
+            "vi": "quyết định"
+          }
+        },
+        {
+          "word": "최대",
+          "meanings": {
+            "en": "maximum, up to",
+            "es": "máximo",
+            "id": "maksimal",
+            "jp": "最大",
+            "vi": "tối đa"
+          }
+        },
+        {
+          "word": "빼내다",
+          "meanings": {
+            "en": "to extract, to pull out, to rescue (from difficulty)",
+            "es": "sacar, rescatar",
+            "id": "mengeluarkan, menyelamatkan",
+            "jp": "助け出す、引き出す",
+            "vi": "đưa ra ngoài, giải cứu"
+          }
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "This sentence well illustrates a characteristic of Korean society that values speed in service. It reveals a practical attitude of wanting to confirm the 'fastest possible' schedule as a condition for a transaction before making an important decision.",
+        "es": "Esta oración ilustra bien una característica de la sociedad coreana que valora la rapidez en el servicio. Revela una actitud práctica de querer confirmar el horario 'lo más rápido posible' como condición para una transacción antes de tomar una decisión importante.",
+        "id": "Kalimat ini dengan baik menggambarkan karakteristik masyarakat Korea yang menghargai kecepatan dalam pelayanan. Ini menunjukkan sikap praktis ingin mengonfirmasi jadwal 'secepat mungkin' sebagai syarat transaksi sebelum membuat keputusan penting.",
+        "jp": "この文章は、サービスの速さを重要視する韓国社会の特徴をよく示しています。重要な決定を下す前に、「できるだけ早く」可能な日程をまず確認し、取引の条件としようとする実用的な態度が見られます。",
+        "ko": "이 문장은 서비스의 속도를 중요하게 여기는 한국 사회의 특징을 잘 보여줍니다. 중요한 결정을 내리기 전에 '최대한 빨리' 가능한 일정을 먼저 확인하여 거래의 조건으로 삼으려는 실용적인 태도가 엿보입니다.",
+        "vi": "Câu này thể hiện rõ đặc điểm của xã hội Hàn Quốc coi trọng tốc độ dịch vụ. Nó cho thấy thái độ thực dụng muốn xác nhận lịch trình 'nhanh nhất có thể' trước khi đưa ra quyết định quan trọng, coi đó là điều kiện cho giao dịch."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Let's get them out before it gets more dangerous.",
+        "es": "Saquémoslos antes de que sea más peligroso.",
+        "id": "Ayo kita keluarkan mereka sebelum menjadi lebih berbahaya.",
+        "jp": "もっと危険になる前に助け出そう。",
+        "ko": "더 위험해지기 전에 빼내자.",
+        "vi": "Hãy đưa họ ra trước khi mọi chuyện trở nên nguy hiểm hơn."
+      },
+      "end_time": 54.0,
+      "start_time": 50.0,
+      "vocabulary": [
+        {
+          "word": "위험하다",
+          "meanings": {
+            "en": "to be dangerous",
+            "es": "ser peligroso",
+            "id": "berbahaya",
+            "jp": "危険だ",
+            "vi": "nguy hiểm"
+          }
+        },
+        {
+          "word": "-자",
+          "meanings": {
+            "en": "Let's (suggestion, informal)",
+            "es": "Hagamos (sugerencia, informal)",
+            "id": "Ayo (saran, informal)",
+            "jp": "～しよう (提案、親しい間柄で)",
+            "vi": "hãy (đề xuất, thân mật)"
+          }
+        },
+        {
+          "word": "빼내다",
+          "meanings": {
+            "en": "to extract, to pull out, to rescue (from difficulty)",
+            "es": "sacar, rescatar",
+            "id": "mengeluarkan, menyelamatkan",
+            "jp": "助け出す、引き出す",
+            "vi": "đưa ra ngoài, giải cứu"
+          }
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "'-자' is an expression used among close friends or colleagues to suggest doing something together. Especially, '빼내다' carries a strong nuance of 'rescuing' a person or object from difficulty, often used in urgent crisis situations in movies or dramas.",
+        "es": "'-자' es una expresión utilizada entre amigos cercanos o colegas para sugerir hacer algo juntos. Especialmente, '빼내다' tiene un fuerte matiz de 'rescatar' a una persona u objeto de una dificultad, usándose a menudo en situaciones de crisis urgentes en películas o dramas.",
+        "id": "'-자' adalah ungkapan yang digunakan di antara teman dekat atau kolega untuk menyarankan melakukan sesuatu bersama. Terutama, '빼내다' memiliki nuansa kuat 'menyelamatkan' seseorang atau objek dari kesulitan, sering digunakan dalam situasi krisis mendesak di film atau drama.",
+        "jp": "「-자」は、友人や同僚のように親しい間で何かを一緒にしようと提案する表現です。特に「빼내다」は、困難な状況にある人や物を「救い出す」というニュアンスが強く、映画やドラマの緊迫した危機的状況でよく使われるセリフです。",
+        "ko": "'-자'는 친구나 동료처럼 가까운 사이에서 함께 무언가를 하자고 제안하는 표현입니다. 특히 '빼내다'는 곤경에 처한 사람이나 물건을 '구해낸다'는 뉘앙스가 강해서, 보통 영화나 드라마의 긴박한 위기 상황에서 자주 쓰이는 대사입니다.",
+        "vi": "'-자' là một cách diễn đạt được sử dụng giữa bạn bè hoặc đồng nghiệp thân thiết để gợi ý cùng nhau làm điều gì đó. Đặc biệt, '빼내다' mang sắc thái mạnh mẽ của việc 'giải cứu' một người hoặc vật khỏi khó khăn, thường được sử dụng trong các tình huống khủng hoảng khẩn cấp trong phim hoặc kịch."
+      }
+    }
+  ]
+}

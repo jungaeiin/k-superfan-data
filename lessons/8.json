@@ -2,254 +2,260 @@
   "quiz": {
     "options": [
       {
-        "en": "One iced Americano, please.",
-        "jp": "アイスアメリカーノを一杯ください。",
-        "ko": "아이스 아메리카노 한 잔 주세요.",
-        "vi": "Cho tôi một ly Americano đá."
+        "en": "Overly confident and somewhat arrogant, believing himself to be superior.",
+        "es": "Demasiado seguro de sí mismo y algo arrogante, creyendo ser superior.",
+        "id": "Sangat percaya diri dan agak sombong, percaya bahwa dirinya superior.",
+        "jp": "自信に満ち、やや傲慢で、自分自身が優れていると考えている。",
+        "ko": "자신감이 넘치고 다소 거만하며, 스스로가 우월하다고 생각한다.",
+        "vi": "Tự tin thái quá và có phần kiêu ngạo, cho rằng mình ưu việt."
       },
       {
-        "en": "Come when the buzzer vibrates.",
-        "jp": "呼び出しベルが鳴ったら来てください。",
-        "ko": "진동벨 울리면 오세요.",
-        "vi": "Hãy đến khi chuông báo rung."
+        "en": "Humble and shy, preferring to avoid attention.",
+        "es": "Humilde y tímido, prefiriendo evitar la atención.",
+        "id": "Rendah hati dan pemalu, lebih suka menghindari perhatian.",
+        "jp": "謙虚で内向的で、注目されるのを嫌う。",
+        "ko": "겸손하고 수줍음이 많으며, 주목받는 것을 꺼려한다.",
+        "vi": "Khiêm tốn và nhút nhát, thích tránh sự chú ý."
       },
       {
-        "en": "I'll help you with the payment.",
-        "jp": "お会計をどうぞ。",
-        "ko": "결제 도와드리겠습니다.",
-        "vi": "Tôi sẽ giúp bạn thanh toán."
+        "en": "Confused and unsure about his own identity.",
+        "es": "Confundido e inseguro sobre su propia identidad.",
+        "id": "Bingung dan tidak yakin tentang identitasnya sendiri.",
+        "jp": "混乱しており、自分のアイデンティティに自信がない。",
+        "ko": "혼란스러워하며 자신의 정체성에 대해 확신이 없다.",
+        "vi": "Bối rối và không chắc chắn về danh tính của mình."
       },
       {
-        "en": "What size would you like?",
-        "jp": "サイズはどうなさいますか？",
-        "ko": "사이즈는 어떻게 할까요?",
-        "vi": "Bạn muốn cỡ nào ạ?"
+        "en": "Empathetic and deeply considerate of others.",
+        "es": "Empático y muy considerado con los demás.",
+        "id": "Empati dan sangat perhatian terhadap orang lain.",
+        "jp": "他人に共感し、思いやりが深い。",
+        "ko": "타인에게 공감하며 배려심이 깊다.",
+        "vi": "Đồng cảm và rất quan tâm đến người khác."
       }
     ],
     "question": {
-      "en": "What is the correct expression to ask for 'one iced Americano' at a cafe?",
-      "jp": "カフェで「アイスアメリカーノを一杯」を頼む時、正しい表現はどれですか？",
-      "ko": "카페에서 '아이스 아메리카노 한 잔'을 달라고 할 때 올바른 표현은 무엇인가요?",
-      "vi": "Biểu hiện đúng để gọi 'một ly Americano đá' tại quán cà phê là gì?"
+      "en": "What kind of personality can be inferred about Kang Si-yeol from his lines \"I am so proud that I am me\" and \"You don't know the world's best Kang Si-yeol? Are you messing with me?\"",
+      "es": "¿Qué tipo de personalidad se puede inferir de Kang Si-yeol a partir de sus líneas \"Estoy tan orgulloso de ser yo mismo\" y \"¿No conoces al mejor Kang Si-yeol del mundo? ¿Me estás tomando el pelo?\"?",
+      "id": "Kepribadian seperti apa yang bisa disimpulkan tentang Kang Si-yeol dari ucapannya \"Aku sangat bangga bahwa aku adalah diriku sendiri\" dan \"Kau tidak tahu Kang Si-yeol terbaik di dunia? Apa kau bercanda denganku?\"",
+      "jp": "カン・シヨルのセリフ「私が私であることがとても誇らしい」と「世界最高のカン・シヨルを知らないのか？今、ふざけているのか？」から推測できる彼の性格は何でしょうか？",
+      "ko": "강시열의 대사 \"나는 내가 나인게 너무 자랑스러워\"와 \"세계 최고 강시열 몰라요? 너 지금 장난쳐?\"를 통해 엿볼 수 있는 그의 성격은 무엇일까요?",
+      "vi": "Qua những câu thoại của Kang Si-yeol như \"Tôi rất tự hào vì tôi là chính tôi\" và \"Cậu không biết Kang Si-yeol giỏi nhất thế giới sao? Cậu đang đùa à?\", tính cách của anh ấy có thể được suy ra là gì?"
     },
     "answer_index": 0
   },
   "metadata": {
     "titles": {
-      "en": "Ordering Coffee at a Korean Cafe",
-      "jp": "韓国のカフェでコーヒーを注文する",
-      "ko": "한국 카페에서 커피 주문하기",
-      "vi": "Gọi cà phê tại quán cà phê Hàn Quốc"
+      "en": "No tail, to Tell (2026)",
+      "es": "Humana por accidente (2026)",
+      "id": "No tail, to Tell (2026)",
+      "jp": "No tail, to Tell (2026)",
+      "ko": "오늘부터 인간입니다만 (2026) 공식 예고편 ",
+      "vi": "Từ Hôm Nay, Tôi Là Con Người (2026)"
     },
-    "thumbnail": "https://img.youtube.com/vi/AJHDbT2Mgnc/hqdefault.jpg",
     "categories": {
-      "en": "Daily Korean",
-      "jp": "生活韓国語",
-      "ko": "생활 한국어",
-      "vi": "Tiếng Hàn sinh hoạt"
+      "en": "Drama, Comedy, Gumiho",
+      "es": "Drama, Comedia, Gumiho",
+      "id": "Drama, Komedi, Gumiho",
+      "jp": "ドラマ、コメディ、九尾狐",
+      "ko": "드라마, 코미디, 구미호",
+      "vi": "Phim truyền hình, Hài kịch, Gumiho"
     },
     "difficulty": 1,
-    "youtube_id": "AJHDbT2Mgnc",
-    "youtube_url": "https://www.youtube.com/watch?v=AJHDbT2Mgnc"
+    "youtube_id": "V2qn8E7PB0c",
+    "youtube_url": "https://www.youtube.com/watch?v=V2qn8E7PB0c"
   },
   "learning_sections": [
     {
       "scripts": {
-        "en": "Hello. I'd like to order.",
-        "jp": "こんにちは。注文します。",
-        "ko": "안녕하세요. 주문할게요.",
-        "vi": "Xin chào. Tôi muốn gọi món."
+        "en": "What is this beast practicing the Way doing here?\nSo, become human quickly?",
+        "es": "¿Qué está haciendo aquí esta bestia que practica el camino espiritual?\n¿Entonces, conviértete en humano rápidamente?",
+        "id": "Binatang yang berlatih spiritual ini sedang apa di sini?\nJadi, cepatlah menjadi manusia?",
+        "jp": "道徳を修める獣がここで一体何をしているのだ。\nだから、早く人間になれと？",
+        "ko": "도 닦는 짐승이 여기서 대체 뭘 하고 있는게냐.\n그래서, 얼른 인간이 돼라? ",
+        "vi": "Con thú tu luyện đạo hạnh này đang làm gì ở đây vậy?\nThế nên, hãy mau chóng trở thành con người?"
       },
-      "end_time": 7.8,
-      "start_time": 5.2,
+      "end_time": 9.0,
+      "start_time": 3.0,
       "vocabulary": [
         {
-          "word": "주문하다",
+          "word": "도 닦다",
           "meanings": {
-            "en": "to order",
-            "jp": "注文する",
-            "vi": "gọi món, đặt hàng"
+            "en": "to practice the Way, to cultivate oneself (spiritually)",
+            "es": "practicar el camino espiritual, cultivarse",
+            "id": "berlatih spiritual, mengkultivasi diri",
+            "jp": "道徳を修める、修行する",
+            "vi": "tu luyện đạo hạnh"
           }
         },
         {
-          "word": "-ㄹ게요",
+          "word": "짐승",
           "meanings": {
-            "en": "I will... (expresses speaker's intention)",
-            "jp": "～しますね (話者の意志を表す)",
-            "vi": "Tôi sẽ... (thể hiện ý định của người nói)"
+            "en": "beast, animal",
+            "es": "bestia, animal",
+            "id": "binatang, hewan",
+            "jp": "獣、動物",
+            "vi": "thú, súc vật"
+          }
+        },
+        {
+          "word": "인간이 되다",
+          "meanings": {
+            "en": "to become human",
+            "es": "convertirse en humano",
+            "id": "menjadi manusia",
+            "jp": "人間になる",
+            "vi": "trở thành con người"
           }
         }
       ],
       "section_num": 1,
       "cultural_note": {
-        "en": "'-ㄹ게요' is a polite expression used to state one's intention. It's frequently used when ordering at a store.",
-        "jp": "「-ㄹ게요」は自分の意志を表す際に使う丁寧な表現です。店で注文する時によく使われます。",
-        "ko": "'-ㄹ게요'는 자신의 의지를 나타낼 때 사용하는 공손한 표현입니다. 가게에서 주문할 때 자주 사용돼요.",
-        "vi": "'-ㄹ게요' là một biểu hiện lịch sự được sử dụng để thể hiện ý định của bản thân. Nó thường được sử dụng khi gọi món ở cửa hàng."
+        "en": "A 'beast practicing the Way' refers to an animal in Korean folklore that aims to become human through spiritual training. 'Become human quickly' means to achieve that goal promptly.",
+        "es": "'Bestia que practica el camino' se refiere a un animal en el folklore coreano que busca convertirse en humano a través del entrenamiento espiritual. 'Conviértete en humano rápidamente' significa alcanzar ese objetivo sin demora.",
+        "id": "'Binatang yang berlatih spiritual' mengacu pada hewan dalam cerita rakyat Korea yang bertujuan untuk menjadi manusia melalui latihan spiritual. 'Cepatlah menjadi manusia' berarti mencapai tujuan itu dengan segera.",
+        "jp": "「道徳を修める獣」とは、韓国の説話において、修練を通じて人間になろうとする動物を指す言葉であり、「早く人間になれ」とは、その目標を迅速に達成せよという意味です。",
+        "ko": "도 닦는 짐승은 한국 설화에서 수련을 통해 인간이 되려는 동물을 일컫는 말이며, 인간이 되라는 것은 그 목표를 빨리 이루라는 뜻입니다.",
+        "vi": "‘Con thú tu luyện đạo hạnh’ là một cụm từ trong thần thoại Hàn Quốc chỉ một loài động vật cố gắng trở thành người thông qua việc tu luyện. ‘Hãy mau chóng trở thành con người’ có nghĩa là nhanh chóng đạt được mục tiêu đó."
       }
     },
     {
       "scripts": {
-        "en": "One iced Americano, please.",
-        "jp": "アイスアメリカーノを一杯ください。",
-        "ko": "아이스 아메리카노 한 잔 주세요.",
-        "vi": "Cho tôi một ly Americano đá."
+        "en": "I am Kang Si-yeol.\nI am so proud that I am me.",
+        "es": "Soy Kang Si-yeol.\nEstoy tan orgulloso de ser yo mismo.",
+        "id": "Aku Kang Si-yeol.\nAku sangat bangga bahwa aku adalah diriku sendiri.",
+        "jp": "私はカン・シヨルだ。\n私が私であることがとても誇らしい。",
+        "ko": "나 강시열이야. \n나는 내가 나인게 너무 자랑스러워.",
+        "vi": "Tôi là Kang Si-yeol.\nTôi rất tự hào vì tôi là chính tôi."
       },
-      "end_time": 11.5,
-      "start_time": 9,
+      "end_time": 21.0,
+      "start_time": 11.0,
       "vocabulary": [
         {
-          "word": "아이스 아메리카노",
+          "word": "강시열",
           "meanings": {
-            "en": "Iced Americano",
-            "jp": "アイスアメリカーノ",
-            "vi": "Americano đá"
+            "en": "Kang Si-yeol (a name)",
+            "es": "Kang Si-yeol (nombre propio)",
+            "id": "Kang Si-yeol (nama orang)",
+            "jp": "カン・シヨル（人名）",
+            "vi": "Kang Si-yeol (tên riêng)"
           }
         },
         {
-          "word": "한 잔",
+          "word": "자랑스럽다",
           "meanings": {
-            "en": "one cup/glass",
-            "jp": "一杯",
-            "vi": "một ly"
-          }
-        },
-        {
-          "word": "주세요",
-          "meanings": {
-            "en": "Please give me...",
-            "jp": "ください",
-            "vi": "Làm ơn cho tôi..."
+            "en": "to be proud",
+            "es": "estar orgulloso",
+            "id": "bangga",
+            "jp": "誇らしい",
+            "vi": "tự hào"
           }
         }
       ],
       "section_num": 2,
       "cultural_note": {
-        "en": "In Korea, Iced Americano is often shortened to 'Ah-Ah' (아아). It's one of the most popular coffee drinks among Koreans.",
-        "jp": "韓国ではアイスアメリカーノを略して「アア(아아)」と呼ぶことが多いです。韓国人が最も好むコーヒーの一つです。",
-        "ko": "한국에서는 아이스 아메리카노를 줄여서 '아아'라고 부르는 경우가 많습니다. 한국인들이 가장 좋아하는 커피 중 하나예요.",
-        "vi": "Ở Hàn Quốc, Iced Americano thường được viết tắt là 'A-A' (아아). Đây là một trong những loại cà phê được người Hàn Quốc yêu thích nhất."
+        "en": "This line uses informal expressions like '나' (I) to create a friendly and comfortable atmosphere, while also showing strong self-pride and a confident attitude. However, people often find it annoying or arrogant.",
+        "es": "Esta frase utiliza expresiones informales como '나' (yo) para crear un ambiente cercano y cómodo, al mismo tiempo que muestra un fuerte orgullo personal y una actitud segura. Sin embargo, a menudo se percibe como arrogante o molesto.",
+        "id": "Baris ini menggunakan ekspresi informal seperti '나' (aku) untuk menciptakan suasana yang akrab dan nyaman, sekaligus menunjukkan harga diri yang kuat dan sikap percaya diri. Namun, orang sering merasa itu menjengkelkan atau sombong.",
+        "jp": "「나（私）」のような非公式な表現を用いて、親しみやすく気楽な雰囲気を示し、自分自身に対する強いプライドと堂々とした態度を表すセリフです。しかし、一般的には生意気だと感じられます。",
+        "ko": "\"나\"와 같은 비격식적 표현을 사용하여 친근하고 편안한 분위기를 나타내며, 자신에 대한 강한 자부심과 당당한 태도를 드러내는 대사입니다. 하지만 보통 재수없다고 느낍니다.",
+        "vi": "Câu thoại này sử dụng cách diễn đạt thân mật như '나' (tôi) để tạo không khí gần gũi và thoải mái, đồng thời thể hiện lòng tự hào mạnh mẽ và thái độ tự tin về bản thân. Tuy nhiên, thường thì người nghe sẽ cảm thấy khó chịu hoặc kiêu ngạo."
       }
     },
     {
       "scripts": {
-        "en": "What size would you like?",
-        "jp": "サイズはどうなさいますか？",
-        "ko": "사이즈는 어떻게 해드릴까요?",
-        "vi": "Bạn muốn cỡ nào ạ?"
+        "en": "Didn't I tell you? I decide the method.\nYou don't know the world's best Kang Si-yeol? Are you messing with me?",
+        "es": "¿No te lo dije? Yo decido el método.\n¿No conoces al mejor Kang Si-yeol del mundo? ¿Me estás tomando el pelo?",
+        "id": "Bukankah aku sudah memberitahumu? Aku yang menentukan caranya.\nKau tidak tahu Kang Si-yeol terbaik di dunia? Apa kau bercanda denganku?",
+        "jp": "私が言わなかったか？ 方法は私が決めると。\n世界最高のカン・シヨルを知らないのか？ 今、ふざけているのか？",
+        "ko": "내가 말하지 않았나? 방식은 내가 정한다고.\n세계 최고 강시열 몰라요? 너 지금 장난쳐?",
+        "vi": "Tôi đã nói rồi mà? Tôi quyết định cách thức.\nKhông biết Kang Si-yeol giỏi nhất thế giới sao? Cậu đang đùa à?"
       },
-      "end_time": 15.6,
-      "start_time": 13.2,
+      "end_time": 36.0,
+      "start_time": 29.0,
       "vocabulary": [
         {
-          "word": "사이즈",
+          "word": "방식",
           "meanings": {
-            "en": "size",
-            "jp": "サイズ",
-            "vi": "cỡ, kích thước"
+            "en": "method, way",
+            "es": "método, manera",
+            "id": "metode, cara",
+            "jp": "方式、方法",
+            "vi": "cách thức, phương thức"
           }
         },
         {
-          "word": "어떻게",
+          "word": "정하다",
           "meanings": {
-            "en": "how",
-            "jp": "どのように",
-            "vi": "như thế nào"
+            "en": "to decide, to set",
+            "es": "decidir, establecer",
+            "id": "menentukan, menetapkan",
+            "jp": "決める、定める",
+            "vi": "quyết định, định ra"
           }
         },
         {
-          "word": "-해 드릴까요?",
+          "word": "장난치다",
           "meanings": {
-            "en": "Shall I do... for you?",
-            "jp": "～致しましょうか？",
-            "vi": "Để tôi làm... cho bạn nhé?"
+            "en": "to joke, to mess around, to play a trick",
+            "es": "bromear, tomar el pelo",
+            "id": "bercanda, main-main",
+            "jp": "ふざける、いたずらする",
+            "vi": "đùa giỡn, giỡn mặt"
           }
         }
       ],
       "section_num": 3,
       "cultural_note": {
-        "en": "This is a very polite expression used by staff when offering something or asking a customer a question.",
-        "jp": "店員が客に何かを提案したり尋ねたりする際に使う、非常に丁寧な表現です。",
-        "ko": "가게 직원이 손님에게 무언가를 제안하거나 물어볼 때 사용하는 매우 공손한 표현입니다.",
-        "vi": "Đây là một biểu hiện rất lịch sự được nhân viên sử dụng khi đề nghị hoặc hỏi khách hàng điều gì đó."
+        "en": "'Don't you know the world's best Kang Si-yeol?' is a way for the speaker to express surprise or displeasure that the other person doesn't know Kang Si-yeol, whom the speaker considers a very famous and outstanding individual. This can carry a nuance of reprimanding or mocking the other person's ignorance.",
+        "es": "¿No conoces al mejor Kang Si-yeol del mundo?' es una forma en que el hablante expresa sorpresa o disgusto porque la otra persona no conoce a Kang Si-yeol, a quien el hablante considera una persona muy famosa y destacada. Esto puede llevar un matiz de reproche o burla hacia la ignorancia de la otra persona.",
+        "id": "'Kau tidak tahu Kang Si-yeol terbaik di dunia?' adalah cara bagi pembicara untuk menyatakan keterkejutan atau ketidaksenangan bahwa orang lain tidak tahu Kang Si-yeol, yang dianggap pembicara sebagai individu yang sangat terkenal dan luar biasa. Ini dapat membawa nuansa menyalahkan atau mengejek ketidaktahuan orang lain.",
+        "jp": "「世界最高のカン・シヨルを知らないのか？」は、話し手がカン・シヨルを非常に有名で優れた人物と考えており、相手が彼を知らないことに対して驚きや不快感を表現する方法です。これは、相手の無知を非難したり嘲笑したりするニュアンスを含みます。",
+        "ko": "\"세계 최고 강시열 몰라요?\"는 화자가 강시열을 매우 유명하고 뛰어난 인물로 여기며, 상대방이 그를 모르는 것에 대해 놀라움이나 불쾌감을 표현하는 방식입니다. 이는 상대방의 무지를 질책하거나 조롱하는 뉘앙스를 담을 수 있습니다.",
+        "vi": "'Không biết Kang Si-yeol giỏi nhất thế giới sao?' là cách người nói bày tỏ sự ngạc nhiên hoặc khó chịu khi đối phương không biết Kang Si-yeol, người mà người nói coi là rất nổi tiếng và xuất chúng. Điều này có thể mang hàm ý trách móc hoặc chế giễu sự thiếu hiểu biết của đối phương."
       }
     },
     {
       "scripts": {
-        "en": "Okay, I'll help you with the payment.",
-        "jp": "はい、お会計をどうぞ。",
-        "ko": "네, 결제 도와드리겠습니다.",
-        "vi": "Vâng, tôi sẽ giúp bạn thanh toán."
+        "en": "It's because of you. I! Became human...",
+        "es": "Es por tu culpa. ¡Yo! Me he convertido en humano...",
+        "id": "Ini karena kamu. Aku! Menjadi manusia...",
+        "jp": "お前のせいだ。私が！人間になった…",
+        "ko": "너 때문이네. 내가! 인간이 됐어...",
+        "vi": "Là tại cậu. Tôi! Đã trở thành con người..."
       },
-      "end_time": 19,
-      "start_time": 16.5,
+      "end_time": 48.0,
+      "start_time": 41.8,
       "vocabulary": [
         {
-          "word": "결제",
+          "word": "~때문이다",
           "meanings": {
-            "en": "payment",
-            "jp": "決済、支払い",
-            "vi": "thanh toán"
+            "en": "to be because of ~",
+            "es": "es por ~, es a causa de ~",
+            "id": "adalah karena ~",
+            "jp": "～のせいだ、～のためだ",
+            "vi": "là vì ~, tại ~"
           }
         },
         {
-          "word": "도와드리다",
+          "word": "되다",
           "meanings": {
-            "en": "to help (honorific)",
-            "jp": "お手伝いする (謙譲語)",
-            "vi": "giúp đỡ (kính ngữ)"
+            "en": "to become",
+            "es": "convertirse, llegar a ser",
+            "id": "menjadi",
+            "jp": "～になる",
+            "vi": "trở thành, được"
           }
         }
       ],
       "section_num": 4,
       "cultural_note": {
-        "en": "'도와드리겠습니다' is the honorific form of '도와주다'. While it literally means 'I will help you', in this context it means 'I will process your payment'.",
-        "jp": "「도와드리겠습니다」は「도와주다」の謙譲語で、直訳すると「お手伝いします」ですが、ここでは「お会計を処理します」という意味で使われます。",
-        "ko": "'도와드리겠습니다'는 '도와주다'의 높임말로, 직역하면 'I will help you'이지만 여기서는 'I will process your payment'라는 의미로 쓰입니다.",
-        "vi": "'도와드리겠습니다' là dạng kính ngữ của '도와주다'. Mặc dù nghĩa đen là 'tôi sẽ giúp bạn', trong ngữ cảnh này nó có nghĩa là 'tôi sẽ tiến hành thanh toán cho bạn'."
-      }
-    },
-    {
-      "scripts": {
-        "en": "Please come get it when the buzzer vibrates.",
-        "jp": "呼び出しベルが鳴ったら取りに来てください。",
-        "ko": "진동벨 울리면 가지러 오세요.",
-        "vi": "Khi chuông báo rung, xin mời đến lấy ạ."
-      },
-      "end_time": 22.3,
-      "start_time": 20.1,
-      "vocabulary": [
-        {
-          "word": "진동벨",
-          "meanings": {
-            "en": "vibrating buzzer/pager",
-            "jp": "呼び出しベル",
-            "vi": "chuông báo rung"
-          }
-        },
-        {
-          "word": "울리다",
-          "meanings": {
-            "en": "to ring, to vibrate",
-            "jp": "鳴る",
-            "vi": "rung, reo"
-          }
-        },
-        {
-          "word": "가지러 오다",
-          "meanings": {
-            "en": "to come to get/pick up",
-            "jp": "取りに来る",
-            "vi": "đến lấy"
-          }
-        }
-      ],
-      "section_num": 5,
-      "cultural_note": {
-        "en": "Many cafes and restaurants in Korea give you a vibrating pager after you order. The pager will ring or vibrate to let you know when your drink or food is ready.",
-        "jp": "韓国の多くのカフェやレストランでは、注文後に呼び出しベルを渡されます。飲み物や食べ物の準備ができると、ベルが鳴ったり振動したりして知らせてくれます。",
-        "ko": "한국의 많은 카페와 식당에서는 주문 후 진동벨을 줍니다. 음료나 음식이 준비되면 벨이 울리거나 진동하여 알려줍니다.",
-        "vi": "Nhiều quán cà phê và nhà hàng ở Hàn Quốc sẽ đưa cho bạn một thiết bị báo rung sau khi gọi món. Thiết bị sẽ rung hoặc reo lên để báo cho bạn biết khi đồ uống hoặc thức ăn của bạn đã sẵn sàng."
+        "en": "'It's because of you' is an expression used when the cause of a result or event is attributed to the other person.",
+        "es": "'Es por tu culpa' es una expresión que se utiliza cuando la causa de un resultado o evento se atribuye a la otra persona.",
+        "id": "'Ini karena kamu' adalah ungkapan yang digunakan ketika penyebab suatu hasil atau peristiwa dikaitkan dengan orang lain.",
+        "jp": "「너 때문이네（お前のせいだ）」は、結果や出来事の原因が相手にあるときに使う表現です。",
+        "ko": "'너 때문이네' 는 결과나 사건의 원인이 상대방에게 있을 때 사용하는 의미입니다.",
+        "vi": "'Là tại cậu' là một cách diễn đạt được sử dụng khi nguyên nhân của một kết quả hoặc sự việc được cho là do đối phương."
       }
     }
   ]

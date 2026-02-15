@@ -2,192 +2,174 @@
   "quiz": {
     "options": [
       {
-        "en": "Politely suggesting something.",
-        "jp": "何かを丁寧に提案すること",
-        "ko": "어떤 것에 대해 정중하게 제안하는 것",
-        "vi": "Lịch sự đề xuất một điều gì đó."
+        "en": "He has the ability to resurrect the dead.",
+        "es": "Tiene la habilidad de resucitar a los muertos.",
+        "id": "Dia memiliki kemampuan untuk membangkitkan orang mati.",
+        "jp": "彼には死者を蘇らせる能力がある。",
+        "ko": "그가 죽은 사람을 부활시키는 능력이 있다.",
+        "vi": "Anh ấy có khả năng hồi sinh người chết."
       },
       {
-        "en": "Gently conveying a minor warning.",
-        "jp": "軽微な警告を優しく伝えること",
-        "ko": "사소한 경고를 부드럽게 전달하는 것",
-        "vi": "Nhẹ nhàng truyền đạt một lời cảnh báo nhỏ."
+        "en": "It emphasizes that his monitoring ability and authority are extremely powerful and fear-inducing.",
+        "es": "Enfatiza que su capacidad de vigilancia y autoridad son extremadamente poderosas e infunden miedo.",
+        "id": "Ini menekankan bahwa kemampuan pengawasan dan otoritasnya sangat kuat dan menakutkan.",
+        "jp": "彼の監視能力と権力が非常に強大で恐ろしいことを強調している。",
+        "ko": "그의 감시 능력과 권력이 매우 막강하며 두렵다는 것을 강조한다.",
+        "vi": "Nó nhấn mạnh rằng khả năng giám sát và quyền lực của anh ấy cực kỳ mạnh mẽ và đáng sợ."
       },
       {
-        "en": "An aggressive threat for disobedience.",
-        "jp": "不服従に対する攻撃的な脅し",
-        "ko": "불복종에 대한 공격적인 위협",
-        "vi": "Một lời đe dọa hung hăng cho hành vi bất tuân."
+        "en": "It means he has a deep knowledge of archaeology.",
+        "es": "Significa que tiene un profundo conocimiento de la arqueología.",
+        "id": "Itu berarti dia memiliki pengetahuan mendalam tentang arkeologi.",
+        "jp": "彼が考古学に造詣が深いことを意味する。",
+        "ko": "그가 고고학에 조예가 깊다는 것을 의미한다.",
+        "vi": "Nó có nghĩa là anh ấy có kiến thức sâu rộng về khảo cổ học."
       },
       {
-        "en": "Teaching how to quickly search for something.",
-        "jp": "物を素早く探す方法を教えること",
-        "ko": "물건을 빨리 찾는 방법을 가르치는 것",
-        "vi": "Dạy cách tìm kiếm thứ gì đó thật nhanh."
+        "en": "He has experience rescuing many people in the past.",
+        "es": "Tiene experiencia rescatando a muchas personas en el pasado.",
+        "id": "Dia memiliki pengalaman menyelamatkan banyak orang di masa lalu.",
+        "jp": "彼には過去に多くの人々を救出した経験がある。",
+        "ko": "그가 과거에 많은 사람을 구출한 경험이 있다.",
+        "vi": "Anh ấy có kinh nghiệm giải cứu nhiều người trong quá khứ."
       }
     ],
     "question": {
-      "en": "In a Korean drama, when the line \"대들면 뒤진다\" is used, what is the most important nuance conveyed by this expression?",
-      "jp": "韓国ドラマで「대들면 뒤진다」というセリフが使われるとき、この表現が伝える最も重要なニュアンスは何ですか？",
-      "ko": "한국 드라마에서 \"대들면 뒤진다\"라는 대사가 사용될 때, 이 표현이 전달하는 가장 중요한 뉘앙스는 무엇인가요?",
-      "vi": "Trong phim truyền hình Hàn Quốc, khi câu thoại \"대들면 뒤진다\" được sử dụng, sắc thái quan trọng nhất mà biểu hiện này truyền tải là gì?"
+      "en": "What does the phrase \"Comrade Park Geon, who is said to even catch the dead,\" primarily imply about Comrade Park Geon?",
+      "es": "¿Qué implica principalmente la frase \"el camarada Park Geon, de quien se dice que incluso atrapa a los muertos\" sobre el camarada Park Geon?",
+      "id": "Apa yang paling utama diisyaratkan oleh frasa \"Kawan Park Geon, yang katanya bisa menangkap orang mati sekalipun\" tentang Kawan Park Geon dalam percakapan tersebut?",
+      "jp": "会話で言及された「死んだ人も捕まえるというパク・ゴン同志」という表現が、パク・ゴン同志について最も重要に示唆することは何ですか？",
+      "ko": "대화에서 언급된 \"죽은 사람도 잡아온다는 박건 동무\"라는 표현이 박건 동무에 대해 가장 중요하게 시사하는 바는 무엇입니까?",
+      "vi": "Cụm từ \"Đồng chí Park Geon, người được cho là có thể bắt cả người chết\" được nhắc đến trong đoạn hội thoại chủ yếu ngụ ý điều gì về Đồng chí Park Geon?"
     },
-    "answer_index": 2
+    "answer_index": 1
   },
   "metadata": {
     "titles": {
-      "en": "Talk Back, You're Dead",
-      "jp": "逆らえば死ぬぞ",
-      "ko": "대들면 뒤진다",
-      "vi": "Cãi lời là chết đấy"
+      "en": "Humint | Trailer",
+      "es": "Humint | Tráiler",
+      "id": "Humint | Trailer",
+      "jp": "ヒューミント | 予告編",
+      "ko": "휴민트 | 예고편",
+      "vi": "Humint | Đoạn giới thiệu"
     },
-    "thumbnail": "https://img.youtube.com/vi/ILdCDuJsEHU/hqdefault.jpg",
     "categories": {
-      "en": "Crime Drama, Strong Expressions, Informal Korean, Warnings and Threats",
-      "jp": "犯罪ドラマ、強い表現、非公式な韓国語、警告と脅威",
-      "ko": "범죄 드라마, 강한 표현, 비격식 한국어, 경고와 위협",
-      "vi": "Phim hình sự, Biểu cảm mạnh mẽ, Tiếng Hàn không trang trọng, Cảnh báo và Đe dọa"
+      "en": "Movie, Action, Inter-Korean",
+      "es": "Película, Acción, Intercoreano",
+      "id": "Film, Aksi, Antar-Korea",
+      "jp": "映画, アクション, 南北",
+      "ko": "영화, 액션, 남북",
+      "vi": "Phim, Hành động, Liên Triều"
     },
-    "difficulty": 3,
-    "youtube_id": "ILdCDuJsEHU",
-    "youtube_url": "https://www.youtube.com/watch?v=ILdCDuJsEHU"
+    "difficulty": 1,
+    "youtube_id": "uKOYQ1e4lv4",
+    "youtube_url": "https://www.youtube.com/watch?v=uKOYQ1e4lv4"
   },
   "learning_sections": [
     {
       "scripts": {
-        "en": "You, listen carefully. If you disobey my words even once, I'll clearly show you what happens.",
-        "jp": "おい、よく聞け。俺の言葉に一度でも逆らったらどうなるか、はっきり見せてやる。",
-        "ko": "너, 잘 들어. 내 말 한 번이라도 거역하면 어떻게 되는지 똑똑히 보여줄게.",
-        "vi": "Mày, nghe cho rõ đây. Nếu mày cãi lời tao dù chỉ một lần, tao sẽ cho mày thấy rõ chuyện gì sẽ xảy ra."
+        "en": "If we decide today, what's the maximum number of days it will take to get it done?",
+        "es": "¿Si decidimos hoy, en cuántos días como máximo podría hacerlo?",
+        "id": "Jika diputuskan hari ini, paling lambat berapa hari bisa diselesaikan?",
+        "jp": "今日決定すれば、最大何日以内に完了していただけますか？",
+        "ko": "오늘 결정하면 최대 며칠 안에 빼내 주실 수 있겠습니까?",
+        "vi": "Nếu quyết định hôm nay, tối đa bao nhiêu ngày thì có thể hoàn thành?"
       },
-      "end_time": 7,
-      "start_time": 0,
+      "end_time": 10.0,
+      "start_time": 3.0,
       "vocabulary": [
         {
-          "word": "잘 듣다",
+          "word": "결정하다",
           "meanings": {
-            "en": "to listen carefully",
-            "jp": "よく聞く",
-            "vi": "nghe kỹ"
+            "en": "to decide, to determine",
+            "es": "decidir",
+            "id": "memutuskan",
+            "jp": "決定する",
+            "vi": "quyết định"
           }
         },
         {
-          "word": "거역하다",
+          "word": "최대",
           "meanings": {
-            "en": "to disobey, to defy",
-            "jp": "逆らう",
-            "vi": "cãi lời, bất tuân"
+            "en": "maximum, up to",
+            "es": "máximo",
+            "id": "maksimal",
+            "jp": "最大",
+            "vi": "tối đa"
           }
         },
         {
-          "word": "똑똑히",
+          "word": "빼내다",
           "meanings": {
-            "en": "clearly, distinctly",
-            "jp": "はっきりと",
-            "vi": "rõ ràng"
-          }
-        },
-        {
-          "word": "보여주다",
-          "meanings": {
-            "en": "to show",
-            "jp": "見せる",
-            "vi": "cho xem, chỉ ra"
+            "en": "to get something done, to complete a task (contextual meaning)",
+            "es": "completar, ejecutar (significado contextual)",
+            "id": "menyelesaikan, menuntaskan (makna kontekstual)",
+            "jp": "(依頼された事を)完了する、処理する",
+            "vi": "hoàn thành, xử lý (nghĩa theo ngữ cảnh)"
           }
         }
       ],
       "section_num": 1,
       "cultural_note": {
-        "en": "This line is often used by gang members or figures of authority when warning their subordinates. '잘 들어' (jal deureo) goes beyond simply \"listen\" and strongly carries the nuance of a severe warning.",
-        "jp": "このセリフは、主に暴力団や権威ある人物が部下に警告する際に使われます。「잘 들어 (jal deureo)」は単に「よく聞け」という意味を超え、強い警告のニュアンスを含んでいます。",
-        "ko": "이 대사는 주로 조직폭력배나 권위 있는 인물이 부하에게 경고할 때 사용됩니다. '잘 들어'는 단순히 들으라는 의미를 넘어 경고의 뉘앙스를 강하게 담고 있습니다.",
-        "vi": "Câu thoại này thường được dùng bởi các thành viên băng đảng hoặc nhân vật có quyền lực khi cảnh cáo cấp dưới. '잘 들어' (jal deureo) không chỉ có nghĩa là \"nghe kỹ\" mà còn mang sắc thái cảnh cáo mạnh mẽ."
+        "en": "While '빼내다' (ppaenaeda) originally means 'to take out' or 'to rescue,' here it is used in the sense of 'to process and complete a requested task (service or item) within a deadline.' Therefore, it is an expression asking about 'the duration until completion.'",
+        "es": "'빼내다' originalmente significa 'sacar' o 'rescatar', pero aquí se utiliza con el significado de 'procesar y completar una tarea solicitada (servicio o artículo) dentro de un plazo.' Por lo tanto, es una expresión que pregunta sobre 'el tiempo que tardará en completarse'.",
+        "id": "'빼내다' awalnya berarti 'mengeluarkan' atau 'menyelamatkan,' namun di sini digunakan dalam arti 'memproses dan menyelesaikan tugas yang diminta (layanan atau barang) dalam tenggat waktu.' Oleh karena itu, ini adalah ungkapan yang menanyakan tentang 'durasi hingga penyelesaian.'",
+        "jp": "「“빼내다”は本来「取り出す」または「救出する」という意味ですが、ここでは「依頼された事柄（サービスや物品）を期限内に処理して完成させる、または引き渡す」という意味で使用されます。したがって、「完了までにかかる期間」を問い合わせる表現です。",
+        "ko": "\"빼내다\"는 본래 '꺼내다' 또는 '구출하다'는 의미이지만, 여기서는 '요청한 일(서비스나 물품)을 기한 내에 처리하여 완성하거나 내어주다'는 뜻으로 사용됩니다. 따라서 '완료까지 걸리는 기간'을 문의하는 표현입니다.",
+        "vi": "'빼내다' ban đầu có nghĩa là 'lấy ra' hoặc 'giải cứu', nhưng ở đây nó được dùng với nghĩa 'xử lý và hoàn thành một việc được yêu cầu (dịch vụ hoặc vật phẩm) trong thời hạn.' Do đó, đây là một cách diễn đạt để hỏi về 'thời gian cần thiết để hoàn thành.'"
       }
     },
     {
       "scripts": {
-        "en": "Straighten up. Talk back, and you're dead. Understand?",
-        "jp": "まともにやれ。逆らえば死ぬぞ。分かったか？",
-        "ko": "똑바로 해. 대들면 뒤진다. 알아들어?",
-        "vi": "Làm cho tử tế vào. Cãi lời là chết đấy. Hiểu không?"
+        "en": "Comrade Park Geon, who is said to even catch the dead, has come to monitor me. Did you do anything that warrants monitoring?",
+        "es": "El camarada Park Geon, de quien se dice que incluso atrapa a los muertos, ha venido a vigilarme. ¿Hiciste algo que mereciera ser vigilado?",
+        "id": "Kawan Park Geon, yang katanya bisa menangkap orang mati sekalipun, datang untuk mengawasiku. Apa Anda melakukan sesuatu yang pantas diawasi?",
+        "jp": "死んだ人も捕まえるというパク・ゴン同志が私を監視しに来たのに、監視されるような行動でもしましたか？",
+        "ko": "죽은 사람도 잡아온다는 박건 동무가 날 감시하러 왔는데 \n감시 받을 행동이라도 하셨습니까?",
+        "vi": "Đồng chí Park Geon, người được cho là có thể bắt cả người chết, đã đến để giám sát tôi. Anh đã làm gì mà phải bị giám sát?"
       },
-      "end_time": 12,
-      "start_time": 8,
+      "end_time": 22.8,
+      "start_time": 15.0,
       "vocabulary": [
         {
-          "word": "똑바로 하다",
+          "word": "잡아오다",
           "meanings": {
-            "en": "to do correctly/straight, to behave properly",
-            "jp": "まともにやる、きちんとする",
-            "vi": "làm cho tử tế, cư xử đúng đắn"
+            "en": "to catch and bring (someone/something)",
+            "es": "atrapar y traer",
+            "id": "menangkap dan membawa",
+            "jp": "捕まえてくる",
+            "vi": "bắt và mang đến"
           }
         },
         {
-          "word": "대들다",
+          "word": "동무",
           "meanings": {
-            "en": "to talk back, to defy, to confront impolitely",
-            "jp": "逆らう、たてつく",
-            "vi": "cãi lời, chống đối"
+            "en": "comrade (North Korean term)",
+            "es": "camarada (término norcoreano)",
+            "id": "kawan, rekan (istilah Korea Utara)",
+            "jp": "同志 (北朝鮮での呼称)",
+            "vi": "đồng chí (thuật ngữ Bắc Triều Tiên)"
           }
         },
         {
-          "word": "뒤지다",
+          "word": "감시하다",
           "meanings": {
-            "en": "(vulgar/slang) to die, croak (a crude form of 죽다)",
-            "jp": "(俗語) 死ぬ、くたばる",
-            "vi": "(từ thô tục) chết, bỏ mạng"
-          }
-        },
-        {
-          "word": "알아듣다",
-          "meanings": {
-            "en": "to understand, comprehend",
-            "jp": "理解する、聞き分ける",
-            "vi": "hiểu, nghe hiểu"
+            "en": "to monitor, to watch, to surveil",
+            "es": "vigilar, monitorear",
+            "id": "mengawasi, memantau",
+            "jp": "監視する",
+            "vi": "giám sát"
           }
         }
       ],
       "section_num": 2,
       "cultural_note": {
-        "en": "'대들다' (daedeulda) is used when rudely protesting or rebelling against a superior. '뒤진다' (dwijinda) is a vulgar term for '죽다' (jukda - to die), used in very rough and threatening situations. It should absolutely not be used in daily life and is mainly employed in dramas or films to convey a character's intensity.",
-        "jp": "「대들다 (daedeulda)」は目上の人に無礼に抗議したり反抗したりする際に使う表現です。「뒤진다 (dwijinda)」は「죽다 (jukda - 死ぬ)」の俗語で、非常に荒々しく脅威的な状況で使われます。日常生活では決して使ってはいけません。主にドラマや映画でキャラクターの強烈さを表現する際に用いられます。",
-        "ko": "'대들다'는 윗사람에게 무례하게 항의하거나 반항할 때 쓰는 표현입니다. '뒤진다'는 '죽다'의 비속어로, 매우 거칠고 위협적인 상황에서 사용됩니다. 일상생활에서는 절대로 사용해서는 안 되며, 주로 드라마나 영화에서 캐릭터의 강렬함을 표현할 때 쓰입니다.",
-        "vi": "'대들다' (daedeulda) được dùng khi vô lễ phản đối hoặc chống đối người trên. '뒤진다' (dwijinda) là một từ tục tĩu của '죽다' (jukda - chết), được dùng trong những tình huống rất thô bạo và đe dọa. Tuyệt đối không nên dùng trong đời sống hàng ngày, chủ yếu được sử dụng trong phim truyền hình hoặc điện ảnh để thể hiện sự mạnh mẽ của nhân vật."
-      }
-    },
-    {
-      "scripts": {
-        "en": "Yes... I understand.",
-        "jp": "はい…分かりました。",
-        "ko": "예... 알겠습니다.",
-        "vi": "Vâng... tôi đã hiểu ạ."
-      },
-      "end_time": 14.5,
-      "start_time": 13,
-      "vocabulary": [
-        {
-          "word": "예",
-          "meanings": {
-            "en": "Yes (polite)",
-            "jp": "はい",
-            "vi": "vâng, dạ"
-          }
-        },
-        {
-          "word": "알겠습니다",
-          "meanings": {
-            "en": "I understand (polite and formal)",
-            "jp": "分かりました",
-            "vi": "tôi đã hiểu, tôi xin hiểu"
-          }
-        }
-      ],
-      "section_num": 3,
-      "cultural_note": {
-        "en": "This shows a subordinate's polite and submissive attitude towards a superior in an extremely threatening situation. '예' (ye) and '알겠습니다' (algesseumnida) are honorific expressions, contrasting with the superior's threatening demeanor and highlighting the hierarchical relationship.",
-        "jp": "極度の脅威を受けた状況で、部下が上司に示す丁寧で従順な態度を表します。「예 (ye)」と「알겠습니다 (algesseumnida)」は敬語で、相手の威圧的な態度と対照をなし、階層的な関係を示しています。",
-        "ko": "극심한 위협을 받은 상황에서 부하가 상관에게 보이는 정중하고 순종적인 태도를 나타냅니다. '예'와 '알겠습니다'는 존댓말로, 상대방의 위협적인 태도와 대조를 이루며 계층적 관계를 보여줍니다.",
-        "vi": "Điều này thể hiện thái độ lịch sự và phục tùng của cấp dưới đối với cấp trên trong tình huống bị đe dọa cực độ. '예' (ye) và '알겠습니다' (algesseumnida) là những cách nói kính ngữ, tạo sự tương phản với thái độ đe dọa của người trên và làm nổi bật mối quan hệ cấp bậc."
+        "en": "'Dongmu' (동무) is a title primarily used in North Korea, signifying the powerful authority and threatening atmosphere of the monitor. The expression 'even catches the dead' exaggerates the monitor's abilities to emphasize fear.",
+        "es": "'Dongmu' (동무) es un título utilizado principalmente en Corea del Norte, que significa la poderosa autoridad y la atmósfera amenazante del vigilante. La expresión 'incluso atrapa a los muertos' exagera las habilidades del vigilante para enfatizar el miedo.",
+        "id": "'Dongmu' (동무) adalah sapaan yang terutama digunakan di Korea Utara, melambangkan otoritas yang kuat dan suasana mengancam dari pengawas. Ungkapan 'bahkan menangkap orang mati' melebih-lebihkan kemampuan pengawas untuk menekankan ketakutan.",
+        "jp": "「동무（トンム）」は北朝鮮で主に使用される呼称で、監視者の強大な権力と威圧的な雰囲気を表します。「죽은 사람도 잡아온다（死んだ人も捕まえる）」という表現は、監視者の能力を誇張して恐怖を強調する言葉です。",
+        "ko": "'동무'는 북한에서 주로 사용되는 호칭으로, 감시자의 막강한 권력과 위협적인 분위기를 나타냅니다. '죽은 사람도 잡아온다'는 표현은 감시자의 능력을 과장하여 두려움을 강조하는 말입니다.",
+        "vi": "'Đồng chí' (동무) là một danh xưng chủ yếu được sử dụng ở Bắc Triều Tiên, thể hiện quyền lực mạnh mẽ và không khí đe dọa của người giám sát. Cụm từ 'có thể bắt cả người chết' là cách nói phóng đại khả năng của người giám sát để nhấn mạnh sự sợ hãi."
       }
     }
   ]

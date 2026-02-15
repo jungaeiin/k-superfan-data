@@ -2,219 +2,280 @@
   "quiz": {
     "options": [
       {
-        "en": "sesang",
-        "jp": "セサン",
-        "ko": "세상",
-        "vi": "sesang"
+        "en": "The conflict arising from the status difference between a commoner and royalty.",
+        "es": "El conflicto que surge de la diferencia de estatus entre un plebeyo y la realeza.",
+        "id": "Konflik yang timbul dari perbedaan status antara rakyat jelata dan bangsawan.",
+        "jp": "平民と王族の間の身分差による葛藤。",
+        "ko": "평민과 왕족 간의 신분 차이로 인한 갈등.",
+        "vi": "Xung đột phát sinh từ sự khác biệt địa vị giữa thường dân và hoàng tộc."
       },
       {
-        "en": "jinsil",
-        "jp": "ジンシル",
-        "ko": "진실",
-        "vi": "jinsil"
+        "en": "The clash between the traditional value of marriage for social advancement and the modern perspective of marriage for love.",
+        "es": "El choque entre el valor tradicional del matrimonio por ascenso social y la perspectiva moderna del matrimonio por amor.",
+        "id": "Konflik antara nilai tradisional pernikahan untuk kemajuan sosial dan perspektif modern pernikahan untuk cinta.",
+        "jp": "身分上昇のための結婚という伝統的価値観と、愛のための結婚という現代的視点の衝突。",
+        "ko": "신분 상승을 위한 결혼이라는 전통적 가치관과 사랑을 위한 결혼이라는 현대적 관점의 충돌.",
+        "vi": "Sự xung đột giữa giá trị truyền thống hôn nhân vì địa vị và quan điểm hiện đại hôn nhân vì tình yêu."
       },
       {
-        "en": "uri",
-        "jp": "ウリ",
-        "ko": "우리",
-        "vi": "uri"
+        "en": "The royal power struggle between the Grand Prince and the current King.",
+        "es": "La lucha de poder real entre el Gran Príncipe y el rey actual.",
+        "id": "Perebutan kekuasaan kerajaan antara Pangeran Agung dan Raja saat ini.",
+        "jp": "大君と現在の王の間の王室内の権力争い。",
+        "ko": "대군과 현재 왕 사이의 왕실 권력 다툼.",
+        "vi": "Cuộc đấu tranh quyền lực hoàng gia giữa Đại quân và vị vua hiện tại."
       },
       {
-        "en": "geunal",
-        "jp": "クナル",
-        "ko": "그날",
-        "vi": "geunal"
+        "en": "The male protagonist's disapproval of the female protagonist's social standing.",
+        "es": "La desaprobación del protagonista masculino hacia la posición social de la protagonista femenina.",
+        "id": "Ketidaksetujuan protagonis pria terhadap status sosial protagonis wanita.",
+        "jp": "男性主人公が女性主人公の社会的地位を不満に思っていること。",
+        "ko": "남주인공이 여주인공의 사회적 지위를 못마땅하게 여기는 것.",
+        "vi": "Sự không hài lòng của nam chính đối với địa vị xã hội của nữ chính."
       }
     ],
     "question": {
-      "en": "Which of the following Korean words means 'truth'?",
-      "jp": "次のうち「truth」を意味する韓国語の単語はどれですか？",
-      "ko": "다음 중 'truth'를 의미하는 한국어 단어는 무엇인가요?",
-      "vi": "Từ tiếng Hàn nào sau đây có nghĩa là 'sự thật'?"
+      "en": "What is the main conflict or tension regarding marriage highlighted in this teaser?",
+      "es": "¿Cuál es el conflicto o la tensión principal relacionada con el matrimonio que se destaca en este teaser?",
+      "id": "Apa konflik atau ketegangan utama terkait pernikahan yang disorot dalam teaser ini?",
+      "jp": "このティーザーで結婚に関して主に扱われる葛藤は何ですか？",
+      "ko": "이 티저에서 결혼과 관련하여 주로 다루는 갈등은 무엇인가요?",
+      "vi": "Xung đột chính về hôn nhân được nhấn mạnh trong đoạn teaser này là gì?"
     },
     "answer_index": 1
   },
   "metadata": {
     "titles": {
-      "en": "Pavane | Official Trailer",
-      "jp": "パヴァーヌ | 公式予告編",
-      "ko": "파반느 | 공식 예고편",
-      "vi": "Pavane | Trailer chính thức"
+      "en": "Perfect Crown (2026)",
+      "es": "Perfect Crown (2026)",
+      "id": "Perfect Crown (2026)",
+      "jp": "Perfect Crown (2026)",
+      "ko": "[21세기 대군부인 티저] ＂저와 혼인하시지요＂ 아이유X변우석 ",
+      "vi": "Perfect Crown (2026)"
     },
-    "thumbnail": "https://img.youtube.com/vi/XYN_5sELsII/hqdefault.jpg",
     "categories": {
-      "en": "Drama",
-      "jp": "ドラマ",
-      "ko": "드라마",
-      "vi": "Phim chính kịch"
+      "en": "Drama, Comedy, Romance",
+      "es": "Drama, Comedia, Romance",
+      "id": "Drama, Komedi, Romansa",
+      "jp": "ドラマ、コメディ、恋愛",
+      "ko": "드라마, 코미디, 연애",
+      "vi": "Phim truyền hình, Hài kịch, Lãng mạn"
     },
     "difficulty": 1,
-    "youtube_id": "XYN_5sELsII",
-    "youtube_url": "https://www.youtube.com/watch?v=XYN_5sELsII"
+    "youtube_id": "x352TuRAg84",
+    "youtube_url": "https://www.youtube.com/watch?v=x352TuRAg84"
   },
   "learning_sections": [
     {
       "scripts": {
-        "en": "Even if the world forgets us...",
-        "jp": "世界が私たちを忘れても…",
-        "ko": "세상이 우리를 잊어도...",
-        "vi": "Ngay cả khi thế giới lãng quên chúng ta..."
+        "en": "Castle Group's second son. He's a commoner and even an illegitimate child?",
+        "es": "El segundo hijo del Grupo Castle. ¿Es un plebeyo y además ilegítimo?",
+        "id": "Putra kedua Castle Group. Dia rakyat jelata dan bahkan anak haram?",
+        "jp": "キャッスルグループの次男。平民で庶出までですか？",
+        "ko": "캐슬그룹 둘째. \n평민에 서출이기까지 한거에요?",
+        "vi": "Con trai thứ hai của Tập đoàn Castle. Là thường dân mà còn là con ngoài giá thú nữa sao?"
       },
-      "end_time": 5.85,
-      "start_time": 3.25,
+      "end_time": 6.0,
+      "start_time": 0.0,
       "vocabulary": [
         {
-          "word": "세상",
+          "word": "캐슬그룹",
           "meanings": {
-            "en": "world",
-            "jp": "世界",
-            "vi": "thế giới"
+            "en": "Castle Group (a conglomerate name)",
+            "es": "Grupo Castle (nombre de un conglomerado)",
+            "id": "Castle Group (nama perusahaan besar)",
+            "jp": "キャッスルグループ (財閥名)",
+            "vi": "Tập đoàn Castle (tên một tập đoàn)"
           }
         },
         {
-          "word": "우리",
+          "word": "평민",
           "meanings": {
-            "en": "we, us",
-            "jp": "私たち",
-            "vi": "chúng tôi, chúng ta"
+            "en": "commoner, ordinary person",
+            "es": "plebeyo, persona común",
+            "id": "rakyat jelata, orang biasa",
+            "jp": "平民、一般人",
+            "vi": "thường dân, người dân bình thường"
           }
         },
         {
-          "word": "잊다",
+          "word": "서출",
           "meanings": {
-            "en": "to forget",
-            "jp": "忘れる",
-            "vi": "quên"
+            "en": "illegitimate child, child born out of wedlock",
+            "es": "hijo ilegítimo, bastardo",
+            "id": "anak haram, anak di luar nikah",
+            "jp": "庶出、非嫡出子",
+            "vi": "con ngoài giá thú, con hoang"
           }
         }
       ],
       "section_num": 1,
       "cultural_note": {
-        "en": "In Korean, '우리' (uri - our) is often used to mean 'my' (e.g., 우리 집 - my house), reflecting a facet of Korean culture that emphasizes a sense of community.",
-        "jp": "韓国語では、「우리（ウリ）」はしばしば「私の」という意味で使われます（例：우리 집 - 私の家）。これは共同体意識を強調する韓国文化の一面を示しています。",
-        "ko": "한국어에서 '우리'는 '나의'를 의미하는 데 자주 사용됩니다(예: 우리 집 - my house). 이는 공동체 의식을 강조하는 한국 문화의 한 단면을 보여줍니다.",
-        "vi": "Trong tiếng Hàn, '우리' (uri - của chúng ta) thường được dùng với nghĩa 'của tôi' (ví dụ: 우리 집 - nhà của tôi), phản ánh một khía cạnh văn hóa Hàn Quốc nhấn mạnh ý thức cộng đồng."
+        "en": "'Seochul' (庶出) refers to a child born to parents who are not in a formal marital relationship. Traditionally, this carried social discrimination and was considered to lack legitimacy.",
+        "es": "'Seochul' (庶出) se refiere a un hijo nacido de padres que no están en una relación matrimonial formal. Tradicionalmente, esto conllevaba discriminación social y se consideraba que carecía de legitimidad.",
+        "id": "'Seochul' (庶出) mengacu pada anak yang lahir dari orang tua yang tidak dalam hubungan pernikahan resmi. Secara tradisional, ini membawa diskriminasi sosial dan dianggap kurang sah.",
+        "jp": "「庶出（しょしゅつ）」とは、正式な婚姻関係にない両親から生まれた子供を指し、伝統的に社会的差別とともに正統性が不足していると見なされてきた背景があります。",
+        "ko": "'서출(庶出)'은 정식 혼인 관계가 아닌 부모에게서 태어난 자식을 뜻하며, 전통적으로 사회적 차별과 함께 정통성이 부족하다고 여겨져 온 배경을 담고 있습니다.",
+        "vi": "'Thứ xuất' (庶出) dùng để chỉ con cái được sinh ra từ cha mẹ không có quan hệ hôn nhân chính thức. Theo truyền thống, điều này mang theo sự phân biệt đối xử xã hội và bị coi là thiếu chính danh."
       }
     },
     {
       "scripts": {
-        "en": "The truth doesn't change.",
-        "jp": "真実は変わらない。",
-        "ko": "진실은 변하지 않아.",
-        "vi": "Sự thật không hề thay đổi."
+        "en": "Here comes Grand Prince Ian. The present king... is overshadowed by you.",
+        "es": "Llega el Gran Príncipe Ian. El rey actual... ha sido eclipsado por ti.",
+        "id": "Pangeran Agung Ian tiba. Baginda Raja... telah tertutup olehmu.",
+        "jp": "イアン大君がお入りになります。今上は…あなたに隠れてしまいました。",
+        "ko": "이안 대군 드십니다. \n금상은... 그대에게 가려졌어요.",
+        "vi": "Đại quân Ian đến. Đức vua hiện tại... đã bị ngài làm lu mờ rồi."
       },
-      "end_time": 14.3,
-      "start_time": 12.1,
+      "end_time": 12.8,
+      "start_time": 7.5,
       "vocabulary": [
         {
-          "word": "진실",
+          "word": "대군",
           "meanings": {
-            "en": "truth",
-            "jp": "真実",
-            "vi": "sự thật"
+            "en": "Grand Prince (a title for a high-ranking prince in Joseon dynasty)",
+            "es": "Gran Príncipe (título para un príncipe de alto rango en la dinastía Joseon)",
+            "id": "Pangeran Agung (gelar untuk pangeran berstatus tinggi di Dinasti Joseon)",
+            "jp": "大君 (朝鮮王朝における王子の称号)",
+            "vi": "Đại quân (tước hiệu hoàng tử cấp cao thời Joseon)"
           }
         },
         {
-          "word": "변하다",
+          "word": "금상",
           "meanings": {
-            "en": "to change",
-            "jp": "変わる",
-            "vi": "thay đổi"
+            "en": "The present king (a respectful term)",
+            "es": "El rey actual (un término respetuoso)",
+            "id": "Baginda Raja sekarang (istilah hormat)",
+            "jp": "今上 (現在の王を敬って呼ぶ言葉)",
+            "vi": "Đức vua hiện tại (cách gọi tôn kính)"
           }
         },
         {
-          "word": "-지 않다",
+          "word": "가려지다",
           "meanings": {
-            "en": "do not (negation grammar)",
-            "jp": "〜しない（否定の文法）",
-            "vi": "không (ngữ pháp phủ định)"
+            "en": "to be overshadowed, to be hidden",
+            "es": "ser eclipsado, ser ocultado",
+            "id": "tertutup, tersembunyi, terbayangi",
+            "jp": "隠れる、影が薄くなる",
+            "vi": "bị làm lu mờ, bị che khuất"
           }
         }
       ],
       "section_num": 2,
       "cultural_note": {
-        "en": "Adding '-지 않다' after a verb or adjective is a standard way to express negation in Korean. In spoken language, it's often shortened by placing '안' before the verb (e.g., 안 변해).",
-        "jp": "動詞や形容詞の後に「-지 않다」を付けることは、韓国語で否定を表現する標準的な方法です。話し言葉では、しばしば動詞の前に「안」を付けて短縮します（例：안 변해）。",
-        "ko": "동사나 형용사 뒤에 '-지 않다'를 붙이는 것은 한국어에서 부정을 표현하는 표준적인 방법입니다. 구어체에서는 종종 '안'을 동사 앞에 붙여 줄여 말하기도 합니다 (예: 안 변해).",
-        "vi": "Thêm '-지 않다' sau động từ hoặc tính từ là một cách tiêu chuẩn để thể hiện sự phủ định trong tiếng Hàn. Trong văn nói, nó thường được rút ngắn bằng cách đặt '안' trước động từ (ví dụ: 안 변해)."
+        "en": "'Daegun' is a title given to a high-ranking prince who is a legitimate son of the king, and 'Geumsang' is a respectful term for the present king. The phrase \"the prince overshadows the king\" implies a serious situation hinting at power struggles within the royal family or political instability.",
+        "es": "'Daegun' es un título otorgado a un príncipe de alto rango que es hijo legítimo del rey, y 'Geumsang' es un término respetuoso para el rey actual. La frase \"el príncipe eclipsa al rey\" implica una situación seria que insinúa luchas de poder dentro de la familia real o inestabilidad política.",
+        "id": "'Daegun' adalah gelar yang diberikan kepada pangeran berstatus tinggi yang merupakan putra sah raja, dan 'Geumsang' adalah istilah hormat untuk raja yang sedang bertahta. Frasa \"sang pangeran menutupi raja\" menyiratkan situasi serius yang mengisyaratkan perebutan kekuasaan di dalam keluarga kerajaan atau ketidakstabilan politik.",
+        "jp": "「大君（대군）」は王の嫡男のうち高い序列の王子に与えられる称号であり、「今上（금상）」は現在の王を敬って呼ぶ言葉です。王子が王の存在感を覆い隠すという状況は、王室内の権力闘争や政治的不安定を示唆する深刻な状況です。",
+        "ko": "'대군'은 왕의 적자 중 높은 서열의 왕자에게 붙는 호칭이며, '금상'은 현 왕을 높여 부르는 말입니다. 왕자가 왕의 존재감을 가려 왕실 내 권력 갈등이나 정치적 불안정을 암시하는 심각한 상황입니다.",
+        "vi": "'Đại quân' là tước hiệu dành cho hoàng tử có thứ bậc cao, là con chính thức của nhà vua, và 'Kim thượng' là từ tôn kính dùng để gọi vị vua hiện tại. Việc hoàng tử làm lu mờ sự hiện diện của nhà vua ngụ ý một tình huống nghiêm trọng, gợi ý về đấu đá quyền lực trong hoàng tộc hoặc bất ổn chính trị."
       }
     },
     {
       "scripts": {
-        "en": "That day, what happened?",
-        "jp": "あの日、何があったんですか？",
-        "ko": "그날, 무슨 일이 있었던 거죠?",
-        "vi": "Ngày hôm đó, đã có chuyện gì xảy ra vậy?"
+        "en": "Hold a wedding ceremony. Is this Joseon Dynasty now? Are you going to rise in status through marriage?",
+        "es": "Celebra una boda. ¿Ahora es la Dinastía Joseon? ¿Vas a ascender de estatus a través del matrimonio?",
+        "id": "Lakukan upacara pernikahan. Apa sekarang zaman Joseon? Mau naik status lewat pernikahan?",
+        "jp": "婚礼を挙げてください。今が一体朝鮮時代か？結婚で身分上昇するって？",
+        "ko": "혼례를 올리세요. \n지금이 뭐 조선시대니? 결혼으로 신분상승 하겠데?",
+        "vi": "Hãy cử hành hôn lễ. Bây giờ là thời Joseon à? Sẽ thăng tiến địa vị bằng hôn nhân sao?"
       },
-      "end_time": 28.1,
-      "start_time": 25.5,
+      "end_time": 19.8,
+      "start_time": 14.8,
       "vocabulary": [
         {
-          "word": "그날",
+          "word": "혼례",
           "meanings": {
-            "en": "that day",
-            "jp": "あの日",
-            "vi": "ngày đó"
+            "en": "wedding ceremony",
+            "es": "ceremonia de boda",
+            "id": "upacara pernikahan",
+            "jp": "婚礼、結婚式",
+            "vi": "hôn lễ, lễ cưới"
           }
         },
         {
-          "word": "무슨",
+          "word": "조선시대",
           "meanings": {
-            "en": "what, what kind of",
-            "jp": "何、どんな",
-            "vi": "gì, loại gì"
+            "en": "Joseon Dynasty (1392-1897)",
+            "es": "Dinastía Joseon (1392-1897)",
+            "id": "Dinasti Joseon (1392-1897)",
+            "jp": "朝鮮時代 (1392年-1897年)",
+            "vi": "Triều đại Joseon (1392-1897)"
           }
         },
         {
-          "word": "일",
+          "word": "신분상승",
           "meanings": {
-            "en": "thing, matter, event",
-            "jp": "こと、出来事",
-            "vi": "việc, sự kiện"
+            "en": "rise in social status, social climbing",
+            "es": "ascenso de estatus social",
+            "id": "peningkatan status sosial",
+            "jp": "身分上昇、社会的地位の向上",
+            "vi": "thăng tiến địa vị, nâng cao địa vị xã hội"
           }
         }
       ],
       "section_num": 3,
       "cultural_note": {
-        "en": "Using '-거죠?' at the end of a sentence is a common way to seek confirmation or ask a question softly. It feels more conversational than a direct question.",
-        "jp": "文末に「-거죠?」を使うのは、相手に確認を求めたり、柔らかく質問したりする際の一般的な表現です。直接的な質問よりも会話的な響きがあります。",
-        "ko": "문장 끝에 '-거죠?'를 사용하는 것은 상대방에게 확인을 구하거나 부드럽게 질문할 때 쓰는 일반적인 표현입니다. 직접적인 질문보다 더 대화적인 느낌을 줍니다.",
-        "vi": "Sử dụng '-거죠?' ở cuối câu là một cách phổ biến để tìm kiếm sự xác nhận hoặc hỏi một câu hỏi một cách nhẹ nhàng. Nó tạo cảm giác trò chuyện hơn là một câu hỏi trực tiếp."
+        "en": "During the Joseon Dynasty, the social hierarchy was strict, and rising in status through marriage was considered important. This line critically expresses that such outdated values are not suitable for modern times.",
+        "es": "Durante la Dinastía Joseon, la jerarquía social era estricta y el ascenso de estatus a través del matrimonio se consideraba importante. Esta línea expresa críticamente que tales valores anticuados no son adecuados para los tiempos modernos.",
+        "id": "Selama Dinasti Joseon, hierarki sosial sangat ketat, dan peningkatan status melalui pernikahan dianggap penting. Baris ini secara kritis menyatakan bahwa nilai-nilai kuno tersebut tidak cocok untuk zaman modern.",
+        "jp": "朝鮮時代は身分制度が厳格で、結婚を通じた身分上昇が重要視された時代でした。このセリフは、そのような旧時代的な価値観が現代には合わないことを批判的に表現しています。",
+        "ko": "조선시대는 신분 제도가 엄격하여 결혼을 통한 신분 상승이 중요하게 여겨지던 시기였습니다. 이 대사는 그러한 구시대적 가치관이 현대에는 맞지 않음을 비판적으로 표현하는 것입니다.",
+        "vi": "Thời Joseon, chế độ thân phận rất nghiêm ngặt, việc thăng tiến địa vị thông qua hôn nhân được coi là quan trọng. Câu thoại này thể hiện một cách phê phán rằng những giá trị lỗi thời đó không còn phù hợp với thời hiện đại."
       }
     },
     {
       "scripts": {
-        "en": "Only on Netflix.",
-        "jp": "ただNetflixで。",
-        "ko": "오직 넷플릭스에서.",
-        "vi": "Chỉ có trên Netflix."
+        "en": "You want to marry me just to gain a status that is only in name? I missed you.",
+        "es": "¿Quieres casarte conmigo solo para obtener un estatus que es solo de nombre? Te extrañé.",
+        "id": "Kau ingin menikahiku hanya untuk mendapatkan status yang hanya nama belaka? Aku merindukanmu.",
+        "jp": "わずか名ばかりの身分を得るために私と結婚するというのか？会いたかったですよ。",
+        "ko": "고작 이름뿐인 신분을 얻겠다고 나와 혼인을 하겠다? \n보고 싶었어요.",
+        "vi": "Ngươi muốn cưới ta chỉ để có được địa vị chỉ là hư danh ư? Ta đã nhớ nàng."
       },
-      "end_time": 37.5,
-      "start_time": 35.8,
+      "end_time": 32.0,
+      "start_time": 24.5,
       "vocabulary": [
         {
-          "word": "오직",
+          "word": "고작",
           "meanings": {
-            "en": "only, solely",
-            "jp": "ただ、ひたすら",
-            "vi": "chỉ, duy nhất"
+            "en": "merely, only, at best",
+            "es": "meramente, solo, a lo sumo",
+            "id": "hanya, sekadar",
+            "jp": "わずか、たかが",
+            "vi": "chỉ, vỏn vẹn"
           }
         },
         {
-          "word": "-에서",
+          "word": "이름뿐인",
           "meanings": {
-            "en": "at, in, on (location particle)",
-            "jp": "〜で（場所の助詞）",
-            "vi": "tại, ở, trên (tiểu từ chỉ nơi chốn)"
+            "en": "in name only, nominal",
+            "es": "solo de nombre, nominal",
+            "id": "hanya nama belaka, nominal",
+            "jp": "名ばかりの、名目上の",
+            "vi": "chỉ là hư danh, trên danh nghĩa"
+          }
+        },
+        {
+          "word": "혼인",
+          "meanings": {
+            "en": "marriage, to marry (formal)",
+            "es": "matrimonio, casarse (formal)",
+            "id": "pernikahan, menikah (formal)",
+            "jp": "婚姻、結婚 (フォーマル)",
+            "vi": "hôn nhân, kết hôn (trang trọng)"
           }
         }
       ],
       "section_num": 4,
       "cultural_note": {
-        "en": "Trailers for streaming services often end with the phrase 'Only on [Platform Name]'. It's a marketing strategy to emphasize the exclusivity of the content.",
-        "jp": "ストリーミングサービスの予告編は、しばしば「ただ[プラットフォーム名]で」というフレーズで終わります。これはコンテンツの独占性を強調するマーケティング戦略です。",
-        "ko": "스트리밍 서비스 예고편은 종종 '오직 [플랫폼 이름]에서'라는 문구로 끝납니다. 이는 해당 콘텐츠의 독점성을 강조하는 마케팅 전략입니다.",
-        "vi": "Các đoạn giới thiệu cho các dịch vụ phát trực tuyến thường kết thúc bằng cụm từ 'Chỉ có trên [Tên nền tảng]'. Đây là một chiến lược tiếp thị để nhấn mạnh tính độc quyền của nội dung."
+        "en": "The male protagonist is not pleased that the female protagonist wants to marry him merely for social advancement. He knows that the purpose of her marriage is not love but to climb the social ladder.",
+        "es": "El protagonista masculino no está contento de que la protagonista femenina quiera casarse con él simplemente por un ascenso social. Él sabe que el propósito de su matrimonio no es el amor, sino escalar en la escala social.",
+        "id": "Tokoh utama pria tidak senang bahwa tokoh utama wanita ingin menikah dengannya hanya untuk kemajuan sosial. Dia tahu bahwa tujuan pernikahannya bukan cinta, melainkan untuk menaiki tangga sosial.",
+        "jp": "身分上昇のために結婚しようとする女性主人公を男性主人公は快く思っていません。結婚の目的が愛ではなく身分上昇にあることを知っているからです。",
+        "ko": "신분 상승을 위해 결혼을 하겠다는 여주인공이 남주인공은 마음에 들지 않습니다. 결혼의 목적이 사랑이 아니라 신분 상승에 있음을 알고 있으니까요.",
+        "vi": "Nam chính không hài lòng khi nữ chính muốn kết hôn chỉ vì mục đích thăng tiến địa vị. Anh biết rằng mục đích hôn nhân của cô không phải là tình yêu mà là để leo lên nấc thang xã hội."
       }
     }
   ]

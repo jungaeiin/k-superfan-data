@@ -1,0 +1,282 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "He wakes up in a random new body every time he falls asleep.",
+        "es": "Se despierta en un nuevo cuerpo aleatorio cada vez que se duerme.",
+        "id": "Dia terbangun di tubuh baru yang acak setiap kali dia tertidur.",
+        "jp": "眠るたびに、ランダムな新しい体で目覚める。",
+        "ko": "잠들 때마다 무작위의 새로운 몸으로 깨어난다.",
+        "vi": "Anh ấy thức dậy trong một cơ thể mới ngẫu nhiên mỗi khi ngủ thiếp đi."
+      },
+      {
+        "en": "He can only swap bodies when there's a full moon.",
+        "es": "Solo puede cambiar de cuerpo cuando hay luna llena.",
+        "id": "Dia hanya bisa bertukar tubuh saat ada bulan purnama.",
+        "jp": "満月が出るときだけ体を入れ替えることができる。",
+        "ko": "보름달이 뜰 때만 몸을 바꿀 수 있다.",
+        "vi": "Anh ấy chỉ có thể hoán đổi cơ thể khi có trăng tròn."
+      },
+      {
+        "en": "He wakes up in a different location where the body he fell asleep in is.",
+        "es": "Se despierta en un lugar diferente donde está el cuerpo en el que se durmió.",
+        "id": "Dia terbangun di lokasi yang berbeda di mana tubuh yang dia tiduri berada.",
+        "jp": "眠っていた体が別の場所にある状態で目覚める。",
+        "ko": "잠들었던 몸이 있는 다른 장소에서 깨어난다.",
+        "vi": "Anh ấy thức dậy ở một địa điểm khác nơi cơ thể mà anh ấy đã ngủ thiếp đi."
+      },
+      {
+        "en": "He switches between two different bodies depending on which body falls asleep.",
+        "es": "Él cambia entre dos cuerpos diferentes dependiendo de qué cuerpo se duerme.",
+        "id": "Dia beralih antara dua tubuh yang berbeda tergantung pada tubuh mana yang tertidur.",
+        "jp": "眠る体によって、二つの異なる体の間を行き来して目覚める。",
+        "ko": "잠드는 몸에 따라 두 가지 다른 몸 사이를 오가며 깨어난다.",
+        "vi": "Anh ấy hoán đổi giữa hai cơ thể khác nhau tùy thuộc vào cơ thể nào đi ngủ."
+      }
+    ],
+    "question": {
+      "en": "What is the most unique characteristic of the protagonist's body-swapping ability as described in this trailer?",
+      "es": "¿Cuál es la característica más única de la habilidad de 'intercambio de cuerpos' del protagonista descrita en este tráiler?",
+      "id": "Apa karakteristik paling unik dari kemampuan 'bertukar tubuh' protagonis seperti yang digambarkan dalam trailer ini?",
+      "jp": "この予告編で描かれている主人公のユニークな「体入れ替え」能力の最も重要な特徴は何ですか？",
+      "ko": "이 예고편에서 묘사된 주인공의 독특한 '몸 바꾸기' 능력의 가장 중요한 특징은 무엇인가요?",
+      "vi": "Đặc điểm độc đáo nhất về khả năng 'hoán đổi cơ thể' của nhân vật chính được mô tả trong đoạn giới thiệu này là gì?"
+    },
+    "answer_index": 3
+  },
+  "metadata": {
+    "titles": {
+      "en": "Lookism (2022)",
+      "es": "APARI3NCIAS (2022)",
+      "id": "Lookism (2022)",
+      "jp": "外見至上主義 (2022)",
+      "ko": "외모지상주의 | 공식 예고편 | 넷플릭스",
+      "vi": "Chủ nghĩa ngoại hình (2022)"
+    },
+    "categories": {
+      "en": "Animation, Drama, Comedy",
+      "es": "Animación, Drama, Comedia",
+      "id": "Animasi, Drama, Komedi",
+      "jp": "アニメ、ドラマ、コメディ",
+      "ko": "애니메이션, 드라마, 코미디 ",
+      "vi": "Hoạt hình, Phim truyền hình, Hài kịch"
+    },
+    "difficulty": 1,
+    "youtube_id": "ASejc3E4DcI",
+    "youtube_url": "https://www.youtube.com/watch?v=ASejc3E4DcI"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Who is this? This person? That's me, isn't it?",
+        "es": "¿Quién es? ¿Esta persona? ¡Ese soy yo!",
+        "id": "Siapa ini? Orang ini? Itu aku, kan?",
+        "jp": "誰だ？ この人は？ あれは私じゃないか？",
+        "ko": "누구지? 이 사람은? 저건 나잖아?",
+        "vi": "Ai vậy? Người này là ai? Đó là tôi mà?"
+      },
+      "end_time": 7.2,
+      "start_time": 1.0,
+      "vocabulary": [
+        {
+          "word": "누구지?",
+          "meanings": {
+            "en": "Who is it? (Rhetorical/Surprised)",
+            "es": "¿Quién es?",
+            "id": "Siapa ini?",
+            "jp": "誰だろう？",
+            "vi": "Ai vậy?"
+          }
+        },
+        {
+          "word": "이 사람",
+          "meanings": {
+            "en": "This person",
+            "es": "Esta persona",
+            "id": "Orang ini",
+            "jp": "この人",
+            "vi": "Người này"
+          }
+        },
+        {
+          "word": "나잖아?",
+          "meanings": {
+            "en": "It's me, isn't it? (Expression of sudden recognition)",
+            "es": "¡Soy yo!",
+            "id": "Itu aku, kan?",
+            "jp": "私じゃないか？",
+            "vi": "Là tôi mà?"
+          }
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "This expression is a common phrase used to show surprise and self-realization when one suddenly discovers or recognizes themselves.",
+        "es": "Esta expresión es una frase común utilizada para mostrar sorpresa y autorrealización cuando uno se descubre o se reconoce de repente.",
+        "id": "Ungkapan ini adalah frasa umum yang digunakan untuk menunjukkan keterkejutan dan kesadaran diri saat seseorang tiba-tiba menemukan atau mengenali dirinya sendiri.",
+        "jp": "この表現は、突然自分自身を発見したり認識したりする際に使う、驚きと自覚を表す日常的な表現です。",
+        "ko": "이 표현은 갑자기 자신을 발견하거나 알아볼 때 쓰는 놀람과 자각을 나타내는 일상적인 표현입니다.",
+        "vi": "Cách diễn đạt này là một cụm từ thông dụng dùng để thể hiện sự ngạc nhiên và tự nhận thức khi ai đó đột nhiên phát hiện hoặc nhận ra chính mình."
+      }
+    },
+    {
+      "scripts": {
+        "en": "It seems I was destined for the bottom of the food chain since birth. Why is a pig barking like a dog?",
+        "es": "Parece que estaba destinado al fondo de la cadena alimenticia desde que nací. ¿Por qué un cerdo ladra como un perro?",
+        "id": "Sepertinya aku sudah ditakdirkan di dasar rantai makanan sejak lahir. Kenapa babi menggonggong seperti anjing?",
+        "jp": "僕は生まれる前から食物連鎖の最下層に定められていたようだ。豚がどうして犬のように吠えるんだ？",
+        "ko": "난 태어날 때부터 먹이사슬 밑바닥으로 정해져 있었나 봐. \n돼지가 왜 개처럼 짖지?",
+        "vi": "Có vẻ như tôi đã bị định sẵn ở đáy chuỗi thức ăn từ khi sinh ra. Tại sao con lợn lại sủa như chó?"
+      },
+      "end_time": 13.3,
+      "start_time": 7.9,
+      "vocabulary": [
+        {
+          "word": "먹이사슬",
+          "meanings": {
+            "en": "food chain",
+            "es": "cadena alimenticia",
+            "id": "rantai makanan",
+            "jp": "食物連鎖",
+            "vi": "chuỗi thức ăn"
+          }
+        },
+        {
+          "word": "밑바닥",
+          "meanings": {
+            "en": "bottom, lowest level",
+            "es": "fondo, el nivel más bajo",
+            "id": "dasar, tingkat terbawah",
+            "jp": "最下層、底辺",
+            "vi": "đáy, tầng thấp nhất"
+          }
+        },
+        {
+          "word": "정해져 있었나 봐",
+          "meanings": {
+            "en": "It seems it was destined/decided",
+            "es": "Parece que estaba destinado/decidido",
+            "id": "Sepertinya sudah ditakdirkan",
+            "jp": "定められていたようだ",
+            "vi": "Có vẻ như đã được định sẵn"
+          }
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "A pig barking like a dog, which should normally oink, is a metaphor for acting against common sense or behaving in an inappropriate manner. In this scene, it's used to mock the unattractive protagonist.",
+        "es": "Un cerdo ladrando como un perro, cuando normalmente debería gruñir, es una metáfora de actuar en contra del sentido común o comportarse de manera inapropiada. En esta escena, se usa para burlarse del protagonista poco atractivo.",
+        "id": "Babi yang menggonggong seperti anjing, padahal seharusnya menguak, adalah metafora untuk bertindak melawan akal sehat atau berperilaku tidak pantas. Dalam adegan ini, digunakan untuk mengejek protagonis yang tidak menarik.",
+        "jp": "本来ブーブー鳴くべき豚が犬のように吠えるというのは、常識に反する、あるいは場にそぐわない行動をすることを比喩しています。この場面では、容姿の悪い主人公を嘲笑する表現として使われています。",
+        "ko": "원래 꿀꿀거려야 할 돼지가 개처럼 짖는다는 것은 상식에 어긋나거나 어울리지 않는 행동을 하는 것을 비유합니다. 이 장면에서는 못생긴 주인공을 비웃는 표현입니다.",
+        "vi": "Việc một con lợn, lẽ ra phải kêu ụt ịt, lại sủa như chó là một phép ẩn dụ cho hành động đi ngược lại lẽ thường hoặc cư xử không phù hợp. Trong cảnh này, nó được dùng để chế nhạo nhân vật chính kém hấp dẫn."
+      }
+    },
+    {
+      "scripts": {
+        "en": "It's not a dream, is it? If I fall asleep, I wake up in another body. And when the body I woke up in falls asleep, I wake up in the body I fell asleep in.",
+        "es": "¿No es un sueño? Si me duermo, me despierto en otro cuerpo. Y cuando el cuerpo en el que me desperté se duerme, me despierto en el cuerpo en el que me dormí.",
+        "id": "Ini bukan mimpi, kan? Jika aku tertidur, aku terbangun di tubuh yang lain. Dan ketika tubuh yang aku banguni tertidur, aku terbangun di tubuh yang aku tiduri.",
+        "jp": "夢じゃないのか？ 眠りにつくと、別の体で目覚める。そして、目覚めていた体が眠りにつくと、眠っていた体で目覚める。",
+        "ko": "꿈이 아니잖아? 잠들면 다른 몸으로 깨어난다. \n그리고 깨어났던 몸이 잠들면 잠들었던 몸으로 깨어난다. ",
+        "vi": "Đây không phải là mơ đúng không? Nếu tôi ngủ thiếp đi, tôi sẽ thức dậy trong một cơ thể khác. Và khi cơ thể tôi đã thức dậy ngủ thiếp đi, tôi sẽ thức dậy trong cơ thể mà tôi đã ngủ thiếp đi."
+      },
+      "end_time": 29.6,
+      "start_time": 18.5,
+      "vocabulary": [
+        {
+          "word": "꿈이 아니잖아?",
+          "meanings": {
+            "en": "It's not a dream, is it?",
+            "es": "¿No es un sueño?",
+            "id": "Ini bukan mimpi, kan?",
+            "jp": "夢じゃないのか？",
+            "vi": "Đây không phải là mơ đúng không?"
+          }
+        },
+        {
+          "word": "다른 몸",
+          "meanings": {
+            "en": "another body / a different body",
+            "es": "otro cuerpo",
+            "id": "tubuh lain",
+            "jp": "別の体",
+            "vi": "một cơ thể khác"
+          }
+        },
+        {
+          "word": "깨어난다",
+          "meanings": {
+            "en": "wakes up / I wake up",
+            "es": "se despierta / me despierto",
+            "id": "terbangun",
+            "jp": "目覚める",
+            "vi": "thức dậy"
+          }
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "Recently, fantasy settings such as 'body swapping' or 'moving to another dimension' often appear in Korean webtoons and dramas. This content can be understood as an intriguing introduction to such stories.",
+        "es": "Recientemente, escenarios de fantasía como el 'intercambio de cuerpos' o el 'movimiento a otra dimensión' aparecen a menudo en los webtoons y dramas coreanos. Este contenido puede entenderse como una introducción intrigante a tales historias.",
+        "id": "Belakangan ini, pengaturan fantasi seperti 'pertukaran tubuh' atau 'pindah ke dimensi lain' sering muncul di webtoon dan drama Korea. Konten ini dapat dipahami sebagai pengantar yang menarik untuk cerita-cerita semacam itu.",
+        "jp": "最近の韓国のウェブトゥーンやドラマでは、「体が入れ替わる」あるいは「異次元に移動する」といったファンタジー的な設定が頻繁に登場します。この内容は、そのような物語の興味深い導入部として理解できます。",
+        "ko": "최근 한국 웹툰이나 드라마에서 '몸이 바뀌는' 혹은 '다른 차원으로 이동하는' 등의 판타지적 설정이 자주 등장합니다. 이 내용은 그러한 이야기의 흥미로운 도입부로 이해할 수 있습니다.",
+        "vi": "Gần đây, các bối cảnh giả tưởng như 'hoán đổi cơ thể' hoặc 'du hành đến chiều không gian khác' thường xuyên xuất hiện trong các webtoon và phim truyền hình Hàn Quốc. Nội dung này có thể được hiểu là một phần mở đầu thú vị cho những câu chuyện như vậy."
+      }
+    },
+    {
+      "scripts": {
+        "en": "This is Park Hyung-seok. Looks like he's over 180 (cm), right? Yeah, super handsome. Looks like he just came out of a comic book. So cool. Wow, amazing.",
+        "es": "Soy Park Hyung-seok. ¿Parece que mide más de 180 (cm), verdad? Sí, guapísimo. Parece sacado de un cómic. Súper genial. ¡Guau, increíble!",
+        "id": "Ini Park Hyung-seok. Sepertinya tingginya lebih dari 180 (cm), kan? Ya, sangat tampan. Kelihatan seperti baru keluar dari komik. Keren banget. Wow, luar biasa.",
+        "jp": "パク・ヒョンソクです。180センチ超えてるみたいだろ？ うん、イケメン。漫画から飛び出してきたみたいだ。めちゃくちゃかっこいい。わあ、最高。",
+        "ko": "박형석 입니다. \n180 넘는거 같지? 응, 존잘. 만화 찢고 나온것 같아. 개 멋있어. 와, 대박",
+        "vi": "Đây là Park Hyung-seok. Trông như cao hơn 180 (cm) đúng không? Ừ, siêu đẹp trai. Cứ như vừa bước ra từ truyện tranh vậy. Rất ngầu. Wow, thật tuyệt vời."
+      },
+      "end_time": 43.5,
+      "start_time": 35.2,
+      "vocabulary": [
+        {
+          "word": "존잘",
+          "meanings": {
+            "en": "super handsome (slang)",
+            "es": "guapísimo (jerga)",
+            "id": "sangat tampan (slang)",
+            "jp": "超イケメン (スラング)",
+            "vi": "siêu đẹp trai (tiếng lóng)"
+          }
+        },
+        {
+          "word": "만화 찢고 나온것 같아",
+          "meanings": {
+            "en": "looks like he just came out of a comic book (idiom for someone extremely handsome/beautiful)",
+            "es": "parece sacado de un cómic",
+            "id": "seperti baru keluar dari komik",
+            "jp": "漫画から飛び出してきたみたい",
+            "vi": "như vừa bước ra từ truyện tranh"
+          }
+        },
+        {
+          "word": "대박",
+          "meanings": {
+            "en": "awesome / amazing / jackpot (exclamation)",
+            "es": "increíble / genial",
+            "id": "luar biasa / menakjubkan",
+            "jp": "最高 / すごい",
+            "vi": "tuyệt vời / kinh ngạc"
+          }
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "\"존잘 (jonjal),\" \"개 멋있어 (gae meos-isseo),\" and \"대박 (daebak)\" are informal slang terms expressing extreme praise and strong admiration for someone's appearance. Especially, \"만화 찢고 나온 것 같다 (manhwa jjitgo naon geot gata)\" is used to mean someone is unrealistically handsome, like a main character from a comic book.",
+        "es": "\"존잘 (jonjal)\", \"개 멋있어 (gae meos-isseo)\" y \"대박 (daebak)\" son términos de jerga informales que expresan un elogio extremo y una fuerte admiración por la apariencia de alguien. Especialmente, \"만화 찢고 나온 것 같다 (manhwa jjitgo naon geot gata)\" se usa para decir que alguien es irrealmente guapo, como un personaje principal de un cómic.",
+        "id": "\"존잘 (jonjal),\" \"개 멋있어 (gae meos-isseo),\" dan \"대박 (daebak)\" adalah istilah slang informal yang mengungkapkan pujian ekstrem dan kekaguman kuat terhadap penampilan seseorang. Khususnya, \"만화 찢고 나온 것 같다 (manhwa jjitgo naon geot gata)\" digunakan untuk menyatakan seseorang sangat tampan secara tidak realistis, seperti karakter utama dari buku komik.",
+        "jp": "「ジョンジャル (존잘)」、「ケモシッソ (개 멋있어)」、「テバク (대박)」は、外見に対する最高の賞賛と強い感嘆を表す非公式なスラングです。特に「漫画を破って出てきたようだ (만화 찢고 나온 것 같다)」は、漫画の主人公のように非現実的にハンサムであるという意味で使われます。",
+        "ko": "\"존잘,\" \"개 멋있어,\" \"대박\"은 외모에 대한 극찬과 강한 감탄을 나타내는 비격식적인 슬랭입니다. 특히 \"만화 찢고 나온 것 같다\"는 만화 속 주인공처럼 비현실적으로 잘생겼다는 의미로 사용됩니다.",
+        "vi": "\"존잘 (jonjal),\" \"개 멋있어 (gae meos-isseo),\" và \"대박 (daebak)\" là những từ lóng không trang trọng dùng để thể hiện sự khen ngợi cực độ và ngưỡng mộ mạnh mẽ về ngoại hình của ai đó. Đặc biệt, \"만화 찢고 나온 것 같다 (manhwa jjitgo naon geot gata)\" được dùng để chỉ người nào đó đẹp trai phi thực tế, giống như nhân vật chính bước ra từ truyện tranh."
+      }
+    }
+  ]
+}

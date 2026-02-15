@@ -2,45 +2,45 @@
   "quiz": {
     "options": [
       {
-        "en": "He has the ability to resurrect the dead.",
-        "es": "Tiene la habilidad de resucitar a los muertos.",
-        "id": "Dia memiliki kemampuan untuk membangkitkan orang mati.",
-        "jp": "彼には死者を蘇らせる能力がある。",
-        "ko": "그가 죽은 사람을 부활시키는 능력이 있다.",
-        "vi": "Anh ấy có khả năng hồi sinh người chết."
+        "en": "He is a very kind and gentle person.",
+        "es": "Es una persona muy amable y gentil.",
+        "id": "Dia adalah orang yang sangat baik dan lembut.",
+        "jp": "彼はとても親切で穏やかな人です。",
+        "ko": "그는 매우 친절하고 온화한 사람입니다.",
+        "vi": "Anh ấy là một người rất tử tế và hiền lành."
       },
       {
-        "en": "It emphasizes that his monitoring ability and authority are extremely powerful and fear-inducing.",
-        "es": "Enfatiza que su capacidad de vigilancia y autoridad son extremadamente poderosas e infunden miedo.",
-        "id": "Ini menekankan bahwa kemampuan pengawasan dan otoritasnya sangat kuat dan menakutkan.",
-        "jp": "彼の監視能力と権力が非常に強大で恐ろしいことを強調している。",
-        "ko": "그의 감시 능력과 권력이 매우 막강하며 두렵다는 것을 강조한다.",
-        "vi": "Nó nhấn mạnh rằng khả năng giám sát và quyền lực của anh ấy cực kỳ mạnh mẽ và đáng sợ."
+        "en": "He is an extremely capable and intimidating figure.",
+        "es": "Es una figura extremadamente capaz e intimidante.",
+        "id": "Dia adalah sosok yang sangat cakap dan mengintimidasi.",
+        "jp": "彼は非常に有能で威圧的な人物です。",
+        "ko": "그는 매우 유능하고 위협적인 인물입니다.",
+        "vi": "Anh ấy là một nhân vật cực kỳ có năng lực và đáng sợ."
       },
       {
-        "en": "It means he has a deep knowledge of archaeology.",
-        "es": "Significa que tiene un profundo conocimiento de la arqueología.",
-        "id": "Itu berarti dia memiliki pengetahuan mendalam tentang arkeologi.",
-        "jp": "彼が考古学に造詣が深いことを意味する。",
-        "ko": "그가 고고학에 조예가 깊다는 것을 의미한다.",
-        "vi": "Nó có nghĩa là anh ấy có kiến thức sâu rộng về khảo cổ học."
+        "en": "He is a doctor who can revive the dead.",
+        "es": "Es un médico que puede revivir a los muertos.",
+        "id": "Dia adalah seorang dokter yang bisa menghidupkan kembali orang mati.",
+        "jp": "彼は死んだ人を生き返らせることができる医者です。",
+        "ko": "그는 죽은 사람을 살릴 수 있는 의사입니다.",
+        "vi": "Anh ấy là một bác sĩ có thể hồi sinh người chết."
       },
       {
-        "en": "He has experience rescuing many people in the past.",
-        "es": "Tiene experiencia rescatando a muchas personas en el pasado.",
-        "id": "Dia memiliki pengalaman menyelamatkan banyak orang di masa lalu.",
-        "jp": "彼には過去に多くの人々を救出した経験がある。",
-        "ko": "그가 과거에 많은 사람을 구출한 경험이 있다.",
-        "vi": "Anh ấy có kinh nghiệm giải cứu nhiều người trong quá khứ."
+        "en": "He is a historian who studies ancient figures.",
+        "es": "Es un historiador que estudia figuras antiguas.",
+        "id": "Dia adalah sejarawan yang mempelajari tokoh-tokoh kuno.",
+        "jp": "彼は古代の人物を研究する歴史家です。",
+        "ko": "그는 고대 인물을 연구하는 역사학자입니다.",
+        "vi": "Anh ấy là một nhà sử học nghiên cứu các nhân vật cổ đại."
       }
     ],
     "question": {
-      "en": "What does the phrase \"Comrade Park Geon, who is said to even catch the dead,\" primarily imply about Comrade Park Geon?",
-      "es": "¿Qué implica principalmente la frase \"el camarada Park Geon, de quien se dice que incluso atrapa a los muertos\" sobre el camarada Park Geon?",
-      "id": "Apa yang paling utama diisyaratkan oleh frasa \"Kawan Park Geon, yang katanya bisa menangkap orang mati sekalipun\" tentang Kawan Park Geon dalam percakapan tersebut?",
-      "jp": "会話で言及された「死んだ人も捕まえるというパク・ゴン同志」という表現が、パク・ゴン同志について最も重要に示唆することは何ですか？",
-      "ko": "대화에서 언급된 \"죽은 사람도 잡아온다는 박건 동무\"라는 표현이 박건 동무에 대해 가장 중요하게 시사하는 바는 무엇입니까?",
-      "vi": "Cụm từ \"Đồng chí Park Geon, người được cho là có thể bắt cả người chết\" được nhắc đến trong đoạn hội thoại chủ yếu ngụ ý điều gì về Đồng chí Park Geon?"
+      "en": "What does the phrase \"Comrade Park Gun, who is said to even capture dead people\" primarily imply about Comrade Park Gun?",
+      "es": "¿Qué implica principalmente la frase \"El camarada Park Gun, de quien se dice que atrapa incluso a los muertos\" sobre el camarada Park Gun?",
+      "id": "Apa yang terutama diimplikasikan oleh frasa \"Kamerad Park Gun, yang katanya bahkan bisa menangkap orang mati\" tentang Kamerad Park Gun?",
+      "jp": "「死んだ人まで捕まえてくるというパク・ゴン同志」という表現は、パク・ゴン同志について主に何を暗示していますか？",
+      "ko": "\"죽은 사람도 잡아온다는 박건 동무\"라는 표현은 박건 동무에 대해 주로 무엇을 암시합니까?",
+      "vi": "Cụm từ \"Đồng chí Park Gun, người được cho là có thể bắt cả người chết\" chủ yếu ngụ ý gì về Đồng chí Park Gun?"
     },
     "answer_index": 1
   },
@@ -48,18 +48,18 @@
     "titles": {
       "en": "Humint | Trailer",
       "es": "Humint | Tráiler",
-      "id": "Humint | Trailer",
+      "id": "Humint | Cuplikan",
       "jp": "ヒューミント | 予告編",
       "ko": "휴민트 | 예고편",
       "vi": "Humint | Đoạn giới thiệu"
     },
     "categories": {
-      "en": "Movie, Action, Inter-Korean",
-      "es": "Película, Acción, Intercoreano",
-      "id": "Film, Aksi, Antar-Korea",
-      "jp": "映画, アクション, 南北",
+      "en": "Movie, Action, North-South Korea",
+      "es": "Película, Acción, Coreas (Norte-Sur)",
+      "id": "Film, Aksi, Korea Utara-Selatan",
+      "jp": "映画、アクション、南北（韓国・北朝鮮）",
       "ko": "영화, 액션, 남북",
-      "vi": "Phim, Hành động, Liên Triều"
+      "vi": "Phim, Hành động, Triều Tiên - Hàn Quốc"
     },
     "difficulty": 1,
     "youtube_id": "uKOYQ1e4lv4",
@@ -68,12 +68,12 @@
   "learning_sections": [
     {
       "scripts": {
-        "en": "If we decide today, what's the maximum number of days it will take to get it done?",
-        "es": "¿Si decidimos hoy, en cuántos días como máximo podría hacerlo?",
-        "id": "Jika diputuskan hari ini, paling lambat berapa hari bisa diselesaikan?",
-        "jp": "今日決定すれば、最大何日以内に完了していただけますか？",
+        "en": "If we decide today, what's the maximum number of days it would take to get me out?",
+        "es": "Si decidimos hoy, ¿cuántos días como máximo tardarían en sacarme?",
+        "id": "Jika diputuskan hari ini, paling lama berapa hari Anda bisa mengeluarkan saya?",
+        "jp": "今日決断すれば、最長で何日以内に私を救い出してくださいますか？",
         "ko": "오늘 결정하면 최대 며칠 안에 빼내 주실 수 있겠습니까?",
-        "vi": "Nếu quyết định hôm nay, tối đa bao nhiêu ngày thì có thể hoàn thành?"
+        "vi": "Nếu quyết định hôm nay, tối đa bao nhiêu ngày thì có thể đưa tôi ra ngoài?"
       },
       "end_time": 10.0,
       "start_time": 3.0,
@@ -81,95 +81,191 @@
         {
           "word": "결정하다",
           "meanings": {
-            "en": "to decide, to determine",
+            "en": "to decide",
             "es": "decidir",
             "id": "memutuskan",
-            "jp": "決定する",
+            "jp": "決定する、決める",
             "vi": "quyết định"
-          }
-        },
-        {
-          "word": "최대",
-          "meanings": {
-            "en": "maximum, up to",
-            "es": "máximo",
-            "id": "maksimal",
-            "jp": "最大",
-            "vi": "tối đa"
           }
         },
         {
           "word": "빼내다",
           "meanings": {
-            "en": "to get something done, to complete a task (contextual meaning)",
-            "es": "completar, ejecutar (significado contextual)",
-            "id": "menyelesaikan, menuntaskan (makna kontekstual)",
-            "jp": "(依頼された事を)完了する、処理する",
-            "vi": "hoàn thành, xử lý (nghĩa theo ngữ cảnh)"
+            "en": "to get out, extract, rescue",
+            "es": "sacar, rescatar",
+            "id": "mengeluarkan, menyelamatkan",
+            "jp": "抜き出す、救出する",
+            "vi": "đưa ra ngoài, giải cứu"
+          }
+        },
+        {
+          "word": "며칠",
+          "meanings": {
+            "en": "how many days",
+            "es": "cuántos días",
+            "id": "berapa hari",
+            "jp": "何日",
+            "vi": "mấy ngày, bao nhiêu ngày"
           }
         }
       ],
       "section_num": 1,
       "cultural_note": {
-        "en": "While '빼내다' (ppaenaeda) originally means 'to take out' or 'to rescue,' here it is used in the sense of 'to process and complete a requested task (service or item) within a deadline.' Therefore, it is an expression asking about 'the duration until completion.'",
-        "es": "'빼내다' originalmente significa 'sacar' o 'rescatar', pero aquí se utiliza con el significado de 'procesar y completar una tarea solicitada (servicio o artículo) dentro de un plazo.' Por lo tanto, es una expresión que pregunta sobre 'el tiempo que tardará en completarse'.",
-        "id": "'빼내다' awalnya berarti 'mengeluarkan' atau 'menyelamatkan,' namun di sini digunakan dalam arti 'memproses dan menyelesaikan tugas yang diminta (layanan atau barang) dalam tenggat waktu.' Oleh karena itu, ini adalah ungkapan yang menanyakan tentang 'durasi hingga penyelesaian.'",
-        "jp": "「“빼내다”は本来「取り出す」または「救出する」という意味ですが、ここでは「依頼された事柄（サービスや物品）を期限内に処理して完成させる、または引き渡す」という意味で使用されます。したがって、「完了までにかかる期間」を問い合わせる表現です。",
-        "ko": "\"빼내다\"는 본래 '꺼내다' 또는 '구출하다'는 의미이지만, 여기서는 '요청한 일(서비스나 물품)을 기한 내에 처리하여 완성하거나 내어주다'는 뜻으로 사용됩니다. 따라서 '완료까지 걸리는 기간'을 문의하는 표현입니다.",
-        "vi": "'빼내다' ban đầu có nghĩa là 'lấy ra' hoặc 'giải cứu', nhưng ở đây nó được dùng với nghĩa 'xử lý và hoàn thành một việc được yêu cầu (dịch vụ hoặc vật phẩm) trong thời hạn.' Do đó, đây là một cách diễn đạt để hỏi về 'thời gian cần thiết để hoàn thành.'"
+        "en": "\"빼내다\" originally means 'to take out' or 'to rescue,' but here it's a question hoping for one's own quick rescue.",
+        "es": "\"빼내다\" originalmente significa 'sacar' o 'rescatar', pero aquí es una pregunta con la esperanza de un rápido rescate personal.",
+        "id": "\"빼내다\" aslinya berarti 'mengeluarkan' atau 'menyelamatkan,' tetapi di sini adalah pertanyaan yang mengharapkan penyelamatan diri dengan cepat.",
+        "jp": "「빼내다」は本来「取り出す」または「救出する」という意味ですが、ここでは早い時期に本人を救出してくれることを願う質問です。",
+        "ko": "\"빼내다\"는 본래 '꺼내다' 또는 '구출하다'는 의미이지만, 여기에서는 빠른 시일내에 본인을 구출 시켜주기를 바라는 질문입니다.",
+        "vi": "\"빼내다\" ban đầu có nghĩa là 'lấy ra' hoặc 'giải cứu', nhưng ở đây nó là câu hỏi bày tỏ mong muốn được giải cứu nhanh chóng."
       }
     },
     {
       "scripts": {
-        "en": "Comrade Park Geon, who is said to even catch the dead, has come to monitor me. Did you do anything that warrants monitoring?",
-        "es": "El camarada Park Geon, de quien se dice que incluso atrapa a los muertos, ha venido a vigilarme. ¿Hiciste algo que mereciera ser vigilado?",
-        "id": "Kawan Park Geon, yang katanya bisa menangkap orang mati sekalipun, datang untuk mengawasiku. Apa Anda melakukan sesuatu yang pantas diawasi?",
-        "jp": "死んだ人も捕まえるというパク・ゴン同志が私を監視しに来たのに、監視されるような行動でもしましたか？",
+        "en": "Comrade Park Gun, who is said to even capture dead people, has come to monitor me. Did you do anything that warrants being monitored?",
+        "es": "El camarada Park Gun, de quien se dice que atrapa incluso a los muertos, ha venido a vigilarme. ¿Hizo algo que mereciera ser vigilado?",
+        "id": "Kamerad Park Gun, yang katanya bahkan bisa menangkap orang mati, datang untuk mengawasi saya. Apakah Anda melakukan sesuatu yang pantas diawasi?",
+        "jp": "死んだ人まで捕まえてくるというパク・ゴン同志が私を監視しに来たのに、監視されるような行動でもなさいましたか？",
         "ko": "죽은 사람도 잡아온다는 박건 동무가 날 감시하러 왔는데 \n감시 받을 행동이라도 하셨습니까?",
-        "vi": "Đồng chí Park Geon, người được cho là có thể bắt cả người chết, đã đến để giám sát tôi. Anh đã làm gì mà phải bị giám sát?"
+        "vi": "Đồng chí Park Gun, người được cho là có thể bắt cả người chết, đã đến giám sát tôi. Anh đã làm gì mà phải bị giám sát?"
       },
       "end_time": 22.8,
       "start_time": 15.0,
       "vocabulary": [
         {
-          "word": "잡아오다",
-          "meanings": {
-            "en": "to catch and bring (someone/something)",
-            "es": "atrapar y traer",
-            "id": "menangkap dan membawa",
-            "jp": "捕まえてくる",
-            "vi": "bắt và mang đến"
-          }
-        },
-        {
           "word": "동무",
           "meanings": {
-            "en": "comrade (North Korean term)",
-            "es": "camarada (término norcoreano)",
-            "id": "kawan, rekan (istilah Korea Utara)",
-            "jp": "同志 (北朝鮮での呼称)",
-            "vi": "đồng chí (thuật ngữ Bắc Triều Tiên)"
+            "en": "comrade (often used in North Korea)",
+            "es": "camarada (a menudo usado en Corea del Norte)",
+            "id": "kamerad (sering digunakan di Korea Utara)",
+            "jp": "同志（北朝鮮でよく使われる）",
+            "vi": "đồng chí (thường dùng ở Bắc Triều Tiên)"
           }
         },
         {
           "word": "감시하다",
           "meanings": {
-            "en": "to monitor, to watch, to surveil",
+            "en": "to monitor, watch, surveillance",
             "es": "vigilar, monitorear",
             "id": "mengawasi, memantau",
-            "jp": "監視する",
-            "vi": "giám sát"
+            "jp": "監視する、見張る",
+            "vi": "giám sát, theo dõi"
+          }
+        },
+        {
+          "word": "행동",
+          "meanings": {
+            "en": "action, behavior",
+            "es": "acción, comportamiento",
+            "id": "tindakan, perilaku",
+            "jp": "行動",
+            "vi": "hành động, cử chỉ"
           }
         }
       ],
       "section_num": 2,
       "cultural_note": {
-        "en": "'Dongmu' (동무) is a title primarily used in North Korea, signifying the powerful authority and threatening atmosphere of the monitor. The expression 'even catches the dead' exaggerates the monitor's abilities to emphasize fear.",
-        "es": "'Dongmu' (동무) es un título utilizado principalmente en Corea del Norte, que significa la poderosa autoridad y la atmósfera amenazante del vigilante. La expresión 'incluso atrapa a los muertos' exagera las habilidades del vigilante para enfatizar el miedo.",
-        "id": "'Dongmu' (동무) adalah sapaan yang terutama digunakan di Korea Utara, melambangkan otoritas yang kuat dan suasana mengancam dari pengawas. Ungkapan 'bahkan menangkap orang mati' melebih-lebihkan kemampuan pengawas untuk menekankan ketakutan.",
-        "jp": "「동무（トンム）」は北朝鮮で主に使用される呼称で、監視者の強大な権力と威圧的な雰囲気を表します。「죽은 사람도 잡아온다（死んだ人も捕まえる）」という表現は、監視者の能力を誇張して恐怖を強調する言葉です。",
+        "en": "'동무' is a title mainly used in North Korea, indicating the formidable power and threatening atmosphere of the monitor. The phrase 'even captures dead people' is an exaggeration of the monitor's ability, emphasizing fear.",
+        "es": "'동무' es un título usado principalmente en Corea del Norte, indicando el formidable poder y la atmósfera amenazante del vigilante. La frase 'incluso captura a los muertos' es una exageración de la habilidad del vigilante, enfatizando el miedo.",
+        "id": "'동무' adalah sapaan yang banyak digunakan di Korea Utara, menunjukkan kekuatan besar dan suasana mengancam dari pengawas. Ungkapan 'bahkan menangkap orang mati' adalah hiperbola kemampuan pengawas, yang menekankan ketakutan.",
+        "jp": "「동무（トンム）」は北朝鮮で主に使用される呼称で、監視者の強大な権力と威圧的な雰囲気を表します。「죽은 사람도 잡아온다（死んだ人まで捕まえてくる）」という表現は、監視者の能力を誇張し、恐怖を強調する言葉です。",
         "ko": "'동무'는 북한에서 주로 사용되는 호칭으로, 감시자의 막강한 권력과 위협적인 분위기를 나타냅니다. '죽은 사람도 잡아온다'는 표현은 감시자의 능력을 과장하여 두려움을 강조하는 말입니다.",
-        "vi": "'Đồng chí' (동무) là một danh xưng chủ yếu được sử dụng ở Bắc Triều Tiên, thể hiện quyền lực mạnh mẽ và không khí đe dọa của người giám sát. Cụm từ 'có thể bắt cả người chết' là cách nói phóng đại khả năng của người giám sát để nhấn mạnh sự sợ hãi."
+        "vi": "'동무' là một xưng hô chủ yếu được sử dụng ở Bắc Triều Tiên, thể hiện quyền lực to lớn và không khí đe dọa của người giám sát. Cụm từ 'bắt cả người chết' là một cách nói cường điệu về năng lực của người giám sát, nhấn mạnh sự sợ hãi."
+      }
+    },
+    {
+      "scripts": {
+        "en": "By any chance, did you ever tell anyone about us meeting?",
+        "es": "¿Por casualidad, le has dicho a alguien sobre nuestras citas?",
+        "id": "Kebetulan, pernahkah kamu memberitahu siapa pun tentang pertemuan kita?",
+        "jp": "もしかして、私たちが会っていること…誰かに話したことありますか？",
+        "ko": "혹시 우리 만나는거... \n누구한테 말한적 있어요?",
+        "vi": "Có khi nào anh đã nói với ai về việc chúng ta gặp nhau không?"
+      },
+      "end_time": 27.0,
+      "start_time": 23.0,
+      "vocabulary": [
+        {
+          "word": "혹시",
+          "meanings": {
+            "en": "by any chance, perhaps",
+            "es": "por casualidad, quizás",
+            "id": "kebetulan, mungkin",
+            "jp": "もしかして、ひょっとして",
+            "vi": "có khi nào, không chừng"
+          }
+        },
+        {
+          "word": "만나다",
+          "meanings": {
+            "en": "to meet",
+            "es": "encontrarse",
+            "id": "bertemu",
+            "jp": "会う",
+            "vi": "gặp"
+          }
+        },
+        {
+          "word": "말하다",
+          "meanings": {
+            "en": "to speak, tell",
+            "es": "hablar, decir",
+            "id": "berbicara, memberitahu",
+            "jp": "話す、言う",
+            "vi": "nói, kể"
+          }
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "This line is often used in situations where a romantic relationship is being kept secret. It's a question to confirm with the other person if they want to meet quietly without informing colleagues or people around them.",
+        "es": "Esta frase se usa a menudo en situaciones donde una relación romántica se mantiene en secreto. Es una pregunta para confirmar con la otra persona si desea verse discretamente sin informar a colegas o personas cercanas.",
+        "id": "Baris ini sering digunakan dalam situasi di mana hubungan romantis dirahasiakan. Ini adalah pertanyaan untuk memastikan dengan orang lain apakah mereka ingin bertemu secara diam-diam tanpa memberitahu rekan kerja atau orang di sekitar mereka.",
+        "jp": "このセリフは、恋人関係を秘密にしておきたい状況でよく使われます。職場の同僚や周りの人々に交際を知らせずに静かに会いたいときに、相手に確認する質問です。",
+        "ko": "이 대사는 연인 관계를 비밀로 유지하려는 상황에서 자주 사용됩니다. 직장 동료나 주변 사람들에게 관계를 알리지 않고 조용히 만나고 싶을 때 상대방에게 확인하는 질문입니다.",
+        "vi": "Câu thoại này thường được dùng trong tình huống muốn giữ bí mật một mối quan hệ tình cảm. Đây là câu hỏi để xác nhận với đối phương liệu họ có muốn gặp gỡ một cách kín đáo mà không cho đồng nghiệp hay những người xung quanh biết hay không."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Ascertain all of Chae Seon-hwa's movements/whereabouts.",
+        "es": "Averigüe todos los movimientos de Chae Seon-hwa.",
+        "id": "Selidiki semua gerak-gerik Chae Seon-hwa.",
+        "jp": "チェ・ソンファの動向を全て把握しなさい。",
+        "ko": "채선화 행적 전부 파악하시오.",
+        "vi": "Hãy tìm hiểu tất cả hành tung của Chae Seon-hwa."
+      },
+      "end_time": 35.0,
+      "start_time": 31.0,
+      "vocabulary": [
+        {
+          "word": "행적",
+          "meanings": {
+            "en": "whereabouts, movements, activities",
+            "es": "paradero, movimientos",
+            "id": "gerak-gerik, keberadaan",
+            "jp": "行動、足跡、動向",
+            "vi": "hành tung, tung tích"
+          }
+        },
+        {
+          "word": "파악하다",
+          "meanings": {
+            "en": "to ascertain, grasp, understand",
+            "es": "averiguar, comprender",
+            "id": "memahami, menyelidiki",
+            "jp": "把握する、理解する",
+            "vi": "tìm hiểu, nắm bắt"
+          }
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "\"-시오\" is a direct imperative ending used by a superior to a subordinate, often in formal settings or in the military, indicating a firm and strict command.",
+        "es": "\"-시오\" es una terminación imperativa directa utilizada por un superior a un subordinado, a menudo en entornos formales o militares, indicando una orden firme y estricta.",
+        "id": "\"-시오\" adalah akhiran imperatif langsung yang digunakan oleh atasan kepada bawahan, seringkali dalam pengaturan formal atau militer, menunjukkan perintah yang tegas dan ketat.",
+        "jp": "「-시오」は、公式的な場や軍隊などで目上の人が目下の人に下す直接的な命令形の語尾で、断固たる厳重な指示を表します。",
+        "ko": "\"-시오\"는 공식적이거나 군대 등에서 윗사람이 아랫사람에게 내리는 직접적인 명령형 어미로, 단호하고 엄중한 지시를 나타냅니다.",
+        "vi": "\"-시오\" là một đuôi câu mệnh lệnh trực tiếp được cấp trên dùng cho cấp dưới, thường trong các tình huống trang trọng hoặc trong quân đội, thể hiện một mệnh lệnh kiên quyết và nghiêm ngặt."
       }
     }
   ]

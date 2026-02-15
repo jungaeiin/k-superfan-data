@@ -1,0 +1,282 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "Joo Ho-jin is a new interpreter who is just starting out.",
+        "es": "Joo Ho-jin es un intérprete nuevo que acaba de empezar.",
+        "id": "Joo Ho-jin adalah penerjemah baru yang baru memulai.",
+        "jp": "ジュホジンは、まだ始まったばかりの新米通訳者です。",
+        "ko": "주호진은 이제 막 시작하는 신입 통역사이다.",
+        "vi": "Joo Ho-jin là một thông dịch viên mới bắt đầu."
+      },
+      {
+        "en": "Joo Ho-jin is well-known for their exceptional language skills and high popularity.",
+        "es": "Joo Ho-jin es conocido por sus excepcionales habilidades lingüísticas y su gran popularidad.",
+        "id": "Joo Ho-jin terkenal karena kemampuan bahasa yang luar biasa dan popularitasnya yang tinggi.",
+        "jp": "ジュホジンは、卓越した語学力と高い人気でよく知られています。",
+        "ko": "주호진은 탁월한 언어 능력과 높은 인기로 잘 알려져 있다.",
+        "vi": "Joo Ho-jin nổi tiếng với kỹ năng ngôn ngữ xuất sắc và sự phổ biến cao."
+      },
+      {
+        "en": "Joo Ho-jin often struggles to understand what others are saying.",
+        "es": "Joo Ho-jin a menudo tiene dificultades para entender lo que dicen los demás.",
+        "id": "Joo Ho-jin sering kesulitan memahami apa yang dikatakan orang lain.",
+        "jp": "ジュホジンは、他の人の言うことを理解するのにしばしば苦労します。",
+        "ko": "주호진은 다른 사람의 말을 이해하는 데 종종 어려움을 겪는다.",
+        "vi": "Joo Ho-jin thường gặp khó khăn trong việc hiểu những gì người khác nói."
+      },
+      {
+        "en": "Joo Ho-jin only interprets for European languages.",
+        "es": "Joo Ho-jin solo interpreta idiomas europeos.",
+        "id": "Joo Ho-jin hanya menerjemahkan bahasa-bahasa Eropa.",
+        "jp": "ジュホジンはヨーロッパの言語のみを翻訳します。",
+        "ko": "주호진은 유럽 언어만 통역한다.",
+        "vi": "Joo Ho-jin chỉ phiên dịch các ngôn ngữ châu Âu."
+      }
+    ],
+    "question": {
+      "en": "Based on the provided dialogues, what can be inferred about the interpreter Joo Ho-jin?",
+      "es": "Según los diálogos proporcionados, ¿qué se puede inferir sobre el intérprete Joo Ho-jin?",
+      "id": "Berdasarkan dialog yang disediakan, apa yang dapat disimpulkan tentang penerjemah Joo Ho-jin?",
+      "jp": "提供された会話に基づいて、通訳者ジュホジンについて何が推測できますか？",
+      "ko": "제공된 대화를 바탕으로 통역사 주호진에 대해 추론할 수 있는 것은 무엇입니까?",
+      "vi": "Dựa trên các đoạn hội thoại đã cho, điều gì có thể suy ra về thông dịch viên Joo Ho-jin?"
+    },
+    "answer_index": 1
+  },
+  "metadata": {
+    "titles": {
+      "en": "Can This Love Be Translated?",
+      "es": "¿Puede traducirse este amor?",
+      "id": "Bisakah Cinta Ini Diterjemahkan?",
+      "jp": "この愛、通訳できますか？",
+      "ko": "이 사랑 통역되나요?",
+      "vi": "Tình yêu này có thể được phiên dịch không?"
+    },
+    "categories": {
+      "en": "Drama, Romance",
+      "es": "Drama, Romance",
+      "id": "Drama, Romansa",
+      "jp": "ドラマ、ロマンス",
+      "ko": "드라마, 로맨스",
+      "vi": "Phim truyền hình, Lãng mạn"
+    },
+    "difficulty": 1,
+    "youtube_id": "xLhmKJx7mE0",
+    "youtube_url": "https://www.youtube.com/watch?v=xLhmKJx7mE0"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Ah, my leg hurts. Ugh... Cha Mu-hee, audio going in. Action!",
+        "es": "Ah, me duele la pierna. ¡Maldita sea...! Cha Mu-hee, el audio entra. ¡Acción!",
+        "id": "Aduh, kakiku sakit. Sial... Nona Cha Mu-hee, audio masuk. Action!",
+        "jp": "あ、足が痛い。くそっ... チャムヒさん、音声入ります。アクション！",
+        "ko": "아 다리 아파. 아이 씨... \n차무희씨, 오디오 들어갑니다. 액션!",
+        "vi": "À, đau chân quá. Trời đất... Cô Cha Mu-hee, âm thanh bắt đầu. Diễn!"
+      },
+      "end_time": 7.3,
+      "start_time": 1.0,
+      "vocabulary": [
+        {
+          "word": "다리 아파",
+          "meanings": {
+            "en": "My leg hurts",
+            "es": "Me duele la pierna",
+            "id": "Kakiku sakit",
+            "jp": "足が痛い",
+            "vi": "Đau chân"
+          }
+        },
+        {
+          "word": "오디오 들어갑니다",
+          "meanings": {
+            "en": "Audio going in / Audio starts",
+            "es": "El audio entra",
+            "id": "Audio masuk",
+            "jp": "音声入ります",
+            "vi": "Âm thanh bắt đầu"
+          }
+        },
+        {
+          "word": "액션",
+          "meanings": {
+            "en": "Action (film term)",
+            "es": "Acción",
+            "id": "Action",
+            "jp": "アクション",
+            "vi": "Diễn / Action"
+          }
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "`아이 씨` is a mild expletive used as a monologue when one feels frustrated or annoyed. This scene shows an actor briefly expressing personal dissatisfaction or pain before starting to film.",
+        "es": "`아이 씨` es una expresión malsonante suave utilizada como monólogo cuando uno se siente frustrado o molesto. Esta escena muestra a un actor expresando brevemente su insatisfacción o dolor personal antes de comenzar a filmar.",
+        "id": "`아이 씨` adalah ungkapan kasar ringan yang digunakan seperti monolog saat seseorang merasa frustrasi atau kesal. Adegan ini menunjukkan seorang aktor sejenak mengungkapkan ketidakpuasan atau rasa sakit pribadinya sebelum mulai syuting.",
+        "jp": "「아이 씨」は、もどかしさやイライラを感じたときに独り言のように使う軽い俗語です。この場面は、俳優が撮影に入る前に個人的な不満や苦痛を一時的に表す状況を示しています。",
+        "ko": "\"아이 씨\"는 답답하거나 짜증이 날 때 혼잣말처럼 사용하는 가벼운 비속어입니다. 이 장면은 배우가 촬영에 들어가기 전 개인적인 불만이나 고통을 잠시 드러내는 상황을 보여줍니다.",
+        "vi": "`아이 씨` là một từ tục tĩu nhẹ thường được dùng như một lời độc thoại khi cảm thấy bực bội hoặc khó chịu. Cảnh này cho thấy một diễn viên thoáng bộc lộ sự không hài lòng hoặc đau đớn cá nhân trước khi bắt đầu quay."
+      }
+    },
+    {
+      "scripts": {
+        "en": "I heard there's someone currently living who speaks all the languages of Europe and North America. Interpreter, are you ready? Yes, I am ready too.",
+        "es": "Escuché que existe alguien que habla todos los idiomas de Europa y América del Norte. Intérprete, ¿está listo? Sí, yo también estoy listo.",
+        "id": "Saya dengar ada seseorang yang saat ini hidup yang bisa berbicara semua bahasa Eropa dan Amerika Utara. Penerjemah, sudah siap? Ya, saya juga sudah siap.",
+        "jp": "ヨーロッパ、北米、その国の言語をすべて話せる方が現存すると聞いています。通訳さん、準備できましたか？はい、私も準備できました。",
+        "ko": "유럽, 북미, 그 나라 언어를 다 하시는 분이 현존 하신다고 들어서. \n통역사님 준비되셨어요? 네, 저도 준비됐습니다.",
+        "vi": "Tôi nghe nói có người hiện đang sống mà nói được tất cả các ngôn ngữ ở Châu Âu, Bắc Mỹ. Thông dịch viên, bạn đã sẵn sàng chưa? Vâng, tôi cũng đã sẵn sàng."
+      },
+      "end_time": 17.0,
+      "start_time": 8.0,
+      "vocabulary": [
+        {
+          "word": "현존 하신다고",
+          "meanings": {
+            "en": "Is currently living / exists (honorific)",
+            "es": "Actualmente existe / vive (honorífico)",
+            "id": "Saat ini ada / hidup (hormat)",
+            "jp": "現存していると (いらっしゃる)",
+            "vi": "Hiện đang sống / tồn tại (kính ngữ)"
+          }
+        },
+        {
+          "word": "통역사님",
+          "meanings": {
+            "en": "Interpreter (honorific)",
+            "es": "Intérprete (honorífico)",
+            "id": "Penerjemah (hormat)",
+            "jp": "通訳さん",
+            "vi": "Thông dịch viên (kính ngữ)"
+          }
+        },
+        {
+          "word": "준비되셨어요?",
+          "meanings": {
+            "en": "Are you ready? (honorific)",
+            "es": "¿Está listo? (honorífico)",
+            "id": "Sudah siap? (hormat)",
+            "jp": "準備できましたか？",
+            "vi": "Bạn đã sẵn sàng chưa? (kính ngữ)"
+          }
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "This conversation demonstrates a polite Korean communication style, where the interpreter's excellent language skills are highly valued in a formal setting, and readiness is confirmed before starting work.",
+        "es": "Esta conversación demuestra un estilo de comunicación coreano cortés, donde las excelentes habilidades lingüísticas del intérprete son muy valoradas en un entorno formal, y se confirma la preparación antes de comenzar el trabajo.",
+        "id": "Percakapan ini menunjukkan gaya komunikasi Korea yang sopan, di mana kemampuan bahasa penerjemah yang luar biasa sangat dihargai dalam suasana formal, dan kesiapan dikonfirmasi sebelum memulai pekerjaan.",
+        "jp": "この会話は、公式な場で通訳者の優れた言語能力を高く評価し、礼儀を尽くし、業務開始前に相手の準備状況を確認する韓国の丁寧なコミュニケーション方法です。",
+        "ko": "이 대화는 공식적인 자리에서 통역사의 뛰어난 언어 능력을 높이 평가하며 예의를 갖추고, 업무 시작 전에 상대방의 준비를 확인하는 한국의 정중한 소통 방식입니다.",
+        "vi": "Đoạn hội thoại này thể hiện phong cách giao tiếp lịch sự của người Hàn Quốc, nơi khả năng ngôn ngữ xuất sắc của thông dịch viên được đánh giá cao trong một bối cảnh trang trọng, và sự sẵn sàng được xác nhận trước khi bắt đầu công việc."
+      }
+    },
+    {
+      "scripts": {
+        "en": "When someone speaks badly, only Joo Ho-jin can interpret it perfectly. Your followers have exceeded ten million.",
+        "es": "Aunque se hable fatal, solo Joo Ho-jin puede interpretarlo a la perfección. Tus seguidores han superado los diez millones.",
+        "id": "Meskipun bicaranya berantakan, hanya Joo Ho-jin yang bisa menerjemahkannya dengan sempurna. Pengikutmu sudah lebih dari sepuluh juta.",
+        "jp": "ひどく話しても完璧に通訳してくれるのは、ジュホジン君しかいないのに。フォロワーが1000万人を超えたんだ。",
+        "ko": "개떡같이 말해도 찰떡같이 통역해 주는 거는 주호진이 자네 밖에 없는데. \n팔로워가 천만이 넘었어.",
+        "vi": "Dù nói chuyện tệ đến mấy, chỉ có Joo Ho-jin mới có thể phiên dịch một cách hoàn hảo. Lượt theo dõi của bạn đã vượt mười triệu."
+      },
+      "end_time": 25.0,
+      "start_time": 18.0,
+      "vocabulary": [
+        {
+          "word": "개떡같이 말해도 찰떡같이 통역해 주다",
+          "meanings": {
+            "en": "To interpret perfectly even if spoken poorly (idiom)",
+            "es": "Interpretar a la perfección aunque se hable mal (expresión idiomática)",
+            "id": "Menerjemahkan dengan sempurna meskipun diucapkan dengan buruk (idiom)",
+            "jp": "ひどく話されても完璧に通訳する (慣用句)",
+            "vi": "Dịch hoàn hảo dù nói kém (thành ngữ)"
+          }
+        },
+        {
+          "word": "자네",
+          "meanings": {
+            "en": "You (informal, used among close male friends or by older person to younger male)",
+            "es": "Tú (informal, usado entre amigos cercanos masculinos o por una persona mayor a un hombre más joven)",
+            "id": "Kamu (informal, digunakan antara teman laki-laki dekat atau oleh orang yang lebih tua kepada laki-laki yang lebih muda)",
+            "jp": "君 (親しい男性同士、または年長者が年下の男性に使う)",
+            "vi": "Bạn / anh (thân mật, dùng giữa bạn bè nam thân thiết hoặc người lớn tuổi hơn với người nam nhỏ tuổi hơn)"
+          }
+        },
+        {
+          "word": "팔로워",
+          "meanings": {
+            "en": "Followers",
+            "es": "Seguidores",
+            "id": "Pengikut",
+            "jp": "フォロワー",
+            "vi": "Người theo dõi"
+          }
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "`개떡같이 말해도 찰떡같이 통역해 주다` is an idiom used to praise someone's outstanding ability to perfectly grasp the speaker's intention and convey it accurately, even if the speaker speaks awkwardly or unclearly. This expression emphasizes the interpreter's excellent skills.",
+        "es": "`개떡같이 말해도 찰떡같이 통역해 주다` es una expresión idiomática que se utiliza para elogiar la habilidad sobresaliente de alguien para captar perfectamente la intención del hablante y transmitirla con precisión, incluso si el hablante habla torpemente o de forma ininteligible. Esta expresión enfatiza las excelentes habilidades del intérprete.",
+        "id": "`개떡같이 말해도 찰떡같이 통역해 주다` adalah idiom yang digunakan untuk memuji kemampuan luar biasa seseorang dalam memahami maksud pembicara dengan sempurna dan menyampaikannya secara akurat, meskipun pembicara berbicara dengan canggung atau tidak jelas. Ungkapan ini menekankan keterampilan penerjemah yang sangat baik.",
+        "jp": "「개떡같이 말해도 찰떡같이 통역해 주다」は、話者が不器用だったり理解しにくい話し方をしても、聞く人がその意図を完璧に把握し、正確に伝える優れた能力を称賛するときに使われる慣用句です。これは通訳者の卓越したスキルを強調する表現です。",
+        "ko": "\"개떡같이 말해도 찰떡같이 통역해 주다\"는 관용구로, 화자가 서투르거나 알아듣기 어렵게 말해도 듣는 사람이 그 의도를 완벽하게 파악하고 정확하게 전달하는 뛰어난 능력을 칭찬할 때 사용됩니다. 이는 통역사의 탁월한 실력을 강조하는 표현입니다.",
+        "vi": "`개떡같이 말해도 찰떡같이 통역해 주다` là một thành ngữ dùng để ca ngợi khả năng xuất sắc của ai đó trong việc nắm bắt hoàn hảo ý định của người nói và truyền đạt chính xác, ngay cả khi người nói nói một cách vụng về hoặc không rõ ràng. Cụm từ này nhấn mạnh kỹ năng tuyệt vời của thông dịch viên."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Still, somehow we came together again. Cha Mu-hee, can you hear me? Ah, I can hear you too.",
+        "es": "Aun así, de alguna manera vinimos juntos de nuevo. Cha Mu-hee, ¿me escucha? Ah, yo también le escucho.",
+        "id": "Tetap saja, entah bagaimana kita datang bersama lagi. Nona Cha Mu-hee, bisakah Anda mendengarku? Ah, saya juga bisa mendengarmu.",
+        "jp": "それでもまた、どうにか一緒に来たね。チャムヒさん、聞こえますか？あ、私も聞こえますよ。",
+        "ko": "그래도 또 어떻게 같이 왔네. 차무희 씨 들립니까? 아, 나도 들려요.",
+        "vi": "Dù sao thì chúng ta cũng lại đến cùng nhau. Cô Cha Mu-hee, cô có nghe thấy tôi không? À, tôi cũng nghe thấy cô."
+      },
+      "end_time": 35.0,
+      "start_time": 28.0,
+      "vocabulary": [
+        {
+          "word": "같이 왔네",
+          "meanings": {
+            "en": "Came together / came along",
+            "es": "Vinimos juntos",
+            "id": "Datang bersama",
+            "jp": "一緒に来たね",
+            "vi": "Đã đến cùng nhau"
+          }
+        },
+        {
+          "word": "들립니까?",
+          "meanings": {
+            "en": "Can you hear (me)? (formal)",
+            "es": "¿Me escucha? (formal)",
+            "id": "Bisakah Anda mendengar? (formal)",
+            "jp": "聞こえますか？",
+            "vi": "Bạn có nghe thấy không? (trang trọng)"
+          }
+        },
+        {
+          "word": "들려요",
+          "meanings": {
+            "en": "I can hear (you)",
+            "es": "Le escucho",
+            "id": "Saya bisa mendengar",
+            "jp": "聞こえます",
+            "vi": "Tôi nghe thấy"
+          }
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "`들립니까?` is a question used in phone calls or radio communications to check if the other person can hear one's words clearly, and `들려요` is the affirmative response. In Korea, such expressions to check audio connection status are commonly used in daily conversations.",
+        "es": "`들립니까?` es una pregunta utilizada en llamadas telefónicas o comunicaciones por radio para verificar si la otra persona puede escuchar las palabras de uno con claridad, y `들려요` es la respuesta afirmativa. En Corea, tales expresiones para verificar el estado de la conexión de audio se usan comúnmente en las conversaciones diarias.",
+        "id": "`들립니까?` adalah pertanyaan yang digunakan dalam panggilan telepon atau komunikasi radio untuk memastikan apakah orang lain dapat mendengar kata-kata seseorang dengan jelas, dan `들려요` adalah jawaban afirmatif. Di Korea, ekspresi semacam ini untuk memeriksa status koneksi audio umum digunakan dalam percakapan sehari-hari.",
+        "jp": "「들립니까？」は、通話や無線状況で相手が自分の言葉をよく聞いているかを確認する質問であり、「들려요」はそれに対する肯定的な返答です。韓国では、このようにオーディオ接続状態を確認する表現が日常会話でよく使われます。",
+        "ko": "\"들립니까?\"는 통화나 무전 상황에서 상대방이 자신의 말을 잘 듣고 있는지 확인하는 질문이며, \"들려요\"는 그에 대한 긍정적인 답변입니다. 한국에서는 이처럼 오디오 연결 상태를 확인하는 표현이 일상 대화에서 흔히 사용됩니다.",
+        "vi": "`들립니까?` là câu hỏi dùng trong cuộc gọi điện thoại hoặc liên lạc vô tuyến để kiểm tra xem người kia có nghe rõ lời mình nói không, và `들려요` là câu trả lời khẳng định. Ở Hàn Quốc, những cách diễn đạt như vậy để kiểm tra trạng thái kết nối âm thanh thường được sử dụng trong các cuộc hội thoại hàng ngày."
+      }
+    }
+  ]
+}

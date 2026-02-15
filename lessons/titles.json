@@ -1,9 +1,9 @@
 [
   {
-    "id": 16,
+    "id": 5,
     "youtube_id": "uKOYQ1e4lv4",
-    "thumbnail": "https://img.youtube.com/vi/uKOYQ1e4lv4/mqdefault.jpg",
-    "difficulty": 3,
+    "thumbnail": "https://img.youtube.com/vi/uKOYQ1e4lv4/maxresdefault.jpg",
+    "difficulty": 1,
     "titles": {
       "en": "Humint | Trailer",
       "es": "Humint | Tráiler",
@@ -13,82 +13,13 @@
       "vi": "Humint | Đoạn giới thiệu"
     },
     "categories": {
-      "en": "Movie, Action, Thriller",
-      "es": "Película, Acción, Thriller",
-      "id": "Film, Aksi, Thriller",
-      "jp": "映画、アクション、スリラー",
-      "ko": "영화, 액션, 스릴러",
-      "vi": "Phim, Hành động, Ly kỳ"
+      "en": "Movie, Action, Inter-Korean",
+      "es": "Película, Acción, Intercoreano",
+      "id": "Film, Aksi, Antar-Korea",
+      "jp": "映画, アクション, 南北",
+      "ko": "영화, 액션, 남북",
+      "vi": "Phim, Hành động, Liên Triều"
     },
-    "pub_date": "2026-02-14T09:15:50.401000+09:00"
-  },
-  {
-    "id": 15,
-    "youtube_id": "628OJYuO6wU",
-    "thumbnail": "https://img.youtube.com/vi/628OJYuO6wU/mqdefault.jpg",
-    "difficulty": 2,
-    "titles": {
-      "en": "Lady Dua | Trailer",
-      "es": "Lady Dua | Tráiler",
-      "id": "Lady Dua | Trailer",
-      "jp": "レディ・ドゥア | 予告編",
-      "ko": "레이디 두아 | 예고편",
-      "vi": "Lady Dua | Trailer"
-    },
-    "categories": {
-      "en": "Drama, Crime, Thriller",
-      "es": "Drama, Crimen, Thriller",
-      "id": "Drama, Kejahatan, Thriller",
-      "jp": "ドラマ、犯罪、スリラー",
-      "ko": "드라마, 범죄, 스릴러",
-      "vi": "Phim truyền hình, Tội phạm, Kinh dị"
-    },
-    "pub_date": "2026-02-13T13:02:23.008000+09:00"
-  },
-  {
-    "id": 14,
-    "youtube_id": "V2qn8E7PB0c",
-    "thumbnail": "https://img.youtube.com/vi/V2qn8E7PB0c/mqdefault.jpg",
-    "difficulty": 1,
-    "titles": {
-      "en": "From Today, I'm Human | Official Trailer",
-      "es": "Desde hoy, soy humano | Tráiler oficial",
-      "id": "Mulai Hari Ini, Aku Manusia | Trailer Resmi",
-      "jp": "今日から人間ですけど | 公式予告編",
-      "ko": "오늘부터 인간입니다만 | 공식 예고편",
-      "vi": "Từ hôm nay, tôi là người | Trailer chính thức"
-    },
-    "categories": {
-      "en": "Drama, Comedy",
-      "es": "Drama, Comedia",
-      "id": "Drama, Komedi",
-      "jp": "ドラマ、コメディ",
-      "ko": "드라마, 코미디",
-      "vi": "Phim truyền hình, Hài kịch"
-    },
-    "pub_date": "2026-02-13T12:17:13.461000+09:00"
-  },
-  {
-    "id": 12,
-    "youtube_id": "9sxEZuJskvM",
-    "thumbnail": "https://img.youtube.com/vi/9sxEZuJskvM/hqdefault.jpg",
-    "difficulty": 2,
-    "titles": {
-      "en": "The King's Warden (2026)",
-      "es": "El Hombre que Vive con el Rey",
-      "id": "Pria yang Hidup Bersama Raja",
-      "jp": "王と生きる男",
-      "ko": "왕과 사는 남자",
-      "vi": "Người Đàn Ông Sống Cùng Vua"
-    },
-    "categories": {
-      "en": "Historical Drama",
-      "es": "Drama Histórico",
-      "id": "Drama Sejarah",
-      "jp": "時代劇",
-      "ko": "사극",
-      "vi": "Phim cổ trang"
-    },
-    "pub_date": "2026-02-12T12:25:07.549000+09:00"
+    "pub_date": "2026-02-15T04:18:52.737681+00:00"
   }
 ]

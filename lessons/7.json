@@ -2,230 +2,250 @@
   "quiz": {
     "options": [
       {
-        "en": "The filming of the movie has begun.",
-        "jp": "映画の撮影が始まった。",
-        "ko": "영화 촬영이 시작되었다.",
-        "vi": "Việc quay phim đã bắt đầu."
+        "en": "Because laughter is highly contagious and makes others laugh too.",
+        "es": "Porque la risa es muy contagiosa y hace reír a los demás también.",
+        "id": "Karena tawa sangat menular dan membuat orang lain ikut tertawa.",
+        "jp": "笑いが伝染性が強く、他の人も笑わせてしまうからです。",
+        "ko": "웃음이 전염성이 강해서 다른 사람들도 웃게 만들기 때문입니다.",
+        "vi": "Bởi vì tiếng cười rất dễ lây lan và khiến người khác cũng cười theo."
       },
       {
-        "en": "It achieved 1st place in pre-sales.",
-        "jp": "前売り率1位を獲得した。",
-        "ko": "예매율 1위를 차지했다.",
-        "vi": "Nó đã đạt vị trí số 1 về tỷ lệ đặt vé trước."
+        "en": "Because it can be seen as an action that fails to recognize the seriousness of the situation.",
+        "es": "Porque puede verse como una acción que no reconoce la gravedad de la situación.",
+        "id": "Karena dapat dianggap sebagai tindakan yang gagal mengenali keseriusan situasi.",
+        "jp": "状況の深刻さを認識していない行動と見なされ得るからです。",
+        "ko": "상황의 심각성을 인지하지 못하는 행동으로 보일 수 있기 때문입니다.",
+        "vi": "Bởi vì nó có thể được xem là hành động không nhận thức được sự nghiêm trọng của tình huống."
       },
       {
-        "en": "It won an award at an international film festival.",
-        "jp": "国際映画祭で賞を受賞した。",
-        "ko": "국제 영화제에서 상을 받았다.",
-        "vi": "Nó đã giành giải thưởng tại một liên hoan phim quốc tế."
+        "en": "Because laughing is considered bad for health.",
+        "es": "Porque se considera que reír es malo para la salud.",
+        "id": "Karena tertawa dianggap buruk bagi kesehatan.",
+        "jp": "笑うことが健康に良くないと考えられているからです。",
+        "ko": "웃는 것이 건강에 좋지 않다고 생각하기 때문입니다.",
+        "vi": "Bởi vì cười được cho là không tốt cho sức khỏe."
       },
       {
-        "en": "The release schedule has been postponed.",
-        "jp": "公開日程が延期された。",
-        "ko": "개봉 일정이 연기되었다.",
-        "vi": "Lịch phát hành đã bị hoãn lại."
+        "en": "Because the sound of laughter is too loud and disturbs others.",
+        "es": "Porque el sonido de la risa es demasiado fuerte y molesta a los demás.",
+        "id": "Karena suara tawa terlalu keras dan mengganggu orang lain.",
+        "jp": "笑い声が大きすぎて、他の人に迷惑をかけるからです。",
+        "ko": "웃음소리가 너무 커서 다른 사람에게 방해가 되기 때문입니다.",
+        "vi": "Bởi vì tiếng cười quá lớn và làm phiền người khác."
       }
     ],
     "question": {
-      "en": "What is the main news about director Ryoo Seung-wan's new film 'HUMINT'?",
-      "jp": "リュ・スンワン監督の新作「ヒューミント」に関する主要なニュースは何ですか？",
-      "ko": "류승완 감독의 신작 '휴민트'에 대한 주요 소식은 무엇인가요?",
-      "vi": "Tin tức chính về bộ phim mới 'HUMINT' của đạo diễn Ryoo Seung-wan là gì?"
+      "en": "In the dialogue of section 3, why might \"laughing in this situation\" be pointed out as a problem?",
+      "es": "En el diálogo de la sección 3, ¿por qué podría señalarse como un problema \"reír en esta situación\"?",
+      "id": "Dalam dialog bagian 3, mengapa \"tertawa dalam situasi ini\" dapat dianggap sebagai masalah?",
+      "jp": "3番の会話で、「この状況で笑うこと」がなぜ問題として指摘され得るのでしょうか？",
+      "ko": "3번 대화에서 \"이 상황에서 웃는거\"가 왜 문제로 지적될 수 있을까요?",
+      "vi": "Trong đoạn hội thoại số 3, tại sao việc \"cười trong tình huống này\" lại có thể bị coi là một vấn đề?"
     },
     "answer_index": 1
   },
   "metadata": {
     "titles": {
-      "en": "Ryoo Seung-wan's New Film 'HUMINT' Ranks 1st in Pre-sales... Box Office Success Predicted",
-      "jp": "リュ・スンワン監督の新作「ヒューミント」、前売り率1位に浮上…興行予告",
-      "ko": "류승완 신작 '휴민트', 예매율 1위 올랐다…흥행 예고",
-      "vi": "Phim mới của đạo diễn Ryoo Seung-wan 'HUMINT' đứng đầu về tỷ lệ đặt vé trước... Dự báo thành công phòng vé"
+      "en": "The Price of Confession | Official Teaser Trailer | Netflix",
+      "es": "El precio de una confesión (2025)",
+      "id": "The Price of Confession | Official Teaser Trailer | Netflix",
+      "jp": "告白の代価 (2025)",
+      "ko": "자백의 대가 | 공식 티저 예고편 | 넷플릭스",
+      "vi": "Cái giá của lời thú tội (2025)"
     },
-    "thumbnail": "https://img.youtube.com/vi/IVW8LNJn65A/hqdefault.jpg",
     "categories": {
-      "en": "Entertainment News, Film",
-      "jp": "芸能ニュース、映画",
-      "ko": "연예뉴스, 영화",
-      "vi": "Tin tức giải trí, Điện ảnh"
+      "en": "Drama, Thriller, Crime",
+      "es": "Drama, Thriller, Crimen",
+      "id": "Drama, Thriller, Kriminal",
+      "jp": "ドラマ, スリラー, 犯罪",
+      "ko": "드라마, 스릴러, 범죄",
+      "vi": "Phim truyền hình, Kịch tính, Tội phạm"
     },
-    "difficulty": 3,
-    "youtube_id": "IVW8LNJn65A",
-    "youtube_url": "https://www.youtube.com/watch?v=IVW8LNJn65A"
+    "difficulty": 1,
+    "youtube_id": "0O9rtOolCvw",
+    "youtube_url": "https://www.youtube.com/watch?v=0O9rtOolCvw"
   },
   "learning_sections": [
     {
       "scripts": {
-        "en": "This is news about director Ryoo Seung-wan's new film, 'HUMINT'.",
-        "jp": "リュ・スンワン監督の新作「ヒューミント」に関するニュースです。",
-        "ko": "류승완 감독의 새로운 영화, '휴민트'에 대한 소식입니다.",
-        "vi": "Đây là tin tức về bộ phim mới 'HUMINT' của đạo diễn Ryoo Seung-wan."
+        "en": "Yes, this is the 119 emergency call center. \nUh, my, my husband... he's bleeding too much.",
+        "es": "Sí, es el centro de emergencias 119. \nUh, mi, mi marido... está sangrando mucho.",
+        "id": "Ya, ini ruang situasi 119. \nUhm, suami, suami saya... dia banyak mengeluarkan darah.",
+        "jp": "はい、119状況室です。\nあの、夫が…血をすごくたくさん流しています。",
+        "ko": "네, 119 상황실입니다. \n저, 남, 남편이... 피를 너무 많이 흘려요.",
+        "vi": "Vâng, đây là trung tâm điều hành 119. \nÀ, chồng tôi... anh ấy đang chảy rất nhiều máu."
       },
-      "end_time": 5,
-      "start_time": 0.001,
+      "end_time": 7.0,
+      "start_time": 2.0,
       "vocabulary": [
         {
-          "word": "류승완",
+          "word": "상황실",
           "meanings": {
-            "en": "Ryoo Seung-wan (name of a famous South Korean film director)",
-            "jp": "リュ・スンワン（韓国の有名映画監督の名前）",
-            "vi": "Ryoo Seung-wan (tên đạo diễn phim nổi tiếng Hàn Quốc)"
+            "en": "emergency call center / situation room",
+            "es": "sala de situación / centro de llamadas de emergencia",
+            "id": "pusat panggilan darurat / ruang situasi",
+            "jp": "状況室 / 指令室",
+            "vi": "trung tâm điều hành / phòng tình huống"
           }
         },
         {
-          "word": "신작",
+          "word": "남편",
           "meanings": {
-            "en": "new work, new film",
-            "jp": "新作",
-            "vi": "tác phẩm mới, phim mới"
+            "en": "husband",
+            "es": "marido",
+            "id": "suami",
+            "jp": "夫",
+            "vi": "chồng"
+          }
+        },
+        {
+          "word": "흘려요",
+          "meanings": {
+            "en": "is bleeding / is flowing (blood, tears, etc.)",
+            "es": "está sangrando / está fluyendo (sangre, lágrimas, etc.)",
+            "id": "berdarah / mengalir (darah, air mata, dll.)",
+            "jp": "流しています (血などが)",
+            "vi": "đang chảy (máu, nước mắt, v.v.)"
           }
         }
       ],
       "section_num": 1,
       "cultural_note": {
-        "en": "Director Ryoo Seung-wan is one of South Korea's leading directors, having directed many box office hits such as 'Veteran' and 'Escape from Mogadishu'.",
-        "jp": "リュ・スンワン監督は、「ベテラン」や「モガディシュ脱出」など、多数のヒット作を手がけた韓国を代表する監督の一人です。",
-        "ko": "류승완 감독은 '베테랑', '모가디슈' 등 다수의 흥행작을 연출한 한국의 대표적인 감독 중 한 명입니다.",
-        "vi": "Đạo diễn Ryoo Seung-wan là một trong những đạo diễn hàng đầu Hàn Quốc, đã chỉ đạo nhiều bộ phim bom tấn như 'Veteran' và 'Escape from Mogadishu'."
+        "en": "119 is South Korea's emergency number for disaster reporting, used for urgent situations like fires, rescues, and medical emergencies.",
+        "es": "El 119 es el número de teléfono de emergencia en Corea del Sur para informar sobre desastres, utilizado en situaciones urgentes como incendios, rescates y emergencias médicas.",
+        "id": "119 adalah nomor telepon darurat Korea Selatan untuk melaporkan bencana, digunakan dalam situasi darurat seperti kebakaran, penyelamatan, dan keadaan medis.",
+        "jp": "119は韓国の緊急災害通報電話番号で、火災、救助、救急など、緊急事態発生時に利用されます。",
+        "ko": "119는 한국의 긴급 재난 신고 전화번호로, 화재, 구조, 구급 등 위급 상황 발생 시 이용합니다.",
+        "vi": "119 là số điện thoại báo cáo thiên tai khẩn cấp của Hàn Quốc, được sử dụng trong các tình huống khẩn cấp như hỏa hoạn, cứu hộ và cấp cứu."
       }
     },
     {
       "scripts": {
-        "en": "The film's title is 'HUMINT', a unique name that draws attention.",
-        "jp": "映画のタイトルは「ヒューミント」で、その独特な名前が目を引きます。",
-        "ko": "영화 제목은 '휴민트'로, 독특한 이름이 시선을 끕니다.",
-        "vi": "Tên phim là 'HUMINT', một cái tên độc đáo thu hút sự chú ý."
+        "en": "Coffee, please. Uh, light. I watched CSI, and they investigate family members first.",
+        "es": "Café, por favor. Uh, suave. Vi CSI, y ellos investigan a los familiares primero.",
+        "id": "Kopi, tolong. Uh, yang ringan. Saya nonton CSI, mereka menyelidiki anggota keluarga dulu.",
+        "jp": "コーヒー、あの、薄めに…CSIを見たんですよ、家族から調査するって。",
+        "ko": "커피요, 저, 연하게.. CSI 봤거든요 가족부터 조사하더라고요.",
+        "vi": "Cà phê, làm ơn. À, nhạt thôi. Tôi xem CSI, họ điều tra người nhà đầu tiên đấy."
       },
-      "end_time": 10,
-      "start_time": 5.001,
+      "end_time": 19.8,
+      "start_time": 14.0,
       "vocabulary": [
         {
-          "word": "휴민트",
+          "word": "연하게",
           "meanings": {
-            "en": "HUMINT (Human Intelligence, often referring to intelligence gathering through human sources, implying a spy/thriller genre)",
-            "jp": "ヒューミント（Human Intelligence、人的情報源による情報収集を意味し、スパイ/スリラージャンルを示唆）",
-            "vi": "HUMINT (Human Intelligence, thường chỉ hoạt động thu thập thông tin tình báo qua nguồn con người, gợi ý thể loại gián điệp/gay cấn)"
+            "en": "lightly / weakly (e.g., light coffee)",
+            "es": "suavemente / ligeramente (por ejemplo, café suave)",
+            "id": "ringan / encer (misalnya kopi ringan)",
+            "jp": "薄めに / 弱めに",
+            "vi": "nhạt / nhẹ"
+          }
+        },
+        {
+          "word": "조사하다",
+          "meanings": {
+            "en": "to investigate / to examine",
+            "es": "investigar / examinar",
+            "id": "menyelidiki / memeriksa",
+            "jp": "調査する / 調べる",
+            "vi": "điều tra / kiểm tra"
           }
         }
       ],
       "section_num": 2,
       "cultural_note": {
-        "en": "'HUMINT' is an abbreviation for 'Human Intelligence,' meaning information obtained through human sources. It hints at the film's genre characteristics.",
-        "jp": "「ヒューミント(HUMINT)」は「Human Intelligence」の略で、人を通じて得られる情報を意味します。映画のジャンル的特徴を垣間見ることができます。",
-        "ko": "'휴민트(HUMINT)'는 'Human Intelligence'의 줄임말로, 사람을 통해 얻는 정보를 뜻합니다. 영화의 장르적 특징을 엿볼 수 있습니다.",
-        "vi": "'HUMINT' là viết tắt của 'Human Intelligence', có nghĩa là thông tin thu thập qua nguồn con người. Nó gợi ý về đặc điểm thể loại của bộ phim."
+        "en": "\"CSI\" is a famous investigative drama in Korea, and this line humorously refers to the common perception that during a criminal investigation, the closest relationships are examined first.",
+        "es": "\"CSI\" es un drama de investigación famoso en Corea, y esta línea se refiere humorísticamente a la percepción común de que durante una investigación criminal, las relaciones más cercanas son examinadas primero.",
+        "id": "\"CSI\" adalah drama investigasi terkenal di Korea, dan kalimat ini secara humoris merujuk pada persepsi umum bahwa selama penyelidikan kriminal, hubungan terdekat diperiksa terlebih dahulu.",
+        "jp": "「CSI」は韓国でも有名な捜査ドラマで、犯罪捜査の際に最も近い関係から調査するという通念に触れ、状況をユーモラスに表現する言葉です。",
+        "ko": "\"CSI\"는 한국에서도 유명한 수사 드라마로, 범죄 수사 시 가장 가까운 관계부터 조사한다는 통념을 언급하며 상황을 유머러스하게 표현하는 말입니다.",
+        "vi": "\"CSI\" là một bộ phim truyền hình điều tra nổi tiếng ở Hàn Quốc, và câu nói này đề cập một cách hài hước đến quan niệm phổ biến rằng trong một cuộc điều tra tội phạm, những mối quan hệ gần gũi nhất sẽ được kiểm tra đầu tiên."
       }
     },
     {
       "scripts": {
-        "en": "This new film is receiving great attention, having risen to 1st place in pre-sales.",
-        "jp": "この新作が前売り率1位に浮上し、大きな注目を集めています。",
-        "ko": "이 신작이 예매율 1위에 오르며 큰 관심을 받고 있습니다.",
-        "vi": "Bộ phim mới này đang nhận được sự quan tâm lớn khi vươn lên vị trí số 1 về tỷ lệ đặt vé trước."
+        "en": "You laughed again, didn't you? \nIsn't he just someone who laughs easily? \nIn this situation?",
+        "es": "¿Te reíste de nuevo, verdad? \n¿No es alguien que se ríe fácilmente? \n¿En esta situación?",
+        "id": "Kamu tertawa lagi, kan? \nBukannya dia memang orang yang mudah tertawa? \nDalam situasi ini?",
+        "jp": "また笑ったでしょ？\n元々よく笑う人じゃないですか？\nこの状況で？",
+        "ko": "또 웃은거 맞지? \n원래 잘 웃는 사람 아닐까요? \n이 상황에서?",
+        "vi": "Lại cười nữa rồi đúng không? \nKhông phải anh ấy vốn là người hay cười sao? \nTrong tình huống này á?"
       },
-      "end_time": 15,
-      "start_time": 10.001,
+      "end_time": 26.0,
+      "start_time": 20.1,
       "vocabulary": [
         {
-          "word": "예매율",
+          "word": "웃은거",
           "meanings": {
-            "en": "pre-sale rate, advance ticket sales rate",
-            "jp": "前売り率",
-            "vi": "tỷ lệ đặt vé trước"
+            "en": "laughing / the act of laughing (colloquial)",
+            "es": "reír / el acto de reír (coloquial)",
+            "id": "tertawa / hal tertawa (kasar)",
+            "jp": "笑ったこと",
+            "vi": "việc cười / cái cười"
           }
         },
         {
-          "word": "1위",
+          "word": "상황",
           "meanings": {
-            "en": "first place, number one",
-            "jp": "1位",
-            "vi": "vị trí số 1"
-          }
-        },
-        {
-          "word": "올랐다",
-          "meanings": {
-            "en": "rose, climbed (to a position)",
-            "jp": "上がった、浮上した",
-            "vi": "leo lên, vươn lên"
+            "en": "situation / circumstance",
+            "es": "situación / circunstancia",
+            "id": "situasi / keadaan",
+            "jp": "状況 / 事情",
+            "vi": "tình huống / hoàn cảnh"
           }
         }
       ],
       "section_num": 3,
       "cultural_note": {
-        "en": "In Korea, the pre-sale rate before a film's release is considered one of the important indicators of its box office success. Ranking 1st shows high expectations for the opening period.",
-        "jp": "韓国では、映画公開前の前売り率は興行成績の重要な指標の一つとされています。1位は公開初期の高い期待感を示します。",
-        "ko": "한국에서 영화 개봉 전 예매율은 흥행의 중요한 지표 중 하나로 간주됩니다. 1위는 개봉 초반의 높은 기대감을 보여줍니다.",
-        "vi": "Ở Hàn Quốc, tỷ lệ đặt vé trước khi phim ra mắt được coi là một trong những chỉ số quan trọng về thành công phòng vé. Xếp hạng 1 cho thấy kỳ vọng cao trong giai đoạn mở màn."
+        "en": "In Korea, laughing in serious or solemn situations can be considered inappropriate or insensitive.",
+        "es": "En Corea, reír en situaciones serias o solemnes puede considerarse inapropiado o insensible.",
+        "id": "Di Korea, tertawa dalam situasi serius atau khidmat dapat dianggap tidak pantas atau tidak peka.",
+        "jp": "韓国では、深刻な状況や厳粛な状況で笑うことは、不適切または空気が読めない行動と見なされることがあります。",
+        "ko": "한국에서는 심각하거나 엄숙한 상황에서 웃는 것이 부적절하거나 눈치 없는 행동으로 여겨질 수 있습니다.",
+        "vi": "Ở Hàn Quốc, việc cười trong những tình huống nghiêm trọng hoặc trang trọng có thể bị coi là không phù hợp hoặc thiếu tinh tế."
       }
     },
     {
       "scripts": {
-        "en": "The news of ranking 1st in pre-sales foreshadows the film's box office success.",
-        "jp": "前売り率1位のニュースは、この映画の興行成功を予告しています。",
-        "ko": "예매율 1위 소식은 이 영화의 흥행을 미리 예고하고 있습니다.",
-        "vi": "Tin tức về việc đứng đầu tỷ lệ đặt vé trước báo trước sự thành công phòng vé của bộ phim này."
+        "en": "Unnie's husband, I'll confess that I killed him.",
+        "es": "El marido de Unnie, confesaré que yo lo maté.",
+        "id": "Suami unnie, aku akan mengaku bahwa aku yang membunuhnya.",
+        "jp": "お姉さんの夫、私が殺したって自白します。",
+        "ko": "언니 남편, 내가 죽였다고 자백할게요.",
+        "vi": "Chồng của chị, em sẽ thú nhận là em đã giết anh ta."
       },
-      "end_time": 20,
-      "start_time": 15.001,
+      "end_time": 53.0,
+      "start_time": 48.0,
       "vocabulary": [
         {
-          "word": "흥행",
+          "word": "죽였다고",
           "meanings": {
-            "en": "box office success, commercial success",
-            "jp": "興行",
-            "vi": "thành công phòng vé"
+            "en": "(saying) that I killed (someone)",
+            "es": "(diciendo) que maté (a alguien)",
+            "id": "(mengatakan) bahwa saya membunuh",
+            "jp": "殺したと",
+            "vi": "(nói rằng) đã giết"
           }
         },
         {
-          "word": "예고",
+          "word": "자백할게요",
           "meanings": {
-            "en": "prediction, forecast, preview",
-            "jp": "予告、予見",
-            "vi": "dự báo, dự đoán"
+            "en": "I will confess / I will admit",
+            "es": "confesaré / admitiré",
+            "id": "saya akan mengaku / saya akan mengakui",
+            "jp": "自白します / 告白します",
+            "vi": "tôi sẽ thú tội / tôi sẽ thừa nhận"
           }
         }
       ],
       "section_num": 4,
       "cultural_note": {
-        "en": "High pre-sale rates for a film typically lead to strong audience numbers and box office success after its release.",
-        "jp": "映画の高い前売り率は通常、公開後も良好な観客数を記録し、興行成功につながることが多いです。",
-        "ko": "영화의 높은 예매율은 통상적으로 개봉 후에도 좋은 관객 수를 기록하며 흥행으로 이어지는 경우가 많습니다.",
-        "vi": "Tỷ lệ đặt vé trước cao của một bộ phim thường dẫn đến số lượng khán giả lớn và thành công phòng vé sau khi phát hành."
-      }
-    },
-    {
-      "scripts": {
-        "en": "This news was reported through SBS 'Good Morning Entertainment'.",
-        "jp": "このニュースはSBS「グッドモーニング芸能」を通じて報道されました。",
-        "ko": "이 소식은 SBS '굿모닝연예'를 통해 보도되었습니다.",
-        "vi": "Tin tức này được đưa tin qua chương trình 'Good Morning Entertainment' của SBS."
-      },
-      "end_time": 25,
-      "start_time": 20.001,
-      "vocabulary": [
-        {
-          "word": "SBS",
-          "meanings": {
-            "en": "Seoul Broadcasting System (a major South Korean television and radio network)",
-            "jp": "SBS（ソウル放送、韓国の主要なテレビ・ラジオ放送局）",
-            "vi": "SBS (Hệ thống Phát thanh Seoul, đài truyền hình và phát thanh lớn của Hàn Quốc)"
-          }
-        },
-        {
-          "word": "굿모닝연예",
-          "meanings": {
-            "en": "Good Morning Entertainment (name of an entertainment news segment/program)",
-            "jp": "グッドモーニング芸能（芸能ニュース番組名）",
-            "vi": "Good Morning Entertainment (tên một chương trình/phân đoạn tin tức giải trí)"
-          }
-        }
-      ],
-      "section_num": 5,
-      "cultural_note": {
-        "en": "SBS is one of South Korea's three major terrestrial broadcasting stations, along with KBS and MBC. 'Good Morning Entertainment' is a program that delivers entertainment news during the morning news slot.",
-        "jp": "SBSはKBS、MBCとともに韓国の三大地上波放送局の一つです。「グッドモーニング芸能」は朝のニュース時間帯に芸能ニュースを伝える番組です。",
-        "ko": "SBS는 KBS, MBC와 함께 한국의 3대 지상파 방송사 중 하나입니다. '굿모닝연예'는 아침 뉴스 시간대에 연예 소식을 전하는 프로그램입니다.",
-        "vi": "SBS là một trong ba đài truyền hình mặt đất lớn của Hàn Quốc, cùng với KBS và MBC. 'Good Morning Entertainment' là một chương trình đưa tin giải trí trong khung giờ tin tức buổi sáng."
+        "en": "\"Unnie\" is a term used by women to address an older woman or a close female friend. In this drama, the line implies the speaker is confessing to killing the husband, possibly for a price or on behalf of someone else.",
+        "es": "\"Unnie\" es un término utilizado por mujeres para dirigirse a una mujer mayor o a una amiga cercana. En este drama, la línea implica que la hablante confiesa haber matado al marido, posiblemente por un precio o en nombre de otra persona.",
+        "id": "\"Unnie\" adalah istilah yang digunakan oleh wanita untuk menyapa wanita yang lebih tua atau teman dekat wanita. Dalam drama ini, kalimat tersebut menyiratkan bahwa pembicara mengaku telah membunuh suami, mungkin demi sebuah harga atau atas nama orang lain.",
+        "jp": "「オンニ」は女性たちが自分より年上または親しい女性を呼ぶ際に使う敬称です。このドラマでは、話者が報酬を期待して、または誰かの代わりに夫を殺したと告白するというセリフです。",
+        "ko": "\"언니\"는 여성들 사이에서 자신보다 나이가 많거나 친분이 있는 여성을 부르는 호칭입니다. 이 드라마에서는 자신이 대가를 바라며 대신 남편을 살해했다고 고백하겠다는 대사입니다.",
+        "vi": "\"Unnie\" là một cách gọi mà phụ nữ dùng để gọi một người phụ nữ lớn tuổi hơn hoặc một người bạn thân. Trong bộ phim này, câu thoại ngụ ý người nói đang thú nhận đã giết chồng, có thể vì một cái giá nào đó hoặc thay mặt cho người khác."
       }
     }
   ]

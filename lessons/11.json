@@ -2,227 +2,300 @@
   "quiz": {
     "options": [
       {
-        "en": "Exile (Yubae)",
-        "jp": "유배",
-        "ko": "유배",
-        "vi": "유배"
+        "en": "Is looking for a way to gently persuade the airplane crew.",
+        "es": "Está buscando una manera de persuadir suavemente a la tripulación del avión.",
+        "id": "Mencari cara untuk membujuk kru pesawat dengan lembut.",
+        "jp": "飛行機の乗務員を穏やかに説得する方法を探している。",
+        "ko": "비행기 승무원들을 부드럽게 설득할 방법을 찾고 있다.",
+        "vi": "Đang tìm cách thuyết phục phi hành đoàn một cách nhẹ nhàng."
       },
       {
-        "en": "Appointment (Deungyong)",
-        "jp": "등용",
-        "ko": "등용",
-        "vi": "등용"
+        "en": "Emphasizes that the proposed hijacking method is very realistic and possible.",
+        "es": "Enfatiza que el método de secuestro propuesto es muy realista y posible.",
+        "id": "Menekankan bahwa metode pembajakan yang diusulkan sangat realistis dan mungkin.",
+        "jp": "提案されたハイジャック方法が非常に現実的で可能であることを強調している。",
+        "ko": "제안된 하이재킹 방법이 너무나 현실적이고 가능하다는 점을 강조한다.",
+        "vi": "Nhấn mạnh rằng phương pháp cướp máy bay được đề xuất rất thực tế và khả thi."
       },
       {
-        "en": "Pardon (Samyeon)",
-        "jp": "사면",
-        "ko": "사면",
-        "vi": "사면"
+        "en": "It's sarcastic, implying the plan is unrealistic and impossible to achieve through peaceful means.",
+        "es": "Es sarcástico, implicando que el plan es poco realista e imposible de lograr por medios pacíficos.",
+        "id": "Ini sindiran, menyiratkan bahwa rencana itu tidak realistis dan tidak mungkin dicapai melalui cara damai.",
+        "jp": "その計画が非現実的であり、平和的な方法では達成不可能だと皮肉っている。",
+        "ko": "계획이 비현실적이며, 평화적인 방법으로는 달성 불가능하다고 비꼬는 것이다.",
+        "vi": "Đó là một câu nói mỉa mai, ngụ ý kế hoạch này không thực tế và không thể đạt được bằng các biện pháp hòa bình."
       },
       {
-        "en": "Praise (Chingchan)",
-        "jp": "칭찬",
-        "ko": "칭찬",
-        "vi": "칭찬"
+        "en": "Demands the other person explain the detailed procedures of hijacking.",
+        "es": "Exige a la otra persona que explique los procedimientos detallados del secuestro.",
+        "id": "Menuntut orang lain menjelaskan prosedur rinci pembajakan.",
+        "jp": "相手にハイジャックの詳細な手順を説明するよう要求している。",
+        "ko": "상대방에게 하이재킹의 상세한 절차를 설명해 달라고 요구한다.",
+        "vi": "Yêu cầu đối phương giải thích chi tiết quy trình cướp máy bay."
       }
     ],
     "question": {
-      "en": "In the Joseon Dynasty, what was the punishment called where officials or royalty who committed a crime were sent to live in a remote place?",
-      "jp": "In the Joseon Dynasty, what was the punishment called where officials or royalty who committed a crime were sent to live in a remote place?",
-      "ko": "조선시대에 죄를 지은 관료나 왕족을 먼 곳으로 보내 살게 하던 형벌을 무엇이라고 하나요?",
-      "vi": "In the Joseon Dynasty, what was the punishment called where officials or royalty who committed a crime were sent to live in a remote place?"
+      "en": "What is the implied meaning of the question \"By gently coaxing them?\" in response to the suggestion of hijacking airplane communication?",
+      "es": "¿Cuál es el significado implícito de la pregunta \"¿Con palabras bonitas?\" en respuesta a la sugerencia de secuestrar la comunicación del avión?",
+      "id": "Apa makna tersirat dari pertanyaan \"Dengan dibujuk baik-baik?\" sebagai tanggapan terhadap saran untuk membajak komunikasi pesawat?",
+      "jp": "飛行機通信をハイジャックするという提案に対し、「うまく〜なだめて？」と問い返すことの含意は何ですか？",
+      "ko": "비행기 통신을 하이재킹하자는 제안에 대해 \"잘~ 달래서?\"라고 되묻는 것의 내포된 의미는 무엇입니까?",
+      "vi": "Ý nghĩa ngụ ý của câu hỏi \"Bằng cách dỗ dành sao?\" khi đáp lại đề xuất cướp quyền điều khiển thông tin liên lạc máy bay là gì?"
     },
-    "answer_index": 0
+    "answer_index": 2
   },
   "metadata": {
     "titles": {
-      "en": "The Man Who Lives with the King",
-      "jp": "王と住む男",
-      "ko": "왕과 사는 남자",
-      "vi": "Người Đàn Ông Sống Cùng Vua"
+      "en": "Good News (2025)",
+      "es": "Buenas noticias (2025)",
+      "id": "Good News (2025)",
+      "jp": "グッドニュース (2025)",
+      "ko": "굿뉴스 | 공식 예고편 | 넷플릭스",
+      "vi": "Tin tốt lành (2025)"
     },
-    "thumbnail": "https://img.youtube.com/vi/9sxEZuJskvM/hqdefault.jpg",
     "categories": {
-      "en": "Historical Drama, Trailer",
-      "jp": "歴史ドラマ、予告編",
-      "ko": "역사 드라마, 예고편",
-      "vi": "Phim Lịch sử, Trailer"
+      "en": "Movie, Comedy, South Korea and North Korea",
+      "es": "Película, Comedia, Corea del Sur y Corea del Norte",
+      "id": "Film, Komedi, Korea Selatan dan Korea Utara",
+      "jp": "映画、コメディ、韓国と北朝鮮",
+      "ko": "영화, 코미디, 남한과 북한",
+      "vi": "Phim, Hài kịch, Hàn Quốc và Triều Tiên"
     },
-    "difficulty": 2,
-    "youtube_id": "9sxEZuJskvM",
-    "youtube_url": "https://www.youtube.com/watch?v=9sxEZuJskvM"
+    "difficulty": 1,
+    "youtube_id": "PeSrrrDSLSc",
+    "youtube_url": "https://www.youtube.com/watch?v=PeSrrrDSLSc"
   },
   "learning_sections": [
     {
       "scripts": {
-        "en": "Now, a place of exile... I designate this place as the place of exile.",
-        "jp": "",
-        "ko": ">> 자 해적에 유배지 안 말\n>> 이곳을 유배지로 시정한다.",
-        "vi": ""
+        "en": "Good news, bad news, which one do you want to hear first?",
+        "es": "¿Buenas noticias, malas noticias, cuál quieres escuchar primero?",
+        "id": "Kabar baik, kabar buruk, mau dengar yang mana dulu?",
+        "jp": "良いニュース、悪いニュース、どっちを先に聞きたい？",
+        "ko": "굿 뉴스, 배드 뉴스 뭐 먼저 들을래?",
+        "vi": "Tin tốt, tin xấu, bạn muốn nghe cái nào trước?"
       },
-      "end_time": 20.119,
-      "start_time": 12.799,
+      "end_time": 4.0,
+      "start_time": 0.0,
       "vocabulary": [
         {
-          "word": "유배지",
+          "word": "굿 뉴스",
           "meanings": {
-            "en": "place of exile",
-            "jp": "流刑地",
-            "vi": "nơi lưu đày"
+            "en": "Good News",
+            "es": "Buenas noticias",
+            "id": "Kabar baik",
+            "jp": "良いニュース",
+            "vi": "Tin tốt"
           }
         },
         {
-          "word": "지정하다",
+          "word": "배드 뉴스",
           "meanings": {
-            "en": "to designate, appoint",
-            "jp": "指定する",
-            "vi": "chỉ định"
+            "en": "Bad News",
+            "es": "Malas noticias",
+            "id": "Kabar buruk",
+            "jp": "悪いニュース",
+            "vi": "Tin xấu"
+          }
+        },
+        {
+          "word": "먼저",
+          "meanings": {
+            "en": "first",
+            "es": "primero",
+            "id": "dulu, pertama",
+            "jp": "まず、先に",
+            "vi": "trước tiên, trước"
           }
         }
       ],
       "section_num": 1,
       "cultural_note": {
-        "en": "'Yubae' (유배) was a form of punishment during the Joseon Dynasty where royalty or officials who committed crimes were sent to live in a remote, isolated place. It was one of the most severe political punishments.",
-        "jp": "",
-        "ko": "유배(流配)는 조선시대에 죄를 지은 왕족이나 관료들을 멀리 외딴곳으로 보내 살게 하던 형벌입니다. 정치적으로 매우 무거운 처벌 중 하나였습니다.",
-        "vi": ""
+        "en": "This is an idiomatic expression primarily used when there's both good news and bad news, offering the listener a choice of which to hear first, setting the stage for the conversation.",
+        "es": "Es una expresión idiomática que se usa principalmente cuando hay buenas y malas noticias, dando al interlocutor la opción de elegir cuál quiere escuchar primero, para introducir el tema.",
+        "id": "Ini adalah ungkapan idiomatik yang umumnya digunakan ketika ada kabar baik dan kabar buruk, memberikan pilihan kepada pendengar untuk mendengar yang mana terlebih dahulu, sebagai pembuka percakapan.",
+        "jp": "良いニュースと悪いニュースが同時にあるときに、相手にどちらを先に聞きたいか選択権を与え、会話を始める際の慣用的な表現です。",
+        "ko": "주로 좋은 소식과 함께 안 좋은 소식이 있을 때, 상대방에게 무엇을 먼저 들을지 선택권을 주며 운을 떼는 관용적인 표현입니다.",
+        "vi": "Đây là một cách diễn đạt thành ngữ chủ yếu được sử dụng khi có cả tin tốt và tin xấu, cho phép người nghe lựa chọn muốn nghe tin nào trước, mở đầu cuộc trò chuyện."
       }
     },
     {
       "scripts": {
-        "en": "Can you handle it?\nNo matter who gets it.\nSmile.\nYou've emptied a whole bowl of rice in a flash.",
-        "jp": "",
-        "ko": ">> 담당할 수 있겠느냐?\n>> 누가 얻든 말이다.\n>> 웃어.\n밥 항공기를 뚝딱 비우셨어.",
-        "vi": ""
+        "en": "Oh, well, it's nothing, so just call me Amugae (nobody in particular).",
+        "es": "Ay, bueno, no es nada, así que llámeme Amugae (nadie en particular).",
+        "id": "Ah, sudahlah, bukan siapa-siapa, jadi panggil saja saya Amugae (si Anu).",
+        "jp": "あぁ、まあ、何でもありませんから、ただアムゲ（誰某）と呼んでください。",
+        "ko": "아유 뭐 그냥, 아무것도 아니니까 아무개라고 불러주십시오.",
+        "vi": "Ôi, chẳng có gì đâu, cứ gọi tôi là Amugae (người nào đó)."
       },
-      "end_time": 29.679,
-      "start_time": 20.119,
+      "end_time": 18.3,
+      "start_time": 15.5,
       "vocabulary": [
         {
-          "word": "담당하다",
+          "word": "아무것도 아니다",
           "meanings": {
-            "en": "to be in charge of, to handle",
-            "jp": "担当する",
-            "vi": "đảm đương, phụ trách"
+            "en": "it's nothing; it doesn't matter",
+            "es": "no es nada; no importa",
+            "id": "bukan apa-apa; tidak masalah",
+            "jp": "何でもない；大したことない",
+            "vi": "không có gì cả; chẳng sao cả"
           }
         },
         {
-          "word": "뚝딱",
+          "word": "아무개",
           "meanings": {
-            "en": "in a flash, quickly",
-            "jp": "さっと、ぺろりと",
-            "vi": "trong nháy mắt, vèo một cái"
+            "en": "a certain person; so-and-so (used to refer to someone without specifying their name, often to be humble or dismissive)",
+            "es": "fulano de tal; tal persona (se usa para referirse a alguien sin especificar su nombre, a menudo para ser humilde o para restar importancia)",
+            "id": "si Anu; seseorang (digunakan untuk menyebut seseorang tanpa menyebutkan namanya, seringkali untuk bersikap rendah hati atau meremehkan)",
+            "jp": "誰某；何某（名前を特定せず、謙遜したり軽く流したりする際に使われる）",
+            "vi": "người nào đó; ai đó (dùng để chỉ một người mà không nêu tên cụ thể, thường để thể hiện sự khiêm tốn hoặc coi nhẹ)"
           }
         },
         {
-          "word": "비우다",
+          "word": "불러주십시오",
           "meanings": {
-            "en": "to empty",
-            "jp": "空にする",
-            "vi": "làm cho cạn, dọn sạch"
+            "en": "please call (me)",
+            "es": "por favor, llámame/llámenme",
+            "id": "tolong panggil (saya)",
+            "jp": "(私を)呼んでください",
+            "vi": "hãy gọi (tôi)"
           }
         }
       ],
       "section_num": 2,
       "cultural_note": {
-        "en": "'밥 한 공기를 뚝딱 비우다' is an idiomatic expression meaning to finish a bowl of rice very quickly and heartily. It can be used to show that someone is in good health or has an easy-going personality.",
-        "jp": "",
-        "ko": "'밥 한 공기를 뚝딱 비우다'는 밥을 아주 빠르고 맛있게 다 먹었다는 관용적인 표현입니다. 그 사람의 건강 상태가 좋거나 소탈한 성격을 보여줄 때 사용되기도 합니다.",
-        "vi": ""
+        "en": "'Amugae' is an expression used to refer to a specific person's name indirectly, often implying humility by lowering oneself or intending to lightly pass over a situation without directly revealing one's name.",
+        "es": "'Amugae' es una expresión que se usa para referirse al nombre de una persona específica de forma indirecta, a menudo implicando humildad al subestimarse o con la intención de pasar por alto una situación sin revelar directamente el nombre.",
+        "id": "'Amugae' adalah ekspresi yang digunakan untuk menggantikan nama orang tertentu, seringkali untuk menunjukkan kerendahan hati dengan merendahkan diri atau bermaksud untuk mengabaikan situasi secara ringan tanpa mengungkapkan nama secara langsung.",
+        "jp": "「アムゲ（誰某）」は特定人物の名前の代わりに呼ぶ表現で、自分を低くして謙遜を表したり、名前を直接明かさずに状況を軽く流そうとする意図が込められています。",
+        "ko": "\"아무개\"는 특정 인물의 이름을 대신하여 부르는 표현으로, 자신을 낮추어 겸손을 나타내거나 이름을 직접적으로 밝히지 않고 상황을 가볍게 넘기려는 의도가 담겨 있습니다.",
+        "vi": "'Amugae' là một cách diễn đạt dùng để thay thế tên của một người cụ thể, thường mang ý nghĩa thể hiện sự khiêm tốn bằng cách hạ thấp bản thân hoặc có ý định bỏ qua tình huống một cách nhẹ nhàng mà không trực tiếp tiết lộ tên."
       }
     },
     {
       "scripts": {
-        "en": "Do you know who that exiled nobleman is?\nIt's Prince Nosan, Yi Hong-wi. The person who was the king of this country until recently.",
-        "jp": "",
-        "ko": ">> 귀양원 양반이 누군지 아십니까?\n>> 노상군 이용이에요. 얼마 전까지이\n나라의 왕이었던 사람이요.",
-        "vi": ""
+        "en": "With 'high (高)' and 'name (名),' you're truly becoming 'Gomyeong (famous)' just like your name.",
+        "es": "Con 'alto (高)' y 'nombre (名)', te estás volviendo verdaderamente 'Gomyeong (famoso)' tal como tu nombre.",
+        "id": "Dengan 'tinggi (高)' dan 'nama (名),' kamu benar-benar akan menjadi 'Gomyeong (terkenal)' seperti namamu.",
+        "jp": "「高（高い）」に「名（名前）」、君の名前の通り本当に高名になるんだ。",
+        "ko": "'높을 고'에 '이름 명' 네 이름대로 진짜 고명해지는 거야.",
+        "vi": "Với 'cao (高)' và 'danh (名)', đúng như tên của bạn, bạn sẽ thực sự trở nên 'Gomyeong (nổi tiếng)'."
       },
-      "end_time": 46.879,
-      "start_time": 33.32,
+      "end_time": 22.4,
+      "start_time": 18.4,
       "vocabulary": [
         {
-          "word": "귀양",
+          "word": "높을 고 (高)",
           "meanings": {
-            "en": "exile",
-            "jp": "流刑",
-            "vi": "lưu đày"
+            "en": "the Chinese character '高' meaning 'high' or 'tall'",
+            "es": "el carácter chino '高' que significa 'alto'",
+            "id": "Hanzi '高' yang berarti 'tinggi'",
+            "jp": "漢字の「高」（高い、優れている）",
+            "vi": "Hán tự '高' có nghĩa là 'cao'"
           }
         },
         {
-          "word": "양반",
+          "word": "이름 명 (名)",
           "meanings": {
-            "en": "nobleman (Joseon era)",
-            "jp": "両班 (ヤンバン)",
-            "vi": "quý tộc (thời Joseon)"
+            "en": "the Chinese character '名' meaning 'name'",
+            "es": "el carácter chino '名' que significa 'nombre'",
+            "id": "Hanzi '名' yang berarti 'nama'",
+            "jp": "漢字の「名」（名前）",
+            "vi": "Hán tự '名' có nghĩa là 'tên'"
           }
         },
         {
-          "word": "왕",
+          "word": "고명하다",
           "meanings": {
-            "en": "king",
-            "jp": "王",
-            "vi": "vua"
+            "en": "to be famous; to be renowned",
+            "es": "ser famoso; ser renombrado",
+            "id": "terkenal; tersohor",
+            "jp": "高名である；有名である",
+            "vi": "nổi tiếng; có danh tiếng"
           }
         }
       ],
       "section_num": 3,
       "cultural_note": {
-        "en": "Prince Nosan (노상군) was the title given to King Danjong, the 6th king of Joseon, after he was dethroned by his uncle, Grand Prince Suyang (later King Sejo). He is famous for his tragic life.",
-        "jp": "",
-        "ko": "노상군(魯山君)은 조선의 제6대 왕인 단종(端宗)이 그의 삼촌인 수양대군(세조)에게 왕위를 빼앗긴 후 강등되어 불린 이름입니다. 비극적인 삶을 산 왕으로 유명합니다.",
-        "vi": ""
+        "en": "'Gomyeong (高名)' is composed of the Chinese characters '高 (high)' and '名 (name),' meaning 'to have a high name,' i.e., 'to be famous.' This reflects a Korean cultural background of wishing someone well for their future based on the meaning of their name's Hanja. In the drama, it was used as a line to stimulate the other person's desire for honor.",
+        "es": "'Gomyeong (高名)' se compone de los caracteres chinos '高 (alto)' y '名 (nombre)', significando 'tener un nombre elevado', es decir, 'ser famoso'. Esto refleja un trasfondo cultural coreano de desearle a alguien un buen futuro basado en el significado de los Hanja de su nombre. En el drama, se usó como una línea para estimular el deseo de honor de la otra persona.",
+        "id": "'Gomyeong (高名)' terdiri dari karakter Hanzi '高 (tinggi)' dan '名 (nama),' yang berarti 'memiliki nama yang tinggi,' yaitu 'terkenal.' Ini mencerminkan latar belakang budaya Korea yang mendoakan masa depan seseorang berdasarkan arti Hanzi namanya. Dalam drama, kalimat ini digunakan untuk merangsang keinginan lawan bicara akan kehormatan.",
+        "jp": "「高名（고명）」は「高（高い）」と「名（名前）」の漢字で構成され、「名前が高い」、つまり「有名だ」という意味を持ちます。名前の漢字の意味に基づいて未来を祝福する韓国の文化的背景を示しています。劇中では相手の名誉欲を刺激するセリフとして使われました。",
+        "ko": "'고명(高名)'은 '높을 고(高)'와 '이름 명(名)' 한자로 이루어져 '이름이 높다', 즉 '유명하다'는 뜻을 가집니다. 이름의 한자 뜻에 따라 미래를 덕담하는 한국의 문화적 배경을 보여줍니다. 극중에서는 상대방의 명예욕을 자극하는 대사로 쓰였습니다.",
+        "vi": "'Gomyeong (高名)' được cấu thành từ hai Hán tự '高 (cao)' và '名 (danh)', có nghĩa là 'tên tuổi cao', tức là 'nổi tiếng'. Điều này thể hiện một nền văn hóa Hàn Quốc chúc phúc cho tương lai của một người dựa trên ý nghĩa Hán tự trong tên của họ. Trong phim, nó được dùng như một lời thoại để kích thích lòng danh dự của đối phương."
       }
     },
     {
       "scripts": {
-        "en": "Those who communicate with Nosan must die.\nHow dare that bastard insult the royal family?\nMarch out!\nBecause of me, I no longer want to believe in the people I cherished and loved.",
-        "jp": "",
-        "ko": ">> 노상과 통하는 자는 죽어야 한다.\n>> 놈이감이 왕족을 능멸하는가?\n출정하라.\n더 이상 나로 인해 내가 아끼고\n사랑하던 사람들을 믿고 싶지 않다.",
-        "vi": ""
+        "en": "We should hijack the airplane communication? By what means? By gently coaxing them?",
+        "es": "¿Debemos secuestrar la comunicación del avión? ¿De qué manera? ¿Con palabras bonitas?",
+        "id": "Kita harus membajak komunikasi pesawat? Dengan cara apa? Dengan dibujuk baik-baik?",
+        "jp": "私たちが飛行機の通信をハイジャックするって？どうやって？うまく〜なだめて？",
+        "ko": "우리는 비행기 통신을 하이재킹하자? 무슨 수로요? 잘~ 달래서?",
+        "vi": "Chúng ta nên cướp quyền điều khiển thông tin liên lạc máy bay à? Bằng cách nào? Bằng cách dỗ dành sao?"
       },
-      "end_time": 58.35,
-      "start_time": 42.039,
+      "end_time": 33.0,
+      "start_time": 26.2,
       "vocabulary": [
         {
-          "word": "통하다",
+          "word": "비행기",
           "meanings": {
-            "en": "to communicate with",
-            "jp": "通じる",
-            "vi": "thông đồng, giao tiếp"
+            "en": "airplane",
+            "es": "avión",
+            "id": "pesawat terbang",
+            "jp": "飛行機",
+            "vi": "máy bay"
           }
         },
         {
-          "word": "왕족",
+          "word": "통신",
           "meanings": {
-            "en": "royal family",
-            "jp": "王族",
-            "vi": "hoàng tộc"
+            "en": "communication",
+            "es": "comunicación",
+            "id": "komunikasi",
+            "jp": "通信",
+            "vi": "thông tin liên lạc"
           }
         },
         {
-          "word": "능멸하다",
+          "word": "하이재킹하다",
           "meanings": {
-            "en": "to insult, to disdain",
-            "jp": "侮辱する",
-            "vi": "lăng mạ, khinh멸"
+            "en": "to hijack",
+            "es": "secuestrar (un vehículo)",
+            "id": "membajak",
+            "jp": "ハイジャックする",
+            "vi": "cướp (máy bay, xe cộ); không tặc"
           }
         },
         {
-          "word": "아끼다",
+          "word": "무슨 수로",
           "meanings": {
-            "en": "to cherish, care for",
-            "jp": "大切にする",
-            "vi": "trân trọng, yêu quý"
+            "en": "by what means; how",
+            "es": "de qué manera; con qué método",
+            "id": "dengan cara apa; bagaimana",
+            "jp": "どんな方法で；どうやって",
+            "vi": "bằng cách nào; bằng phương tiện gì"
+          }
+        },
+        {
+          "word": "달래다",
+          "meanings": {
+            "en": "to coax; to soothe; to appease",
+            "es": "persuadir; calmar",
+            "id": "membujuk; menenangkan",
+            "jp": "なだめる；すかす",
+            "vi": "dỗ dành; xoa dịu"
           }
         }
       ],
       "section_num": 4,
       "cultural_note": {
-        "en": "During the Joseon Dynasty, contacting a deposed king was considered treason, a very grave crime. This was because it was seen as an act that threatened the legitimacy of the new king's authority.",
-        "jp": "",
-        "ko": "조선시대에 폐위된 왕과 접촉하는 것은 역모로 간주되어 매우 큰 죄였습니다. 이는 새로운 왕권의 정통성을 위협하는 행위로 여겨졌기 때문입니다.",
-        "vi": ""
+        "en": "'By gently coaxing them?' is a rhetorical question used to sarcastically mock a suggestion that is realistically impossible or irrational, implying that it could be easily resolved.",
+        "es": "¿Con palabras bonitas?' es una pregunta retórica que se utiliza para burlarse sarcásticamente de una sugerencia que es realmente imposible o irracional, implicando que podría resolverse fácilmente.",
+        "id": "'Dengan dibujuk baik-baik?' adalah pertanyaan retoris yang digunakan untuk menyindir sebuah saran yang secara realistis tidak mungkin atau tidak masuk akal, menyiratkan bahwa hal itu bisa diselesaikan dengan mudah.",
+        "jp": "「うまく〜なだめて？」は、相手の提案が現実的に不可能または非合理的な場合、それがまるで簡単に解決できるかのように皮肉る反問です。",
+        "ko": "\"잘~ 달래서?\"는 상대방의 제안이 현실적으로 불가능하거나 비합리적일 때, 그것이 마치 쉽게 해결될 것처럼 비꼬는 방식의 반문입니다.",
+        "vi": "'Bằng cách dỗ dành sao?' là một câu hỏi tu từ được dùng để mỉa mai một đề xuất không thực tế hoặc phi lý, ngụ ý rằng nó có thể được giải quyết dễ dàng."
       }
     }
   ]

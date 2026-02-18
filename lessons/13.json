@@ -1,0 +1,282 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "The importance of social hierarchy and strict rules.",
+        "es": "La importancia de la jerarquía social y las reglas estrictas.",
+        "id": "Pentingnya hierarki sosial dan aturan ketat.",
+        "jp": "社会的階層と厳格な規則の重要性。",
+        "ko": "사회적 계층과 엄격한 규칙의 중요성.",
+        "vi": "Tầm quan trọng của hệ thống cấp bậc xã hội và các quy tắc nghiêm ngặt."
+      },
+      {
+        "en": "The inevitable downfall of those who commit grave sins.",
+        "es": "La caída inevitable de quienes cometen pecados graves.",
+        "id": "Kejatuhan tak terhindarkan bagi mereka yang melakukan dosa besar.",
+        "jp": "大罪を犯した者の避けられない没落。",
+        "ko": "대죄를 저지른 자들의 피할 수 없는 몰락.",
+        "vi": "Sự sụp đổ không thể tránh khỏi của những kẻ phạm trọng tội."
+      },
+      {
+        "en": "The transient nature of power and the severe consequences of its abuse.",
+        "es": "La naturaleza transitoria del poder y las graves consecuencias de su abuso.",
+        "id": "Sifat fana kekuasaan dan konsekuensi serius dari penyalahgunaannya.",
+        "jp": "権力の儚さとその濫用に対する深刻な結果。",
+        "ko": "권력의 덧없음과 그 남용에 대한 심각한 결과.",
+        "vi": "Sự phù du của quyền lực và hậu quả nghiêm trọng khi lạm dụng nó."
+      },
+      {
+        "en": "The difficulty of forgiving past mistakes in Joseon society.",
+        "es": "La dificultad de perdonar errores pasados en la sociedad Joseon.",
+        "id": "Sulitnya memaafkan kesalahan masa lalu dalam masyarakat Joseon.",
+        "jp": "朝鮮時代に過去の過ちを許すことが難しかった点。",
+        "ko": "조선 시대에 과거의 잘못을 용서하기 어려웠다는 점.",
+        "vi": "Khó khăn trong việc tha thứ những lỗi lầm trong quá khứ ở xã hội Joseon."
+      }
+    ],
+    "question": {
+      "en": "What is the main message conveyed through the expressions 'grave sin deserving of universal condemnation (천인공로할 대죄)' and 'no flower lasts ten days (화무십일홍)' in the provided scripts?",
+      "es": "¿Cuál es el mensaje principal que se transmite a través de las expresiones 'grave pecado que merece la condena universal (천인공로할 대죄)' y 'ninguna flor dura diez días (화무십일홍)' en los guiones proporcionados?",
+      "id": "Apa pesan utama yang disampaikan melalui ungkapan 'dosa besar yang menggegerkan dunia (천인공로할 대죄)' dan 'bunga tidak mekar sepuluh hari (화무십일홍)' dalam naskah yang diberikan?",
+      "jp": "提示された台本で、「天人共怒の大罪（천인공로할 대죄）」と「花無十日紅（화무십일홍）」という表現を通じて、主に伝えたいメッセージは何でしょうか？",
+      "ko": "제시된 대본에서 '천인공로할 대죄'와 '화무십일홍'이라는 표현을 통해 주로 전달하고자 하는 메시지는 무엇일까요?",
+      "vi": "Thông điệp chính mà các đoạn hội thoại muốn truyền tải thông qua các cụm từ 'trọng tội tày trời (천인공로할 대죄)' và 'hoa không nở mười ngày (화무십일홍)' là gì?"
+    },
+    "answer_index": 2
+  },
+  "metadata": {
+    "titles": {
+      "en": "A Brave New World (2026)",
+      "es": "A Brave New World (2026)",
+      "id": "A Brave New World (2026)",
+      "jp": "A Brave New World (2026)",
+      "ko": "조선 악녀 임지연, 2026년 서울 새로운 세계를 만나다! ",
+      "vi": "A Brave New World (2026)"
+    },
+    "categories": {
+      "en": "Drama, Historical Drama, Comedy",
+      "es": "Drama, Drama Histórico, Comedia",
+      "id": "Drama, Drama Sejarah, Komedi",
+      "jp": "ドラマ、時代劇、コメディ",
+      "ko": "드라마, 사극, 코미디",
+      "vi": "Kịch, Phim cổ trang, Hài kịch"
+    },
+    "difficulty": 1,
+    "youtube_id": "jDjpN1YYt0M",
+    "youtube_url": "https://youtu.be/jDjpN1YYt0M"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Royal Consort Hui Bin Kang committed a grave sin, deserving of universal condemnation, as a royal concubine of the Naemyeongbu.",
+        "es": "La Consorte Real Hui Bin Kang cometió un grave pecado, merecedor de la condena universal, como concubina real del Naemyeongbu.",
+        "id": "Hee Bin Kang melakukan dosa besar yang menggegerkan dunia, sebagai selir kerajaan dari Naemyeongbu.",
+        "jp": "熙嬪姜氏は内命婦の後宮として、天人共怒の大罪を犯した。",
+        "ko": "희빈 강 씨는 내명부의 후궁으로 천인공로할 대죄를 저질렀다.",
+        "vi": "Hy Bin Kang đã phạm một trọng tội tày trời, đáng bị cả trời đất phẫn nộ, với tư cách là một phi tần của Naemyeongbu."
+      },
+      "end_time": 5.7,
+      "start_time": 0.5,
+      "vocabulary": [
+        {
+          "word": "희빈 (Hui Bin)",
+          "meanings": {
+            "en": "Royal Consort Hui Bin (a high-ranking concubine in Joseon dynasty)",
+            "es": "Hui Bin (un título de concubina de alto rango en la dinastía Joseon)",
+            "id": "Hee Bin (gelar selir tingkat tinggi di dinasti Joseon)",
+            "jp": "熙嬪 (朝鮮時代の王の側室の位の一つ)",
+            "vi": "Hy Bin (một cấp bậc phi tần cao trong triều đại Joseon)"
+          }
+        },
+        {
+          "word": "내명부 (Naemyeongbu)",
+          "meanings": {
+            "en": "Office of Royal Concubines (organization overseeing royal women in the palace during Joseon dynasty)",
+            "es": "Naemyeongbu (organización que supervisaba a las mujeres reales en el palacio durante la dinastía Joseon)",
+            "id": "Naemyeongbu (organisasi yang mengawasi wanita kerajaan di istana selama dinasti Joseon)",
+            "jp": "内命婦 (朝鮮時代の宮廷内の王室女性を統括する組織)",
+            "vi": "Nội Mệnh Phủ (tổ chức quản lý các phụ nữ hoàng gia trong cung điện thời Joseon)"
+          }
+        },
+        {
+          "word": "천인공로할 대죄 (cheon-in-gong-no-hal dae-joe)",
+          "meanings": {
+            "en": "grave sin deserving of universal condemnation / an unforgivable major crime",
+            "es": "grave pecado que merece la condena universal (un crimen tan grande y terrible que todo el mundo se enojaría)",
+            "id": "dosa besar yang menggegerkan dunia (dosa yang sangat besar dan mengerikan sehingga seluruh dunia akan marah)",
+            "jp": "天人共怒の大罪 (天地のすべての人が怒るほど非常に大きく恐ろしい罪)",
+            "vi": "trọng tội tày trời (tội lớn và kinh khủng đến mức mọi người trên thế gian đều phẫn nộ)"
+          }
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "\"Hui Bin\" refers to a high-ranking concubine of the king during the Joseon Dynasty, and \"Naemyeongbu\" is an organization that oversees royal women within the palace. \"Cheonin-gongro-hal dae-joe\" emphasizes a very large and terrible sin that would anger everyone in the world, indicating a serious crime that was unacceptable for a royal concubine at the time.",
+        "es": "\"Hui Bin\" se refiere a una concubina de alto rango del rey durante la Dinastía Joseon, y \"Naemyeongbu\" es una organización que supervisaba a las mujeres reales dentro del palacio. Además, \"cheonin-gongro-hal dae-joe\" enfatiza un pecado muy grande y terrible que enfurecería a todas las personas en el mundo, destacando que era un crimen grave inaceptable para una concubina real en ese momento.",
+        "id": "\"Hui Bin\" mengacu pada selir raja dengan pangkat tinggi selama Dinasti Joseon, dan \"Naemyeongbu\" adalah organisasi yang mengawasi wanita kerajaan di dalam istana. Selain itu, \"Cheonin-gongro-hal dae-joe\" menekankan dosa yang sangat besar dan mengerikan hingga seluruh dunia akan marah, menyoroti bahwa itu adalah kejahatan serius yang tidak dapat dimaafkan bagi selir pada masa itu.",
+        "jp": "「「희빈」は朝鮮時代、王の後宮の中でも高い地位であり、「내명부」は宮殿内の王室女性を総括する組織です。また、「천인공로할 대죄」は、全世界の人が怒るほど非常に大きく恐ろしい罪を意味し、当時の後宮にとっては許されない重大な犯罪であることを強調します。",
+        "ko": "\"희빈\"은 조선 시대 왕의 후궁 중 높은 지위이며, \"내명부\"는 궁궐 내 왕실 여성들을 총괄하는 조직입니다. 또한 \"천인공로할 대죄\"는 온 세상 사람이 분노할 만큼 매우 크고 끔찍한 죄를 뜻하여, 당시 후궁에게는 용납될 수 없는 중대한 범죄임을 강조합니다.",
+        "vi": "\"Hy Bin\" là một địa vị cao trong số các phi tần của vua thời Joseon, và \"Naemyeongbu\" là tổ chức quản lý các phụ nữ hoàng gia trong cung điện. Ngoài ra, \"trọng tội tày trời\" (천인공로할 대죄) nhấn mạnh một tội lỗi rất lớn và kinh khủng đến mức mọi người trên thế gian đều phẫn nộ, cho thấy đây là một tội ác nghiêm trọng không thể chấp nhận được đối với một phi tần thời bấy giờ."
+      }
+    },
+    {
+      "scripts": {
+        "en": "What on earth is my crime?! Life's affairs... they say flowers don't bloom for ten days...",
+        "es": "¿¡Qué demonios es mi crimen?! Los asuntos de la vida... dicen que las flores no duran diez días...",
+        "id": "Apa sebenarnya dosaku?! Hidup ini... mereka bilang bunga tidak mekar sepuluh hari...",
+        "jp": "一体私の罪は何だというのだ！人生とは…花無十日紅だというのに…",
+        "ko": "대체 내 죄가 뭐란 말이냐! 인생사... 화무십일홍이라더니...",
+        "vi": "Rốt cuộc tội của ta là gì chứ?! Cuộc đời này... người ta nói hoa nào nở được mười ngày..."
+      },
+      "end_time": 15.2,
+      "start_time": 7.8,
+      "vocabulary": [
+        {
+          "word": "대체 (daeche)",
+          "meanings": {
+            "en": "on earth; exactly; what in the world",
+            "es": "qué demonios; exactamente",
+            "id": "sebenarnya; apa-apaan",
+            "jp": "一体 (いったい)",
+            "vi": "rốt cuộc; nói cho cùng"
+          }
+        },
+        {
+          "word": "인생사 (insaengsa)",
+          "meanings": {
+            "en": "matters of life; life's affairs",
+            "es": "asuntos de la vida; cosas de la vida",
+            "id": "urusan hidup; kehidupan",
+            "jp": "人生事 (じんせいじ) (人生における様々な出来事)",
+            "vi": "chuyện đời; việc đời"
+          }
+        },
+        {
+          "word": "화무십일홍 (hwamushibirhong)",
+          "meanings": {
+            "en": "No flower lasts ten days (a proverb meaning glory/power in life is fleeting)",
+            "es": "No hay flor que dure diez días (un proverbio que significa que la gloria/el poder en la vida es efímero)",
+            "id": "Bunga tidak mekar sepuluh hari (pepatah yang berarti kejayaan atau kekuasaan dalam hidup itu fana)",
+            "jp": "花無十日紅 (どんなに美しい花も十日とはもたず散ってしまうように、人生の栄華や権勢も永遠ではなく、はかないものだという意味の四字熟語)",
+            "vi": "Hoa không nở mười ngày (thành ngữ ý nói vinh hoa phú quý, quyền thế trong đời không kéo dài mãi, rất phù du)"
+          }
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "Hwamushibirhong (花無十日紅) is a four-character idiom meaning that just as even the most beautiful flower withers and falls before ten days are over, the glory and power of life are not eternal and are fleeting. The speaker is lamenting their difficult situation, expressing emptiness about how their good times didn't last long.",
+        "es": "Hwamushibirhong (花無十日紅) es un dicho de cuatro caracteres que significa que, así como incluso la flor más hermosa se marchita y cae antes de diez días, la gloria y el poder de la vida no son eternos y son efímeros. El hablante lamenta su difícil situación, expresando un vacío sobre cómo sus buenos tiempos no duraron mucho.",
+        "id": "Hwamushibirhong (花無十日紅) adalah idiom empat karakter yang berarti bahwa sama seperti bunga yang paling indah pun layu sebelum sepuluh hari, kemuliaan dan kekuasaan hidup tidaklah abadi dan bersifat fana. Pembicara meratapi situasi sulitnya, mengungkapkan kekosongan tentang bagaimana masa-masa baiknya tidak berlangsung lama.",
+        "jp": "花無十日紅(花無十日紅)は、どんなに美しい花も十日を過ぎずにしおれてしまうように、人生の栄華や権勢も永遠ではなく、はかないものだという意味の四字熟語です。自分の困難な状況を嘆き、良かった時期が長く続かなかったことに対する虚しさを表現しています。",
+        "ko": "화무십일홍(花無十日紅)은 아무리 아름다운 꽃도 열흘을 넘기지 못하고 시들듯, 인생의 영화나 권세도 영원하지 않고 덧없다는 의미의 사자성어입니다. 자신의 힘들어진 처지를 한탄하며, 좋았던 시절이 오래가지 못했음에 대한 허무함을 표현하고 있습니다.",
+        "vi": "Hoa vô thập nhật hồng (花無十日紅) là một thành ngữ bốn chữ có nghĩa là giống như dù là bông hoa đẹp nhất cũng không nở quá mười ngày rồi tàn, vinh hoa hay quyền thế trong cuộc đời cũng không vĩnh cửu mà phù du. Người nói đang than thở về hoàn cảnh khó khăn của mình, thể hiện sự trống rỗng về việc những ngày tháng tốt đẹp không kéo dài."
+      }
+    },
+    {
+      "scripts": {
+        "en": "They say that's what they call Cha Se-gye. A capitalist monster even the business world has abandoned.",
+        "es": "Dicen que así llaman a Cha Se-gye. Un monstruo capitalista que incluso el mundo empresarial ha abandonado.",
+        "id": "Mereka bilang begitu mereka memanggil Cha Se-gye. Monster kapitalis yang bahkan dunia bisnis telah tinggalkan.",
+        "jp": "チャ・セゲをそう呼ぶそうですよ。財界も見捨てた資本主義の怪物だと。",
+        "ko": "차세계를 그렇게 부른다죠. 재계도 버린 자본주의 괴물이라고.",
+        "vi": "Người ta gọi Cha Se-gye là như vậy đó. Một quái vật của chủ nghĩa tư bản mà ngay cả giới tài chính cũng đã bỏ rơi."
+      },
+      "end_time": 31.1,
+      "start_time": 26.0,
+      "vocabulary": [
+        {
+          "word": "차세계 (Cha Se-gye)",
+          "meanings": {
+            "en": "Cha Se-gye (a person's name)",
+            "es": "Cha Se-gye (nombre de persona)",
+            "id": "Cha Se-gye (nama orang)",
+            "jp": "チャ・セゲ (人名)",
+            "vi": "Cha Se-gye (tên người)"
+          }
+        },
+        {
+          "word": "재계 (jaegye)",
+          "meanings": {
+            "en": "business world; financial circles",
+            "es": "mundo empresarial; círculos financieros",
+            "id": "dunia bisnis; kalangan finansial",
+            "jp": "財界 (ざいかい) (経済界、実業界)",
+            "vi": "giới tài chính; giới kinh doanh"
+          }
+        },
+        {
+          "word": "자본주의 괴물 (jaboneujuui goemul)",
+          "meanings": {
+            "en": "capitalist monster",
+            "es": "monstruo capitalista",
+            "id": "monster kapitalis",
+            "jp": "資本主義の怪物 (しほんしゅぎのかいぶつ)",
+            "vi": "quái vật của chủ nghĩa tư bản"
+          }
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "\"Capitalist monster\" is a very strong expression used to criticize an entity that harms society by excessively pursuing profits. The modifier \"even the business world has abandoned\" emphasizes that its actions are so unethical and abnormal that they cannot be tolerated even by its fellow economic players.",
+        "es": "\"Monstruo capitalista\" es una expresión muy fuerte utilizada para criticar a una entidad que daña a la sociedad al perseguir ganancias excesivas. El modificador \"incluso el mundo empresarial ha abandonado\" enfatiza que sus acciones son tan poco éticas y anormales que no pueden ser toleradas ni siquiera por sus propios actores económicos.",
+        "id": "\"Monster kapitalis\" adalah ungkapan yang sangat kuat yang digunakan untuk mengkritik entitas yang merugikan masyarakat dengan mengejar keuntungan secara berlebihan. Khususnya, frasa \"bahkan dunia bisnis telah tinggalkan\" menekankan bahwa tindakannya sangat tidak etis dan tidak normal sehingga tidak dapat ditoleransi bahkan oleh para pelaku ekonomi sejenisnya.",
+        "jp": "「「자본주의 괴물」は、過度な利益追求によって社会に害を及ぼす対象を批判する際に使われる非常に強い表現です。特に「재계도 버린」という修飾は、その行為が同じ経済主体にさえ容認できないほど非倫理的で異常であることを強調します。",
+        "ko": "\"자본주의 괴물\"은 지나친 이윤 추구로 사회에 해악을 끼치는 대상을 비판할 때 쓰는 매우 강한 표현입니다. 특히 \"재계도 버린\"이라는 수식은 그 행위가 심지어 같은 경제 주체들에게조차 용인되지 못할 정도로 비윤리적이고 비정상적임을 강조합니다.",
+        "vi": "\"Quái vật chủ nghĩa tư bản\" là một cách diễn đạt rất mạnh mẽ dùng để chỉ trích một thực thể gây hại cho xã hội bằng cách theo đuổi lợi nhuận quá mức. Đặc biệt, cụm từ \"ngay cả giới tài chính cũng đã bỏ rơi\" nhấn mạnh rằng hành vi của nó phi đạo đức và bất thường đến mức ngay cả những chủ thể kinh tế cùng ngành cũng không thể dung thứ."
+      }
+    },
+    {
+      "scripts": {
+        "en": "From today, I'll use you as my spear and shield.",
+        "es": "A partir de hoy, te usaré como mi lanza y mi escudo.",
+        "id": "Mulai hari ini, aku akan memanfaatkanmu sebagai tombak dan perisaiku.",
+        "jp": "今日から貴様を私の槍と盾として使うとしよう。",
+        "ko": "오늘부터 네놈을 내 창과 방패로 써먹어야겠다.",
+        "vi": "Từ hôm nay, ta sẽ dùng ngươi làm giáo và khiên của ta."
+      },
+      "end_time": 40.2,
+      "start_time": 36.1,
+      "vocabulary": [
+        {
+          "word": "네놈 (nenom)",
+          "meanings": {
+            "en": "you (derogatory, contemptuous form of \"you\")",
+            "es": "tú (forma despectiva de \"tú\")",
+            "id": "kau (bentuk kasar dan merendahkan dari \"kamu\")",
+            "jp": "貴様 (きさま) (相手を見下したり侮辱する時に使う呼称)",
+            "vi": "ngươi; mày (cách gọi khinh miệt, hạ thấp đối phương)"
+          }
+        },
+        {
+          "word": "창 (chang)",
+          "meanings": {
+            "en": "spear; lance",
+            "es": "lanza",
+            "id": "tombak",
+            "jp": "槍 (やり)",
+            "vi": "giáo; thương"
+          }
+        },
+        {
+          "word": "방패 (bangpae)",
+          "meanings": {
+            "en": "shield",
+            "es": "escudo",
+            "id": "perisai",
+            "jp": "盾 (たて)",
+            "vi": "khiên"
+          }
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "\"Nenom\" is a derogatory term used to look down on and disparage someone. \"I'll use you as my spear and shield\" shows a very dominant and coercive attitude, implying that the speaker will use the other person solely as their tool.",
+        "es": "\"Nenom\" es un término despectivo usado para menospreciar y denigrar a alguien. \"Te usaré como mi lanza y mi escudo\" muestra una actitud muy dominante y coercitiva, implicando que el hablante usará a la otra persona únicamente como su herramienta.",
+        "id": "\"Nenom\" adalah panggilan merendahkan yang digunakan untuk menghina dan meremehkan seseorang. \"Aku akan memanfaatkanmu sebagai tombak dan perisaiku\" menunjukkan sikap yang sangat dominan dan memaksa, menyiratkan bahwa pembicara akan menggunakan orang lain murni sebagai alatnya.",
+        "jp": "「「네놈」は相手を見下し、蔑む時に使う呼称であり、「내 창과 방패로 써먹겠다」は、相手をただ自分の道具としてのみ活用するという、非常に支配的で強圧的な態度を示します。",
+        "ko": "\"네놈\"은 상대를 깔보고 비하할 때 쓰는 호칭이며, \"창과 방패로 써먹겠다\"는 상대를 오직 자신의 도구로만 활용하겠다는 매우 지배적이고 강압적인 태도를 보여줍니다.",
+        "vi": "\"Ngươi\" (네놈) là một cách gọi khinh miệt, hạ thấp đối phương. \"Ta sẽ dùng ngươi làm giáo và khiên của ta\" thể hiện thái độ rất độc đoán và ép buộc, ngụ ý rằng người nói sẽ sử dụng người kia hoàn toàn như công cụ của mình."
+      }
+    }
+  ]
+}

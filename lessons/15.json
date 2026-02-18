@@ -2,197 +2,303 @@
   "quiz": {
     "options": [
       {
-        "en": "Because the victim had too powerful a background.",
-        "es": "Porque la víctima tenía un trasfondo demasiado poderoso.",
-        "id": "Karena korban memiliki latar belakang yang terlalu kuat.",
-        "jp": "被害者が非常に強力な後ろ盾を持っていたからです。",
-        "ko": "피해자가 너무 강력한 배경을 가지고 있었기 때문입니다.",
-        "vi": "Vì nạn nhân có xuất thân quá thế lực."
+        "en": "She is constantly sick.",
+        "es": "Ella está constantemente enferma.",
+        "id": "Dia terus-menerus sakit.",
+        "jp": "彼女はいつも病気です。",
+        "ko": "그녀는 계속 아픕니다.",
+        "vi": "Cô ấy liên tục bị ốm."
       },
       {
-        "en": "Because there was a misunderstanding among the kidnappers regarding the target.",
-        "es": "Porque hubo un malentendido entre los secuestradores con respecto al objetivo.",
-        "id": "Karena ada kesalahpahaman di antara para penculik mengenai target.",
-        "jp": "誘拐犯たちの間でターゲットに関する勘違いがあったからです。",
-        "ko": "납치범들 사이에 목표물에 대한 착오가 있었기 때문입니다.",
-        "vi": "Vì có sự nhầm lẫn giữa những kẻ bắt cóc về mục tiêu."
+        "en": "She transforms into a different person at certain hours in the early morning due to demonic possession.",
+        "es": "Se transforma en una persona diferente a ciertas horas de la madrugada debido a la posesión demoníaca.",
+        "id": "Dia berubah menjadi orang yang berbeda pada jam-jam tertentu di pagi hari karena kerasukan iblis.",
+        "jp": "夜明けの特定の時間に悪魔に体を奪われ、別人になります。",
+        "ko": "새벽 특정 시간에 악마에게 몸을 뺏겨 다른 사람으로 변합니다.",
+        "vi": "Cô ấy biến thành một người khác vào những giờ nhất định vào rạng sáng do bị quỷ ám."
       },
       {
-        "en": "Because the police responded too quickly.",
-        "es": "Porque la policía respondió demasiado rápido.",
-        "id": "Karena polisi merespons terlalu cepat.",
-        "jp": "警察の対応が早すぎたからです。",
-        "ko": "경찰이 너무 빨리 대응했기 때문입니다.",
-        "vi": "Vì cảnh sát đã phản ứng quá nhanh."
+        "en": "She cannot get along well with the new neighbor.",
+        "es": "No se lleva bien con el nuevo vecino.",
+        "id": "Dia tidak bisa akur dengan tetangga baru.",
+        "jp": "彼女は新しい隣人と仲良くできません。",
+        "ko": "새로운 이웃과 잘 지내지 못합니다.",
+        "vi": "Cô ấy không hòa thuận với người hàng xóm mới."
       },
       {
-        "en": "Because the store employee resisted strongly.",
-        "es": "Porque la empleada de la tienda se resistió con fuerza.",
-        "id": "Karena karyawan toko melawan dengan kuat.",
-        "jp": "店の従業員が強く抵抗したからです。",
-        "ko": "매장 직원이 강하게 저항했기 때문입니다.",
-        "vi": "Vì nhân viên cửa hàng đã chống trả quyết liệt."
+        "en": "She is often sad and needs a change of mood.",
+        "es": "A menudo está triste y necesita un cambio de humor.",
+        "id": "Dia sering sedih dan butuh perubahan suasana hati.",
+        "jp": "彼女はよく悲しむので、気分転換が必要です。",
+        "ko": "자주 슬퍼해서 기분 전환이 필요합니다.",
+        "vi": "Cô ấy thường buồn và cần thay đổi tâm trạng."
       }
     ],
     "question": {
-      "en": "Based on the provided information, what was the primary reason the kidnapping attempt went wrong?",
-      "es": "Según la información proporcionada, ¿cuál fue la razón principal por la que el intento de secuestro salió mal?",
-      "id": "Berdasarkan informasi yang diberikan, apa alasan utama percobaan penculikan itu salah?",
-      "jp": "提供された情報に基づくと、誘拐の試みがうまくいかなかった主な理由は何でしたか？",
-      "ko": "제공된 정보를 바탕으로, 납치 시도가 잘못된 주된 이유는 무엇이었습니까?",
-      "vi": "Dựa trên thông tin được cung cấp, lý do chính khiến nỗ lực bắt cóc thất bại là gì?"
+      "en": "What is the main problem affecting the speaker's daughter?",
+      "es": "¿Cuál es el problema principal que afecta a la hija del hablante?",
+      "id": "Apa masalah utama yang dialami putri pembicara?",
+      "jp": "話し手の娘に起きている主な問題は何ですか？",
+      "ko": "화자의 딸에게 발생하는 주된 문제는 무엇입니까?",
+      "vi": "Vấn đề chính xảy ra với con gái của người nói là gì?"
     },
     "answer_index": 1
   },
   "metadata": {
     "titles": {
-      "en": "Lady Dua | Trailer",
-      "es": "Lady Dua | Tráiler",
-      "id": "Lady Dua | Trailer",
-      "jp": "レディ・ドゥア | 予告編",
-      "ko": "레이디 두아 | 예고편",
-      "vi": "Lady Dua | Trailer"
+      "en": "Pretty Crazy (2025)",
+      "es": "Pretty Crazy (2025)",
+      "id": "Pretty Crazy (2025)",
+      "jp": "Pretty Crazy (2025)",
+      "ko": "악마가 이사왔다 | 예고편 | CJ Enm",
+      "vi": "Em Xinh Tinh Quái (2025)"
     },
     "categories": {
-      "en": "Drama, Crime, Thriller",
-      "es": "Drama, Crimen, Thriller",
-      "id": "Drama, Kejahatan, Thriller",
-      "jp": "ドラマ、犯罪、スリラー",
-      "ko": "드라마, 범죄, 스릴러",
-      "vi": "Phim truyền hình, Tội phạm, Kinh dị"
+      "en": "Drama, Comedy, Mystery, Yoona",
+      "es": "Drama, Comedia, Misterio, Yoona",
+      "id": "Drama, Komedi, Misteri, Yoona",
+      "jp": "ドラマ、コメディ、ミステリー、ユナ",
+      "ko": "드라마, 코미디, 미스테리, 윤아",
+      "vi": "Kịch, Hài kịch, Bí ẩn, Yoona"
     },
-    "difficulty": 2,
-    "youtube_id": "628OJYuO6wU",
-    "youtube_url": "https://www.youtube.com/watch?v=628OJYuO6wU"
+    "difficulty": 3,
+    "youtube_id": "N5-rpnKxcgc",
+    "youtube_url": "https://www.youtube.com/watch?v=N5-rpnKxcgc"
   },
   "learning_sections": [
     {
       "scripts": {
-        "en": "The victim wasn't an ordinary person either. Or maybe they have powerful connections?",
-        "es": "La víctima tampoco era una persona común. ¿O quizás tienen conexiones poderosas?",
-        "id": "Korban juga bukan orang biasa. Atau mungkin mereka punya koneksi yang hebat?",
-        "jp": "被害者も普通の人間じゃなかったな。それとも、すごい後ろ盾があるのか？",
-        "ko": "피해자도 보통 사람 아니더라. 아니면 빽이 대단한 건가?",
-        "vi": "Nạn nhân cũng không phải người bình thường. Hay là họ có thế lực hậu thuẫn ghê gớm?"
+        "en": "Oh~ You must live upstairs. Please take good care of me/us.",
+        "es": "Oh~ Parece que vives en el piso de arriba. Encantado de conocerte/Contamos contigo.",
+        "id": "Oh~ Anda pasti tinggal di lantai atas kami. Mohon kerja samanya.",
+        "jp": "ああ～、うちの上の階にお住まいのようですね。よろしくお願いします。",
+        "ko": "어~ 우리 윗집 사시나 보네. 잘 부탁드립니다. ",
+        "vi": "Ồ~ Chắc bạn sống ở tầng trên nhà chúng tôi. Mong được giúp đỡ."
       },
-      "end_time": 7,
-      "start_time": 2,
+      "end_time": 20.7,
+      "start_time": 16.0,
       "vocabulary": [
         {
-          "word": "보통 사람",
+          "word": "윗집",
           "meanings": {
-            "en": "ordinary person",
-            "es": "persona común",
-            "id": "orang biasa",
-            "jp": "普通の人",
-            "vi": "người bình thường"
+            "en": "upstairs neighbor's house/apartment",
+            "es": "casa de arriba / piso de arriba",
+            "id": "rumah lantai atas",
+            "jp": "上の階の家",
+            "vi": "nhà tầng trên"
           }
         },
         {
-          "word": "빽",
+          "word": "잘 부탁드립니다",
           "meanings": {
-            "en": "powerful connections/backing",
-            "es": "conexiones/apoyos poderosos",
-            "id": "koneksi, dukungan",
-            "jp": "後ろ盾、コネ",
-            "vi": "thế lực hậu thuẫn, mối quan hệ"
+            "en": "Please take good care of me/us; I look forward to your kind cooperation.",
+            "es": "Cuento contigo / Por favor, cuida de mí/nosotros",
+            "id": "Mohon kerja samanya / Mohon bantuannya",
+            "jp": "よろしくお願いします",
+            "vi": "Mong được giúp đỡ / Mong nhận được sự hợp tác"
           }
         }
       ],
       "section_num": 1,
       "cultural_note": {
-        "en": "'보통 사람 아니더라' means that the other person is not easy to deal with or comfortable around. '빽' refers to someone having a superior or powerful background compared to others.",
-        "es": "'보통 사람 아니더라' significa que la otra persona no es alguien fácil de tratar o con quien sentirse cómodo. '빽' se refiere a que alguien tiene un trasfondo superior o poderoso en comparación con los demás.",
-        "id": "'보통 사람 아니더라' berarti orang lain bukanlah orang yang mudah diajak bicara atau didekati. '빽' mengacu pada seseorang yang memiliki latar belakang yang superior atau berkuasa dibandingkan orang lain.",
-        "jp": "「보통 사람 아니더라」とは、相手が簡単であったり、気楽に接することのできない人物であることを意味します。「빽」は、その人の後ろ盾が他人より優れていたり、力がある場合を意味します。",
-        "ko": "\"보통 사람 아니더라.\" 는 상대방이 만만하거나 편안하지 않은 사람임을 의미합니다. \"빽\"은 그 사람의 뒷 배경이 남들보다 우월하거나 힘이 있는 경우를 의미합니다.",
-        "vi": "'보통 사람 아니더라' có nghĩa là đối phương không phải là người dễ đối phó hoặc không thoải mái khi ở gần. '빽' dùng để chỉ việc ai đó có xuất thân hoặc thế lực hậu thuẫn vượt trội, có quyền lực hơn người khác."
+        "en": "\"잘 부탁드립니다\" is a polite greeting used when starting a new relationship, asking the other person to establish a good relationship and get along well in the future. Especially among neighbors, it implies maintaining a harmonious relationship and exchanging help.",
+        "es": "«잘 부탁드립니다» es un saludo cortés que se usa al iniciar una nueva relación, pidiéndole a la otra persona que establezca una buena relación y se lleven bien en el futuro. Especialmente entre vecinos, implica mantener una relación armoniosa e intercambiar ayuda.",
+        "id": "\"잘 부탁드립니다\" adalah ucapan salam yang sopan yang digunakan saat memulai hubungan baru, meminta pihak lain untuk membangun hubungan yang baik dan rukun di masa depan. Terutama di antara tetangga, ini menyiratkan menjaga hubungan yang harmonis dan saling membantu.",
+        "jp": "「잘 부탁드립니다」は、新しい関係を始める際に、相手に今後良い関係を築き、お互いにうまくやっていこうという丁寧な挨拶の言葉です。特に近隣関係では、円満な関係を維持し、助け合うという意味合いが含まれています。",
+        "ko": "\"잘 부탁드립니다\"는 새로운 관계를 시작할 때 상대방에게 앞으로 좋은 관계를 맺고 서로 잘 지내자는 정중한 인사말입니다. 특히 이웃 간에는 원만한 관계를 유지하며 도움을 주고받자는 의미를 담습니다.",
+        "vi": "\"잘 부탁드립니다\" là một lời chào trang trọng được sử dụng khi bắt đầu một mối quan hệ mới, thể hiện mong muốn xây dựng một mối quan hệ tốt đẹp và hòa thuận trong tương lai. Đặc biệt giữa những người hàng xóm, nó mang ý nghĩa duy trì mối quan hệ hòa thuận và giúp đỡ lẫn nhau."
       }
     },
     {
       "scripts": {
-        "en": "It seems they had some misunderstanding among themselves, so they kidnapped a store employee instead of Sara Kim.",
-        "es": "Parece que hubo algún error entre ellos, así que secuestraron a una empleada de la tienda en lugar de a Sara Kim.",
-        "id": "Sepertinya ada kesalahpahaman di antara mereka, jadi mereka menculik karyawan toko, bukan Sara Kim.",
-        "jp": "彼らの間で何らかの勘違いがあったのか、サラ・キムではなく店の従業員を誘拐したんだ。",
-        "ko": "자기들 끼리 무슨 착오가 있었는지 사라킴이 아닌 매장 직원을 납치했던거지.",
-        "vi": "Có vẻ như họ đã nhầm lẫn gì đó giữa họ, nên đã bắt cóc nhân viên cửa hàng chứ không phải Sara Kim."
+        "en": "My daughter Seonji, around 3 AM, gets her body possessed by a devil. She completely turns into a different person, I'm telling you.",
+        "es": "Mi hija Seonji, alrededor de las 3 de la mañana, su cuerpo es poseído por un demonio. Se convierte en una persona completamente diferente, te lo digo.",
+        "id": "Putriku Seonji, sekitar jam 3 pagi, tubuhnya dirasuki iblis. Dia berubah menjadi orang yang sama sekali berbeda, sungguh.",
+        "jp": "私の娘ソンジは、午前3時くらいに悪魔に体を奪われて、全く別の人に変わるんだってば。",
+        "ko": "내 딸 선지는. 새벽 3시간 정도 악마한테 몸을 뺏겨서. 완전 다른 사람으로 변한다니까.",
+        "vi": "Con gái tôi Seonji, khoảng 3 giờ sáng, bị quỷ cướp mất thân xác. Nó biến thành một người hoàn toàn khác đó."
       },
-      "end_time": 25,
-      "start_time": 19,
+      "end_time": 27.1,
+      "start_time": 20.8,
       "vocabulary": [
         {
-          "word": "착오",
+          "word": "새벽",
           "meanings": {
-            "en": "misunderstanding, error",
-            "es": "malentendido, error",
-            "id": "kesalahpahaman, kesalahan",
-            "jp": "勘違い、間違い",
-            "vi": "nhầm lẫn, sai sót"
+            "en": "dawn, early morning",
+            "es": "amanecer, madrugada",
+            "id": "fajar, dini hari",
+            "jp": "夜明け、未明",
+            "vi": "bình minh, rạng sáng"
           }
         },
         {
-          "word": "납치하다",
+          "word": "악마",
           "meanings": {
-            "en": "to kidnap",
-            "es": "secuestrar",
-            "id": "menculik",
-            "jp": "誘拐する",
-            "vi": "bắt cóc"
+            "en": "devil, demon",
+            "es": "diablo, demonio",
+            "id": "iblis, setan",
+            "jp": "悪魔",
+            "vi": "ác quỷ"
+          }
+        },
+        {
+          "word": "뺏기다",
+          "meanings": {
+            "en": "to have one's body taken/possessed",
+            "es": "que le quiten/posean el cuerpo",
+            "id": "tubuhnya dirasuki/diambil alih",
+            "jp": "体を奪われる",
+            "vi": "bị cướp đoạt thân xác"
           }
         }
       ],
       "section_num": 2,
       "cultural_note": {
-        "en": "'착오' means a misunderstanding or a mistake. In the drama, it explains that they seem to have mistakenly kidnapped someone else, thinking they were Sara Kim.",
-        "es": "'착오' significa un malentendido o un error. En el drama, se explica que parece que secuestraron a otra persona por error, pensando que era Sara Kim.",
-        "id": "'착오' berarti kesalahpahaman atau kekeliruan. Dalam drama, dijelaskan bahwa mereka tampaknya salah menculik orang lain, mengira itu Sara Kim.",
-        "jp": "「착오」は誤解したり、勘違いをした場合を意味し、劇中では他の人をサラ・キムと誤解して間違って誘拐したようだと説明します。",
-        "ko": "\"착오\"는 오해하거나 착각을 한 경우를 의미하며, 극중에서는 다른 사람을 사라킴으로 오해해서 잘못 납치한 것 같다고 설명합니다.",
-        "vi": "'착오' có nghĩa là hiểu lầm hoặc nhầm lẫn. Trong phim, nó giải thích rằng họ dường như đã nhầm lẫn bắt cóc người khác, nghĩ rằng đó là Sara Kim."
+        "en": "3 AM is often considered the 'witching hour' or 'devil's hour' in both Eastern and Western cultures, a time when evil spirits or supernatural beings are believed to be most active. It's a common trope in the horror genre.",
+        "es": "Las 3 de la mañana a menudo se considera la 'hora de las brujas' o 'la hora del diablo' tanto en culturas orientales como occidentales, un momento en que se cree que los espíritus malignos o los seres sobrenaturales están más activos. Es un tropo común en el género de terror.",
+        "id": "Jam 3 pagi sering dianggap sebagai 'jam penyihir' atau 'jam iblis' baik di budaya Timur maupun Barat, waktu ketika roh jahat atau makhluk supernatural diyakini paling aktif. Ini adalah kiasan umum dalam genre horor.",
+        "jp": "午前3時は、東洋と西洋を問わず、悪霊や超自然的な存在が活動しやすい「魔の時間」とされており、ホラー作品でよく使われる設定です。",
+        "ko": "새벽 3시는 동서양을 막론하고 악령이나 초자연적인 존재들이 활동하기 쉽다고 여겨지는 '마의 시간'으로, 공포 장르에서 흔히 사용되는 설정입니다.",
+        "vi": "3 giờ sáng thường được coi là 'giờ của quỷ' hoặc 'giờ phù thủy' ở cả văn hóa phương Đông và phương Tây, một thời điểm mà các linh hồn ma quỷ hoặc các thực thể siêu nhiên được cho là hoạt động mạnh nhất. Đây là một mô-típ phổ biến trong thể loại kinh dị."
       }
     },
     {
       "scripts": {
-        "en": "Well, among those who come to the police station, is there anyone without a story? Let's call it humanity.",
-        "es": "Bueno, entre los que vienen a la comisaría, ¿hay alguien sin una historia? Digamos que es por humanidad.",
-        "id": "Yah, di antara mereka yang datang ke kantor polisi, apakah ada yang tidak punya cerita? Mari kita anggap itu kemanusiaan.",
-        "jp": "まあ、警察署に来る人の中に事情がない人なんていますか？人類愛としましょう。",
-        "ko": "뭐, 경찰서에 오는 사람중에 사연없는 사람 있겠습니까? 인류애라고 칩시다.",
-        "vi": "À, trong số những người đến đồn cảnh sát, có ai mà không có câu chuyện riêng đâu? Cứ coi đó là tình nhân loại đi."
+        "en": "You must be dumbfounded, right? I know. I know everything. I know!",
+        "es": "Debes estar perplejo, ¿verdad? Lo sé. Lo sé todo. ¡Lo sé!",
+        "id": "Pasti aneh, kan? Aku tahu. Aku tahu semuanya. Aku tahu!",
+        "jp": "呆れるでしょうね。わかってる。全部わかってる。わかってる！",
+        "ko": "황당하겠지. 내가 알아. 내가 다 알아. 내가 알아!",
+        "vi": "Chắc hẳn là ngớ ngẩn lắm đúng không? Tôi biết. Tôi biết tất cả. Tôi biết mà!"
       },
-      "end_time": 95,
-      "start_time": 88,
+      "end_time": 32.9,
+      "start_time": 28.0,
       "vocabulary": [
         {
-          "word": "사연",
+          "word": "황당하다",
           "meanings": {
-            "en": "story, circumstances",
-            "es": "historia, circunstancias",
-            "id": "cerita, keadaan",
-            "jp": "事情、いきさつ",
-            "vi": "câu chuyện, hoàn cảnh"
-          }
-        },
-        {
-          "word": "인류애",
-          "meanings": {
-            "en": "humanity, philanthropy, love for humanity",
-            "es": "humanidad, filantropía",
-            "id": "kemanusiaan, filantropi",
-            "jp": "人類愛",
-            "vi": "tình nhân loại, lòng nhân ái"
+            "en": "to be absurd, preposterous, dumbfounded",
+            "es": "ser absurdo, estar perplejo/bafleado",
+            "id": "aneh, konyol, absurd",
+            "jp": "呆れる、途方もない",
+            "vi": "ngớ ngẩn, vô lý, hoang đường"
           }
         }
       ],
       "section_num": 3,
       "cultural_note": {
-        "en": "'사연' means that there is a cause and process behind a certain outcome. It implies that someone who has come all the way to the police station must have a reason. '인류애' refers to human love or kindness towards other humans, or the benevolent attitude of a good person towards those who are unfortunate.",
-        "es": "'사연' significa que hay una causa y un proceso detrás de un cierto resultado. Implica que alguien que ha llegado hasta la comisaría debe tener una razón. '인류애' se refiere al amor o la amabilidad humana hacia otros seres humanos, o la actitud benevolente de una buena persona hacia aquellos que son desafortunados.",
-        "id": "'사연' berarti ada sebab dan proses di balik suatu hasil tertentu. Ini menyiratkan bahwa seseorang yang telah datang ke kantor polisi pasti memiliki alasan. '인류애' mengacu pada cinta atau kebaikan manusia terhadap manusia lain, atau sikap baik hati seseorang terhadap orang-orang yang tidak beruntung.",
-        "jp": "「사연」は、ある結果について原因と過程があるという意味です。警察署まで来た人に、理由がないはずがないという意味です。「인류애」は、人間に対する人間の愛や親切さ、不幸な人々に対する善良な人の態度などを意味します。",
-        "ko": "\"사연\" 어떤 결과에 대해 원인과 과정이 있다는 의미입니다. 경찰서까지 온 사람이 원인이 없을 수 없을거라는 의미입니다. \"인류애\" 인간에 대한 인간의 사랑 또는 친절함, 불행한 사람을 대하는 선한 사람의 태도 등을 의미합니다.",
-        "vi": "'사연' có nghĩa là có nguyên nhân và quá trình đằng sau một kết quả nào đó. Nó ngụ ý rằng người đã đến đồn cảnh sát chắc chắn phải có lý do. '인류애' đề cập đến tình yêu hoặc lòng tốt của con người đối với con người, hoặc thái độ nhân ái của một người tốt đối với những người không may mắn."
+        "en": "By saying \"황당하겠지\" (You must be dumbfounded), the speaker empathizes with the other person's bewildered feelings. Repeating \"내가 알아\" (I know) emphasizes comfort and reassurance, indicating that the speaker fully understands the other person's feelings and they don't need to worry.",
+        "es": "Al decir «황당하겠지» (Debes estar perplejo), el hablante empatiza con los sentimientos de desconcierto de la otra persona. Repetir «내가 알아» (Lo sé) enfatiza el consuelo y la tranquilidad, indicando que el hablante comprende completamente los sentimientos de la otra persona y que no deben preocuparse.",
+        "id": "Dengan mengatakan \"황당하겠지\" (Pasti aneh), pembicara berempati dengan perasaan bingung orang lain. Mengulang \"내가 알아\" (Aku tahu) menekankan kenyamanan dan jaminan, menunjukkan bahwa pembicara sepenuhnya memahami perasaan orang lain dan mereka tidak perlu khawatir.",
+        "jp": "「황당하겠지」で相手の当惑する感情に共感し、「내가 알아」を繰り返すことで、相手の気持ちを十分に理解しているので心配しなくても大丈夫だという慰めと安心を強調する表現です。",
+        "ko": "\"황당하겠지\"로 상대방의 당황스러운 감정에 공감하며, \"내가 알아\"를 반복함으로써 상대방의 심정을 충분히 이해하고 있으니 걱정하지 않아도 된다는 위로와 안심을 강조하는 표현입니다.",
+        "vi": "Bằng cách nói \"황당하겠지\" (Chắc hẳn là ngớ ngẩn lắm), người nói thể hiện sự đồng cảm với cảm giác bối rối của người khác. Việc lặp lại \"내가 알아\" (Tôi biết) nhấn mạnh sự an ủi và trấn an, cho thấy người nói hoàn toàn hiểu cảm xúc của người kia và họ không cần phải lo lắng."
+      }
+    },
+    {
+      "scripts": {
+        "en": "If we don't do what *that guy* wants, we don't know what kind of trouble he might cause.",
+        "es": "Si no hacemos lo que *ese tipo* quiere, no sabemos qué tipo de problemas podría causar.",
+        "id": "Jika kita tidak melakukan apa yang diinginkan *orang itu*, kita tidak tahu masalah apa yang mungkin dia timbulkan.",
+        "jp": "あいつが望むことをしてやらなければ、どんなことをしでかすかわからない。",
+        "ko": "놈이 원하는 걸 해주지 않으면, 무슨 일을 벌일지도 몰라.",
+        "vi": "Nếu không làm theo những gì tên đó muốn, không biết hắn ta sẽ gây ra chuyện gì nữa."
+      },
+      "end_time": 39.2,
+      "start_time": 34.0,
+      "vocabulary": [
+        {
+          "word": "놈",
+          "meanings": {
+            "en": "guy, fellow (derogatory or for disliked/dangerous person)",
+            "es": "ese tipo, ese tío (a menudo despectivo o para una persona desagradable/peligrosa)",
+            "id": "orang itu (seringkali merendahkan atau untuk orang yang tidak disukai/berbahaya)",
+            "jp": "あいつ、やつ (軽蔑的な表現)",
+            "vi": "tên, gã (thường dùng với ý khinh miệt hoặc chỉ kẻ thù)"
+          }
+        },
+        {
+          "word": "원하다",
+          "meanings": {
+            "en": "to want, to wish",
+            "es": "querer, desear",
+            "id": "ingin, berharap",
+            "jp": "望む、欲する",
+            "vi": "muốn, mong muốn"
+          }
+        },
+        {
+          "word": "벌이다",
+          "meanings": {
+            "en": "to start, to cause, to stage (e.g., trouble, a fight)",
+            "es": "iniciar, causar, montar (un evento, problemas, etc.)",
+            "id": "memulai, menyebabkan, mengadakan",
+            "jp": "(事を)始める、起こす",
+            "vi": "gây ra, bày ra, tiến hành"
+          }
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "\"놈\" (nom) is a derogatory or contemptuous term used to refer to someone, often implying an adversarial or dangerous individual. It's used to belittle or show disrespect.",
+        "es": "«놈» (nom) es un término despectivo o desdeñoso que se usa para referirse a alguien, a menudo implicando a un individuo adversario o peligroso. Se usa para menospreciar o mostrar falta de respeto.",
+        "id": "\"놈\" (nom) adalah istilah merendahkan atau menghina yang digunakan untuk merujuk pada seseorang, seringkali menyiratkan individu yang bermusuhan atau berbahaya. Ini digunakan untuk meremehkan atau menunjukkan rasa tidak hormat.",
+        "jp": "「놈」は相手を軽んじたり軽蔑する表現で、主に敵対的または危険な人物を指すときに使用されます。",
+        "ko": "\"놈\"은 상대를 낮춰 부르거나 경멸하는 표현으로, 주로 적대적이거나 위험한 인물을 지칭할 때 사용됩니다.",
+        "vi": "\"놈\" (nom) là một thuật ngữ miệt thị hoặc khinh thường dùng để chỉ một ai đó, thường ngụ ý một cá nhân đối địch hoặc nguy hiểm. Nó được dùng để hạ thấp hoặc thể hiện sự thiếu tôn trọng."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Try to make me happy with all your heart. I don't think it's something I can handle.",
+        "es": "Intenta hacerme feliz con todo tu corazón. Creo que no es algo que yo pueda manejar.",
+        "id": "Cobalah membuatku senang dengan segenap hatimu. Sepertinya itu bukan hal yang bisa saya tangani.",
+        "jp": "心を込めて私を楽しませてみて。私が対処できることではないようです。",
+        "ko": "진심을 다해서 날 즐겁게 만들어봐. 제가 감당할 수 있는 일이 아닌 것 같습니다. ",
+        "vi": "Hãy dốc hết tấm lòng để làm tôi vui đi. Tôi nghĩ đây không phải là việc tôi có thể gánh vác được."
+      },
+      "end_time": 46.3,
+      "start_time": 39.0,
+      "vocabulary": [
+        {
+          "word": "진심",
+          "meanings": {
+            "en": "sincerity, true heart",
+            "es": "sinceridad, corazón verdadero",
+            "id": "ketulusan, hati yang tulus",
+            "jp": "真心、本心",
+            "vi": "chân thành, tấm lòng thật sự"
+          }
+        },
+        {
+          "word": "즐겁다",
+          "meanings": {
+            "en": "to be joyful, pleasant, happy",
+            "es": "ser alegre, placentero, feliz",
+            "id": "menyenangkan, bahagia",
+            "jp": "楽しい、愉快だ",
+            "vi": "vui vẻ, thú vị"
+          }
+        },
+        {
+          "word": "감당하다",
+          "meanings": {
+            "en": "to handle, to cope with, to manage",
+            "es": "manejar, afrontar, gestionar",
+            "id": "menangani, mengatasi, mengelola",
+            "jp": "対処する、引き受ける、やりこなす",
+            "vi": "gánh vác, chịu trách nhiệm, xử lý"
+          }
+        }
+      ],
+      "section_num": 5,
+      "cultural_note": {
+        "en": "This expression is used to politely decline an unreasonable request from someone, indicating that it is beyond one's capacity to handle.",
+        "es": "Esta expresión se utiliza para rechazar cortésmente una petición irrazonable de alguien, indicando que está más allá de la capacidad de uno para manejarla.",
+        "id": "Ungkapan ini digunakan untuk menolak permintaan yang tidak masuk akal dari seseorang secara sopan, menunjukkan bahwa hal itu di luar kemampuan seseorang untuk menanganinya.",
+        "jp": "相手の無理な要求に対して、自分の能力では対処しきれないことを丁寧に断る際に使われる表現です。",
+        "ko": "상대방의 무리한 요구에 대해 자신의 능력으로는 감당하기 어렵다는 것을 정중하게 거절할 때 사용되는 표현입니다.",
+        "vi": "Đây là một cách từ chối lịch sự một yêu cầu vô lý từ người khác, cho thấy rằng điều đó vượt quá khả năng của mình để xử lý."
       }
     }
   ]

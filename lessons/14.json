@@ -2,217 +2,280 @@
   "quiz": {
     "options": [
       {
-        "en": "They are typically very shy and reclusive.",
-        "es": "Suelen ser muy tímidas y recluidas.",
-        "id": "Mereka biasanya sangat pemalu dan tertutup.",
-        "jp": "彼女たちは通常、非常に内気で隠遁的です。",
-        "ko": "그들은 일반적으로 매우 수줍음이 많고 은둔적입니다.",
-        "vi": "Họ thường rất nhút nhát và sống ẩn dật."
+        "en": "A person who is the same on the inside and outside, and honest.",
+        "es": "Una persona sincera y honesta, igual por dentro que por fuera.",
+        "id": "Orang yang jujur dan konsisten antara dalam dan luar.",
+        "jp": "内面と外面が同じで正直な人だ。",
+        "ko": "겉과 속이 같고 정직한 사람이다.",
+        "vi": "Là người thật thà, trong ngoài như một."
       },
       {
-        "en": "They often use their beauty to trick humans for their own gain.",
-        "es": "A menudo usan su belleza para engañar a los humanos para su propio beneficio.",
-        "id": "Mereka sering menggunakan kecantikan mereka untuk menipu manusia demi keuntungan mereka sendiri.",
-        "jp": "彼女たちはしばしばその美貌を利用して人間を騙し、自分の利益を得ます。",
-        "ko": "그들은 종종 자신의 아름다움을 이용해 인간을 속여 이득을 취합니다.",
-        "vi": "Họ thường dùng vẻ đẹp của mình để lừa gạt con người nhằm trục lợi."
+        "en": "Genuinely supports and assists others' success.",
+        "es": "Apoya y ayuda sinceramente el éxito de los demás.",
+        "id": "Sepenuh hati mendukung dan membantu kesuksesan orang lain.",
+        "jp": "他人の成功を心から応援し、協力する。",
+        "ko": "타인의 성공을 진심으로 응원하며 조력한다.",
+        "vi": "Chân thành ủng hộ và giúp đỡ thành công của người khác."
       },
       {
-        "en": "They aspire to become fully human, which implies a strong desire or 'wish'.",
-        "es": "Anhelan convertirse en humanos por completo, lo que implica un fuerte deseo o 'anhelo'.",
-        "id": "Mereka bercita-cita untuk menjadi manusia sepenuhnya, yang menyiratkan keinginan atau 'harapan' yang kuat.",
-        "jp": "彼女たちは完全に人間になることを熱望しており、これは強い願望や「願い」を意味します。",
-        "ko": "그들은 완전히 인간이 되기를 열망하며, 이는 강한 욕망이나 '소원'을 내포합니다.",
-        "vi": "Họ khao khát trở thành con người hoàn toàn, điều này ngụ ý một khao khát hoặc 'điều ước' mạnh mẽ."
+        "en": "A hypocrite who changes their attitude according to the situation for their own gain.",
+        "es": "Un hipócrita que cambia su actitud según la situación para su propio beneficio.",
+        "id": "Seorang munafik yang mengubah sikapnya sesuai situasi demi keuntungannya sendiri.",
+        "jp": "自分の利益のために状況に合わせて態度を変える偽善者だ。",
+        "ko": "자신의 이득을 위해 상황에 맞춰 태도를 바꾸는 위선자이다.",
+        "vi": "Là kẻ đạo đức giả thay đổi thái độ theo tình huống vì lợi ích của bản thân."
       },
       {
-        "en": "They are usually not beautiful and lack mystery.",
-        "es": "Normalmente no son hermosas y carecen de misterio.",
-        "id": "Mereka biasanya tidak cantik dan kurang misterius.",
-        "jp": "彼女たちは通常、美しくなく神秘さに欠けています。",
-        "ko": "그들은 보통 아름답지 않고 신비로움이 부족합니다.",
-        "vi": "Họ thường không đẹp và thiếu sự thần bí."
+        "en": "Consistently kind and considerate to everyone.",
+        "es": "Una persona consistentemente amable y considerada con todos.",
+        "id": "Selalu baik dan penuh perhatian kepada semua orang.",
+        "jp": "誰にでも一貫して親切で思いやりがある。",
+        "ko": "모든 사람에게 한결같이 친절하고 배려심이 깊다.",
+        "vi": "Luôn luôn tử tế và chu đáo với mọi người."
       }
     ],
     "question": {
-      "en": "According to Korean folklore mentioned in the lesson, what is a common characteristic of a gumiho that contrasts with this character's statement 'But you say you have no wish?'",
-      "es": "Según el folclore coreano mencionado en la lección, ¿cuál es una característica común de un gumiho que contrasta con la afirmación de este personaje '¿Pero dices que no tienes ningún deseo?'?",
-      "id": "Menurut cerita rakyat Korea yang disebutkan dalam pelajaran, karakteristik umum gumiho apa yang kontras dengan pernyataan karakter ini, 'Tapi kamu bilang tidak punya keinginan?'",
-      "jp": "授業で言及された韓国の説話によると、九尾狐の一般的な特徴のうち、この登場人物の「でも願いがないと？」という発言と対照的なものは何ですか？",
-      "ko": "수업에서 언급된 한국 설화에 따르면, 구미호의 일반적인 특징 중 이 등장인물의 \"근데 소원이 없다고요?\"라는 발언과 대조되는 것은 무엇인가요?",
-      "vi": "Theo truyền thuyết dân gian Hàn Quốc được đề cập trong bài học, đặc điểm chung nào của gumiho mâu thuẫn với câu nói 'Nhưng lại nói không có điều ước?' của nhân vật này?"
+      "en": "Which of the following best describes the character depicted in the dialogues?",
+      "es": "¿Cuál de las siguientes opciones describe mejor al personaje representado en los diálogos?",
+      "id": "Manakah yang paling tepat menggambarkan karakter yang digambarkan dalam dialog?",
+      "jp": "会話の中で描写されている人物について、最も適切な説明は何ですか？",
+      "ko": "대화 속에서 묘사되는 인물에 대한 설명으로 가장 적절한 것은 무엇입니까?",
+      "vi": "Mô tả nào sau đây phù hợp nhất với nhân vật được khắc họa trong các đoạn hội thoại?"
     },
     "answer_index": 2
   },
   "metadata": {
     "titles": {
-      "en": "From Today, I'm Human | Official Trailer",
-      "es": "Desde hoy, soy humano | Tráiler oficial",
-      "id": "Mulai Hari Ini, Aku Manusia | Trailer Resmi",
-      "jp": "今日から人間ですけど | 公式予告編",
-      "ko": "오늘부터 인간입니다만 | 공식 예고편",
-      "vi": "Từ hôm nay, tôi là người | Trailer chính thức"
+      "en": "Dear X (2025)",
+      "es": "Dear X (2025)",
+      "id": "Dear X (2025)",
+      "jp": "親愛なるX (2025)",
+      "ko": "친애하는 X | 김유정 ",
+      "vi": "X Thân Mến! (2025)"
     },
     "categories": {
-      "en": "Drama, Comedy",
-      "es": "Drama, Comedia",
-      "id": "Drama, Komedi",
-      "jp": "ドラマ、コメディ",
-      "ko": "드라마, 코미디",
-      "vi": "Phim truyền hình, Hài kịch"
+      "en": "Drama, Thriller",
+      "es": "Drama, Thriller",
+      "id": "Drama, Thriller",
+      "jp": "ドラマ、スリラー",
+      "ko": "드라마, 스릴러",
+      "vi": "Phim truyền hình, Kịch tính"
     },
-    "difficulty": 1,
-    "youtube_id": "V2qn8E7PB0c",
-    "youtube_url": "https://www.youtube.com/watch?v=V2qn8E7PB0c"
+    "difficulty": 3,
+    "youtube_id": "akansp381_s",
+    "youtube_url": "https://www.youtube.com/watch?v=akansp381_s"
   },
   "learning_sections": [
     {
       "scripts": {
-        "en": "What is this beast practicing Tao doing here?",
-        "es": "¿Qué está haciendo esta bestia que practica el Tao aquí?",
-        "id": "Binatang yang sedang berlatih Tao ini sebenarnya sedang apa di sini?",
-        "jp": "道を修めている獣が一体ここで何をしているのだ？",
-        "ko": "도 딱는 짐승이 대체 여기서 뭘 하고 있는게냐?",
-        "vi": "Con thú đang tu đạo này rốt cuộc đang làm gì ở đây vậy?"
+        "en": "I want to be reborn anew at the very top.",
+        "es": "Quiero renacer de nuevo en la cima más alta.",
+        "id": "Aku ingin terlahir kembali di puncak tertinggi.",
+        "jp": "一番高い頂上で新しく生まれたい。",
+        "ko": "가장 높은 꼭대기에서 새롭게 태어나고 싶어.",
+        "vi": "Tôi muốn được tái sinh một lần nữa ở đỉnh cao nhất."
       },
-      "end_time": 6.47,
-      "start_time": 1.28,
+      "end_time": 6.0,
+      "start_time": 1.0,
       "vocabulary": [
         {
-          "word": "도 닦다",
+          "word": "꼭대기",
           "meanings": {
-            "en": "to practice Tao/asceticism, to cultivate oneself",
-            "es": "practicar el Tao, hacer penitencia",
-            "id": "berlatih Tao, bertapa",
-            "jp": "道を修める、修行する",
-            "vi": "tu đạo, tu luyện"
+            "en": "top, summit, peak",
+            "es": "cima, cumbre",
+            "id": "puncak, atas",
+            "jp": "頂上、一番上",
+            "vi": "đỉnh, chóp"
           }
         },
         {
-          "word": "짐승",
+          "word": "새롭게",
           "meanings": {
-            "en": "beast, animal",
-            "es": "bestia, animal",
-            "id": "binatang, hewan",
-            "jp": "獣、動物",
-            "vi": "con thú, động vật"
+            "en": "newly, anew, freshly",
+            "es": "nuevamente, de nuevo",
+            "id": "baru, kembali",
+            "jp": "新しく",
+            "vi": "một cách mới mẻ, lại"
           }
         },
         {
-          "word": "대체",
+          "word": "태어나다",
           "meanings": {
-            "en": "what on earth, exactly (emphasizing a question)",
-            "es": "exactamente, a fin de cuentas",
-            "id": "sebenarnya, pada dasarnya",
-            "jp": "一体、そもそも",
-            "vi": "rốt cuộc, vậy thì"
+            "en": "to be born",
+            "es": "nacer",
+            "id": "lahir",
+            "jp": "生まれる",
+            "vi": "sinh ra"
           }
         }
       ],
       "section_num": 1,
       "cultural_note": {
-        "en": "In Korean folklore, there is a popular belief that a gumiho (a nine-tailed fox) can become human by practicing Tao.",
-        "es": "En el folclore coreano, existe la creencia popular de que un gumiho (un zorro de nueve colas) puede volverse humano practicando el Tao.",
-        "id": "Dalam cerita rakyat Korea, ada keyakinan populer bahwa gumiho (rubah berekor sembilan) bisa menjadi manusia dengan berlatih Tao.",
-        "jp": "韓国の説話では、九尾狐（九つの尾を持つ狐）は道を修めることで人間になれるという俗説が伝えられています。",
-        "ko": "한국 설화에서는 구미호(꼬리 아홉 달린 여우)는 도를 닦아 인간이 될 수 있다는 속설이 이어져 오고 있습니다.",
-        "vi": "Trong các truyền thuyết dân gian Hàn Quốc, có một niềm tin phổ biến rằng gumiho (cáo chín đuôi) có thể trở thành người bằng cách tu luyện đạo."
+        "en": "This expression metaphorically represents a strong desire and firm resolve to make a completely new start towards the highest goal, or to be completely reborn into a better version of oneself.",
+        "es": "Esta expresión representa metafóricamente un fuerte deseo y una firme determinación de comenzar de nuevo hacia la meta más alta, o de renacer completamente para convertirse en una mejor versión de uno mismo.",
+        "id": "Ungkapan ini secara metaforis mewakili keinginan kuat dan tekad yang bulat untuk memulai awal yang benar-benar baru menuju tujuan tertinggi, atau untuk sepenuhnya terlahir kembali menjadi versi diri yang lebih baik.",
+        "jp": "この表現は、最高の目標に向かって完全に新しいスタートを切ったり、より良い自分に完全に生まれ変わろうとする強い願望と悲壮な覚悟を比喩的に表します。",
+        "ko": "이 표현은 최고 목표를 향해 완전히 새로운 시작을 하거나, 더 나은 모습으로 완전히 거듭나고자 하는 강한 열망과 비장한 각오를 비유적으로 나타냅니다.",
+        "vi": "Cách diễn đạt này ẩn dụ cho một mong muốn mạnh mẽ và quyết tâm sắt đá muốn bắt đầu một khởi đầu hoàn toàn mới hướng tới mục tiêu cao nhất, hoặc hoàn toàn tái sinh thành một phiên bản tốt đẹp hơn của chính mình."
       }
     },
     {
       "scripts": {
-        "en": "I'm so proud that I am me.",
-        "es": "Estoy tan orgulloso de ser quien soy.",
-        "id": "Aku sangat bangga bahwa aku adalah diriku.",
-        "jp": "私は私が私であることがとても誇らしい。",
-        "ko": "나는 내가 나인게 너무 자랑스러워.",
-        "vi": "Tôi rất tự hào vì tôi là tôi."
+        "en": "Did you see their eyes? They're really chilling. Because they changed their mask depending on the need.",
+        "es": "¿Viste su mirada? Es realmente inquietante. Porque se puso una máscara diferente según la necesidad.",
+        "id": "Kau lihat tatapan matanya? Benar-benar menyeramkan. Karena dia berganti topeng sesuai kebutuhan.",
+        "jp": "あいつの目つき見た？すごく冷たい。必要に応じて仮面を使い分けていたからね。",
+        "ko": "걔 눈빛 봤어? 되게 쌔해. 필요에 따라 가면을 바꿔썼으니까요.",
+        "vi": "Bạn có thấy ánh mắt của họ không? Thực sự lạnh lẽo. Bởi vì họ đã thay đổi mặt nạ tùy theo nhu cầu."
       },
-      "end_time": 20,
-      "start_time": 16,
+      "end_time": 15.6,
+      "start_time": 8.5,
       "vocabulary": [
         {
-          "word": "자랑스럽다",
+          "word": "눈빛",
           "meanings": {
-            "en": "to be proud of",
-            "es": "estar orgulloso",
-            "id": "bangga",
-            "jp": "誇らしい",
-            "vi": "tự hào"
+            "en": "gaze, look (in one's eyes), expression (of the eyes)",
+            "es": "mirada, expresión (de los ojos)",
+            "id": "tatapan, pandangan",
+            "jp": "目つき、眼差し",
+            "vi": "ánh mắt, cái nhìn"
+          }
+        },
+        {
+          "word": "쌔하다",
+          "meanings": {
+            "en": "to feel chilling, creepy, ominous (slang, used when something feels cold, strange, or untrustworthy)",
+            "es": "sentir escalofríos, ser espeluznante, inquietante (jerga, se usa cuando algo se siente frío, extraño o poco confiable)",
+            "id": "merasa seram, dingin, aneh (slang, ketika ada perasaan dingin, aneh, atau tidak dapat dipercaya)",
+            "jp": "ぞっとする、冷たい、不気味だ（俗語、冷たい、不自然、信頼できないと感じるときに使う）",
+            "vi": "có cảm giác rờn rợn, lạnh sống lưng, không ổn (tiếng lóng, khi cảm thấy lạnh lẽo, kỳ lạ hoặc không đáng tin)"
+          }
+        },
+        {
+          "word": "가면을 바꿔쓰다",
+          "meanings": {
+            "en": "to change one's mask, to act hypocritically or deceptively according to the situation (idiom)",
+            "es": "cambiar de máscara, actuar con hipocresía o engaño según la situación (modismo)",
+            "id": "berganti topeng, bertindak munafik atau menipu sesuai situasi (idiom)",
+            "jp": "仮面を使い分ける、状況に応じて態度を変える（慣用句）",
+            "vi": "thay đổi mặt nạ, thay đổi thái độ để che giấu sự thật (thành ngữ)"
           }
         }
       ],
       "section_num": 2,
       "cultural_note": {
-        "en": "This is a narcissistic expression showing pride in oneself and self-love. Usually, saying this makes you seem annoying.",
-        "es": "Esta es una expresión narcisista que muestra orgullo por uno mismo y amor propio. Normalmente, decir esto te hace parecer molesto.",
-        "id": "Ini adalah ekspresi narsis yang menunjukkan kebanggaan pada diri sendiri dan cinta diri. Biasanya, mengatakan ini akan membuat Anda terlihat menyebalkan.",
-        "jp": "自分自身に対する誇りや自己愛などを表現するナルシシズム的な表現です。普通、このように言うと生意気だと思われます。",
-        "ko": "스스로에 대한 자랑스러움, 자기애 등을 표현하는 나르시시즘적인 표현입니다. 보통 이렇게 말하면 재수없어요.",
-        "vi": "Đây là một cách diễn đạt ái kỷ thể hiện sự tự hào về bản thân và lòng tự yêu mình. Thường thì nói như vậy sẽ khiến bạn bị coi là khó ưa."
+        "en": "\"쌔하다\" is a slang term used when one feels an ominous or uncomfortable sensation from someone's expression or attitude, suggesting they are cold or insincere. '가면을 바꿔 쓴다' (to change one's mask) metaphorically describes hiding one's true feelings and acting hypocritically depending on the situation.",
+        "es": "\"쌔하다\" es una jerga que se usa cuando uno siente una sensación ominosa o incómoda por la expresión o actitud de alguien, sugiriendo que son fríos o insinceros. '가면을 바꿔 쓴다' (cambiar la máscara) describe metafóricamente ocultar los verdaderos sentimientos y actuar hipócritamente según la situación.",
+        "id": "\"쌔하다\" adalah istilah slang yang digunakan ketika seseorang merasakan firasat buruk atau perasaan tidak nyaman dari ekspresi atau sikap orang lain, menunjukkan bahwa mereka dingin atau tidak tulus. '가면을 바꿔 쓴다' (mengganti topeng) secara metaforis menggambarkan menyembunyikan perasaan sejati dan bertindak munafik tergantung pada situasi.",
+        "jp": "「쌔하다」は、相手の表情や態度から冷たさや誠実さが感じられず、不吉で不快な気分がするときに使う俗語です。「가면을 바꿔 쓴다」（仮面を変えてかぶる）という言葉は、状況に応じて本心を隠し、偽善的に行動することを比喩しています。",
+        "ko": "\"쌔하다\"는 상대방의 표정이나 태도에서 차갑거나 진정성이 느껴지지 않아 불길하고 불편한 기분이 들 때 사용하는 속어입니다. '가면을 바꿔 쓴다'는 말은 상황에 따라 진심을 숨기고 위선적으로 행동한다는 것을 비유합니다.",
+        "vi": "\"쌔하다\" là một tiếng lóng được sử dụng khi cảm thấy có điều gì đó không ổn, lạnh lẽo hoặc không chân thành từ biểu cảm hay thái độ của đối phương, tạo cảm giác bất an và khó chịu. '가면을 바꿔 쓴다' (thay đổi mặt nạ) là phép ẩn dụ cho việc che giấu cảm xúc thật và hành động đạo đức giả tùy theo tình huống."
       }
     },
     {
       "scripts": {
-        "en": "Can't you tell just by looking? This beauty, this mystery. A gumiho? But you say you have no wish?",
-        "es": "¿No te das cuenta con solo mirar? Esta belleza, este misterio. ¿Un gumiho? ¿Pero dices que no tienes ningún deseo?",
-        "id": "Tidak bisakah kamu tahu hanya dengan melihat? Kecantikan ini, misteri ini. Gumiho? Tapi kamu bilang tidak punya keinginan?",
-        "jp": "見れば分からない？この美貌、この神秘さ。九尾狐ですって？でも願いがないと？",
-        "ko": "딱 보면 모르겠어? 이 미모, 이 신비로움 구미호요? 근데 소원이 없다고요.",
-        "vi": "Không nhìn là không biết sao? Vẻ đẹp này, sự thần bí này. Là cáo chín đuôi ư? Nhưng lại nói không có điều ước?"
+        "en": "In front, they pretend to be a model student, but behind, they shamefully extort money from kids.",
+        "es": "Por delante, finge ser un estudiante ejemplar, pero por detrás, extorsiona dinero a los niños de forma sucia.",
+        "id": "Di depan, dia pura-pura jadi siswa teladan, tapi di belakang, dia secara kotor memeras uang anak-anak.",
+        "jp": "前では優等生ぶって、裏では汚く子供たちからお金を巻き上げてるんだ。",
+        "ko": "앞에서는 모범생인 척, 뒤에서는 추잡하게 애들 돈이나 뜯고.",
+        "vi": "Trước mặt thì giả vờ là học sinh gương mẫu, sau lưng lại bẩn thỉu moi tiền của bọn trẻ."
       },
-      "end_time": 28,
-      "start_time": 21.2,
+      "end_time": 20.8,
+      "start_time": 16.0,
       "vocabulary": [
         {
-          "word": "딱 보면 모르겠어?",
+          "word": "모범생인 척하다",
           "meanings": {
-            "en": "Can't you tell just by looking? / Isn't it obvious?",
-            "es": "¿No te das cuenta con solo mirar? / ¿No es obvio?",
-            "id": "Tidak bisakah kamu tahu hanya dengan melihat? / Bukankah itu sudah jelas?",
-            "jp": "見れば分からない？ / 一目見ればわかるでしょう？",
-            "vi": "Không nhìn là không biết sao? / Nhìn là biết ngay mà?"
+            "en": "to pretend to be a model student",
+            "es": "fingir ser un estudiante ejemplar",
+            "id": "berpura-pura menjadi siswa teladan",
+            "jp": "優等生ぶる、模範生であるふりをする",
+            "vi": "giả vờ là học sinh gương mẫu"
           }
         },
         {
-          "word": "미모",
+          "word": "추잡하다",
           "meanings": {
-            "en": "beauty (of appearance)",
-            "es": "belleza",
-            "id": "kecantikan",
-            "jp": "美貌",
-            "vi": "vẻ đẹp, dung mạo"
+            "en": "to be dirty, sordid, despicable, shameful",
+            "es": "ser sucio, sórdido, despreciable",
+            "id": "kotor, menjijikkan, keji",
+            "jp": "醜悪だ、下劣だ、汚らしい",
+            "vi": "bẩn thỉu, ti tiện, đáng khinh"
           }
         },
         {
-          "word": "신비로움",
+          "word": "돈을 뜯다",
           "meanings": {
-            "en": "mystery, mysteriousness",
-            "es": "misterio, cualidad misteriosa",
-            "id": "misteri, kemisteriusan",
-            "jp": "神秘さ、神秘性",
-            "vi": "sự thần bí, sự huyền bí"
-          }
-        },
-        {
-          "word": "소원",
-          "meanings": {
-            "en": "wish, desire",
-            "es": "deseo, anhelo",
-            "id": "keinginan, harapan",
-            "jp": "願い、望み",
-            "vi": "điều ước, nguyện vọng"
+            "en": "to extort money, to squeeze money out of someone",
+            "es": "extorsionar dinero, sacarle dinero a alguien",
+            "id": "memeras uang",
+            "jp": "金を巻き上げる、金をゆする",
+            "vi": "moi tiền, tống tiền"
           }
         }
       ],
       "section_num": 3,
       "cultural_note": {
-        "en": "\"Can't you tell just by looking?\" is an expression often used to emphasize excellence to the point where the other person can recognize it just by seeing, without needing verbal or behavioral explanations.",
-        "es": "\"¿No te das cuenta con solo mirar?\" es una expresión que se usa a menudo para enfatizar la excelencia hasta el punto de que la otra persona puede reconocerla con solo verla, sin necesidad de explicaciones verbales o de comportamiento.",
-        "id": "\"Tidak bisakah kamu tahu hanya dengan melihat?\" adalah ungkapan yang sering digunakan untuk menekankan keunggulan sedemikian rupa sehingga orang lain dapat mengenalinya hanya dengan melihat, tanpa perlu penjelasan lisan atau tindakan.",
-        "jp": "「見れば分からない？」は、相手に言葉や行為で説明しなくても、見るだけで察することができるほど卓越していることを強調する際によく使われる表現です。",
-        "ko": "\"딱 보면 모르겠어?\" 상대에게 말이나 행위로 설명을 하지 않아도 보기만 해도 알아챌 수 있을 만큼 탁월함을 강조할 때 자주 쓰이는 표현입니다.",
-        "vi": "\"Không nhìn là không biết sao?\" là một cách diễn đạt thường dùng để nhấn mạnh sự xuất sắc đến mức người khác có thể nhận ra chỉ bằng cách nhìn, mà không cần giải thích bằng lời nói hay hành động."
+        "en": "This expression criticizes a form of hypocritical and despicable school violence where someone appears to be a model student on the surface but repeatedly extorts money from weaker individuals (mainly younger students or juniors) behind the scenes.",
+        "es": "Esta expresión critica una forma de violencia escolar hipócrita y despreciable en la que alguien se presenta como un estudiante ejemplar en la superficie, pero a sus espaldas extorsiona dinero repetidamente a individuos más débiles (principalmente estudiantes más jóvenes o de menor rango).",
+        "id": "Ungkapan ini mengkritik bentuk kekerasan sekolah yang munafik dan keji di mana seseorang tampak seperti siswa teladan di permukaan, tetapi di balik itu berulang kali memeras uang dari individu yang lebih lemah (terutama siswa yang lebih muda atau junior).",
+        "jp": "これは、表向きは模範的な姿を見せながら、裏では弱者（主に年下の生徒や後輩）から繰り返し金銭を搾取する、偽善的で卑劣な学校暴力の一形態を批判する表現です。",
+        "ko": "이는 겉으로는 모범적인 모습을 보이지만 뒤로는 약자(주로 어린 학생들이나 후배들)의 돈을 반복적으로 갈취하는, 위선적이고 비열한 학교 폭력의 한 형태를 비판하는 표현입니다.",
+        "vi": "Cách diễn đạt này chỉ trích một hình thức bạo lực học đường đạo đức giả và đáng khinh, nơi một người thể hiện mình là học sinh gương mẫu bên ngoài nhưng lại liên tục tống tiền những cá nhân yếu hơn (chủ yếu là học sinh nhỏ tuổi hơn hoặc đàn em) một cách lén lút."
+      }
+    },
+    {
+      "scripts": {
+        "en": "You're not useless. At least not to me. How far can you go for me?",
+        "es": "No eres inútil. Al menos para mí no. ¿Hasta dónde puedes llegar por mí?",
+        "id": "Kamu tidak tidak berguna. Setidaknya bagiku. Sejauh mana kamu bisa melakukan sesuatu untukku?",
+        "jp": "君は無用じゃない。少なくとも私にとってはね。私のためにどこまでできるの？",
+        "ko": "너 쓸모 없지 않아. 적어도 나한테는. 넌 날 위해 어디까지 해줄 수 있어?",
+        "vi": "Bạn không vô dụng đâu. Ít nhất là đối với tôi. Bạn có thể làm được gì cho tôi?"
+      },
+      "end_time": 48.0,
+      "start_time": 41.2,
+      "vocabulary": [
+        {
+          "word": "쓸모없다",
+          "meanings": {
+            "en": "to be useless, worthless",
+            "es": "ser inútil, inservible",
+            "id": "tidak berguna",
+            "jp": "役に立たない、無駄だ",
+            "vi": "vô dụng"
+          }
+        },
+        {
+          "word": "적어도",
+          "meanings": {
+            "en": "at least",
+            "es": "al menos",
+            "id": "setidaknya",
+            "jp": "少なくとも",
+            "vi": "ít nhất"
+          }
+        },
+        {
+          "word": "어디까지",
+          "meanings": {
+            "en": "how far, to what extent",
+            "es": "hasta dónde, hasta qué punto",
+            "id": "sejauh mana",
+            "jp": "どこまで、どの程度まで",
+            "vi": "đến đâu, đến mức nào"
+          }
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "This is a question that tests the loyalty and dedication of the other person, emotionally pressuring them for a specific purpose. It's a line spoken by the female lead to manipulate a male character's affection for her own ends.",
+        "es": "Esta es una pregunta que pone a prueba la lealtad y dedicación de la otra persona, presionándola emocionalmente para un propósito específico. Es una frase dicha por la protagonista femenina para manipular el afecto del personaje masculino para sus propios fines.",
+        "id": "Ini adalah pertanyaan yang menguji kesetiaan dan dedikasi orang lain, menekan mereka secara emosional untuk tujuan tertentu. Ini adalah dialog yang diucapkan oleh pemeran utama wanita untuk memanfaatkan kasih sayang pemeran pria demi tujuannya sendiri.",
+        "jp": "相手の忠誠心と献身を試み、特定の目的のために感情的に圧迫する質問です。女性主人公が相手の男性の好意を利用するために言ったセリフです。",
+        "ko": "상대방의 충성심과 헌신을 시험하며, 특정 목적을 위해 감정적으로 압박하는 질문입니다. 여주인공이 상대 남성의 호감을 이용하기 위해 내뱉은 대사입니다.",
+        "vi": "Đây là một câu hỏi nhằm kiểm tra lòng trung thành và sự cống hiến của đối phương, gây áp lực về mặt cảm xúc để đạt được một mục đích cụ thể. Đây là lời thoại của nữ chính nhằm lợi dụng tình cảm của nam nhân vật."
       }
     }
   ]

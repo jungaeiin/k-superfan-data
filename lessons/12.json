@@ -2,354 +2,270 @@
   "quiz": {
     "options": [
       {
-        "en": "King",
-        "es": "Rey",
-        "id": "Raja",
-        "jp": "王",
-        "ko": "왕",
-        "vi": "Vua"
+        "en": "The speaker intends to admit their guilt and seek redemption.",
+        "es": "El hablante tiene la intención de admitir su culpa y buscar la redención.",
+        "id": "Pembicara bermaksud mengakui kesalahannya dan mencari penebusan.",
+        "jp": "話し手が自身の罪を認め、贖罪しようとしている意図があります。",
+        "ko": "화자가 자신의 죄를 인정하고 속죄하려는 의도가 있습니다.",
+        "vi": "Người nói có ý định thừa nhận tội lỗi của mình và tìm kiếm sự chuộc lỗi."
       },
       {
-        "en": "Prince Nosan",
-        "es": "Príncipe Nosan",
-        "id": "Pangeran Nosan",
-        "jp": "魯山君",
-        "ko": "노상군",
-        "vi": "Lỗ Sơn Quân"
+        "en": "The speaker is trying to prevent the protagonist from revealing a secret.",
+        "es": "El hablante está intentando evitar que el protagonista revele un secreto.",
+        "id": "Pembicara berusaha mencegah protagonis mengungkapkan rahasia.",
+        "jp": "話し手は主人公が秘密を漏らすのを防ごうとしています。",
+        "ko": "화자는 주인공이 비밀을 폭로하는 것을 막으려 합니다.",
+        "vi": "Người nói đang cố gắng ngăn chặn nhân vật chính tiết lộ một bí mật."
       },
       {
-        "en": "Nobleman",
-        "es": "Noble",
-        "id": "Bangsawan",
-        "jp": "両班",
-        "ko": "양반",
-        "vi": "Quý tộc"
+        "en": "The speaker shows they possess significant power or influence to resolve difficult situations.",
+        "es": "El hablante demuestra que posee un poder o influencia significativos para resolver situaciones difíciles.",
+        "id": "Pembicara menunjukkan bahwa mereka memiliki kekuatan atau pengaruh signifikan untuk menyelesaikan situasi sulit.",
+        "jp": "話し手は、困難な状況を解決できるかなりの権力や影響力を持っていることを示しています。",
+        "ko": "화자는 어려운 상황을 해결할 수 있는 상당한 권력이나 영향력을 가지고 있음을 보여줍니다.",
+        "vi": "Người nói cho thấy họ sở hữu quyền lực hoặc ảnh hưởng đáng kể để giải quyết các tình huống khó khăn."
       },
       {
-        "en": "Monarch",
-        "es": "Monarca",
-        "id": "Raja",
-        "jp": "君主",
-        "ko": "임금",
-        "vi": "Quân chủ"
+        "en": "The speaker is simply advising the protagonist to forget the past.",
+        "es": "El hablante simplemente está aconsejando al protagonista que olvide el pasado.",
+        "id": "Pembicara hanya menasihati protagonis untuk melupakan masa lalu.",
+        "jp": "話し手は単に主人公に過去を忘れるよう助言しているだけです。",
+        "ko": "화자는 단순히 주인공에게 과거를 잊으라고 조언하는 것입니다.",
+        "vi": "Người nói chỉ đơn thuần khuyên nhân vật chính quên đi quá khứ."
       }
     ],
     "question": {
-      "en": "In the trailer, what was the former king's title in exile?",
-      "es": "En el tráiler, ¿cuál era el título del ex rey en el exilio?",
-      "id": "Dalam trailer, apa gelar mantan raja di pengasingan?",
-      "jp": "予告編で、廃位された王が流刑地で呼ばれていた称号は何でしたか？",
-      "ko": "예고편에서, 폐위된 왕이 유배지에서 불린 칭호는 무엇이었나요?",
-      "vi": "Trong trailer, tước hiệu của vị vua bị phế truất khi bị lưu đày là gì?"
+      "en": "In the context of the dialogue, what does the phrase \"없던 일로 만들어 드리겠습니다\" (I will make it as if nothing ever happened) primarily suggest about the speaker's role or intention?",
+      "es": "En el contexto del diálogo, ¿qué sugiere principalmente la frase \"없던 일로 만들어 드리겠습니다\" (Haré que sea como si nada hubiera pasado) sobre el rol o la intención del hablante?",
+      "id": "Dalam konteks dialog, apa yang terutama diisyaratkan oleh frasa \"없던 일로 만들어 드리겠습니다\" (Saya akan membuat seolah-olah tidak ada yang pernah terjadi) mengenai peran atau niat pembicara?",
+      "jp": "会話の流れから、「없던 일로 만들어 드리겠습니다」（なかったことにして差し上げます）という言葉は、話し手の役割や意図について主に何を暗示していますか？",
+      "ko": "대화의 흐름상 \"없던 일로 만들어 드리겠습니다\"라는 말은 화자의 역할이나 의도에 대해 주로 무엇을 암시합니까?",
+      "vi": "Trong bối cảnh đoạn hội thoại, câu \"없던 일로 만들어 드리겠습니다\" (Tôi sẽ khiến mọi chuyện trở thành như chưa từng xảy ra) chủ yếu gợi ý điều gì về vai trò hoặc ý định của người nói?"
     },
-    "answer_index": 1
+    "answer_index": 2
   },
   "metadata": {
     "titles": {
-      "en": "The King's Warden (2026)",
-      "es": "El Hombre que Vive con el Rey",
-      "id": "Pria yang Hidup Bersama Raja",
-      "jp": "王と生きる男",
-      "ko": "왕과 사는 남자",
-      "vi": "Người Đàn Ông Sống Cùng Vua"
+      "en": "The Manipulated (2025)",
+      "es": "Manipulado (2025)",
+      "id": "The Manipulated (2025)",
+      "jp": "捏造された都市 (2025)",
+      "ko": "조각 도시 | 메인 예고편 ",
+      "vi": "Trò Chơi Thao Túng (2025)"
     },
-    "thumbnail": "https://img.youtube.com/vi/9sxEZuJskvM/hqdefault.jpg",
     "categories": {
-      "en": "Historical Drama",
-      "es": "Drama Histórico",
-      "id": "Drama Sejarah",
-      "jp": "時代劇",
-      "ko": "사극",
-      "vi": "Phim cổ trang"
+      "en": "Drama, Thriller, Crime",
+      "es": "Drama, Thriller, Crimen",
+      "id": "Drama, Thriller, Kriminal",
+      "jp": "ドラマ、スリラー、犯罪",
+      "ko": "드라마, 스릴러, 범죄",
+      "vi": "Phim truyền hình, Kinh dị, Tội phạm"
     },
-    "difficulty": 2,
-    "youtube_id": "9sxEZuJskvM",
-    "youtube_url": "https://www.youtube.com/watch?v=9sxEZuJskvM"
+    "difficulty": 1,
+    "youtube_id": "Euq5LsZUuWg",
+    "youtube_url": "https://youtu.be/Euq5LsZUuWg"
   },
   "learning_sections": [
     {
       "scripts": {
-        "en": "Haven't you heard of Cheongnyeongpo, located deep within Gwangcheon Valley? In winter, cold air descends from the riverside, and a biting chill comes down from the cliffs.",
-        "es": "¿No ha oído hablar de Cheongnyeongpo, situado en lo profundo del Valle de Gwangcheon? En invierno, el aire frío desciende de la orilla del río y un frío penetrante baja de los acantilados.",
-        "id": "Pernahkah Anda mendengar tentang Cheongnyeongpo, yang terletak jauh di dalam Lembah Gwangcheon? Saat musim dingin, udara dingin turun dari tepi sungai dan hawa dingin yang menusuk datang dari tebing.",
-        "jp": "光川谷の奥に位置する清冷浦って、聞いたことありませんか？冬には、川辺からは冷気、崖からは寒気が降りてくるんですよ。",
-        "ko": "광천골 안쪽에 위치한 청령포라고 들어보셨습니까? \n겨울에는 강가에서 냉기가 절벽에선 한기가 내려오는 거야.",
-        "vi": "Bạn chưa từng nghe nói về Cheongnyeongpo, nơi nằm sâu trong Thung lũng Gwangcheon sao? Vào mùa đông, hơi lạnh từ bờ sông và cái rét buốt từ vách đá tràn xuống."
+        "en": "Suddenly, they're calling you a murderer. It wasn't me!",
+        "es": "De repente, te están llamando asesino. ¡No fui yo!",
+        "id": "Tiba-tiba, mereka memanggilmu pembunuh. Bukan aku!",
+        "jp": "突然、お前を殺人犯だって。私じゃない！",
+        "ko": "갑자기 너 보고 살인범이래. 나 아니야!",
+        "vi": "Đột nhiên, họ gọi cậu là kẻ sát nhân. Không phải tôi!"
       },
-      "end_time": 12.679,
-      "start_time": 0.28,
+      "end_time": 10.9,
+      "start_time": 6.0,
       "vocabulary": [
         {
-          "word": "위치하다",
+          "word": "갑자기",
           "meanings": {
-            "en": "to be located",
-            "es": "estar ubicado",
-            "id": "terletak",
-            "jp": "位置する",
-            "vi": "tọa lạc"
+            "en": "suddenly",
+            "es": "de repente",
+            "id": "tiba-tiba",
+            "jp": "突然",
+            "vi": "đột nhiên"
           }
         },
         {
-          "word": "냉기",
+          "word": "살인범",
           "meanings": {
-            "en": "cold air, chill",
-            "es": "aire frío",
-            "id": "udara dingin",
-            "jp": "冷気",
-            "vi": "khí lạnh"
-          }
-        },
-        {
-          "word": "절벽",
-          "meanings": {
-            "en": "cliff",
-            "es": "acantilado",
-            "id": "tebing",
-            "jp": "崖",
-            "vi": "vách đá"
+            "en": "murderer",
+            "es": "asesino",
+            "id": "pembunuh",
+            "jp": "殺人犯",
+            "vi": "kẻ sát nhân"
           }
         }
       ],
       "section_num": 1,
       "cultural_note": {
-        "en": "Cheongnyeongpo is a real place in Yeongwol, famous as the exile site of King Danjong, the 6th king of the Joseon Dynasty. It's surrounded by a river on three sides and a steep cliff on one, making it a natural prison.",
-        "es": "Cheongnyeongpo es un lugar real en Yeongwol, famoso por ser el sitio de exilio del Rey Danjong, el sexto rey de la Dinastía Joseon. Está rodeado por un río en tres lados y un acantilado escarpado en el otro, lo que lo convierte en una prisión natural.",
-        "id": "Cheongnyeongpo adalah tempat nyata di Yeongwol, terkenal sebagai situs pengasingan Raja Danjong, raja ke-6 Dinasti Joseon. Dikelilingi oleh sungai di tiga sisi dan tebing curam di satu sisi, menjadikannya penjara alami.",
-        "jp": "チョンニョンポは、朝鮮第6代王である端宗（タンジョン）の流刑地として有名なヨンウォルにある実在の場所です。三方が川に囲まれ、一方は険しい崖になっており、自然の監獄のような場所でした。",
-        "ko": "청령포는 조선 제6대 왕인 단종의 유배지로 유명한 영월의 실제 장소입니다. 삼면이 강으로 둘러싸여 있고 한쪽은 험준한 절벽으로 되어 있어 자연 감옥과 같은 곳이었습니다.",
-        "vi": "Cheongnyeongpo là một địa danh có thật ở Yeongwol, nổi tiếng là nơi lưu đày của vua Danjong, vị vua thứ 6 của triều đại Joseon. Nơi này được bao bọc bởi sông ở ba mặt và một vách đá dựng đứng, khiến nó trở thành một nhà tù tự nhiên."
+        "en": "Here, '보고 (bogo)' is an expression used when referring to someone and saying something specific about them, meaning 'they call you a murderer'.",
+        "es": "Aquí, '보고 (bogo)' es una expresión utilizada para referirse a alguien y decir algo específico sobre esa persona, lo que significa 'te llaman asesino'.",
+        "id": "Di sini, '보고 (bogo)' adalah ungkapan yang digunakan saat merujuk pada seseorang dan mengatakan sesuatu yang spesifik tentangnya, artinya 'mereka memanggilmu pembunuh'.",
+        "jp": "ここで『보고 (bogo)』は、誰かを指して特定の内容を話すときに使う表現で、『お前を殺人犯だと呼ぶ』という意味です。",
+        "ko": "여기서 '보고'는 누군가를 지칭하여 특정 내용으로 말할 때 사용하는 표현으로, '너를 살인범이라고 한다'는 의미입니다.",
+        "vi": "Ở đây, '보고 (bogo)' là một cách diễn đạt được dùng khi chỉ định ai đó và nói điều gì đó cụ thể về họ, nghĩa là 'họ gọi bạn là kẻ sát nhân'."
       }
     },
     {
       "scripts": {
-        "en": "So, you're saying this is the optimal place of exile.\nI designate this place as the place of exile.",
-        "es": "Bueno, ¿dices que este es el lugar de exilio óptimo?\nDesigno este lugar como el lugar de exilio.",
-        "id": "Jadi, maksud Anda ini adalah tempat pengasingan yang optimal.\nSaya menetapkan tempat ini sebagai tempat pengasingan.",
-        "jp": "さて、最適な流刑地だということですね。\nここを流刑地に指定する。",
-        "ko": "- 자, 최적의 유배지란 말씀\n- 이곳을 유배지로 지정한다.",
-        "vi": "Vậy, ý anh là đây là nơi lưu đày tối ưu nhất.\nTôi chỉ định nơi này làm nơi lưu đày."
+        "en": "If someone is really unjustly accused, they must get eyes like that. I have something to do from now on.",
+        "es": "Si alguien es muy injustamente acusado, seguro que tiene esos ojos. De ahora en adelante, tengo algo que hacer.",
+        "id": "Jika seseorang benar-benar merasa sangat tidak adil, matanya mungkin akan menjadi seperti itu. Mulai sekarang, ada sesuatu yang harus kulakukan.",
+        "jp": "人がマジで悔しいと思ったら、あんな目つきになるんだろうな。これからやることができました。",
+        "ko": "사람이 X나 억울하면 저런 눈깔이 되나 보다. 앞으로 할 일이 생겼습니다.",
+        "vi": "Nếu ai đó thực sự bị oan ức, chắc họ sẽ có ánh mắt như vậy. Từ giờ tôi có việc phải làm rồi."
       },
-      "end_time": 20.119,
-      "start_time": 12.799,
+      "end_time": 22.5,
+      "start_time": 15.5,
       "vocabulary": [
         {
-          "word": "유배지",
+          "word": "억울하다",
           "meanings": {
-            "en": "place of exile",
-            "es": "lugar de exilio",
-            "id": "tempat pengasingan",
-            "jp": "流刑地",
-            "vi": "nơi lưu đày"
+            "en": "to be unjustly accused/wronged; to feel wronged",
+            "es": "ser injustamente acusado/agraviado; sentirse agraviado",
+            "id": "tidak adil, merasa dirugikan",
+            "jp": "悔しい、不当だ",
+            "vi": "oan ức, bất công"
           }
         },
         {
-          "word": "이곳",
+          "word": "눈깔",
           "meanings": {
-            "en": "this place",
-            "es": "este lugar",
-            "id": "tempat ini",
-            "jp": "ここ",
-            "vi": "nơi này"
+            "en": "(derogatory) eyes; eyeballs (referring to a hostile or fierce gaze)",
+            "es": "ojos (despectivo); globos oculares (refiriéndose a una mirada hostil o feroz)",
+            "id": "mata (merendahkan); tatapan marah",
+            "jp": "目つき (軽蔑的)",
+            "vi": "ánh mắt (khinh miệt)"
           }
         },
         {
-          "word": "시정한다",
+          "word": "생기다",
           "meanings": {
-            "en": "to designate (likely a typo of 지정한다)",
-            "es": "designar (probablemente un error tipográfico de 지정한다)",
-            "id": "menetapkan (kemungkinan salah ketik dari 지정한다)",
-            "jp": "指定する (恐らく 지정한다 の誤記)",
-            "vi": "chỉ định (có thể là lỗi đánh máy của 지정한다)"
+            "en": "to arise, to happen, to be created",
+            "es": "surgir, ocurrir, crearse",
+            "id": "muncul, terjadi",
+            "jp": "生じる、できる",
+            "vi": "phát sinh, có"
           }
         }
       ],
       "section_num": 2,
       "cultural_note": {
-        "en": "Yubae (exile) was a common punishment for aristocrats and royalty during the Joseon Dynasty. It meant banishing them to a remote location. The first line, '자 해적에 유배지 안 말', is likely a transcription error for something like '이 적소에 유배지란 말' (This remote place of exile...).",
-        "es": "El Yubae (exilio) era un castigo común para los aristócratas y la realeza durante la Dinastía Joseon. Significaba desterrarlos a un lugar remoto. La primera línea, '자 해적에 유배지 안 말', es probablemente un error de transcripción de algo como '이 적소에 유배지란 말' (Este remoto lugar de exilio...).",
-        "id": "Yubae (pengasingan) adalah hukuman umum bagi bangsawan dan keluarga kerajaan selama Dinasti Joseon. Itu berarti mengasingkan mereka ke lokasi terpencil. Baris pertama, '자 해적에 유배지 안 말', kemungkinan besar merupakan kesalahan transkripsi untuk sesuatu seperti '이 적소에 유배지란 말' (Tempat pengasingan terpencil ini...).",
-        "jp": "流配（ユベ）は、朝鮮時代の王族や両班（ヤンバン）に下された一般的な刑罰でした。罪人を遠く離れた場所に送ることを意味しました。最初のセリフ「자 해적에 유배지 안 말」は、「이 적소에 유배지란 말」（この僻地の流刑地というもの）の転写エラーの可能性が高いです。",
-        "ko": "유배는 조선시대 왕족이나 양반들에게 내려지던 흔한 형벌이었습니다. 죄인을 멀리 떨어진 외딴곳으로 보내 격리하는 것을 의미했습니다. 첫 번째 대사 '자 해적에 유배지 안 말'은 '이 적소에 유배지란 말'의 오타일 가능성이 높습니다.",
-        "vi": "Lưu đày (Yubae) là một hình phạt phổ biến đối với tầng lớp quý tộc và hoàng gia trong triều đại Joseon. Nó có nghĩa là đày họ đến một địa điểm xa xôi, hẻo lánh. Dòng đầu tiên, '자 해적에 유배지 안 말', có khả năng là lỗi ghi chép của một câu như '이 적소에 유배지란 말' (Nơi lưu đày hẻo lánh này...)."
+        "en": "\"X나 (X-na)\" is a variation of \"존나 (jon-na)\", a vulgar slang term expressing very strong emotions. \"눈깔 (nun-kkal)\" is a derogatory term for a person's eyes, metaphorically describing a situation where one's gaze has become fierce due to extreme anger or a feeling of being wronged.",
+        "es": "«X나 (X-na)» es una variación de «존나 (jon-na)», un término de jerga vulgar que expresa emociones muy fuertes. «눈깔 (nun-kkal)» es un término despectivo para los ojos de una persona, que describe metafóricamente una situación en la que la mirada de alguien se ha vuelto feroz debido a la ira extrema o a un sentimiento de agravio.",
+        "id": "\"X나 (X-na)\" adalah variasi dari \"존나 (jon-na)\", sebuah istilah slang vulgar yang mengekspresikan emosi yang sangat kuat. \"눈깔 (nun-kkal)\" adalah istilah merendahkan untuk mata seseorang, secara metaforis menggambarkan situasi di mana pandangan seseorang menjadi galak karena kemarahan ekstrem atau perasaan tidak adil.",
+        "jp": "「『X나 (X-na)』は『존나 (jon-na)』の変形語で、非常に強い感情を俗っぽく表現するスラングです。『눈깔 (nun-kkal)』は人の目を軽蔑して呼ぶ言葉で、極度の怒りや悔しさによって目つきが険悪に変わった状況を比喩的に描写します。」",
+        "ko": "\"X나\"는 \"존나\"의 변형으로, 매우 강한 감정을 속되게 표현하는 비속어입니다. \"눈깔\"은 사람의 눈을 낮잡아 이르는 말로, 극심한 분노나 억울함으로 인해 눈빛이 험악하게 변한 상황을 비유적으로 묘사합니다.",
+        "vi": "\"X나 (X-na)\" là một biến thể của \"존나 (jon-na)\", một từ lóng thô tục thể hiện cảm xúc rất mạnh. \"눈깔 (nun-kkal)\" là từ miệt thị dùng để chỉ đôi mắt của một người, mô tả một cách ẩn dụ tình huống mà ánh mắt trở nên dữ tợn do tức giận tột độ hoặc cảm giác bị oan ức."
       }
     },
     {
       "scripts": {
-        "en": "Do you know who the exiled noble is? It's Prince Nosan, Yi Yong. He was the king of this country until just recently.",
-        "es": "¿Sabe quién es el noble exiliado? Es Nosangun Yi Yong. Fue el rey de este país hasta hace poco.",
-        "id": "Apakah Anda tahu siapa bangsawan yang diasingkan itu? Dia adalah Pangeran Nosan, Yi Yong. Beliau adalah raja negara ini sampai baru-baru ini.",
-        "jp": "追放された両班が誰かご存知ですか？魯山君李鏞です。少し前までこの国の王だった人ですよ。",
-        "ko": "- 귀양온 양반이 누군지 아십니까?\n- 노산군 이용휘에요. \n얼마 전까지이 나라의 왕이었던 사람이요.",
-        "vi": "Bạn có biết vị quý tộc bị lưu đày là ai không? Đó là Nosangun Yi Yong. Ông ấy là người từng là vua của đất nước này cho đến gần đây."
+        "en": "Introducing CEO Ahn Yo-han. I will make it as if nothing ever happened from the beginning.",
+        "es": "Presentamos al CEO Ahn Yo-han. Haré que sea como si nada hubiera pasado desde el principio.",
+        "id": "Memperkenalkan CEO Ahn Yo-han. Saya akan membuat seolah-olah tidak ada yang pernah terjadi sejak awal.",
+        "jp": "アン・ヨハン代表をご紹介します。最初からなかったことにして差し上げます。",
+        "ko": "안요한 대표님을 소개합니다. 처음부터 없던 일로 만들어 드리겠습니다.",
+        "vi": "Xin giới thiệu Giám đốc Ahn Yo-han. Tôi sẽ khiến mọi chuyện trở thành như chưa từng xảy ra ngay từ đầu."
       },
-      "end_time": 46.879,
-      "start_time": 33.32,
+      "end_time": 30.2,
+      "start_time": 25.1,
       "vocabulary": [
         {
-          "word": "귀양",
+          "word": "대표님",
           "meanings": {
-            "en": "exile",
-            "es": "exilio",
-            "id": "pengasingan",
-            "jp": "流刑",
-            "vi": "lưu đày"
+            "en": "CEO, representative (formal/honorific)",
+            "es": "CEO, representante (formal/honorífico)",
+            "id": "CEO, perwakilan (formal/hormat)",
+            "jp": "代表様",
+            "vi": "Giám đốc, đại diện (kính trọng)"
           }
         },
         {
-          "word": "양반",
+          "word": "소개하다",
           "meanings": {
-            "en": "nobleman, aristocrat",
-            "es": "noble, aristócrata",
-            "id": "bangsawan",
-            "jp": "両班",
-            "vi": "quý tộc"
+            "en": "to introduce",
+            "es": "presentar",
+            "id": "memperkenalkan",
+            "jp": "紹介する",
+            "vi": "giới thiệu"
           }
         },
         {
-          "word": "노상군",
+          "word": "없던 일로 만들다",
           "meanings": {
-            "en": "Prince Nosan",
-            "es": "Príncipe Nosan",
-            "id": "Pangeran Nosan",
-            "jp": "魯山君",
-            "vi": "Lỗ Sơn Quân"
-          }
-        },
-        {
-          "word": "왕",
-          "meanings": {
-            "en": "king",
-            "es": "rey",
-            "id": "raja",
-            "jp": "王",
-            "vi": "vua"
+            "en": "to make something as if it never happened; to undo an event",
+            "es": "hacer como si nunca hubiera pasado; anular un evento",
+            "id": "membuat seolah-olah tidak pernah terjadi; membatalkan suatu peristiwa",
+            "jp": "なかったことにする",
+            "vi": "làm cho như chưa từng xảy ra"
           }
         }
       ],
       "section_num": 3,
       "cultural_note": {
-        "en": "Nosangun is the title King Danjong was demoted to after his throne was usurped by his uncle, Sejo. Referring to a deposed king as 'gun' instead of 'wang' (king) was a significant political act demonstrating the stripping of his status.",
-        "es": "Nosangun es el título al que el Rey Danjong fue degradado después de que su trono fuera usurpado por su tío, Sejo. Llamar a un rey depuesto 'gun' en lugar de 'wang' (rey) fue un acto político importante que demostró que su estatus había sido despojado.",
-        "id": "Nosangun adalah gelar yang diturunkan kepada Raja Danjong setelah takhtanya direbut oleh pamannya, Sejo. Memanggil raja yang digulingkan dengan 'gun' alih-alih 'wang' (raja) adalah tindakan politik penting yang menunjukkan bahwa statusnya telah dicopot.",
-        "jp": "魯山君（ノサングン）は、端宗（タンジョン）が叔父である世祖（セジョ）に王位を奪われた後、降格された称号です。廃位された王を王ではなく「君」と呼ぶことは、彼の地位が剥奪されたことを示す重要な政治的行為でした。",
-        "ko": "노산군은 단종이 삼촌인 세조에게 왕위를 빼앗긴 후 강등된 칭호입니다. 폐위된 왕을 왕이 아닌 군으로 부르는 것은 그의 지위가 박탈되었음을 보여주는 중요한 정치적 행위였습니다.",
-        "vi": "Lỗ Sơn Quân (Nosangun) là tước hiệu mà vua Danjong bị giáng cấp sau khi ngai vàng bị chú của mình là Sejo chiếm đoạt. Việc gọi một vị vua bị phế truất là 'quân' thay vì 'vương' (vua) là một hành động chính trị quan trọng cho thấy địa vị của ông đã bị tước bỏ."
+        "en": "\"없던 일로 만들다 (eop-deon il-lo man-deulda)\" means to resolve an already occurred problem or mistake as if it never happened, used in situations of granting a great favor or exempting someone from responsibility.",
+        "es": "«없던 일로 만들다 (eop-deon il-lo man-deulda)» significa resolver un problema o error ya ocurrido como si nunca hubiera pasado, utilizado en situaciones de conceder un gran favor o eximir a alguien de responsabilidad.",
+        "id": "\"없던 일로 만들다 (eop-deon il-lo man-deulda)\" berarti menyelesaikan masalah atau kesalahan yang sudah terjadi seolah-olah tidak pernah terjadi, digunakan dalam situasi memberikan bantuan besar atau membebaskan seseorang dari tanggung jawab.",
+        "jp": "「『없던 일로 만들다 (eop-deon il-lo man-deulda)』は、すでに発生した問題や間違いをまるでなかったかのように処理するという意味で、相手に大きな恩恵を与えたり、責任を免除したりする状況で使用されます。」",
+        "ko": "\"없던 일로 만들다\"는 이미 발생한 문제나 실수를 아예 없었던 것처럼 처리해주겠다는 의미로, 상대방에게 큰 호의를 베풀거나 책임을 면제해 주는 상황에서 사용됩니다.",
+        "vi": "\"없던 일로 만들다 (eop-deon il-lo man-deulda)\" có nghĩa là giải quyết một vấn đề hoặc lỗi lầm đã xảy ra như thể nó chưa bao giờ xảy ra, được sử dụng trong các tình huống ban ơn lớn hoặc miễn trừ trách nhiệm cho ai đó."
       }
     },
     {
       "scripts": {
-        "en": ">> Those who communicate with Nosan must die.\n>> How dare that wretch insult the royal family?\nMarch out!",
-        "es": ">> Aquellos que se comuniquen con Nosan deben morir.\n>> ¿Cómo se atreve ese miserable a insultar a la familia real?\n¡En marcha!",
-        "id": ">> Mereka yang berkomunikasi dengan Nosan harus mati.\n>> Beraninya bajingan itu menghina keluarga kerajaan?\nBerangkat!",
-        "jp": ">> 魯山と通じる者は死なねばならぬ。\n>> あの者が王族を侮辱するのか？\n出陣せよ！",
-        "ko": "- 노산과 통하는 자는 죽어야 한다.\n- 네 놈이 감히 왕족을 능멸하는가?\n- 출정하라.",
-        "vi": ">> Kẻ nào giao du với Lỗ Sơn phải chết.\n>> Tên khốn đó dám khinh miệt hoàng tộc sao?\nXuất chinh!"
+        "en": "I will prove that I am innocent. You, surely not...",
+        "es": "Probaré que soy inocente. Tú, ¿seguro que no...?",
+        "id": "Aku akan membuktikan bahwa aku tidak bersalah. Kamu, jangan-jangan...",
+        "jp": "私が罪がないことを私が証明します。お前、まさか…",
+        "ko": "내가 죄 없다는 것을 내가 증명하겠습니다. 너 설마...",
+        "vi": "Tôi sẽ chứng minh rằng tôi vô tội. Cậu, lẽ nào..."
       },
-      "end_time": 53.6,
-      "start_time": 42.039,
+      "end_time": 45.0,
+      "start_time": 40.2,
       "vocabulary": [
         {
-          "word": "통하다",
+          "word": "죄",
           "meanings": {
-            "en": "to communicate with",
-            "es": "comunicarse con",
-            "id": "berkomunikasi dengan",
-            "jp": "通じる",
-            "vi": "giao du"
+            "en": "sin, crime, guilt",
+            "es": "pecado, crimen, culpa",
+            "id": "dosa, kejahatan, rasa bersalah",
+            "jp": "罪",
+            "vi": "tội lỗi, tội ác"
           }
         },
         {
-          "word": "왕족",
+          "word": "증명하다",
           "meanings": {
-            "en": "royal family",
-            "es": "familia real",
-            "id": "keluarga kerajaan",
-            "jp": "王族",
-            "vi": "hoàng tộc"
+            "en": "to prove, to certify",
+            "es": "probar, certificar",
+            "id": "membuktikan, mengesahkan",
+            "jp": "証明する",
+            "vi": "chứng minh"
           }
         },
         {
-          "word": "능멸하다",
+          "word": "설마",
           "meanings": {
-            "en": "to disdain, insult",
-            "es": "desdeñar, insultar",
-            "id": "menghina",
-            "jp": "侮辱する",
-            "vi": "khinh miệt"
-          }
-        },
-        {
-          "word": "출정하다",
-          "meanings": {
-            "en": "to march out for battle",
-            "es": "marchar a la batalla",
-            "id": "berangkat untuk bertempur",
-            "jp": "出陣する",
-            "vi": "xuất chinh"
+            "en": "no way, surely not, you don't mean (expression of disbelief or shock)",
+            "es": "no puede ser, de ninguna manera, ¿seguro que no...? (expresión de incredulidad o shock)",
+            "id": "tidak mungkin, jangan-jangan (ungkapan ketidakpercayaan atau kejutan)",
+            "jp": "まさか",
+            "vi": "lẽ nào, chắc không"
           }
         }
       ],
       "section_num": 4,
       "cultural_note": {
-        "en": "Associating with a deposed monarch was considered high treason and was punishable by death, not only for the individual but often for their entire family. The word '놈' (nom) is a derogatory term used to express extreme contempt for someone.",
-        "es": "Asociarse con un monarca depuesto se consideraba alta traición y se castigaba con la muerte, no solo para el individuo sino a menudo para toda su familia. La palabra '놈' (nom) es un término despectivo que se usa para expresar un desprecio extremo por alguien.",
-        "id": "Bergaul dengan raja yang digulingkan dianggap sebagai pengkhianatan tingkat tinggi dan dapat dihukum mati, tidak hanya bagi individu tersebut tetapi seringkali seluruh keluarganya. Kata '놈' (nom) adalah istilah yang menghina yang digunakan untuk mengungkapkan penghinaan yang ekstrem terhadap seseorang.",
-        "jp": "廃位された君主と交流することは大逆罪と見なされ、本人だけでなくその家族全員が死刑に処される可能性がありました。「놈（ノム）」という言葉は、相手を非常に見下す軽蔑的な表現です。",
-        "ko": "폐위된 군주와 교류하는 것은 반역죄로 간주되어 당사자뿐만 아니라 그 가족까지 사형에 처해질 수 있었습니다. '놈'이라는 단어는 상대를 매우 얕잡아보는 경멸적인 표현입니다.",
-        "vi": "Giao du với một vị vua đã bị phế truất được coi là tội phản quốc và có thể bị xử tử, không chỉ cá nhân mà thường là cả gia đình họ. Từ '놈' (nom) là một thuật ngữ miệt thị được sử dụng để thể hiện sự khinh bỉ tột độ đối với ai đó."
-      }
-    },
-    {
-      "scripts": {
-        "en": "I no longer want to believe in the people I cherished and loved because of me.",
-        "es": "Ya no quiero creer en las personas que apreciaba y amaba por mi culpa.",
-        "id": "Aku tidak ingin lagi percaya pada orang-orang yang kusayangi dan kucintai karena aku.",
-        "jp": "これ以上私のせいで、私が大切にし、愛していた人々を信じたくない。",
-        "ko": "더 이상 나로 인해 내가 아끼고\n사랑하던 사람들을 잃고 싶지 않다.",
-        "vi": "Vì ta, ta không muốn tin vào những người mà ta đã trân trọng và yêu thương nữa."
-      },
-      "end_time": 58.35,
-      "start_time": 51.64,
-      "vocabulary": [
-        {
-          "word": "더 이상",
-          "meanings": {
-            "en": "no longer, anymore",
-            "es": "ya no",
-            "id": "tidak lagi",
-            "jp": "これ以上",
-            "vi": "không còn nữa"
-          }
-        },
-        {
-          "word": "~로 인해",
-          "meanings": {
-            "en": "due to, because of",
-            "es": "debido a",
-            "id": "karena, disebabkan oleh",
-            "jp": "〜のせいで、〜によって",
-            "vi": "do, vì"
-          }
-        },
-        {
-          "word": "아끼다",
-          "meanings": {
-            "en": "to cherish, to care for",
-            "es": "apreciar, cuidar",
-            "id": "menghargai, menyayangi",
-            "jp": "大切にする",
-            "vi": "trân trọng"
-          }
-        }
-      ],
-      "section_num": 5,
-      "cultural_note": {
-        "en": "\"I don't want to lose them.\" This line expresses the king's despair. It reflects King Danjong's tragic sentiment that he no longer wishes for his loyal subjects to be harmed because of him.",
-        "es": "\"No quiero perderlos.\" Esta línea expresa la desesperación del rey. Refleja el trágico sentimiento del Rey Danjong de que ya no desea que sus fieles súbditos sufran daño a causa de él.",
-        "id": "\"Aku tidak ingin kehilangan mereka.\" Kalimat ini mengungkapkan keputusasaan raja. Ini mencerminkan perasaan tragis Raja Danjong bahwa ia tidak lagi ingin para pengikut setianya menderita karena dirinya.",
-        "jp": "「失いたくない。」このセリフは王の絶望感を表しています。これは、自分自身のせいで忠臣たちが害を受けることをこれ以上望まないという端宗の悲劇的な心情を反映しています。",
-        "ko": "\"잃고 싶지 않다.\" 이 대사는 왕의 절망감을 나타냅니다. 이는 자신 때문에 충신들이 해를 입는 것을 더 이상 원치 않는다는 단종의 비극적인 심정을 반영합니다.",
-        "vi": "\"Tôi không muốn mất họ.\" Lời thoại này thể hiện sự tuyệt vọng của nhà vua. Nó phản ánh tâm trạng bi kịch của vua Danjong, rằng ông không còn muốn những trung thần của mình bị hại vì mình nữa."
+        "en": "\"설마 (seol-ma)\" is an exclamation used to express strong disbelief or shock regarding someone's words or actions, indicating surprise in an unbelievable or unexpected situation.",
+        "es": "«설마 (seol-ma)» es una exclamación que se utiliza para expresar una fuerte incredulidad o asombro ante las palabras o acciones de alguien, indicando sorpresa en una situación increíble o inesperada.",
+        "id": "\"설마 (seol-ma)\" adalah seruan yang digunakan untuk mengekspresikan ketidakpercayaan atau kejutan yang kuat terhadap perkataan atau tindakan seseorang, menunjukkan keterkejutan dalam situasi yang sulit dipercaya atau tidak terduga.",
+        "jp": "「『설마 (seol-ma)』は、相手の言葉や行動に対して強い不信感や衝撃を表現する感嘆詞で、信じがたい、または予期せぬ状況で驚きを示します。」",
+        "ko": "\"설마\"는 상대방의 말이나 행동에 대해 강한 불신이나 충격을 표현할 때 사용하는 감탄사로, 믿기 어렵거나 예상치 못한 상황에서 놀라움을 나타냅니다.",
+        "vi": "\"설마 (seol-ma)\" là một thán từ dùng để bày tỏ sự hoài nghi hoặc sốc mạnh mẽ trước lời nói hay hành động của người khác, thể hiện sự ngạc nhiên trong tình huống khó tin hoặc bất ngờ."
       }
     }
   ]

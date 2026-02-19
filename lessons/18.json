@@ -1,0 +1,272 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "A joyful reunion with an old friend",
+        "es": "Un reencuentro alegre con un viejo amigo",
+        "id": "Reuni yang menyenangkan dengan teman lama",
+        "jp": "旧友との嬉しい再会",
+        "ko": "오랜 친구와의 반가운 재회",
+        "vi": "Cuộc hội ngộ vui vẻ với một người bạn cũ"
+      },
+      {
+        "en": "The beginning of a new relationship and excitement",
+        "es": "El inicio de una nueva relación y la emoción",
+        "id": "Awal hubungan baru dan kegembiraan",
+        "jp": "新しい関係の始まりとときめき",
+        "ko": "새로운 관계의 시작과 설렘",
+        "vi": "Sự khởi đầu của một mối quan hệ mới và sự phấn khích"
+      },
+      {
+        "en": "Unwanted encounters and criticism regarding appearance",
+        "es": "Encuentros no deseados y críticas sobre la apariencia",
+        "id": "Pertemuan yang tidak diinginkan dan kritik tentang penampilan",
+        "jp": "避けたい出会いと外見への批判",
+        "ko": "피하고 싶은 만남과 외모에 대한 비판",
+        "vi": "Những cuộc gặp gỡ không mong muốn và lời chỉ trích về ngoại hình"
+      },
+      {
+        "en": "Honest expression of feelings towards each other",
+        "es": "Expresión honesta de sentimientos mutuos",
+        "id": "Ungkapan perasaan jujur satu sama lain",
+        "jp": "互いへの正直な感情表現",
+        "ko": "서로에 대한 솔직한 감정 표현",
+        "vi": "Biểu hiện cảm xúc chân thật dành cho nhau"
+      }
+    ],
+    "question": {
+      "en": "What best describes the situations the characters are experiencing in these dialogues?",
+      "es": "¿Qué describe mejor las situaciones que experimentan los personajes en estos diálogos?",
+      "id": "Apa yang paling baik menggambarkan situasi yang dialami para karakter dalam dialog-dialog ini?",
+      "jp": "これらの会話で登場人物たちが経験している状況を最もよく表しているものは何ですか？",
+      "ko": "이 대화들에서 인물들이 겪고 있는 상황을 가장 잘 나타내는 것은 무엇입니까?",
+      "vi": "Điều gì mô tả đúng nhất các tình huống mà các nhân vật đang trải qua trong những đoạn hội thoại này?"
+    },
+    "answer_index": 2
+  },
+  "metadata": {
+    "titles": {
+      "en": "True Beauty (2020)",
+      "es": "Belleza verdadera (2020)",
+      "id": "True Beauty (2020)",
+      "jp": "女神降臨 (2020)",
+      "ko": "여신강림 (2020)",
+      "vi": "Vẻ Đẹp Đích Thực (2020)"
+    },
+    "categories": {
+      "en": "Drama, Comedy",
+      "es": "Drama, Comedia",
+      "id": "Drama, Komedi",
+      "jp": "ドラマ、コメディ",
+      "ko": "드라마, 코미디",
+      "vi": "Phim truyền hình, Hài kịch"
+    },
+    "difficulty": 3,
+    "youtube_id": "9NGf2I-kblE",
+    "youtube_url": "https://youtu.be/9NGf2I-kblE"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "How did we meet here? But why are you ignoring me? It's all over...",
+        "es": "¿Cómo nos encontramos aquí? Pero, ¿por qué me ignoras? Todo terminó...",
+        "id": "Bagaimana bisa kita bertemu di sini? Tapi kenapa kamu mengabaikanku? Semuanya sudah berakhir...",
+        "jp": "まさかここで会うなんて？なのにどうして無視するの？全部終わったのに...",
+        "ko": "어떻게 여기서 만나냐? 근데 왜 쌩까? 다 끝났어...",
+        "vi": "Sao lại gặp nhau ở đây? Nhưng sao lại lờ đi? Mọi chuyện đã kết thúc rồi..."
+      },
+      "end_time": 5.5,
+      "start_time": 0.0,
+      "vocabulary": [
+        {
+          "word": "쌩까다",
+          "meanings": {
+            "en": "to ignore (slang, especially someone you know but pretend not to)",
+            "es": "ignorar, pasar de alguien (argot)",
+            "id": "mengabaikan, pura-pura tidak kenal (bahasa gaul)",
+            "jp": "(わざと)無視する、知らないふりをする (俗語)",
+            "vi": "lờ đi, làm ngơ (từ lóng)"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_d4cc0880f9677d5590f3310192a6e29c.mp3"
+        },
+        {
+          "word": "끝나다",
+          "meanings": {
+            "en": "to end, to be over",
+            "es": "terminar, acabar",
+            "id": "berakhir, selesai",
+            "jp": "終わる",
+            "vi": "kết thúc, xong"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_ff9047d5aae99115a3292d1f16019c8f.mp3"
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "\"쌩까다\" is a non-standard expression used when you encounter a past lover or someone with whom you have an uncomfortable relationship, and you intentionally pretend not to know them or ignore them.",
+        "es": "\"쌩까다\" es una expresión no estándar utilizada cuando te encuentras con una expareja o alguien con quien tienes una relación incómoda, e intencionalmente finges no conocerlos o los ignoras.",
+        "id": "\"쌩까다\" adalah ekspresi tidak baku yang digunakan ketika Anda bertemu mantan kekasih atau seseorang yang memiliki hubungan tidak nyaman dengan Anda, dan Anda sengaja berpura-pura tidak mengenal mereka atau mengabaikan mereka.",
+        "jp": "「쌩까다」は、元恋人や気まずい関係にある人に遭遇した際に、わざと知らないふりをしたり無視したりする非標準語表現です。",
+        "ko": "\"쌩까다\"는 과거 연인이나 불편한 관계에 있는 사람을 마주쳤을 때, 의도적으로 아는 척하지 않거나 무시하는 비표준어 표현입니다.",
+        "vi": "\"쌩까다\" là một cách nói không chuẩn, dùng khi bạn gặp người yêu cũ hoặc người có mối quan hệ không thoải mái, và bạn cố tình giả vờ không quen hoặc phớt lờ họ."
+      }
+    },
+    {
+      "scripts": {
+        "en": "It's a favor... Could you pretend not to know me?",
+        "es": "Es un favor... ¿Podrías fingir que no me conoces?",
+        "id": "Ini permintaan... Bisakah kamu berpura-pura tidak mengenalku?",
+        "jp": "お願いなんだけど... 知らないふりをしてくれないかな？",
+        "ko": "부탁인데... 모른척 해주면 안 될까?",
+        "vi": "Xin cậu đấy... Cậu có thể giả vờ không biết tớ không?"
+      },
+      "end_time": 13.0,
+      "start_time": 8.2,
+      "vocabulary": [
+        {
+          "word": "부탁",
+          "meanings": {
+            "en": "favor, request",
+            "es": "favor, petición",
+            "id": "permintaan, permohonan",
+            "jp": "お願い、頼み",
+            "vi": "lời thỉnh cầu, yêu cầu"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_d5cb25f9fa4497d6c60f8f136a782b05.mp3"
+        },
+        {
+          "word": "모른척하다",
+          "meanings": {
+            "en": "to pretend not to know",
+            "es": "fingir no saber/conocer",
+            "id": "berpura-pura tidak tahu/kenal",
+            "jp": "知らないふりをする",
+            "vi": "giả vờ không biết"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_135bb0cee04699173a6c2448eda410f0.mp3"
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "In a culture that values 'face' (reputation), this is an expression used to ask for consideration by requesting someone to pretend not to know about a situation that is embarrassing or that you wish to hide.",
+        "es": "En una cultura que valora la 'cara' (reputación), esta es una expresión utilizada para pedir consideración solicitando a alguien que finja no saber sobre una situación vergonzosa o que uno desea ocultar.",
+        "id": "Dalam budaya yang menjunjung tinggi 'harga diri' (wajah/reputasi), ini adalah ekspresi yang digunakan untuk meminta pertimbangan dengan meminta seseorang berpura-pura tidak tahu tentang situasi yang memalukan atau yang ingin Anda sembunyikan.",
+        "jp": "体面を重んじる文化において、自分が困っている状況や隠したい状況にあるときに、相手にそれを知らないふりをしてくれるよう頼み、配慮を求める表現です。",
+        "ko": "체면을 중요시하는 문화에서, 자신이 곤란하거나 감추고 싶은 상황에 놓였을 때 상대방에게 이를 모른 척 해달라고 부탁하며 배려를 구하는 표현입니다.",
+        "vi": "Trong văn hóa coi trọng thể diện, đây là một cách diễn đạt được sử dụng để nhờ người khác giả vờ không biết về một tình huống khó xử hoặc bạn muốn che giấu, nhằm tìm kiếm sự thông cảm."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Why are you lingering around so much? Do you like Im Joo-kyung?",
+        "es": "¿Por qué estás dando vueltas por aquí? ¿Te gusta Im Joo-kyung?",
+        "id": "Kenapa kamu terus berkeliaran di sekitar sini? Apa kamu menyukai Im Joo-kyung?",
+        "jp": "なんでこんなに周りをうろついているんだ？お前、イム・ジュギョンが好きなのか？",
+        "ko": "왜 이렇게 주변에서 얼쩡거리는데? 너 임주경 좋아하냐?",
+        "vi": "Sao lại cứ lảng vảng quanh đây vậy? Mày thích Im Joo-kyung à?"
+      },
+      "end_time": 28.7,
+      "start_time": 24.4,
+      "vocabulary": [
+        {
+          "word": "주변",
+          "meanings": {
+            "en": "surroundings, vicinity",
+            "es": "alrededores, cercanía",
+            "id": "sekitar, lingkungan",
+            "jp": "周囲、周辺",
+            "vi": "xung quanh, vùng lân cận"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_afba3f263d957c1ec8adffaeb1256fe2.mp3"
+        },
+        {
+          "word": "얼쩡거리다",
+          "meanings": {
+            "en": "to loiter, to linger around",
+            "es": "merodear, deambular",
+            "id": "berkeliaran, mondar-mandir",
+            "jp": "うろつく、ぶらぶらする",
+            "vi": "lảng vảng, quanh quẩn"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_65b9c98d8c1d3f952878a2453050dec8.mp3"
+        },
+        {
+          "word": "좋아하다",
+          "meanings": {
+            "en": "to like, to be fond of",
+            "es": "gustar",
+            "id": "menyukai",
+            "jp": "好きだ",
+            "vi": "thích"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_46633efb390bcafd690b4269eee230a7.mp3"
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "'얼쩡거리다' refers to the act of hovering around someone you like, and '좋아하냐' is a common expression in Korea to directly ask about someone's romantic feelings.",
+        "es": "'얼쩡거리다' se refiere al acto de rondar a alguien que te gusta, y '좋아하냐' es una expresión común en Corea para preguntar directamente sobre los sentimientos románticos de alguien.",
+        "id": "'얼쩡거리다' mengacu pada tindakan berlama-lama di sekitar orang yang Anda sukai, dan '좋아하냐' adalah ekspresi umum di Korea untuk secara langsung menanyakan perasaan romantis seseorang.",
+        "jp": "「얼쩡거리다」は、好きな人の周りをうろつく行動を意味し、「좋아하냐」は、相手の恋愛感情を直接的に尋ねる韓国で一般的な表現です。",
+        "ko": "'얼쩡거리다'는 좋아하는 사람 주변을 맴도는 행동을 뜻하며, '좋아하냐'는 상대방의 연애 감정을 직접적으로 묻는 한국에서 흔한 표현입니다.",
+        "vi": "'얼쩡거리다' chỉ hành động lảng vảng quanh người mình thích, và '좋아하냐' là một cách nói phổ biến ở Hàn Quốc để trực tiếp hỏi về tình cảm lãng mạn của đối phương."
+      }
+    },
+    {
+      "scripts": {
+        "en": "What's the point of being pretty with thick makeup? Your original face is a bust.",
+        "es": "¿De qué sirve ser bonita con maquillaje espeso? Tu cara original es un desastre.",
+        "id": "Apa gunanya cantik dengan riasan tebal? Wajah aslimu jelek sekali.",
+        "jp": "厚化粧で綺麗でも何になる？元の顔が台無しなのに。",
+        "ko": "화장 떡칠해 예쁘면 머해? 본판이 꽝~ 인데.",
+        "vi": "Trang điểm dày cộp mà xinh thì được gì? Mặt mộc thì xấu tệ."
+      },
+      "end_time": 21.3,
+      "start_time": 16.0,
+      "vocabulary": [
+        {
+          "word": "떡칠하다",
+          "meanings": {
+            "en": "to apply makeup thickly, to plaster on (often derogatory)",
+            "es": "maquillarse en exceso, embadurnar",
+            "id": "memakai riasan tebal-tebal, memoles tebal (sering merendahkan)",
+            "jp": "厚化粧する、べたべた塗る",
+            "vi": "trát phấn dày cộp, trang điểm dày cộp"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_1dd873d3c2fa5c48e3eecb3a138947a6.mp3"
+        },
+        {
+          "word": "본판",
+          "meanings": {
+            "en": "original face (without makeup), original version",
+            "es": "cara original (sin maquillaje), versión original",
+            "id": "wajah asli (tanpa riasan), versi asli",
+            "jp": "(化粧していない)素顔、元の顔",
+            "vi": "mặt mộc, khuôn mặt nguyên bản"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_ca4e1758f3c9f5dea35aa758c957052f.mp3"
+        },
+        {
+          "word": "꽝",
+          "meanings": {
+            "en": "bust, failure, no good (slang)",
+            "es": "desastre, fracaso, malo (argot)",
+            "id": "gagal, jelek, tidak berguna (bahasa gaul)",
+            "jp": "駄目、失敗、はずれ (俗語)",
+            "vi": "tệ, hỏng bét, thất bại (từ lóng)"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_35278c439b8d48b2e293f27a0c0a58e0.mp3"
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "\"떡칠하다\" is a derogatory expression for applying makeup excessively thickly, and \"본판\" refers to one's original face without makeup. \"꽝\" means 'terrible' or 'no good,' emphasizing the importance of natural looks while criticizing excessive makeup.",
+        "es": "\"떡칠하다\" es una expresión despectiva para aplicar maquillaje de forma excesivamente gruesa, y \"본판\" se refiere a la cara original sin maquillaje. \"꽝\" significa 'terrible' o 'malo', enfatizando la importancia de la apariencia natural y criticando el maquillaje excesivo.",
+        "id": "\"떡칠하다\" adalah ekspresi merendahkan untuk memakai riasan yang terlalu tebal, dan \"본판\" mengacu pada wajah asli seseorang tanpa riasan. \"꽝\" berarti 'buruk' atau 'tidak bagus,' menekankan pentingnya penampilan alami sambil mengkritik riasan berlebihan.",
+        "jp": "「떡칠하다」は、化粧を過度に厚く塗った状態を侮蔑する表現であり、「본판」は化粧をしていない本来の顔を意味します。「꽝」は、ひどい、良くないという意味で、過度な化粧を批判し、生まれ持った外見の重要性を強調する言葉です。",
+        "ko": "\"떡칠하다\"는 화장을 지나치게 두껍게 한 상태를 비하하는 표현이며, \"본판\"은 화장하지 않은 본래의 얼굴을 뜻합니다. \"꽝\"은 형편없다, 좋지 않다는 의미로, 지나친 화장을 비난하며 타고난 외모의 중요성을 강조하는 말입니다.",
+        "vi": "\"떡칠하다\" là một cách nói miệt thị việc trang điểm quá dày, và \"본판\" có nghĩa là khuôn mặt mộc, không trang điểm. \"꽝\" có nghĩa là 'tệ hại' hoặc 'không tốt', nhấn mạnh tầm quan trọng của vẻ đẹp tự nhiên trong khi chỉ trích việc trang điểm quá mức."
+      }
+    }
+  ]
+}

@@ -1,5 +1,120 @@
 [
   {
+    "id": 18,
+    "youtube_id": "9NGf2I-kblE",
+    "thumbnail": "https://img.youtube.com/vi/9NGf2I-kblE/maxresdefault.jpg",
+    "difficulty": 3,
+    "titles": {
+      "en": "True Beauty (2020)",
+      "es": "Belleza verdadera (2020)",
+      "id": "True Beauty (2020)",
+      "jp": "女神降臨 (2020)",
+      "ko": "여신강림 (2020)",
+      "vi": "Vẻ Đẹp Đích Thực (2020)"
+    },
+    "categories": {
+      "en": "Drama, Comedy",
+      "es": "Drama, Comedia",
+      "id": "Drama, Komedi",
+      "jp": "ドラマ、コメディ",
+      "ko": "드라마, 코미디",
+      "vi": "Phim truyền hình, Hài kịch"
+    },
+    "pub_date": "2026-02-19T04:37:28.955682+00:00"
+  },
+  {
+    "id": 17,
+    "youtube_id": "eirnMOx_ZFI",
+    "thumbnail": "https://img.youtube.com/vi/eirnMOx_ZFI/maxresdefault.jpg",
+    "difficulty": 3,
+    "titles": {
+      "en": "Weak Hero (2022)",
+      "es": "Un héroe débil (2022)",
+      "id": "Weak Hero Class 1 (2022)",
+      "jp": "弱いヒーロー (2022)",
+      "ko": "약한영웅 (2022)",
+      "vi": "Anh Hùng Yếu Ớt (2022)"
+    },
+    "categories": {
+      "en": "Drama, School Violence",
+      "es": "Drama, Violencia Escolar",
+      "id": "Drama, Kekerasan Sekolah",
+      "jp": "ドラマ, 校内暴力",
+      "ko": "드라마, 학원폭력",
+      "vi": "Phim truyền hình, Bạo lực học đường"
+    },
+    "pub_date": "2026-02-19T04:37:05.136920+00:00"
+  },
+  {
+    "id": 16,
+    "youtube_id": "eaWMv7rgqwY",
+    "thumbnail": "https://img.youtube.com/vi/eaWMv7rgqwY/maxresdefault.jpg",
+    "difficulty": 3,
+    "titles": {
+      "en": "Pavane (2026)",
+      "es": "Pavana (2026)",
+      "id": "Pavane (2026)",
+      "jp": "Pavane (2026)",
+      "ko": "파반느 공시 예고편 | Netflix ",
+      "vi": "Pavane (2026)"
+    },
+    "categories": {
+      "en": "Drama, Romance",
+      "es": "Drama, Romance",
+      "id": "Drama, Romansa",
+      "jp": "ドラマ、ロマンス",
+      "ko": "드라마, 멜로",
+      "vi": "Phim truyền hình, Tình cảm"
+    },
+    "pub_date": "2026-02-19T04:36:46.922141+00:00"
+  },
+  {
+    "id": 13,
+    "youtube_id": "jDjpN1YYt0M",
+    "thumbnail": "https://img.youtube.com/vi/jDjpN1YYt0M/maxresdefault.jpg",
+    "difficulty": 4,
+    "titles": {
+      "en": "A Brave New World (2026)",
+      "es": "A Brave New World (2026)",
+      "id": "A Brave New World (2026)",
+      "jp": "A Brave New World (2026)",
+      "ko": "조선 악녀 임지연, 2026년 서울 새로운 세계를 만나다! ",
+      "vi": "A Brave New World (2026)"
+    },
+    "categories": {
+      "en": "Drama, Historical, Comedy",
+      "es": "Drama, Histórico, Comedia",
+      "id": "Drama, Sejarah, Komedi",
+      "jp": "ドラマ、時代劇、コメディ",
+      "ko": "드라마, 사극, 코미디",
+      "vi": "Phim truyền hình, Lịch sử, Hài kịch"
+    },
+    "pub_date": "2026-02-19T03:57:06.741673+00:00"
+  },
+  {
+    "id": 14,
+    "youtube_id": "akansp381_s",
+    "thumbnail": "https://img.youtube.com/vi/akansp381_s/maxresdefault.jpg",
+    "difficulty": 4,
+    "titles": {
+      "en": "Dear X (2025)",
+      "es": "Dear X (2025)",
+      "id": "Dear X (2025)",
+      "jp": "親愛なるX (2025)",
+      "ko": "친애하는 X | 김유정 ",
+      "vi": "X Thân Mến! (2025)"
+    },
+    "categories": {
+      "en": "Drama, Thriller",
+      "es": "Drama, Thriller",
+      "id": "Drama, Thriller",
+      "jp": "ドラマ、スリラー",
+      "ko": "드라마, 스릴러",
+      "vi": "Chính kịch, Giật gân"
+    },
+    "pub_date": "2026-02-19T03:54:56.922516+00:00"
+  },
+  {
     "id": 15,
     "youtube_id": "N5-rpnKxcgc",
     "thumbnail": "https://img.youtube.com/vi/N5-rpnKxcgc/maxresdefault.jpg",
@@ -21,52 +136,6 @@
       "vi": "Kịch, Hài kịch, Bí ẩn, Yoona"
     },
     "pub_date": "2026-02-19T03:08:18.410462+00:00"
-  },
-  {
-    "id": 14,
-    "youtube_id": "akansp381_s",
-    "thumbnail": "https://img.youtube.com/vi/akansp381_s/maxresdefault.jpg",
-    "difficulty": 3,
-    "titles": {
-      "en": "Dear X (2025)",
-      "es": "Dear X (2025)",
-      "id": "Dear X (2025)",
-      "jp": "親愛なるX (2025)",
-      "ko": "친애하는 X | 김유정 ",
-      "vi": "X Thân Mến! (2025)"
-    },
-    "categories": {
-      "en": "Drama, Thriller",
-      "es": "Drama, Thriller",
-      "id": "Drama, Thriller",
-      "jp": "ドラマ、スリラー",
-      "ko": "드라마, 스릴러",
-      "vi": "Phim truyền hình, Kịch tính"
-    },
-    "pub_date": "2026-02-18T04:13:07.772445+00:00"
-  },
-  {
-    "id": 13,
-    "youtube_id": "jDjpN1YYt0M",
-    "thumbnail": "https://img.youtube.com/vi/jDjpN1YYt0M/maxresdefault.jpg",
-    "difficulty": 1,
-    "titles": {
-      "en": "A Brave New World (2026)",
-      "es": "A Brave New World (2026)",
-      "id": "A Brave New World (2026)",
-      "jp": "A Brave New World (2026)",
-      "ko": "조선 악녀 임지연, 2026년 서울 새로운 세계를 만나다! ",
-      "vi": "A Brave New World (2026)"
-    },
-    "categories": {
-      "en": "Drama, Historical Drama, Comedy",
-      "es": "Drama, Drama Histórico, Comedia",
-      "id": "Drama, Drama Sejarah, Komedi",
-      "jp": "ドラマ、時代劇、コメディ",
-      "ko": "드라마, 사극, 코미디",
-      "vi": "Kịch, Phim cổ trang, Hài kịch"
-    },
-    "pub_date": "2026-02-18T03:55:11.349406+00:00"
   },
   {
     "id": 12,

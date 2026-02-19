@@ -1,0 +1,216 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "The protagonist had never confronted the bullying before.",
+        "es": "El protagonista nunca se había enfrentado al acoso antes.",
+        "id": "Tokoh utama belum pernah menghadapi perundungan sebelumnya.",
+        "jp": "主人公は以前に一度もいじめに立ち向かったことがない。",
+        "ko": "주인공은 이전에 괴롭힘에 맞선 적이 없다.",
+        "vi": "Nhân vật chính chưa bao giờ đối đầu với việc bị bắt nạt trước đây."
+      },
+      {
+        "en": "The protagonist had previously attempted to resolve the issue peacefully.",
+        "es": "El protagonista había intentado previamente resolver el problema de forma pacífica.",
+        "id": "Tokoh utama sebelumnya telah mencoba menyelesaikan masalah secara damai.",
+        "jp": "主人公は以前に平和的に問題を解決しようと試みた。",
+        "ko": "주인공은 이전에 평화적으로 문제를 해결하려고 시도했다.",
+        "vi": "Nhân vật chính trước đây đã cố gắng giải quyết vấn đề một cách hòa bình."
+      },
+      {
+        "en": "The protagonist was trying to provoke a fight.",
+        "es": "El protagonista estaba tratando de provocar una pelea.",
+        "id": "Tokoh utama mencoba memprovokasi pertengkaran.",
+        "jp": "主人公は喧嘩を挑発しようとしていた。",
+        "ko": "주인공은 싸움을 유발하려고 했다.",
+        "vi": "Nhân vật chính đang cố gắng gây chiến."
+      },
+      {
+        "en": "The bullies were unaware of the protagonist's feelings.",
+        "es": "Los acosadores no eran conscientes de los sentimientos del protagonista.",
+        "id": "Para perundung tidak menyadari perasaan tokoh utama.",
+        "jp": "いじめっ子たちは主人公の気持ちを知らなかった。",
+        "ko": "괴롭히는 사람들은 주인공의 감정을 몰랐다.",
+        "vi": "Những kẻ bắt nạt không hề biết cảm xúc của nhân vật chính."
+      }
+    ],
+    "question": {
+      "en": "What does the protagonist's statement, \"I asked you to stop. Stop it.\" imply about the situation before this moment?",
+      "es": "¿Qué implica la declaración del protagonista, \"Ya te lo pedí. Que pares.\" sobre la situación antes de este momento?",
+      "id": "Apa yang tersirat dari perkataan tokoh utama, \"Aku sudah memintamu. Berhentilah.\" mengenai situasi sebelum momen ini?",
+      "jp": "主人公の「俺が頼んだだろ。もうやめろって。」という言葉は、この瞬間以前にどのような状況であったことを示唆していますか？",
+      "ko": "주인공의 \"내가 부탁했잖아. 그만 하라고.\"라는 말은 이 순간 이전에 어떤 상황이었음을 암시하는가?",
+      "vi": "Lời nói của nhân vật chính, \"Tao đã bảo mày dừng lại rồi mà. Dừng lại đi.\" ngụ ý gì về tình hình trước khoảnh khắc này?"
+    },
+    "answer_index": 1
+  },
+  "metadata": {
+    "titles": {
+      "en": "Weak Hero (2022)",
+      "es": "Un héroe débil (2022)",
+      "id": "Weak Hero Class 1 (2022)",
+      "jp": "弱いヒーロー (2022)",
+      "ko": "약한영웅 (2022)",
+      "vi": "Anh Hùng Yếu Ớt (2022)"
+    },
+    "categories": {
+      "en": "Drama, School Violence",
+      "es": "Drama, Violencia Escolar",
+      "id": "Drama, Kekerasan Sekolah",
+      "jp": "ドラマ, 校内暴力",
+      "ko": "드라마, 학원폭력",
+      "vi": "Phim truyền hình, Bạo lực học đường"
+    },
+    "difficulty": 3,
+    "youtube_id": "eirnMOx_ZFI",
+    "youtube_url": "https://youtu.be/eirnMOx_ZFI"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Pavlov's dog experiment. Ring a bell. Give food. The dog salivates.",
+        "es": "El experimento del perro de Pávlov. Se hace sonar una campana. Se le da comida. El perro saliva.",
+        "id": "Eksperimen anjing Pavlov. Bel berbunyi. Diberi makan. Anjing mengeluarkan air liur.",
+        "jp": "パブロフの犬の実験。鐘を鳴らす。餌を与える。犬が唾液を流す。",
+        "ko": "파블로프의 개 실험. 종을 울린다. 먹이를 준다. 개가 침을 흘린다.",
+        "vi": "Thí nghiệm chó Pavlov. Rung chuông. Cho thức ăn. Chó chảy nước dãi."
+      },
+      "end_time": 7.7,
+      "start_time": 0.0,
+      "vocabulary": [
+        {
+          "word": "실험",
+          "meanings": {
+            "en": "experiment",
+            "es": "experimento",
+            "id": "eksperimen",
+            "jp": "実験",
+            "vi": "thí nghiệm"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_9a9761e6b8e4e3a6dcd32e0ea97ef966.mp3"
+        },
+        {
+          "word": "종",
+          "meanings": {
+            "en": "bell",
+            "es": "campana",
+            "id": "bel",
+            "jp": "鐘",
+            "vi": "chuông"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_719b434bf9a2d58b0da57618d0dadffe.mp3"
+        },
+        {
+          "word": "침을 흘리다",
+          "meanings": {
+            "en": "to salivate; to drool",
+            "es": "salivar",
+            "id": "mengeluarkan air liur",
+            "jp": "唾液を流す",
+            "vi": "chảy nước dãi"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_df3723df61df100f787d4b1346bbc9ef.mp3"
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "\"Pavlov's dog\" is used metaphorically to describe a person or situation that reacts unconsciously and automatically to a specific stimulus, often implying a criticism of acting reflexively without independent thought.",
+        "es": "\"El perro de Pávlov\" se utiliza metafóricamente para describir a una persona o situación que reacciona de manera inconsciente y automática a un estímulo específico, a menudo con una connotación crítica hacia la acción reflexiva sin pensamiento independiente.",
+        "id": "\"Anjing Pavlov\" digunakan secara metaforis untuk menggambarkan seseorang atau situasi yang bereaksi secara tidak sadar dan otomatis terhadap stimulus tertentu, seringkali menyiratkan kritik terhadap tindakan refleksif tanpa pemikiran mandiri.",
+        "jp": "「パブロフの犬」は、特定の刺激に無意識的かつ自動的に反応する人や状況を比喩的に表現する際に使われ、主体的な思考なしに条件反射的に行動することを批判するニュアンスも含まれることがあります。",
+        "ko": "\"파블로프의 개\"는 특정 자극에 무의식적이고 자동적으로 반응하는 사람이나 상황을 비유적으로 표현할 때 쓰이며, 주체적인 사고 없이 조건반사적으로 행동하는 것을 비판하는 뉘앙스를 담기도 합니다.",
+        "vi": "\"Chó Pavlov\" được dùng theo nghĩa bóng để mô tả một người hoặc tình huống phản ứng vô thức và tự động trước một kích thích cụ thể, thường mang hàm ý chỉ trích hành động theo phản xạ có điều kiện mà không có suy nghĩ độc lập."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Don't you know that? That people f***ing hate you.",
+        "es": "¿No sabes eso? Que la gente te detesta muchísimo.",
+        "id": "Kau tidak tahu itu? Bahwa orang-orang sangat membencimu.",
+        "jp": "お前、それ知ってるか？ みんながお前のこと、マジで気に食わないって思ってるの。",
+        "ko": "너 그거 아냐? 사람들이 너 존나 재수없어 하는거.",
+        "vi": "Mày không biết à? Mấy đứa đó ghét mày kinh khủng."
+      },
+      "end_time": 19.1,
+      "start_time": 14.0,
+      "vocabulary": [
+        {
+          "word": "존나",
+          "meanings": {
+            "en": "f***ing, really, extremely (vulgar slang)",
+            "es": "jodidamente, muchísimo (vulgar)",
+            "id": "sangat, banget (kasar)",
+            "jp": "マジで、めちゃくちゃ (スラング)",
+            "vi": "cực kỳ, rất (thô tục)"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_4f0060409a2703f714897bc9bfc01043.mp3"
+        },
+        {
+          "word": "재수없어 하다",
+          "meanings": {
+            "en": "to find someone annoying/unpleasant; to despise someone",
+            "es": "detestar, resultar desagradable",
+            "id": "membenci, merasa sangat tidak suka",
+            "jp": "気に食わないと思う、嫌がる",
+            "vi": "ghét, thấy khó chịu"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_8feac47acb6771a11159e891cf32624e.mp3"
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "\"존나\" is a harsh slang word emphasizing 'very,' and \"재수없어 하다\" is an expression used when someone's presence or actions are unpleasant and cause disgust. Overall, it's a very rude tone that directly and aggressively expresses dissatisfaction towards the other person.",
+        "es": "\"존나\" es una palabra de argot fuerte que enfatiza 'muy', y \"재수없어 하다\" es una expresión utilizada cuando la presencia o las acciones de alguien son desagradables y causan disgusto. En general, es un tono muy grosero que expresa insatisfacción hacia la otra persona de manera directa y agresiva.",
+        "id": "\"존나\" adalah kata slang kasar yang menekankan 'sangat', dan \"재수없어 하다\" adalah ungkapan yang digunakan ketika kehadiran atau tindakan seseorang tidak menyenangkan dan menyebabkan jijik. Secara keseluruhan, ini adalah nada yang sangat kasar yang secara langsung dan agresif mengungkapkan ketidakpuasan terhadap orang lain.",
+        "jp": "「존나」は「非常に」を強調する荒々しい俗語であり、「재수없어 하다」は相手の存在や行動が不快で嫌悪感を抱かせる時に使う表現です。全体的に、相手に不満を直接的かつ攻撃的に表す非常に無礼な口調です。",
+        "ko": "\"존나\"는 '매우'를 강조하는 거친 비속어이며, \"재수없어 하다\"는 상대방의 존재나 행동이 불쾌하고 혐오감을 줄 때 쓰는 표현입니다. 전반적으로 상대방에게 불만을 직접적이고 공격적으로 드러내는 매우 무례한 어조입니다.",
+        "vi": "\"존나\" là một từ lóng thô tục nhấn mạnh nghĩa 'rất,' còn \"재수없어 하다\" là cách diễn đạt được dùng khi sự hiện diện hoặc hành động của ai đó gây khó chịu và ghê tởm. Nhìn chung, đây là một giọng điệu rất thô lỗ thể hiện sự không hài lòng một cách trực tiếp và hung hăng đối với người khác."
+      }
+    },
+    {
+      "scripts": {
+        "en": "I asked you to stop. Stop it.",
+        "es": "Ya te lo pedí. Que pares.",
+        "id": "Aku sudah memintamu. Berhentilah.",
+        "jp": "俺が頼んだだろ。もうやめろって。",
+        "ko": "내가 부탁했잖아. 그만 하라고.",
+        "vi": "Tao đã bảo mày dừng lại rồi mà. Dừng lại đi."
+      },
+      "end_time": 35.1,
+      "start_time": 29.0,
+      "vocabulary": [
+        {
+          "word": "부탁하다",
+          "meanings": {
+            "en": "to ask; to request",
+            "es": "pedir, solicitar",
+            "id": "meminta, memohon",
+            "jp": "頼む、お願いする",
+            "vi": "nhờ vả, yêu cầu"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_7cfdc8d206b82dd1aaf393b3766b0d2c.mp3"
+        },
+        {
+          "word": "그만하다",
+          "meanings": {
+            "en": "to stop; to cease",
+            "es": "parar, dejar de hacer",
+            "id": "berhenti, menghentikan",
+            "jp": "やめる",
+            "vi": "dừng lại, ngừng lại"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_c4a0057d9dcc354143b0a77ad8543a73.mp3"
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "In the drama, the protagonist can no longer tolerate it. He had asked, but the other person kept tormenting him, which is why he says, \"Stop it.\"",
+        "es": "En el drama, el protagonista ya no puede tolerarlo. Él había pedido que pararan, pero la otra persona siguió atormentándolo, por eso dice: \"Para ya.\"",
+        "id": "Dalam drama, tokoh utama tidak tahan lagi. Dia sudah meminta, tetapi orang lain terus mengganggunya, itulah sebabnya dia berkata, \"Berhentilah.\"",
+        "jp": "劇中では、主人公はもう我慢できません。頼んだにもかかわらず、相手がしつこく彼をいじめていたため、「もうやめろ」と言います。",
+        "ko": "극중에서 주인공은 더 이상 참지 못합니다. 부탁을 했지만 상대방이 계속해서 자신을 괴롭혔기 떄문에 \"그만 하라고\" 말합니다.",
+        "vi": "Trong phim, nhân vật chính không thể chịu đựng thêm nữa. Anh ấy đã yêu cầu, nhưng đối phương vẫn tiếp tục quấy rối anh, đó là lý do anh nói \"Dừng lại đi.\""
+      }
+    }
+  ]
+}

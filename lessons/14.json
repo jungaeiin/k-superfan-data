@@ -2,47 +2,47 @@
   "quiz": {
     "options": [
       {
-        "en": "A person who is the same on the inside and outside, and honest.",
-        "es": "Una persona sincera y honesta, igual por dentro que por fuera.",
-        "id": "Orang yang jujur dan konsisten antara dalam dan luar.",
-        "jp": "内面と外面が同じで正直な人だ。",
-        "ko": "겉과 속이 같고 정직한 사람이다.",
-        "vi": "Là người thật thà, trong ngoài như một."
+        "en": "They act honestly without hiding their true feelings.",
+        "es": "Actúan con honestidad sin ocultar sus verdaderos sentimientos.",
+        "id": "Mereka bertindak jujur tanpa menyembunyikan perasaan sejati mereka.",
+        "jp": "本心を隠さずに正直に行動する。",
+        "ko": "진심을 숨기지 않고 솔직하게 행동한다.",
+        "vi": "Họ hành động trung thực mà không che giấu cảm xúc thật của mình."
       },
       {
-        "en": "Genuinely supports and assists others' success.",
-        "es": "Apoya y ayuda sinceramente el éxito de los demás.",
-        "id": "Sepenuh hati mendukung dan membantu kesuksesan orang lain.",
-        "jp": "他人の成功を心から応援し、協力する。",
-        "ko": "타인의 성공을 진심으로 응원하며 조력한다.",
-        "vi": "Chân thành ủng hộ và giúp đỡ thành công của người khác."
+        "en": "They show a hypocritical appearance where their outside and inside differ.",
+        "es": "Muestran una apariencia hipócrita donde su exterior e interior difieren.",
+        "id": "Mereka menunjukkan penampilan munafik di mana luar dan dalam mereka berbeda.",
+        "jp": "見た目と内心が異なる偽善的な姿を見せる。",
+        "ko": "겉과 속이 다른 위선적인 모습을 보인다.",
+        "vi": "Họ thể hiện vẻ ngoài đạo đức giả, bên ngoài và bên trong khác nhau."
       },
       {
-        "en": "A hypocrite who changes their attitude according to the situation for their own gain.",
-        "es": "Un hipócrita que cambia su actitud según la situación para su propio beneficio.",
-        "id": "Seorang munafik yang mengubah sikapnya sesuai situasi demi keuntungannya sendiri.",
-        "jp": "自分の利益のために状況に合わせて態度を変える偽善者だ。",
-        "ko": "자신의 이득을 위해 상황에 맞춰 태도를 바꾸는 위선자이다.",
-        "vi": "Là kẻ đạo đức giả thay đổi thái độ theo tình huống vì lợi ích của bản thân."
+        "en": "They show a devoted attitude to help others.",
+        "es": "Muestran una actitud devota para ayudar a los demás.",
+        "id": "Mereka menunjukkan sikap berbakti untuk membantu orang lain.",
+        "jp": "他の人を助けるために献身的な態度を見せる。",
+        "ko": "다른 사람을 돕기 위해 헌신적인 태도를 보인다.",
+        "vi": "Họ thể hiện thái độ tận tâm để giúp đỡ người khác."
       },
       {
-        "en": "Consistently kind and considerate to everyone.",
-        "es": "Una persona consistentemente amable y considerada con todos.",
-        "id": "Selalu baik dan penuh perhatian kepada semua orang.",
-        "jp": "誰にでも一貫して親切で思いやりがある。",
-        "ko": "모든 사람에게 한결같이 친절하고 배려심이 깊다.",
-        "vi": "Luôn luôn tử tế và chu đáo với mọi người."
+        "en": "They bravely challenge themselves towards a new goal.",
+        "es": "Se desafían valientemente hacia una nueva meta.",
+        "id": "Mereka dengan berani menantang diri sendiri menuju tujuan baru.",
+        "jp": "新しい目標に向かって勇敢に挑戦する。",
+        "ko": "새로운 목표를 향해 용기 있게 도전한다.",
+        "vi": "Họ dũng cảm thử thách bản thân hướng tới một mục tiêu mới."
       }
     ],
     "question": {
-      "en": "Which of the following best describes the character depicted in the dialogues?",
-      "es": "¿Cuál de las siguientes opciones describe mejor al personaje representado en los diálogos?",
-      "id": "Manakah yang paling tepat menggambarkan karakter yang digambarkan dalam dialog?",
-      "jp": "会話の中で描写されている人物について、最も適切な説明は何ですか？",
-      "ko": "대화 속에서 묘사되는 인물에 대한 설명으로 가장 적절한 것은 무엇입니까?",
-      "vi": "Mô tả nào sau đây phù hợp nhất với nhân vật được khắc họa trong các đoạn hội thoại?"
+      "en": "What is a common characteristic shared by the individuals described in this lesson material?",
+      "es": "¿Cuál es una característica común compartida por los individuos descritos en este material de la lección?",
+      "id": "Apa karakteristik umum yang dimiliki oleh individu-individu yang dijelaskan dalam materi pelajaran ini?",
+      "jp": "この授業資料に描写されている人物たちが共通して持っている特徴は何でしょうか？",
+      "ko": "이 수업 자료에 묘사된 인물들이 공통적으로 가지고 있는 특징은 무엇일까요?",
+      "vi": "Đặc điểm chung của các nhân vật được mô tả trong tài liệu bài học này là gì?"
     },
-    "answer_index": 2
+    "answer_index": 1
   },
   "metadata": {
     "titles": {
@@ -59,21 +59,21 @@
       "id": "Drama, Thriller",
       "jp": "ドラマ、スリラー",
       "ko": "드라마, 스릴러",
-      "vi": "Phim truyền hình, Kịch tính"
+      "vi": "Chính kịch, Giật gân"
     },
-    "difficulty": 3,
+    "difficulty": 4,
     "youtube_id": "akansp381_s",
     "youtube_url": "https://www.youtube.com/watch?v=akansp381_s"
   },
   "learning_sections": [
     {
       "scripts": {
-        "en": "I want to be reborn anew at the very top.",
-        "es": "Quiero renacer de nuevo en la cima más alta.",
+        "en": "I want to be reborn at the very top.",
+        "es": "Quiero renacer en la cima más alta.",
         "id": "Aku ingin terlahir kembali di puncak tertinggi.",
-        "jp": "一番高い頂上で新しく生まれたい。",
+        "jp": "一番高い頂上で新しく生まれ変わりたい。",
         "ko": "가장 높은 꼭대기에서 새롭게 태어나고 싶어.",
-        "vi": "Tôi muốn được tái sinh một lần nữa ở đỉnh cao nhất."
+        "vi": "Tôi muốn được tái sinh ở đỉnh cao nhất."
       },
       "end_time": 6.0,
       "start_time": 1.0,
@@ -81,22 +81,24 @@
         {
           "word": "꼭대기",
           "meanings": {
-            "en": "top, summit, peak",
+            "en": "top, peak, summit",
             "es": "cima, cumbre",
             "id": "puncak, atas",
-            "jp": "頂上、一番上",
+            "jp": "頂上、てっぺん",
             "vi": "đỉnh, chóp"
-          }
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_7b2eea7e009bbfcc21609afaea04fd60.mp3"
         },
         {
           "word": "새롭게",
           "meanings": {
-            "en": "newly, anew, freshly",
-            "es": "nuevamente, de nuevo",
-            "id": "baru, kembali",
+            "en": "newly, afresh",
+            "es": "de nuevo, recientemente",
+            "id": "secara baru, segar",
             "jp": "新しく",
-            "vi": "một cách mới mẻ, lại"
-          }
+            "vi": "một cách mới, mới mẻ"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_94eb28fd9c3c9d96efc4e3586131bc25.mp3"
         },
         {
           "word": "태어나다",
@@ -105,28 +107,29 @@
             "es": "nacer",
             "id": "lahir",
             "jp": "生まれる",
-            "vi": "sinh ra"
-          }
+            "vi": "được sinh ra"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_2c93cf289af4cfeb589b4b29d6949cf5.mp3"
         }
       ],
       "section_num": 1,
       "cultural_note": {
-        "en": "This expression metaphorically represents a strong desire and firm resolve to make a completely new start towards the highest goal, or to be completely reborn into a better version of oneself.",
-        "es": "Esta expresión representa metafóricamente un fuerte deseo y una firme determinación de comenzar de nuevo hacia la meta más alta, o de renacer completamente para convertirse en una mejor versión de uno mismo.",
-        "id": "Ungkapan ini secara metaforis mewakili keinginan kuat dan tekad yang bulat untuk memulai awal yang benar-benar baru menuju tujuan tertinggi, atau untuk sepenuhnya terlahir kembali menjadi versi diri yang lebih baik.",
-        "jp": "この表現は、最高の目標に向かって完全に新しいスタートを切ったり、より良い自分に完全に生まれ変わろうとする強い願望と悲壮な覚悟を比喩的に表します。",
+        "en": "This expression metaphorically represents a strong desire and grim determination to make a completely new start towards the highest goal, or to be completely reborn into a better self.",
+        "es": "Esta expresión representa metafóricamente un fuerte deseo y una sombría determinación de comenzar de nuevo por completo hacia la meta más alta, o de renacer completamente en una versión mejor de uno mismo.",
+        "id": "Ungkapan ini secara metaforis menggambarkan keinginan kuat dan tekad bulat untuk membuat awal yang benar-benar baru menuju tujuan tertinggi, atau untuk terlahir kembali sepenuhnya menjadi diri yang lebih baik.",
+        "jp": "この表現は、最高の目標に向かって完全に新しいスタートを切ったり、より良い自分に完全に生まれ変わろうとする強い願望と悲壮な覚悟を比喩的に表しています。",
         "ko": "이 표현은 최고 목표를 향해 완전히 새로운 시작을 하거나, 더 나은 모습으로 완전히 거듭나고자 하는 강한 열망과 비장한 각오를 비유적으로 나타냅니다.",
-        "vi": "Cách diễn đạt này ẩn dụ cho một mong muốn mạnh mẽ và quyết tâm sắt đá muốn bắt đầu một khởi đầu hoàn toàn mới hướng tới mục tiêu cao nhất, hoặc hoàn toàn tái sinh thành một phiên bản tốt đẹp hơn của chính mình."
+        "vi": "Biểu hiện này mang tính ẩn dụ, thể hiện mong muốn mạnh mẽ và quyết tâm mãnh liệt để bắt đầu một khởi đầu hoàn toàn mới hướng tới mục tiêu cao nhất, hoặc để hoàn toàn tái sinh thành một phiên bản tốt hơn của chính mình."
       }
     },
     {
       "scripts": {
-        "en": "Did you see their eyes? They're really chilling. Because they changed their mask depending on the need.",
-        "es": "¿Viste su mirada? Es realmente inquietante. Porque se puso una máscara diferente según la necesidad.",
+        "en": "Did you see their eyes? They're really chilling. Because they change their mask according to their needs.",
+        "es": "¿Viste su mirada? Es realmente escalofriante. Porque se ponía una máscara diferente según sus necesidades.",
         "id": "Kau lihat tatapan matanya? Benar-benar menyeramkan. Karena dia berganti topeng sesuai kebutuhan.",
-        "jp": "あいつの目つき見た？すごく冷たい。必要に応じて仮面を使い分けていたからね。",
+        "jp": "あいつの目つき見た？すごく冷たい感じがする。必要に応じて仮面を使い分けていたからね。",
         "ko": "걔 눈빛 봤어? 되게 쌔해. 필요에 따라 가면을 바꿔썼으니까요.",
-        "vi": "Bạn có thấy ánh mắt của họ không? Thực sự lạnh lẽo. Bởi vì họ đã thay đổi mặt nạ tùy theo nhu cầu."
+        "vi": "Bạn có thấy ánh mắt của cậu ta không? Thật sự rất đáng sợ. Vì cậu ta đã thay đổi mặt nạ tùy theo nhu cầu."
       },
       "end_time": 15.6,
       "start_time": 8.5,
@@ -134,105 +137,111 @@
         {
           "word": "눈빛",
           "meanings": {
-            "en": "gaze, look (in one's eyes), expression (of the eyes)",
-            "es": "mirada, expresión (de los ojos)",
-            "id": "tatapan, pandangan",
-            "jp": "目つき、眼差し",
-            "vi": "ánh mắt, cái nhìn"
-          }
+            "en": "gaze, look in one's eyes",
+            "es": "mirada",
+            "id": "tatapan mata",
+            "jp": "目つき、まなざし",
+            "vi": "ánh mắt"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_55b946f2cc422964d175b1be78f326d4.mp3"
         },
         {
           "word": "쌔하다",
           "meanings": {
-            "en": "to feel chilling, creepy, ominous (slang, used when something feels cold, strange, or untrustworthy)",
-            "es": "sentir escalofríos, ser espeluznante, inquietante (jerga, se usa cuando algo se siente frío, extraño o poco confiable)",
-            "id": "merasa seram, dingin, aneh (slang, ketika ada perasaan dingin, aneh, atau tidak dapat dipercaya)",
-            "jp": "ぞっとする、冷たい、不気味だ（俗語、冷たい、不自然、信頼できないと感じるときに使う）",
-            "vi": "có cảm giác rờn rợn, lạnh sống lưng, không ổn (tiếng lóng, khi cảm thấy lạnh lẽo, kỳ lạ hoặc không đáng tin)"
-          }
+            "en": "to feel chilling, to feel ominous/uncomfortable (due to someone's cold/insincere demeanor)",
+            "es": "sentirse escalofriante, sentirse siniestro/incómodo (debido a la actitud fría/insincera de alguien)",
+            "id": "terasa menyeramkan, terasa tidak nyaman (karena sikap dingin/tidak tulus seseorang)",
+            "jp": "ぞっとするような感じがする、冷たい感じがする",
+            "vi": "cảm thấy lạnh lẽo, đáng sợ (do thái độ lạnh nhạt, không chân thành)"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_c98908d8181be42b458a36e04b0e70b9.mp3"
         },
         {
-          "word": "가면을 바꿔쓰다",
+          "word": "가면",
           "meanings": {
-            "en": "to change one's mask, to act hypocritically or deceptively according to the situation (idiom)",
-            "es": "cambiar de máscara, actuar con hipocresía o engaño según la situación (modismo)",
-            "id": "berganti topeng, bertindak munafik atau menipu sesuai situasi (idiom)",
-            "jp": "仮面を使い分ける、状況に応じて態度を変える（慣用句）",
-            "vi": "thay đổi mặt nạ, thay đổi thái độ để che giấu sự thật (thành ngữ)"
-          }
+            "en": "mask",
+            "es": "máscara",
+            "id": "topeng",
+            "jp": "仮面",
+            "vi": "mặt nạ"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_b88a3284c3a9047ddc357cf998d7aac8.mp3"
         }
       ],
       "section_num": 2,
       "cultural_note": {
-        "en": "\"쌔하다\" is a slang term used when one feels an ominous or uncomfortable sensation from someone's expression or attitude, suggesting they are cold or insincere. '가면을 바꿔 쓴다' (to change one's mask) metaphorically describes hiding one's true feelings and acting hypocritically depending on the situation.",
-        "es": "\"쌔하다\" es una jerga que se usa cuando uno siente una sensación ominosa o incómoda por la expresión o actitud de alguien, sugiriendo que son fríos o insinceros. '가면을 바꿔 쓴다' (cambiar la máscara) describe metafóricamente ocultar los verdaderos sentimientos y actuar hipócritamente según la situación.",
-        "id": "\"쌔하다\" adalah istilah slang yang digunakan ketika seseorang merasakan firasat buruk atau perasaan tidak nyaman dari ekspresi atau sikap orang lain, menunjukkan bahwa mereka dingin atau tidak tulus. '가면을 바꿔 쓴다' (mengganti topeng) secara metaforis menggambarkan menyembunyikan perasaan sejati dan bertindak munafik tergantung pada situasi.",
-        "jp": "「쌔하다」は、相手の表情や態度から冷たさや誠実さが感じられず、不吉で不快な気分がするときに使う俗語です。「가면을 바꿔 쓴다」（仮面を変えてかぶる）という言葉は、状況に応じて本心を隠し、偽善的に行動することを比喩しています。",
+        "en": "\"쌔하다\" is a slang term used when one feels an ominous or uncomfortable sensation due to a person's cold or insincere expression or attitude. 'To change one's mask' metaphorically describes hiding one's true feelings and acting hypocritically depending on the situation.",
+        "es": "\"쌔하다\" es una jerga que se usa cuando uno siente una sensación ominosa o incómoda debido a la expresión o actitud fría o insincera de una persona. 'Cambiar la máscara' describe metafóricamente ocultar los verdaderos sentimientos y actuar hipócritamente según la situación.",
+        "id": "\"쌔하다\" adalah istilah slang yang digunakan ketika seseorang merasa tidak enak atau tidak nyaman karena ekspresi atau sikap dingin dan tidak tulus dari orang lain. 'Mengganti topeng' secara metaforis menggambarkan menyembunyikan perasaan sejati dan bertindak munafik tergantung pada situasi.",
+        "jp": "「쌔하다」は、相手の表情や態度から冷たさや本心が感じられず、不吉で不快な気分になる時に使われる俗語です。「仮面を使い分ける」という言葉は、状況によって本心を隠し、偽善的に行動することを比喩的に表します。",
         "ko": "\"쌔하다\"는 상대방의 표정이나 태도에서 차갑거나 진정성이 느껴지지 않아 불길하고 불편한 기분이 들 때 사용하는 속어입니다. '가면을 바꿔 쓴다'는 말은 상황에 따라 진심을 숨기고 위선적으로 행동한다는 것을 비유합니다.",
-        "vi": "\"쌔하다\" là một tiếng lóng được sử dụng khi cảm thấy có điều gì đó không ổn, lạnh lẽo hoặc không chân thành từ biểu cảm hay thái độ của đối phương, tạo cảm giác bất an và khó chịu. '가면을 바꿔 쓴다' (thay đổi mặt nạ) là phép ẩn dụ cho việc che giấu cảm xúc thật và hành động đạo đức giả tùy theo tình huống."
+        "vi": "\"쌔하다\" là một tiếng lóng được sử dụng khi cảm thấy điềm xấu hoặc khó chịu do biểu cảm hoặc thái độ lạnh lùng, không chân thật của đối phương. Cụm từ 'thay đổi mặt nạ' là ẩn dụ cho việc che giấu cảm xúc thật và hành động đạo đức giả tùy theo tình huống."
       }
     },
     {
       "scripts": {
-        "en": "In front, they pretend to be a model student, but behind, they shamefully extort money from kids.",
-        "es": "Por delante, finge ser un estudiante ejemplar, pero por detrás, extorsiona dinero a los niños de forma sucia.",
-        "id": "Di depan, dia pura-pura jadi siswa teladan, tapi di belakang, dia secara kotor memeras uang anak-anak.",
-        "jp": "前では優等生ぶって、裏では汚く子供たちからお金を巻き上げてるんだ。",
+        "en": "Acting like a model student in front, but behind the scenes, sordidly extorting money from kids.",
+        "es": "Delante, fingiendo ser un estudiante ejemplar, pero por detrás, sórdidamente extorsionando dinero a los niños.",
+        "id": "Di depan berpura-pura jadi siswa teladan, tapi di belakang dengan kotornya memeras uang anak-anak.",
+        "jp": "表向きは優等生のふりをして、裏では汚く子供たちから金を巻き上げている。",
         "ko": "앞에서는 모범생인 척, 뒤에서는 추잡하게 애들 돈이나 뜯고.",
-        "vi": "Trước mặt thì giả vờ là học sinh gương mẫu, sau lưng lại bẩn thỉu moi tiền của bọn trẻ."
+        "vi": "Trước mặt thì giả vờ là học sinh gương mẫu, nhưng sau lưng lại bẩn thỉu tống tiền bọn trẻ."
       },
       "end_time": 20.8,
       "start_time": 16.0,
       "vocabulary": [
         {
-          "word": "모범생인 척하다",
+          "word": "모범생",
           "meanings": {
-            "en": "to pretend to be a model student",
-            "es": "fingir ser un estudiante ejemplar",
-            "id": "berpura-pura menjadi siswa teladan",
-            "jp": "優等生ぶる、模範生であるふりをする",
-            "vi": "giả vờ là học sinh gương mẫu"
-          }
+            "en": "model student",
+            "es": "estudiante modelo",
+            "id": "siswa teladan",
+            "jp": "優等生、模範生",
+            "vi": "học sinh gương mẫu"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_877a500a34d9184fefae3ff5df2e68db.mp3"
         },
         {
           "word": "추잡하다",
           "meanings": {
-            "en": "to be dirty, sordid, despicable, shameful",
-            "es": "ser sucio, sórdido, despreciable",
-            "id": "kotor, menjijikkan, keji",
-            "jp": "醜悪だ、下劣だ、汚らしい",
-            "vi": "bẩn thỉu, ti tiện, đáng khinh"
-          }
+            "en": "sordid, filthy, vulgar, despicable",
+            "es": "sórdido, inmundo, vil",
+            "id": "kotor, cabul, menjijikkan",
+            "jp": "汚い、下品だ、卑劣だ",
+            "vi": "bẩn thỉu, ti tiện, đê tiện"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_7ed470c729dede5d33baa00f6a6dfa88.mp3"
         },
         {
-          "word": "돈을 뜯다",
+          "word": "뜯다",
           "meanings": {
-            "en": "to extort money, to squeeze money out of someone",
-            "es": "extorsionar dinero, sacarle dinero a alguien",
-            "id": "memeras uang",
-            "jp": "金を巻き上げる、金をゆする",
-            "vi": "moi tiền, tống tiền"
-          }
+            "en": "to extort, to fleece (money)",
+            "es": "extorsionar, despojar (dinero)",
+            "id": "memeras (uang)",
+            "jp": "巻き上げる、たかる (金銭を)",
+            "vi": "tống tiền, bòn rút (tiền)"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_dd8fe28ae5c6a079610cfe78babde042.mp3"
         }
       ],
       "section_num": 3,
       "cultural_note": {
-        "en": "This expression criticizes a form of hypocritical and despicable school violence where someone appears to be a model student on the surface but repeatedly extorts money from weaker individuals (mainly younger students or juniors) behind the scenes.",
-        "es": "Esta expresión critica una forma de violencia escolar hipócrita y despreciable en la que alguien se presenta como un estudiante ejemplar en la superficie, pero a sus espaldas extorsiona dinero repetidamente a individuos más débiles (principalmente estudiantes más jóvenes o de menor rango).",
-        "id": "Ungkapan ini mengkritik bentuk kekerasan sekolah yang munafik dan keji di mana seseorang tampak seperti siswa teladan di permukaan, tetapi di balik itu berulang kali memeras uang dari individu yang lebih lemah (terutama siswa yang lebih muda atau junior).",
+        "en": "This expression criticizes a hypocritical and despicable form of school violence, where someone outwardly appears to be a model student but covertly and repeatedly extorts money from weaker individuals (mainly younger students or juniors).",
+        "es": "Esta expresión critica una forma hipócrita y despreciable de violencia escolar, donde alguien exteriormente parece un estudiante modelo pero encubiertamente y repetidamente extorsiona dinero a individuos más débiles (principalmente estudiantes más jóvenes o de menor rango).",
+        "id": "Ungkapan ini mengkritik bentuk kekerasan di sekolah yang munafik dan tercela, di mana seseorang di luar tampak seperti siswa teladan tetapi secara diam-diam dan berulang kali memeras uang dari individu yang lebih lemah (terutama siswa yang lebih muda atau junior).",
         "jp": "これは、表向きは模範的な姿を見せながら、裏では弱者（主に年下の生徒や後輩）から繰り返し金銭を搾取する、偽善的で卑劣な学校暴力の一形態を批判する表現です。",
         "ko": "이는 겉으로는 모범적인 모습을 보이지만 뒤로는 약자(주로 어린 학생들이나 후배들)의 돈을 반복적으로 갈취하는, 위선적이고 비열한 학교 폭력의 한 형태를 비판하는 표현입니다.",
-        "vi": "Cách diễn đạt này chỉ trích một hình thức bạo lực học đường đạo đức giả và đáng khinh, nơi một người thể hiện mình là học sinh gương mẫu bên ngoài nhưng lại liên tục tống tiền những cá nhân yếu hơn (chủ yếu là học sinh nhỏ tuổi hơn hoặc đàn em) một cách lén lút."
+        "vi": "Đây là một cách diễn đạt chỉ trích một hình thức bạo lực học đường đạo đức giả và đáng khinh, nơi một người bên ngoài tỏ ra là học sinh gương mẫu nhưng lại lén lút và lặp đi lặp lại việc tống tiền những người yếu thế (chủ yếu là học sinh nhỏ tuổi hoặc đàn em)."
       }
     },
     {
       "scripts": {
         "en": "You're not useless. At least not to me. How far can you go for me?",
-        "es": "No eres inútil. Al menos para mí no. ¿Hasta dónde puedes llegar por mí?",
-        "id": "Kamu tidak tidak berguna. Setidaknya bagiku. Sejauh mana kamu bisa melakukan sesuatu untukku?",
-        "jp": "君は無用じゃない。少なくとも私にとってはね。私のためにどこまでできるの？",
+        "es": "No eres inútil. Al menos no para mí. ¿Hasta dónde puedes llegar por mí?",
+        "id": "Kau tidak berguna. Setidaknya bagiku tidak. Seberapa jauh kau bisa melakukannya untukku?",
+        "jp": "君は役に立たなくない。少なくとも私にとってはね。君は私のためにどこまでできる？",
         "ko": "너 쓸모 없지 않아. 적어도 나한테는. 넌 날 위해 어디까지 해줄 수 있어?",
-        "vi": "Bạn không vô dụng đâu. Ít nhất là đối với tôi. Bạn có thể làm được gì cho tôi?"
+        "vi": "Cậu không vô dụng đâu. Ít nhất là đối với tôi. Cậu có thể làm được gì cho tôi?"
       },
       "end_time": 48.0,
       "start_time": 41.2,
@@ -240,12 +249,13 @@
         {
           "word": "쓸모없다",
           "meanings": {
-            "en": "to be useless, worthless",
-            "es": "ser inútil, inservible",
-            "id": "tidak berguna",
-            "jp": "役に立たない、無駄だ",
+            "en": "to be useless, to be worthless",
+            "es": "inútil, inservible",
+            "id": "tidak berguna, tidak bermanfaat",
+            "jp": "役に立たない、無用だ",
             "vi": "vô dụng"
-          }
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_8975e92c2df93d66f6d8a3d07f45cb93.mp3"
         },
         {
           "word": "적어도",
@@ -255,27 +265,18 @@
             "id": "setidaknya",
             "jp": "少なくとも",
             "vi": "ít nhất"
-          }
-        },
-        {
-          "word": "어디까지",
-          "meanings": {
-            "en": "how far, to what extent",
-            "es": "hasta dónde, hasta qué punto",
-            "id": "sejauh mana",
-            "jp": "どこまで、どの程度まで",
-            "vi": "đến đâu, đến mức nào"
-          }
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_7bab2c4a0e6af4051d48c7f18b19e9b8.mp3"
         }
       ],
       "section_num": 4,
       "cultural_note": {
-        "en": "This is a question that tests the loyalty and dedication of the other person, emotionally pressuring them for a specific purpose. It's a line spoken by the female lead to manipulate a male character's affection for her own ends.",
-        "es": "Esta es una pregunta que pone a prueba la lealtad y dedicación de la otra persona, presionándola emocionalmente para un propósito específico. Es una frase dicha por la protagonista femenina para manipular el afecto del personaje masculino para sus propios fines.",
-        "id": "Ini adalah pertanyaan yang menguji kesetiaan dan dedikasi orang lain, menekan mereka secara emosional untuk tujuan tertentu. Ini adalah dialog yang diucapkan oleh pemeran utama wanita untuk memanfaatkan kasih sayang pemeran pria demi tujuannya sendiri.",
-        "jp": "相手の忠誠心と献身を試み、特定の目的のために感情的に圧迫する質問です。女性主人公が相手の男性の好意を利用するために言ったセリフです。",
+        "en": "This is a question that tests someone's loyalty and devotion, emotionally pressuring them for a specific purpose. It's a line spoken by the female protagonist to exploit the male counterpart's affection.",
+        "es": "Esta es una pregunta que pone a prueba la lealtad y devoción de alguien, presionándolos emocionalmente para un propósito específico. Es una línea pronunciada por la protagonista femenina para explotar el afecto del personaje masculino.",
+        "id": "Ini adalah pertanyaan yang menguji kesetiaan dan pengabdian seseorang, memberikan tekanan emosional untuk tujuan tertentu. Ini adalah kalimat yang diucapkan oleh protagonis wanita untuk memanfaatkan kasih sayang lawan main pria.",
+        "jp": "相手の忠誠心と献身を試しながら、特定の目的のために感情的に圧力をかける質問です。女性主人公が相手の男性の好意を利用するために吐いたセリフです。",
         "ko": "상대방의 충성심과 헌신을 시험하며, 특정 목적을 위해 감정적으로 압박하는 질문입니다. 여주인공이 상대 남성의 호감을 이용하기 위해 내뱉은 대사입니다.",
-        "vi": "Đây là một câu hỏi nhằm kiểm tra lòng trung thành và sự cống hiến của đối phương, gây áp lực về mặt cảm xúc để đạt được một mục đích cụ thể. Đây là lời thoại của nữ chính nhằm lợi dụng tình cảm của nam nhân vật."
+        "vi": "Đây là một câu hỏi nhằm thử thách lòng trung thành và sự tận tâm của đối phương, đồng thời gây áp lực tình cảm vì một mục đích cụ thể. Đây là lời thoại của nữ chính nhằm lợi dụng tình cảm của nam chính."
       }
     }
   ]

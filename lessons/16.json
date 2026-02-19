@@ -2,280 +2,326 @@
   "quiz": {
     "options": [
       {
-        "en": "Park Geon is a necromancer with supernatural powers, indicating a fantasy setting.",
-        "es": "Park Geon es un nigromante con poderes sobrenaturales, lo que indica un entorno de fantasía.",
-        "id": "Park Geon adalah seorang ahli nujum dengan kekuatan supernatural, menunjukkan latar fantasi.",
-        "jp": "パク・ゴンは超自然的な力を持つ霊媒師で、ファンタジーの舞台を示しています。",
-        "ko": "박건은 초자연적인 힘을 가진 강령술사이며, 환상적인 배경을 나타냅니다.",
-        "vi": "Park Geon là một pháp sư gọi hồn có sức mạnh siêu nhiên, cho thấy một bối cảnh giả tưởng."
+        "en": "It is to blame the other person for being the cause of a truly serious problem.",
+        "es": "Es culpar a la otra persona por ser la causa de un problema realmente serio.",
+        "id": "Ini adalah untuk menyalahkan orang lain karena menjadi penyebab masalah yang sangat serius.",
+        "jp": "相手が本当に深刻な問題の原因だと非難することである。",
+        "ko": "상대방이 정말 심각한 문제의 원인이라고 비난하는 것이다.",
+        "vi": "Là đổ lỗi cho đối phương là nguyên nhân của một vấn đề thực sự nghiêm trọng."
       },
       {
-        "en": "Park Geon is an extremely competent individual who can achieve impossible tasks, suggesting a sensitive situation and potential North Korean context.",
-        "es": "Park Geon es un individuo extremadamente competente que puede lograr tareas imposibles, lo que sugiere una situación delicada y un posible contexto norcoreano.",
-        "id": "Park Geon adalah individu yang sangat kompeten yang dapat menyelesaikan tugas-tugas mustahil, menunjukkan situasi yang sensitif dan potensi konteks Korea Utara.",
-        "jp": "パク・ゴンは不可能も成し遂げる非常に有能な人物であり、状況が敏感で北朝鮮と関連している可能性があることを暗示しています。",
-        "ko": "박건은 불가능한 일도 해내는 매우 유능한 인물이며, 상황이 민감하고 북한과 관련될 수 있음을 암시합니다.",
-        "vi": "Park Geon là một cá nhân cực kỳ năng lực, có thể hoàn thành những nhiệm vụ bất khả thi, gợi ý một tình huống nhạy cảm và bối cảnh có thể liên quan đến Bắc Triều Tiên."
+        "en": "It is asking the other person to solve the problem for them.",
+        "es": "Es pedirle a la otra persona que resuelva el problema por ellos.",
+        "id": "Ini adalah meminta orang lain untuk menyelesaikan masalah untuk mereka.",
+        "jp": "相手に自分のために問題を解決してくれるよう頼むことである。",
+        "ko": "상대방에게 자신을 위해 문제를 해결해 달라고 부탁하는 것이다.",
+        "vi": "Là nhờ đối phương giải quyết vấn đề giúp mình."
       },
       {
-        "en": "Park Geon is known for illegally kidnapping people, suggesting a criminal underworld background.",
-        "es": "Park Geon es conocido por secuestrar personas ilegalmente, lo que sugiere un trasfondo del hampa criminal.",
-        "id": "Park Geon dikenal karena menculik orang secara ilegal, menunjukkan latar belakang dunia bawah tanah kriminal.",
-        "jp": "パク・ゴンは人々を不法に誘拐することで知られており、犯罪組織の背景を示唆しています。",
-        "ko": "박건은 사람들을 불법적으로 납치하는 것으로 유명하며, 범죄 조직의 배경을 암시합니다.",
-        "vi": "Park Geon nổi tiếng về việc bắt cóc người trái phép, gợi ý về bối cảnh thế giới ngầm tội phạm."
+        "en": "It is humorously expressing affection or interest in the other person while teasing them.",
+        "es": "Es expresar afecto o interés por la otra persona de forma humorística, mientras se le bromea.",
+        "id": "Ini adalah mengungkapkan kasih sayang atau ketertarikan pada orang lain secara humoris sambil menggodanya.",
+        "jp": "相手に対する愛情や関心をユーモラスに表現し、からかうことである。",
+        "ko": "상대방에 대한 애정이나 관심을 유머러스하게 표현하며 놀리는 것이다.",
+        "vi": "Là thể hiện tình cảm hoặc sự quan tâm đối với đối phương một cách hài hước và trêu chọc."
       },
       {
-        "en": "Park Geon is a medical professional specializing in reviving critically ill patients.",
-        "es": "Park Geon es un profesional médico especializado en reanimar a pacientes críticamente enfermos.",
-        "id": "Park Geon adalah seorang profesional medis yang mengkhususkan diri dalam menghidupkan kembali pasien yang sakit kritis.",
-        "jp": "パク・ゴンは重篤な患者を蘇生させる専門医療従事者です。",
-        "ko": "박건은 위독한 환자를 소생시키는 전문 의료인입니다.",
-        "vi": "Park Geon là một chuyên gia y tế chuyên hồi sinh bệnh nhân trong tình trạng nguy kịch."
+        "en": "It is trying to shift one's own problem onto the other person.",
+        "es": "Es intentar traspasar los propios problemas a la otra persona.",
+        "id": "Ini adalah mencoba melimpahkan masalahnya sendiri kepada orang lain.",
+        "jp": "自分の悩みを相手に押し付けようとすることである。",
+        "ko": "자신의 고민을 상대방에게 떠넘기려는 것이다.",
+        "vi": "Là cố gắng đẩy gánh nặng của mình sang cho đối phương."
       }
     ],
     "question": {
-      "en": "What does the phrase \"Comrade Park Geon, who is said to even bring back the dead,\" combined with the term \"동무\" (dong-mu), primarily suggest about the character Park Geon and the setting?",
-      "es": "¿Qué sugiere principalmente la frase \"El camarada Park Geon, de quien se dice que incluso trae de vuelta a los muertos,\" combinada con el término \"동무\" (dong-mu), sobre el personaje Park Geon y el contexto?",
-      "id": "Apa yang terutama disiratkan oleh frasa \"Kamerad Park Geon, yang katanya bisa membawa kembali orang mati,\" digabungkan dengan istilah \"동무\" (dong-mu), tentang karakter Park Geon dan latar belakangnya?",
-      "jp": "「死者さえも連れてくるというパク・ゴン同志」というフレーズと「동무(トンム)」という呼称は、パク・ゴンという人物と背景について主に何を暗示していますか？",
-      "ko": "“죽은 사람도 잡아 온다는 박건 동무”라는 구절과 “동무”라는 호칭은 박건이라는 인물과 배경에 대해 주로 무엇을 암시합니까?",
-      "vi": "Cụm từ \"Đồng chí Park Geon, người được cho là có thể bắt cả người chết về\" kết hợp với từ \"동무\" (dong-mu) chủ yếu gợi ý điều gì về nhân vật Park Geon và bối cảnh?"
+      "en": "In the conversation, \"They say you have a problem? Oh... If I ask, 'What kind of problem?', they'd say, 'You are my problem.'\" What is the most appropriate intention of the person saying \"You are my problem\"?",
+      "es": "En la conversación, \"¿Dicen que tienes un problema? Ah... Si pregunto, '¿Qué clase de problema?', dirían, 'Tú eres mi problema'.\" ¿Cuál es la intención más apropiada de la persona que dice \"Tú eres mi problema\"?",
+      "id": "Dalam percakapan, \"Katanya kamu punya masalah? Oh... Kalau aku bertanya, 'Masalah apa?', mereka akan bilang, 'Kaulah masalahku.'\" Apa niat paling tepat dari orang yang mengatakan \"Kaulah masalahku\"?",
+      "jp": "「君、悩みがあるって言ってるの？あ...『何の悩みですか？』って聞いたら、『君が僕の悩みだよ。』って言うんだ。」という会話で、「君が僕の悩みだよ」と言っている人の意図として最も適切なものは何でしょうか？",
+      "ko": "\"너 고민 있다고 그래? 아.. 무슨 고민이요? 라고 물어보면 \\\"네가 내 고민이다.\\\" 그래.\" 라는 대화에서, \"네가 내 고민이다\"라고 말하는 사람의 의도로 가장 적절한 것은 무엇일까요?",
+      "vi": "Trong đoạn hội thoại: \"Họ nói là bạn có chuyện phải lo à? À... Nếu tôi hỏi 'Lo chuyện gì vậy?', họ sẽ nói 'Em là nỗi lo của anh đấy'.\" Ý định phù hợp nhất của người nói \"Em là nỗi lo của anh đấy\" là gì?"
     },
-    "answer_index": 1
+    "answer_index": 2
   },
   "metadata": {
     "titles": {
-      "en": "Humint | Trailer",
-      "es": "Humint | Tráiler",
-      "id": "Humint | Trailer",
-      "jp": "ヒューミント | 予告編",
-      "ko": "휴민트 | 예고편",
-      "vi": "Humint | Đoạn giới thiệu"
+      "en": "Pavane (2026)",
+      "es": "Pavana (2026)",
+      "id": "Pavane (2026)",
+      "jp": "Pavane (2026)",
+      "ko": "파반느 공시 예고편 | Netflix ",
+      "vi": "Pavane (2026)"
     },
     "categories": {
-      "en": "Movie, Action, Thriller",
-      "es": "Película, Acción, Thriller",
-      "id": "Film, Aksi, Thriller",
-      "jp": "映画、アクション、スリラー",
-      "ko": "영화, 액션, 스릴러",
-      "vi": "Phim, Hành động, Ly kỳ"
+      "en": "Drama, Romance",
+      "es": "Drama, Romance",
+      "id": "Drama, Romansa",
+      "jp": "ドラマ、ロマンス",
+      "ko": "드라마, 멜로",
+      "vi": "Phim truyền hình, Tình cảm"
     },
     "difficulty": 3,
-    "youtube_id": "uKOYQ1e4lv4",
-    "youtube_url": "https://www.youtube.com/watch?v=uKOYQ1e4lv4"
+    "youtube_id": "eaWMv7rgqwY",
+    "youtube_url": "https://www.youtube.com/watch?v=eaWMv7rgqwY"
   },
   "learning_sections": [
     {
       "scripts": {
-        "en": "Comrade Park Geon, who is said to even bring back the dead, has come to monitor me. Did you do anything that warrants monitoring?",
-        "es": "El camarada Park Geon, de quien se dice que incluso trae de vuelta a los muertos, ha venido a vigilarme. ¿Hizo usted algo que merezca ser vigilado?",
-        "id": "Kamerad Park Geon, yang katanya bisa membawa kembali orang mati, datang untuk mengawasiku. Apa Anda melakukan sesuatu yang pantas diawasi?",
-        "jp": "死者さえも連れてくるというパク・ゴン同志が私を監視しに来ましたが。監視されるような行動でもなさいましたか？",
-        "ko": "죽은 사람도 잡아 온다는 박건 동무가 날 감시하러 왔는데. 감시받을 행동이라도 하셨습니까?",
-        "vi": "Đồng chí Park Geon, người được cho là có thể bắt cả người chết về, đã đến để giám sát tôi. Anh đã làm gì mà cần phải bị giám sát?"
+        "en": "Why did you run here? It would've been fine if you walked...",
+        "es": "¿Por qué corriste hasta aquí? Estaba bien si venías caminando...",
+        "id": "Kenapa kamu lari kemari? Seharusnya tidak apa-apa kalau jalan kaki...",
+        "jp": "どうして走ってきたんですか？歩いてきても大丈夫なのに...",
+        "ko": "왜 달려왔어요? 걸어와도 괜찮은데... ",
+        "vi": "Sao anh lại chạy đến đây? Đi bộ cũng được mà..."
       },
-      "end_time": 23.0,
-      "start_time": 14.0,
+      "end_time": 5.6,
+      "start_time": 0.0,
       "vocabulary": [
         {
-          "word": "잡아 온다",
+          "word": "달려오다",
           "meanings": {
-            "en": "brings back (even the dead), captures and brings",
-            "es": "trae de vuelta, captura y trae",
-            "id": "membawa kembali, menangkap dan membawa",
-            "jp": "連れてくる、捕まえてくる",
-            "vi": "bắt về, mang về"
-          }
+            "en": "to run here, to come running",
+            "es": "venir corriendo",
+            "id": "berlari kemari",
+            "jp": "走ってくる",
+            "vi": "chạy đến"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_f9f9ba9c88bb1c4782c77ad6d830f45e.mp3"
         },
         {
-          "word": "감시하다",
+          "word": "걸어오다",
           "meanings": {
-            "en": "to monitor, to surveil",
-            "es": "vigilar, monitorear",
-            "id": "mengawasi, memantau",
-            "jp": "監視する",
-            "vi": "giám sát, theo dõi"
-          }
+            "en": "to walk here, to come walking",
+            "es": "venir caminando",
+            "id": "berjalan kemari",
+            "jp": "歩いてくる",
+            "vi": "đi bộ đến"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_5afc124f38c0b57d80ac6b10cf6f0aed.mp3"
         },
         {
-          "word": "동무",
+          "word": "괜찮다",
           "meanings": {
-            "en": "comrade (used mainly in North Korea)",
-            "es": "camarada (usado principalmente en Corea del Norte)",
-            "id": "kamerad (digunakan terutama di Korea Utara)",
-            "jp": "同志 (主に北朝鮮で使用)",
-            "vi": "đồng chí (chủ yếu dùng ở Bắc Triều Tiên)"
-          }
+            "en": "to be okay, to be fine",
+            "es": "estar bien, no pasa nada",
+            "id": "tidak apa-apa",
+            "jp": "大丈夫だ",
+            "vi": "không sao, ổn"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_c48cbf63d40a51b89cbd41867973e918.mp3"
         }
       ],
       "section_num": 1,
       "cultural_note": {
-        "en": "The phrase '죽은 사람도 잡아 온다' (even brings back the dead) is an exaggerated idiomatic expression referring to a capable person who can accomplish impossible tasks. Also, the title '동무' (dong-mu) is mainly used in North Korea to mean 'comrade,' implying that this conversation is set against a North Korean backdrop or a specific ideological situation.",
-        "es": "La frase '죽은 사람도 잡아 온다' (incluso trae de vuelta a los muertos) es una expresión idiomática exagerada que se refiere a una persona capaz que puede lograr tareas imposibles. Además, el término '동무' (dong-mu) se usa principalmente en Corea del Norte con el significado de 'camarada', lo que implica que esta conversación tiene lugar en un contexto norcoreano o en una situación ideológica específica.",
-        "id": "Ungkapan '죽은 사람도 잡아 온다' (bahkan bisa membawa kembali orang mati) adalah ekspresi idiomatik yang dilebih-lebihkan yang mengacu pada orang yang cakap yang dapat menyelesaikan tugas-tugas mustahil. Selain itu, sebutan '동무' (dong-mu) sebagian besar digunakan di Korea Utara untuk berarti 'kamerad', menyiratkan bahwa percakapan ini berlatar belakang Korea Utara atau situasi ideologis tertentu.",
-        "jp": "「죽은 사람も連れてくる」という言葉は、不可能なことでも成し遂げる有能な人を指す誇張された慣用表現です。また、「동무(トンム)」という呼称は、主に北朝鮮で「同志」の意味で使われるため、この会話が北朝鮮を背景にしているか、特殊なイデオロギー的状況にあることを示唆しています。",
-        "ko": "'죽은 사람도 잡아 온다'는 말은 불가능한 일도 해내는 유능한 사람을 가리키는 과장된 관용 표현입니다. 또한 '동무'라는 호칭은 주로 북한에서 '동지'의 의미로 사용되므로, 이 대화가 북한을 배경으로 하거나 특수한 이념적 상황에 놓여 있음을 암시합니다.",
-        "vi": "Cụm từ '죽은 사람도 잡아 온다' (thậm chí có thể bắt người chết về) là một thành ngữ phóng đại, ám chỉ người có năng lực có thể hoàn thành những việc bất khả thi. Ngoài ra, danh xưng '동무' (đồng chí) chủ yếu được sử dụng ở Bắc Triều Tiên với nghĩa 'đồng chí', ngụ ý rằng cuộc đối thoại này lấy bối cảnh ở Bắc Triều Tiên hoặc trong một tình huống tư tưởng đặc biệt."
+        "en": "This is used to express concern and consideration for someone who rushed unnecessarily for you, implying that they can come more comfortably next time.",
+        "es": "Se usa para expresar preocupación y consideración hacia alguien que se apresuró innecesariamente por uno, implicando que la próxima vez puede venir con más calma.",
+        "id": "Ini digunakan untuk mengungkapkan kekhawatiran dan perhatian terhadap seseorang yang terburu-buru secara tidak perlu demi Anda, menyiratkan bahwa mereka bisa datang dengan lebih santai lain kali.",
+        "jp": "相手が自分のために無理に急いでくれたことへの心配と配慮を込めて、「次からは楽に来ても大丈夫ですよ」という意味で使われます。",
+        "ko": "상대방이 자신을 위해 무리하게 서두른 것에 대한 걱정과 배려를 담아, 다음부터는 편하게 와도 된다는 의미로 사용됩니다.",
+        "vi": "Câu này được dùng để thể hiện sự lo lắng và quan tâm đến việc đối phương đã vội vã không cần thiết vì mình, ngụ ý rằng lần sau họ có thể đến thoải mái hơn."
       }
     },
     {
       "scripts": {
-        "en": "Why did you disappear so cruelly? You don't have to die with me.",
-        "es": "¿Por qué desapareciste tan cruelmente? No hay necesidad de morir juntos.",
-        "id": "Mengapa Anda menghilang dengan begitu kejam? Anda tidak perlu mati bersama saya.",
-        "jp": "なぜそこまで過酷に消えたのですか？一緒に死ぬ必要はありません。",
-        "ko": "왜 이렇게까지 가혹하게 사라졌소? 같이 죽을 필요 없습니다.",
-        "vi": "Sao anh lại biến mất một cách tàn nhẫn như vậy? Anh không cần phải chết cùng tôi."
+        "en": "You saw a dinosaur, didn't you? 'A dinosaur'...? Is it that kind of aura that makes people instantly intimidated, like meeting a 'dinosaur'?",
+        "es": "¿Viste un dinosaurio, verdad? ¿'Un dinosaurio'...? ¿Será un aura que intimida a la gente al instante, como si hubieran encontrado un 'dinosaurio'?",
+        "id": "Kamu melihat dinosaurus, kan? 'Dinosaurus'...? Apakah itu semacam aura yang membuat orang langsung ciut, seperti bertemu 'dinosaurus'?",
+        "jp": "恐竜を見たんだな？「恐竜」ですか...? 「恐竜」に会ったかのように、人を一瞬で怯えさせるオーラがある、とでも言うべきか？",
+        "ko": "공룡봤구나? '공룡'이요...? '공룡' 만난 것처럼 사람을 한번에 쫄게 만드는 아우라가 있고나 할까?",
+        "vi": "Bạn đã thấy khủng long rồi à? 'Khủng long' ư...? Có phải kiểu khí chất khiến người ta sợ hãi ngay lập tức như thể gặp 'khủng long' không?"
       },
-      "end_time": 46.0,
-      "start_time": 42.0,
+      "end_time": 24.8,
+      "start_time": 18.8,
       "vocabulary": [
         {
-          "word": "가혹하게",
+          "word": "공룡",
           "meanings": {
-            "en": "cruelly, harshly, severely",
-            "es": "cruelmente, duramente",
-            "id": "dengan kejam, dengan keras",
-            "jp": "過酷に、厳しく",
-            "vi": "một cách tàn nhẫn, khắc nghiệt"
-          }
+            "en": "dinosaur",
+            "es": "dinosaurio",
+            "id": "dinosaurus",
+            "jp": "恐竜",
+            "vi": "khủng long"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_3b37009ddff79c2ec0c2cb06ca918387.mp3"
         },
         {
-          "word": "사라지다",
+          "word": "쫄다",
           "meanings": {
-            "en": "to disappear, to vanish",
-            "es": "desaparecer",
-            "id": "menghilang",
-            "jp": "消える、姿を消す",
-            "vi": "biến mất"
-          }
+            "en": "to be intimidated, to get scared/nervous (slang/colloquial)",
+            "es": "intimidarse, acobardarse",
+            "id": "ciut nyali, takut",
+            "jp": "怯える、びびる",
+            "vi": "sợ hãi, e dè"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_0243ec0e45c99e64542f379e673f14c3.mp3"
         },
         {
-          "word": "-소",
+          "word": "아우라",
           "meanings": {
-            "en": "an archaic polite ending (used in historical dramas for serious, formal tone)",
-            "es": "un final educado arcaico (usado en dramas históricos para un tono serio y formal)",
-            "id": "akhiran sopan kuno (digunakan dalam drama sejarah untuk nada serius dan formal)",
-            "jp": "古風で丁寧な語尾 (時代劇などで真剣で格式ある雰囲気を演出する際に使用)",
-            "vi": "đuôi câu trang trọng cổ xưa (dùng trong phim cổ trang để tạo không khí nghiêm túc, trang trọng)"
-          }
+            "en": "aura",
+            "es": "aura",
+            "id": "aura",
+            "jp": "オーラ",
+            "vi": "khí chất, vầng hào quang"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_be4b72ceec35191415fc09717c8acc8b.mp3"
         }
       ],
       "section_num": 2,
       "cultural_note": {
-        "en": "The ending '-소' is an archaic speech style rarely used in modern times, primarily employed in historical dramas to create a serious and formal atmosphere. Furthermore, the expression '같이 죽는다' (to die together) indicates a deep bond where one person's misfortune signifies the end for another, showcasing a sense of shared destiny.",
-        "es": "La terminación '-소' es un estilo de habla arcaico rara vez usado en la actualidad, empleado principalmente en dramas históricos para crear una atmósfera seria y formal. Además, la expresión '같이 죽는다' (morir juntos) indica un vínculo profundo donde la desgracia de una persona significa el fin para otra, mostrando un sentido de destino compartido.",
-        "id": "Akhiran '-소' adalah gaya bicara kuno yang jarang digunakan di zaman modern, terutama digunakan dalam drama sejarah untuk menciptakan suasana serius dan formal. Selain itu, ungkapan '같이 죽는다' (mati bersama) menunjukkan ikatan yang dalam di mana kemalangan satu orang berarti akhir bagi orang lain, menunjukkan perasaan takdir bersama.",
-        "jp": "語尾「-소」は、現代ではあまり使われない古風な話し方で、時代劇などで真剣で格式のある雰囲気を演出する際に使われます。また、「같이 죽는다(一緒に死ぬ)」という表現は、一人の不幸が他の人の終わりを意味するほど深い絆を示し、運命共同体的な感情を見せるセリフです。",
-        "ko": "'-소'라는 어미는 현대에서는 잘 쓰지 않는 예스러운 말투로, 사극 등에서 진지하고 격식 있는 분위기를 연출할 때 사용됩니다. 또한 '같이 죽는다'는 표현은 한 사람의 불행이 다른 사람의 끝을 의미할 만큼 깊은 유대감을 나타내며, 운명 공동체적인 정서를 보여주는 대사입니다.",
-        "vi": "Đuôi câu '-소' là một kiểu nói cổ xưa ít được sử dụng trong thời hiện đại, chủ yếu dùng trong phim lịch sử để tạo không khí trang trọng và nghiêm túc. Hơn nữa, cụm từ '같이 죽는다' (chết cùng nhau) thể hiện một mối quan hệ gắn bó sâu sắc, nơi bất hạnh của một người có thể là dấu chấm hết cho người khác, thể hiện cảm giác cùng chung số phận."
+        "en": "A 'dinosaur' is perceived as a large, powerful, and threatening being. It's used metaphorically to describe a person's intense atmosphere or aura that overwhelms and instantly makes the other person nervous.",
+        "es": "Un 'dinosaurio' es percibido como un ser grande, poderoso y amenazante. Se usa metafóricamente para describir la atmósfera o el aura intensa de una persona que abruma e instantáneamente pone nerviosa a la otra persona.",
+        "id": "'Dinosaurus' dianggap sebagai makhluk besar, kuat, dan mengancam. Ini digunakan secara metaforis untuk menggambarkan suasana atau aura intens seseorang yang dapat mengintimidasi dan membuat orang lain langsung merasa gugup.",
+        "jp": "「恐竜」は大きくて強力で威嚇的な存在として認識されており、相手を圧倒し、瞬間的に緊張させる人の強烈な雰囲気やオーラを比喩的に表現する際に使われます。",
+        "ko": "\"공룡\"은 크고 강력하며 위협적인 존재로 인식되어, 상대를 압도하고 순간적으로 긴장하게 만드는 사람의 강렬한 분위기나 아우라를 비유적으로 표현할 때 사용됩니다.",
+        "vi": "\"Khủng long\" được coi là một sinh vật to lớn, mạnh mẽ và đáng sợ. Nó được dùng để ví von một người có khí chất hoặc hào quang mạnh mẽ, làm đối phương choáng ngợp và lập tức căng thẳng."
       }
     },
     {
       "scripts": {
-        "en": "If I decide today, what's the maximum number of days it would take to get them out?",
-        "es": "Si decido hoy, ¿en cuántos días como máximo podría sacarlos?",
-        "id": "Jika saya memutuskan hari ini, paling lambat berapa hari Anda bisa mengeluarkan mereka?",
-        "jp": "今日決めれば、最大何日で助け出していただけますか？",
-        "ko": "오늘 결정하면 최대 몇 일안에 빼내 주실 수 있겠습니까?",
-        "vi": "Nếu tôi quyết định hôm nay, tối đa bao nhiêu ngày thì anh có thể đưa họ ra ngoài?"
+        "en": "That summer. For the first time in his life, he fell in love.",
+        "es": "Aquel verano. Por primera vez en su vida, se enamoró.",
+        "id": "Musim panas itu. Untuk pertama kalinya dalam hidupnya, dia jatuh cinta.",
+        "jp": "その年の夏。彼は生まれて初めて恋に落ちた。",
+        "ko": "그해 여름. 그는 태어나 처음으로 사랑에 빠졌다. ",
+        "vi": "Mùa hè năm đó. Lần đầu tiên trong đời, anh ấy đã yêu."
       },
-      "end_time": 10.0,
-      "start_time": 3.0,
+      "end_time": 37.0,
+      "start_time": 31.0,
       "vocabulary": [
         {
-          "word": "결정하다",
+          "word": "그해",
           "meanings": {
-            "en": "to decide, to determine",
-            "es": "decidir",
-            "id": "memutuskan",
-            "jp": "決定する",
-            "vi": "quyết định"
-          }
+            "en": "that year",
+            "es": "aquel año",
+            "id": "tahun itu",
+            "jp": "その年",
+            "vi": "năm đó"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_ab784f57d0be42fe186f1948338b440b.mp3"
         },
         {
-          "word": "최대",
+          "word": "여름",
           "meanings": {
-            "en": "maximum, up to",
-            "es": "máximo",
-            "id": "maksimal",
-            "jp": "最大",
-            "vi": "tối đa"
-          }
+            "en": "summer",
+            "es": "verano",
+            "id": "musim panas",
+            "jp": "夏",
+            "vi": "mùa hè"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_38fe8860c575b3e31c053544ff39d71c.mp3"
         },
         {
-          "word": "빼내다",
+          "word": "사랑에 빠지다",
           "meanings": {
-            "en": "to extract, to pull out, to rescue (from difficulty)",
-            "es": "sacar, rescatar",
-            "id": "mengeluarkan, menyelamatkan",
-            "jp": "助け出す、引き出す",
-            "vi": "đưa ra ngoài, giải cứu"
-          }
+            "en": "to fall in love",
+            "es": "enamorarse",
+            "id": "jatuh cinta",
+            "jp": "恋に落ちる",
+            "vi": "yêu, rơi vào tình yêu"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_70317657abe48bc5af4dc93e2b4ea9a4.mp3"
         }
       ],
       "section_num": 3,
       "cultural_note": {
-        "en": "This sentence well illustrates a characteristic of Korean society that values speed in service. It reveals a practical attitude of wanting to confirm the 'fastest possible' schedule as a condition for a transaction before making an important decision.",
-        "es": "Esta oración ilustra bien una característica de la sociedad coreana que valora la rapidez en el servicio. Revela una actitud práctica de querer confirmar el horario 'lo más rápido posible' como condición para una transacción antes de tomar una decisión importante.",
-        "id": "Kalimat ini dengan baik menggambarkan karakteristik masyarakat Korea yang menghargai kecepatan dalam pelayanan. Ini menunjukkan sikap praktis ingin mengonfirmasi jadwal 'secepat mungkin' sebagai syarat transaksi sebelum membuat keputusan penting.",
-        "jp": "この文章は、サービスの速さを重要視する韓国社会の特徴をよく示しています。重要な決定を下す前に、「できるだけ早く」可能な日程をまず確認し、取引の条件としようとする実用的な態度が見られます。",
-        "ko": "이 문장은 서비스의 속도를 중요하게 여기는 한국 사회의 특징을 잘 보여줍니다. 중요한 결정을 내리기 전에 '최대한 빨리' 가능한 일정을 먼저 확인하여 거래의 조건으로 삼으려는 실용적인 태도가 엿보입니다.",
-        "vi": "Câu này thể hiện rõ đặc điểm của xã hội Hàn Quốc coi trọng tốc độ dịch vụ. Nó cho thấy thái độ thực dụng muốn xác nhận lịch trình 'nhanh nhất có thể' trước khi đưa ra quyết định quan trọng, coi đó là điều kiện cho giao dịch."
+        "en": "This sentence alludes to the special meaning of 'first love' in Korean popular culture. First love is pure, intense, and often romanticized into vague memories, frequently serving as an important theme in dramas and films.",
+        "es": "Esta frase alude al significado especial del 'primer amor' en la cultura popular coreana. El primer amor es puro, intenso y a menudo se idealiza como un recuerdo nostálgico, sirviendo frecuentemente como un tema importante en dramas y películas.",
+        "id": "Kalimat ini mengisyaratkan makna khusus 'cinta pertama' dalam budaya populer Korea. Cinta pertama itu murni, intens, dan seringkali diromantisasi menjadi kenangan samar, sering menjadi tema penting dalam drama dan film.",
+        "jp": "この文章は、韓国の大衆文化における「初恋」が持つ特別な意味を暗示しています。初恋は純粋で強烈であり、しばしば切ない思い出として美化され、ドラマや映画の重要な題材として扱われます。",
+        "ko": "이 문장은 한국 대중문화에서 '첫사랑'이 가지는 특별한 의미를 암시합니다. 첫사랑은 순수하고 강렬하며 종종 아련한 추억으로 미화되어 드라마나 영화의 중요한 소재로 다루어집니다.",
+        "vi": "Câu này gợi ý về ý nghĩa đặc biệt của 'mối tình đầu' trong văn hóa đại chúng Hàn Quốc. Mối tình đầu thường thuần khiết, mãnh liệt và được lãng mạn hóa thành những ký ức mơ hồ, thường là chủ đề quan trọng trong phim truyền hình và điện ảnh."
       }
     },
     {
       "scripts": {
-        "en": "Let's get them out before it gets more dangerous.",
-        "es": "Saquémoslos antes de que sea más peligroso.",
-        "id": "Ayo kita keluarkan mereka sebelum menjadi lebih berbahaya.",
-        "jp": "もっと危険になる前に助け出そう。",
-        "ko": "더 위험해지기 전에 빼내자.",
-        "vi": "Hãy đưa họ ra trước khi mọi chuyện trở nên nguy hiểm hơn."
+        "en": "They say you have a problem? Oh... If I ask, 'What kind of problem?', they'd say, 'You are my problem.'",
+        "es": "¿Dicen que tienes un problema? Ah... Si pregunto, '¿Qué clase de problema?', dirían, 'Tú eres mi problema'.",
+        "id": "Katanya kamu punya masalah? Oh... Kalau aku bertanya, 'Masalah apa?', mereka akan bilang, 'Kaulah masalahku.'",
+        "jp": "君、悩みがあるって言ってるの？あ...「何の悩みですか？」って聞いたら、「君が僕の悩みだよ。」って言うんだ。",
+        "ko": "너 고민 있다고 그래? 아.. 무슨 고민이요? 라고 물어보면 \"네가 내 고민이다.\" 그래.",
+        "vi": "Họ nói là bạn có chuyện phải lo à? À... Nếu tôi hỏi 'Lo chuyện gì vậy?', họ sẽ nói 'Em là nỗi lo của anh đấy'."
       },
-      "end_time": 54.0,
-      "start_time": 50.0,
+      "end_time": 46.5,
+      "start_time": 39.2,
       "vocabulary": [
         {
-          "word": "위험하다",
+          "word": "고민",
           "meanings": {
-            "en": "to be dangerous",
-            "es": "ser peligroso",
-            "id": "berbahaya",
-            "jp": "危険だ",
-            "vi": "nguy hiểm"
-          }
+            "en": "worry, concern, problem",
+            "es": "preocupación, problema",
+            "id": "masalah, kekhawatiran",
+            "jp": "悩み、心配事",
+            "vi": "nỗi lo, băn khoăn"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_90cea446f820130a5511df9aa7d639b4.mp3"
         },
         {
-          "word": "-자",
+          "word": "물어보다",
           "meanings": {
-            "en": "Let's (suggestion, informal)",
-            "es": "Hagamos (sugerencia, informal)",
-            "id": "Ayo (saran, informal)",
-            "jp": "～しよう (提案、親しい間柄で)",
-            "vi": "hãy (đề xuất, thân mật)"
-          }
-        },
-        {
-          "word": "빼내다",
-          "meanings": {
-            "en": "to extract, to pull out, to rescue (from difficulty)",
-            "es": "sacar, rescatar",
-            "id": "mengeluarkan, menyelamatkan",
-            "jp": "助け出す、引き出す",
-            "vi": "đưa ra ngoài, giải cứu"
-          }
+            "en": "to ask",
+            "es": "preguntar",
+            "id": "bertanya",
+            "jp": "尋ねる、聞いてみる",
+            "vi": "hỏi"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_f0e509c7e1e8c673aece200932f64514.mp3"
         }
       ],
       "section_num": 4,
       "cultural_note": {
-        "en": "'-자' is an expression used among close friends or colleagues to suggest doing something together. Especially, '빼내다' carries a strong nuance of 'rescuing' a person or object from difficulty, often used in urgent crisis situations in movies or dramas.",
-        "es": "'-자' es una expresión utilizada entre amigos cercanos o colegas para sugerir hacer algo juntos. Especialmente, '빼내다' tiene un fuerte matiz de 'rescatar' a una persona u objeto de una dificultad, usándose a menudo en situaciones de crisis urgentes en películas o dramas.",
-        "id": "'-자' adalah ungkapan yang digunakan di antara teman dekat atau kolega untuk menyarankan melakukan sesuatu bersama. Terutama, '빼내다' memiliki nuansa kuat 'menyelamatkan' seseorang atau objek dari kesulitan, sering digunakan dalam situasi krisis mendesak di film atau drama.",
-        "jp": "「-자」は、友人や同僚のように親しい間で何かを一緒にしようと提案する表現です。特に「빼내다」は、困難な状況にある人や物を「救い出す」というニュアンスが強く、映画やドラマの緊迫した危機的状況でよく使われるセリフです。",
-        "ko": "'-자'는 친구나 동료처럼 가까운 사이에서 함께 무언가를 하자고 제안하는 표현입니다. 특히 '빼내다'는 곤경에 처한 사람이나 물건을 '구해낸다'는 뉘앙스가 강해서, 보통 영화나 드라마의 긴박한 위기 상황에서 자주 쓰이는 대사입니다.",
-        "vi": "'-자' là một cách diễn đạt được sử dụng giữa bạn bè hoặc đồng nghiệp thân thiết để gợi ý cùng nhau làm điều gì đó. Đặc biệt, '빼내다' mang sắc thái mạnh mẽ của việc 'giải cứu' một người hoặc vật khỏi khó khăn, thường được sử dụng trong các tình huống khủng hoảng khẩn cấp trong phim hoặc kịch."
+        "en": "This is a humorous expression used when someone asks about a problem, and the other person playfully responds, 'You are my problem.'",
+        "es": "Esta es una expresión humorística que se usa cuando alguien pregunta sobre un problema y la otra persona responde de forma juguetona, 'Tú eres mi problema'.",
+        "id": "Ini adalah ungkapan lucu yang digunakan ketika seseorang bertanya tentang masalah, dan orang lain dengan bercanda menjawab, 'Kaulah masalahku'.",
+        "jp": "悩みを尋ねる人に対し、相手がユーモラスに「君が私の悩みだ」と答えて軽くからかう表現です。",
+        "ko": "고민을 묻는 사람에게 상대방이 유머러스하게 '네가 내 고민이다'라고 답하며 가볍게 놀리는 표현입니다.",
+        "vi": "Đây là một cách nói hài hước, khi ai đó hỏi về một vấn đề, đối phương sẽ đùa rằng 'Bạn chính là nỗi lo của tôi'."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Where are you now? Why are you being so nice to me?",
+        "es": "¿Dónde estás ahora? ¿Por qué eres tan amable conmigo?",
+        "id": "Kamu di mana sekarang? Kenapa kamu begitu baik padaku?",
+        "jp": "今どこにいますか？どうして私にこんなに良くしてくれるんですか？",
+        "ko": "지금 어디 있어요? 왜 이렇게 나한테 잘해 줘요? ",
+        "vi": "Bây giờ anh đang ở đâu? Sao anh lại tốt với em như vậy?"
+      },
+      "end_time": 53.2,
+      "start_time": 46.0,
+      "vocabulary": [
+        {
+          "word": "어디",
+          "meanings": {
+            "en": "where",
+            "es": "dónde",
+            "id": "di mana",
+            "jp": "どこ",
+            "vi": "đâu, ở đâu"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_b7068b7f37ae0c9133b6b4cedf4e6e38.mp3"
+        },
+        {
+          "word": "잘해주다",
+          "meanings": {
+            "en": "to treat well, to be nice to",
+            "es": "tratar bien, ser amable con",
+            "id": "berbuat baik pada",
+            "jp": "よくしてあげる、親切にする",
+            "vi": "đối xử tốt, tử tế"
+          },
+          "audio_url": "https://raw.githubusercontent.com/jungaeiin/k-superfan-data/main/lessons/sounds/ko_d85a9831cd2f46a118992b326cc0d8fc.mp3"
+        }
+      ],
+      "section_num": 5,
+      "cultural_note": {
+        "en": "This expression is used when someone is much kinder than usual or shows unexpected kindness, expressing curiosity or surprise about the reason. Sometimes it also carries the nuance of asking if there's a hidden motive.",
+        "es": "Esta expresión se usa cuando alguien es mucho más amable de lo normal o muestra una amabilidad inesperada, expresando curiosidad o sorpresa por la razón. A veces también lleva la connotación de preguntar si hay un motivo oculto.",
+        "id": "Ungkapan ini digunakan ketika seseorang bersikap jauh lebih baik dari biasanya atau menunjukkan kebaikan yang tidak terduga, untuk menyatakan rasa ingin tahu atau terkejut tentang alasannya. Terkadang juga mengandung nuansa pertanyaan apakah ada motif tersembunyi.",
+        "jp": "この表現は、相手が普段よりもずっと親切にしてくれたり、予期せぬ優しさを見せた時に、その理由について好奇心や驚きを表す言葉です。時には隠された意図があるのかと尋ねるニュアンスも含まれます。",
+        "ko": "이 표현은 상대방이 평소보다 훨씬 잘해주거나 예상치 못한 친절을 보일 때, 그 이유에 대해 궁금함이나 놀라움을 표현하는 말입니다. 때로는 숨겨진 의도가 있는지 묻는 뉘앙스를 담기도 합니다.",
+        "vi": "Cách diễn đạt này được dùng khi đối phương đối xử tốt hơn nhiều so với bình thường hoặc thể hiện sự tử tế bất ngờ, bày tỏ sự tò mò hoặc ngạc nhiên về lý do. Đôi khi nó cũng mang sắc thái hỏi liệu có ý đồ ẩn giấu nào không."
       }
     }
   ]

@@ -1,0 +1,328 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "They believe it should be spent with as many people as possible.",
+        "es": "Creen que debería pasarse con tantas personas como sea posible.",
+        "id": "Mereka percaya itu harus dihabiskan dengan sebanyak mungkin orang.",
+        "jp": "できるだけ多くの人々と一緒に過ごすべきだと考えています。",
+        "ko": "가능한 한 많은 사람들과 함께 보내야 한다고 생각합니다.",
+        "vi": "Họ nghĩ rằng nên dành thời gian đó với càng nhiều người càng tốt."
+      },
+      {
+        "en": "They prioritize spending it carelessly as it's limited.",
+        "es": "Priorizan gastarlo descuidadamente ya que es limitado.",
+        "id": "Mereka memprioritaskan menghabiskannya dengan ceroboh karena terbatas.",
+        "jp": "限られた時間なので、むやみに使うことを優先しています。",
+        "ko": "제한된 시간이므로 아무렇게나 쓰는 것을 우선시합니다.",
+        "vi": "Họ ưu tiên sử dụng nó một cách bừa bãi vì thời gian có hạn."
+      },
+      {
+        "en": "They value it highly and are selective about how they spend it.",
+        "es": "Lo valoran mucho y son selectivos sobre cómo lo gastan.",
+        "id": "Mereka sangat menghargainya dan selektif tentang bagaimana mereka menghabiskannya.",
+        "jp": "それを非常に大切にし、誰に使うか慎重に決定します。",
+        "ko": "매우 소중하게 여기며, 누구에게 쓸지 신중하게 결정합니다.",
+        "vi": "Họ rất trân trọng và cân nhắc kỹ lưỡng về việc dành cho ai."
+      },
+      {
+        "en": "They feel they have too much leisure time and don't know what to do with it.",
+        "es": "Sienten que tienen demasiado tiempo libre y no saben qué hacer con él.",
+        "id": "Mereka merasa punya terlalu banyak waktu luang dan tidak tahu harus berbuat apa dengannya.",
+        "jp": "余暇時間が多すぎて、何をすべきかわからないと感じています。",
+        "ko": "여가시간이 너무 많아서 무엇을 해야 할지 모릅니다.",
+        "vi": "Họ cảm thấy có quá nhiều thời gian rảnh và không biết phải làm gì với nó."
+      }
+    ],
+    "question": {
+      "en": "According to the script, what is the protagonist's attitude towards their leisure time?",
+      "es": "Según el guion, ¿cuál es la actitud de la protagonista hacia su tiempo libre?",
+      "id": "Menurut naskah, bagaimana sikap protagonis terhadap waktu luangnya?",
+      "jp": "スクリプトによると、主人公は自分の余暇時間に対してどのような態度を取っていますか？",
+      "ko": "스크립트에 따르면, 주인공은 자신의 여가시간에 대해 어떤 태도를 가지고 있습니까?",
+      "vi": "Theo kịch bản, nhân vật chính có thái độ như thế nào đối với thời gian rảnh rỗi của mình?"
+    },
+    "answer_index": 2
+  },
+  "metadata": {
+    "titles": {
+      "en": "Boyfriend on Demand (2026)",
+      "es": "Novio a la carta (2026)",
+      "id": "Boyfriend on Demand (2026)",
+      "jp": "マンスリー彼氏 (2026)",
+      "ko": "월간 남친 | 예고편 ",
+      "vi": "Boyfriend on Demand (2026)"
+    },
+    "categories": {
+      "en": "Drama, Melodrama",
+      "es": "Drama, Melodrama",
+      "id": "Drama, Melodrama",
+      "jp": "ドラマ、メロ",
+      "ko": "드라마, 맬로 ",
+      "vi": "Phim truyền hình, Melodrama"
+    },
+    "difficulty": 2,
+    "youtube_id": "ZnS0sRSWPuc",
+    "youtube_url": "https://www.youtube.com/watch?v=ZnS0sRSWPuc"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Is a dating simulation service like a game? It's more realistic than a game.",
+        "es": "¿Si es una simulación de citas, es como un juego? Es más realista que un juego.",
+        "id": "Kalau simulasi kencan, apakah layanan itu seperti game? Ini lebih realistis daripada game.",
+        "jp": "「恋愛シミュレーションなら、サービスならゲームのようなものですか？ゲームというよりも現実的です。」",
+        "ko": "연애 시뮬레이션이면 서비스면 게임 같은건가요? 게임보다는 현실적이죠. ",
+        "vi": "Nếu là dịch vụ mô phỏng hẹn hò thì có giống game không? Nó thực tế hơn game."
+      },
+      "end_time": 5.5,
+      "start_time": 0.0,
+      "vocabulary": [
+        {
+          "word": "연애 시뮬레이션",
+          "meanings": {
+            "en": "Dating simulation",
+            "es": "Simulación de citas",
+            "id": "Simulasi kencan",
+            "jp": "恋愛シミュレーション",
+            "vi": "Mô phỏng hẹn hò"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_84e13bd6fbdec64490912eb5eba19001.mp3"
+        },
+        {
+          "word": "서비스",
+          "meanings": {
+            "en": "Service",
+            "es": "Servicio",
+            "id": "Layanan",
+            "jp": "サービス",
+            "vi": "Dịch vụ"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_d8ab5eae64772b98096176546036ecbe.mp3"
+        },
+        {
+          "word": "현실적",
+          "meanings": {
+            "en": "Realistic",
+            "es": "Realista",
+            "id": "Realistis",
+            "jp": "現実的",
+            "vi": "Thực tế"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_89458229298190780b169af60e85a02e.mp3"
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "This conversation reflects the blurring lines between virtual and reality, as 'dating simulation' services emerge, offering real-like experiences that users pay for, going beyond simple games.",
+        "es": "Esta conversación refleja la difuminación de los límites entre lo virtual y la realidad, a medida que surgen servicios de 'simulación de citas' que ofrecen experiencias realistas por las que los usuarios pagan, yendo más allá de los juegos simples.",
+        "id": "Percakapan ini mencerminkan kaburnya batas antara virtual dan realitas, seiring munculnya layanan 'simulasi kencan' yang menawarkan pengalaman seperti nyata yang dibayar pengguna, melampaui sekadar permainan.",
+        "jp": "この会話は、単なるゲームを超え、お金を支払って利用するリアルな体験を提供する「恋愛シミュレーション」サービスが登場し、仮想と現実の境界が曖昧になる現象を反映しています。",
+        "ko": "이 대화는 단순한 게임을 넘어, 돈을 지불하고 이용하는 실제 같은 경험을 제공하는 '연애 시뮬레이션' 서비스가 등장하며 가상과 현실의 경계가 모호해지는 현상을 반영합니다.",
+        "vi": "Cuộc đối thoại này phản ánh hiện tượng ranh giới giữa ảo và thực tế đang mờ đi, khi các dịch vụ 'mô phỏng hẹn hò' xuất hiện, cung cấp những trải nghiệm giống thật mà người dùng phải trả tiền để sử dụng, vượt ra ngoài những trò chơi đơn thuần."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Then what's the name of the service? Monthly Boyfriend.",
+        "es": "¿Entonces cuál es el nombre del servicio? Novio Mensual.",
+        "id": "Kalau begitu, apa nama layanannya? Pacar Bulanan.",
+        "jp": "「それでは、サービスの名前は何ですか？月刊彼氏。」",
+        "ko": "그럼 서비스 이름은 머에요? 월간남친. ",
+        "vi": "Vậy tên dịch vụ là gì? Bạn trai hàng tháng."
+      },
+      "end_time": 9.4,
+      "start_time": 5.6,
+      "vocabulary": [
+        {
+          "word": "이름",
+          "meanings": {
+            "en": "Name",
+            "es": "Nombre",
+            "id": "Nama",
+            "jp": "名前",
+            "vi": "Tên"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_6eb5cd03bff7a1ae2a375b25318c6c01.mp3"
+        },
+        {
+          "word": "월간남친",
+          "meanings": {
+            "en": "Monthly Boyfriend (service name)",
+            "es": "Novio Mensual (nombre del servicio)",
+            "id": "Pacar Bulanan (nama layanan)",
+            "jp": "月刊彼氏 (サービス名)",
+            "vi": "Bạn trai hàng tháng (tên dịch vụ)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_4b5b1c143469aac274d27e15bc9be414.mp3"
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "'Monthly Boyfriend' implies 'a boyfriend received every month,' a name typically used in subscription services that provide virtual dating experiences or related content on a monthly basis.",
+        "es": "'Novio Mensual' implica 'un novio recibido cada mes', un nombre típicamente utilizado en servicios de suscripción que proporcionan experiencias de citas virtuales o contenido relacionado mensualmente.",
+        "id": "'Pacar Bulanan' menyiratkan 'pacar yang diterima setiap bulan,' nama yang biasanya digunakan dalam layanan langganan yang menyediakan pengalaman kencan virtual atau konten terkait secara bulanan.",
+        "jp": "「「月刊彼氏」は「毎月受け取る彼氏」という意味で、主にサブスクリプションサービスで仮想の恋愛体験や関連コンテンツを月単位で提供する際に使われる名前です。」",
+        "ko": "'월간남친'은 '매달 받아보는 남자친구'라는 의미로, 주로 구독형 서비스에서 가상의 연애 경험이나 관련 콘텐츠를 월 단위로 제공할 때 사용되는 이름입니다.",
+        "vi": "'Bạn trai hàng tháng' có nghĩa là 'một người bạn trai được nhận hàng tháng,' là tên thường được sử dụng trong các dịch vụ đăng ký cung cấp trải nghiệm hẹn hò ảo hoặc nội dung liên quan trên cơ sở hàng tháng."
+      }
+    },
+    {
+      "scripts": {
+        "en": "A day is 24 hours. My remaining leisure time is only 3 hours and 30 minutes. I don't carelessly spend that precious 3 hours and 30 minutes on anyone.",
+        "es": "Un día tiene 24 horas. Mi tiempo libre restante es de solo 3 horas y 30 minutos. No gasto esas preciosas 3 horas y 30 minutos descuidadamente en nadie.",
+        "id": "Sehari ada 24 jam. Waktu luangku hanya 3 jam 30 menit. Aku tidak sembarangan menghabiskan 3 jam 30 menit yang berharga itu untuk siapa pun.",
+        "jp": "「1日は24時間。私に残された余暇時間はたった3時間30分。私はその大切な3時間30分を誰に対してもむやみに使わない。」",
+        "ko": "하루는 24시간. 내게 남는 여가시간은 단 3시간 30분. 난 그 소중한 3시간 30분을 누구에게도 함부로 쓰지 않는다. ",
+        "vi": "Một ngày có 24 giờ. Thời gian rảnh rỗi còn lại của tôi chỉ là 3 tiếng 30 phút. Tôi không tùy tiện dành 3 tiếng 30 phút quý giá đó cho bất kỳ ai."
+      },
+      "end_time": 22.3,
+      "start_time": 11.1,
+      "vocabulary": [
+        {
+          "word": "여가시간",
+          "meanings": {
+            "en": "Leisure time",
+            "es": "Tiempo libre",
+            "id": "Waktu luang",
+            "jp": "余暇時間",
+            "vi": "Thời gian rảnh rỗi"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_3f1cf69dcf3d22a38f4942d3ed8bf909.mp3"
+        },
+        {
+          "word": "소중하다",
+          "meanings": {
+            "en": "Precious, valuable",
+            "es": "Precioso, valioso",
+            "id": "Berharga, bernilai",
+            "jp": "大切だ、貴重だ",
+            "vi": "Quý giá, đáng giá"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_b8f406e26aad17693c8564356a579ea3.mp3"
+        },
+        {
+          "word": "함부로",
+          "meanings": {
+            "en": "Carelessly, thoughtlessly",
+            "es": "Descuidadamente, a la ligera",
+            "id": "Sembarangan, ceroboh",
+            "jp": "むやみに、勝手に",
+            "vi": "Tùy tiện, bừa bãi"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_622cf7ef3eb6471f9fba745c135bae24.mp3"
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "In Korean society, many people feel a lack of leisure time due to busy schedules and long working hours. Therefore, there's a tendency to value remaining time and try to use it meaningfully.",
+        "es": "En la sociedad coreana, muchas personas sienten la falta de tiempo libre debido a horarios ocupados y largas horas de trabajo. Por lo tanto, hay una tendencia a valorar el tiempo restante y tratar de usarlo de manera significativa.",
+        "id": "Dalam masyarakat Korea, banyak orang merasa kekurangan waktu luang karena jadwal sibuk dan jam kerja yang panjang. Oleh karena itu, ada kecenderungan untuk menghargai waktu yang tersisa dan berusaha menggunakannya secara bermakna.",
+        "jp": "韓国社会では、多くの人が忙しいスケジュールと長い労働時間のために余暇時間が不足していると感じています。そのため、残りの時間を大切にし、意味のある使い方をしようとする傾向があります。",
+        "ko": "한국 사회에서 많은 사람이 바쁜 일정과 긴 노동 시간으로 인해 여가 시간이 부족함을 느낍니다. 따라서 남은 시간을 소중히 여기며 의미 있게 사용하려는 경향이 있습니다.",
+        "vi": "Trong xã hội Hàn Quốc, nhiều người cảm thấy thiếu thời gian rảnh rỗi do lịch trình bận rộn và giờ làm việc dài. Do đó, có xu hướng coi trọng thời gian còn lại và cố gắng sử dụng nó một cách ý nghĩa."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Hello, have I ever had such a perfect date?",
+        "es": "Hola, ¿alguna vez he tenido una cita tan perfecta?",
+        "id": "Halo, pernahkah aku berkencan sesempurna ini?",
+        "jp": "「こんにちは、こんなに完璧なデートをしたことがあっただろうか？」",
+        "ko": "안녕, 이렇게 완벽한 데이트를 해 본적이 있었나? ",
+        "vi": "Chào em, anh đã từng có một buổi hẹn hò hoàn hảo như thế này chưa?"
+      },
+      "end_time": 46.8,
+      "start_time": 40.0,
+      "vocabulary": [
+        {
+          "word": "완벽하다",
+          "meanings": {
+            "en": "Perfect",
+            "es": "Perfecto",
+            "id": "Sempurna",
+            "jp": "完璧だ",
+            "vi": "Hoàn hảo"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_8606a4641fdf2805d335ec390032f2f5.mp3"
+        },
+        {
+          "word": "데이트",
+          "meanings": {
+            "en": "Date (romantic outing)",
+            "es": "Cita",
+            "id": "Kencan",
+            "jp": "デート",
+            "vi": "Hẹn hò"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_cbfe5da445ec457fb2adb1d1620d761f.mp3"
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "This expression conveys the speaker's positive feelings to the other person, indicating that they find the current date very satisfying and perfect, implicitly including a compliment.",
+        "es": "Esta expresión transmite los sentimientos positivos del hablante a la otra persona, indicando que encuentran la cita actual muy satisfactoria y perfecta, incluyendo implícitamente un cumplido.",
+        "id": "Ungkapan ini menyampaikan perasaan positif pembicara kepada orang lain, menunjukkan bahwa mereka menganggap kencan saat ini sangat memuaskan dan sempurna, secara implisit juga berisi pujian.",
+        "jp": "この表現は、現在のデートが非常に満足で完璧だと感じる話し手の肯定的な感情を相手に伝え、間接的に褒める意味を含んでいます。",
+        "ko": "이 표현은 현재 데이트가 매우 만족스럽고 완벽하다고 느끼는 화자의 긍정적인 감정을 상대방에게 전달하며, 간접적으로 칭찬하는 의미를 담고 있습니다.",
+        "vi": "Cách diễn đạt này truyền tải cảm xúc tích cực của người nói tới đối phương, cho thấy họ cảm thấy buổi hẹn hò hiện tại rất hài lòng và hoàn hảo, đồng thời ngụ ý khen ngợi."
+      }
+    },
+    {
+      "scripts": {
+        "en": "It's not necessarily about getting along well in reality, is it? I like you.",
+        "es": "¿No es necesario llevarse bien en la realidad, verdad? Me gustas.",
+        "id": "Tidak harus selalu rukun di dunia nyata, kan? Aku menyukaimu.",
+        "jp": "「必ずしも現実で仲良くしなくてもいいんじゃない？君が好きだ。」",
+        "ko": "꼭 현실에서 잘 지내야 하는거는 아니잖아? 너 좋아해. ",
+        "vi": "Không nhất thiết phải hòa thuận tốt đẹp ngoài đời thực đúng không? Anh thích em."
+      },
+      "end_time": 53.7,
+      "start_time": 47.0,
+      "vocabulary": [
+        {
+          "word": "현실",
+          "meanings": {
+            "en": "Reality",
+            "es": "Realidad",
+            "id": "Realitas",
+            "jp": "現実",
+            "vi": "Thực tế"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_aaa14cf21bdcb23f678dbd22a41f4c63.mp3"
+        },
+        {
+          "word": "잘 지내다",
+          "meanings": {
+            "en": "Get along well, live well",
+            "es": "Llevarse bien, vivir bien",
+            "id": "Rukun, hidup dengan baik",
+            "jp": "仲良くする、うまく過ごす",
+            "vi": "Sống tốt, hòa thuận"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_5e22bc4baada1d0aad5795b761294be5.mp3"
+        },
+        {
+          "word": "좋아하다",
+          "meanings": {
+            "en": "To like",
+            "es": "Gustar",
+            "id": "Suka",
+            "jp": "好きだ",
+            "vi": "Thích"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_46633efb390bcafd690b4269eee230a7.mp3"
+        }
+      ],
+      "section_num": 5,
+      "cultural_note": {
+        "en": "This is the female protagonist who believes it's good to be able to pursue happiness even in a virtual world, not necessarily in reality.",
+        "es": "Esta es la protagonista que cree que está bien poder buscar la felicidad incluso en un mundo virtual, no necesariamente en la realidad.",
+        "id": "Ini adalah protagonis wanita yang percaya bahwa adalah baik untuk bisa mengejar kebahagiaan bahkan di dunia virtual, tidak harus di dunia nyata.",
+        "jp": "現実ではなく、仮想世界ででも幸せを追求できるなら良いと考えている女性主人公です。",
+        "ko": "현실이 아닌 가상 세계에서라도 행복을 추구할 수 있다면 좋다고 생각하는 여주인공입니다. ",
+        "vi": "Đây là nhân vật nữ chính tin rằng thật tốt nếu có thể tìm kiếm hạnh phúc ngay cả trong thế giới ảo, chứ không nhất thiết phải là trong thực tế."
+      }
+    }
+  ]
+}

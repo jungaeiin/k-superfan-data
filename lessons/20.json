@@ -1,0 +1,361 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "Having to deal with ghosts in legal cases.",
+        "es": "Tener que lidiar con fantasmas en casos legales.",
+        "id": "Harus berurusan dengan hantu dalam kasus hukum.",
+        "jp": "法律事件で幽霊と相手をすること。",
+        "ko": "법률 사건에서 귀신을 상대해야 하는 것.",
+        "vi": "Phải đối phó với ma quỷ trong các vụ kiện pháp lý."
+      },
+      {
+        "en": "The physical and chaotic experiences caused by possession.",
+        "es": "Las experiencias físicas y caóticas causadas por la posesión.",
+        "id": "Pengalaman fisik dan kacau akibat kesurupan.",
+        "jp": "憑依による身体的で混乱した経験。",
+        "ko": "빙의로 인한 신체적이고 혼란스러운 경험들.",
+        "vi": "Những trải nghiệm thể chất và hỗn loạn do bị nhập hồn."
+      },
+      {
+        "en": "People around her not believing her possession experiences.",
+        "es": "Que las personas a su alrededor no crean sus experiencias de posesión.",
+        "id": "Orang-orang di sekitarnya tidak percaya pengalaman kesurupannya.",
+        "jp": "周りの人々が自分の憑依経験を信じてくれないこと。",
+        "ko": "주변 사람들이 자신의 빙의 경험을 믿어주지 않는 것.",
+        "vi": "Những người xung quanh không tin vào trải nghiệm bị nhập hồn của cô ấy."
+      },
+      {
+        "en": "Being unable to properly summon ghosts with talismans.",
+        "es": "No poder invocar fantasmas correctamente con talismanes.",
+        "id": "Tidak bisa memanggil hantu dengan jimat secara efektif.",
+        "jp": "お守りで幽霊をうまく呼べないこと。",
+        "ko": "부적으로 귀신을 제대로 부를 수 없는 것.",
+        "vi": "Không thể triệu hồi ma quỷ bằng bùa chú một cách hiệu quả."
+      }
+    ],
+    "question": {
+      "en": "According to the dialogue, what is the main difficulty for the speaker who says, \"I'm the one who's having a hard time because I'm possessed, you know?\"",
+      "es": "Según el diálogo, ¿cuál es la principal dificultad para el hablante que dice: \"Soy yo quien lo está pasando mal por estar poseído, sabes?\"",
+      "id": "Berdasarkan dialog, apa kesulitan utama bagi pembicara yang mengatakan, \"Aku yang kesulitan karena kesurupan, tahu?\"",
+      "jp": "セリフを通して、「憑依されて辛いのは私なんですよ？」と言う話者の主な困難は何ですか？",
+      "ko": "대사를 통해 '빙의 돼서 힘든 건 나거든?'이라고 말하는 화자의 주된 어려움은 무엇인가요?",
+      "vi": "Dựa vào đoạn đối thoại, khó khăn chính của người nói khi nói \"Tôi mới là người khổ sở vì bị ma nhập đó chứ?\" là gì?"
+    },
+    "answer_index": 1
+  },
+  "metadata": {
+    "titles": {
+      "en": "Phantom Lawyer (2026)",
+      "es": "Phantom Lawyer (2026)",
+      "id": "Phantom Lawyer (2026)",
+      "jp": "Phantom Lawyer (2026)",
+      "ko": "신이랑 법률사무소 (2026)",
+      "vi": "Phantom Lawyer (2026)"
+    },
+    "categories": {
+      "en": "Drama, Fantasy, Mystery",
+      "es": "Drama, Fantasía, Misterio",
+      "id": "Drama, Fantasi, Misteri",
+      "jp": "ドラマ, ファンタジー, ミステリー",
+      "ko": "드라마, 판타지, 미스테리",
+      "vi": "Phim truyền hình, Giả tưởng, Bí ẩn"
+    },
+    "difficulty": 4,
+    "youtube_id": "vJppR0FJZYA",
+    "youtube_url": "https://youtu.be/vJppR0FJZYA"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "This is Shin Yi Rang, a lawyer and representative of Shin Yi Rang Law Office. I'll make the best law office, staking my name on it.",
+        "es": "Soy Shin Yi Rang, abogada y representante del bufete de abogados Shin Yi Rang. Construiré el mejor bufete de abogados, apostando mi nombre en ello.",
+        "id": "Saya Shin Yi Rang, pengacara sekaligus perwakilan dari Kantor Hukum Shin Yi Rang. Saya akan membuat kantor hukum terbaik, mempertaruhkan nama saya.",
+        "jp": "シンイラン法律事務所の代表、弁護士シンイランです。私の名前をかけて最高の法律事務所を作ります。",
+        "ko": "신이랑 법률 사무소 대표 신이랑 변호사입니다. 내 이름 석 자 걸고 최고의 법률 사무소를 만들거야.",
+        "vi": "Tôi là Shin Yi Rang, luật sư kiêm đại diện của Văn phòng Luật sư Shin Yi Rang. Tôi sẽ tạo ra văn phòng luật tốt nhất, dùng cả danh dự của mình để làm điều đó."
+      },
+      "end_time": 7.0,
+      "start_time": 0.0,
+      "vocabulary": [
+        {
+          "word": "대표",
+          "meanings": {
+            "en": "representative, CEO",
+            "es": "representante, director",
+            "id": "perwakilan, direktur",
+            "jp": "代表",
+            "vi": "đại diện"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_11b54324444b8102ffaf3b0a1e3796ea.mp3"
+        },
+        {
+          "word": "변호사",
+          "meanings": {
+            "en": "lawyer, attorney",
+            "es": "abogado/a",
+            "id": "pengacara",
+            "jp": "弁護士",
+            "vi": "luật sư"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_619ec61fc8888bf0ce715774de5b530e.mp3"
+        },
+        {
+          "word": "내 이름 석 자 걸고",
+          "meanings": {
+            "en": "staking my name (and honor) on it; vowing by my name",
+            "es": "apostando mi nombre",
+            "id": "mempertaruhkan nama saya",
+            "jp": "私の名前をかけて",
+            "vi": "dùng cả danh dự của mình"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_c8879b5e6036578bb68bae915c54feb5.mp3"
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "\"이름 석 자 걸고\" is an idiom expressing strong will and responsibility, meaning one will definitely accomplish something by staking one's name and honor.",
+        "es": "\"이름 석 자 걸고\" es una expresión idiomática que manifiesta una fuerte voluntad y sentido de responsabilidad, significando que uno definitivamente logrará algo poniendo su nombre y honor en ello.",
+        "id": "\"이름 석 자 걸고\" adalah idiom yang mengungkapkan tekad dan tanggung jawab yang kuat, berarti seseorang pasti akan mencapai sesuatu dengan mempertaruhkan nama dan kehormatannya.",
+        "jp": "「이름 석 자 걸고」は、自分の名前と名誉をかけて必ず何かを成し遂げるという強い意志と責任感を表現する慣用句です。",
+        "ko": "\"이름 석 자 걸고\"는 자신의 이름과 명예를 걸고 어떤 일을 반드시 해내겠다는 강한 의지와 책임감을 표현하는 관용구입니다.",
+        "vi": "\"이름 석 자 걸고\" là một thành ngữ thể hiện ý chí và trách nhiệm mạnh mẽ, có nghĩa là sẽ làm bằng được một việc gì đó bằng cách đặt cả tên tuổi và danh dự của mình vào đó."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Yi Rang sees ghosts. These talismans are summoning ghosts. What are you doing?",
+        "es": "Yi Rang ve fantasmas. Estos talismanes están invocando fantasmas. ¿Qué estás haciendo?",
+        "id": "Yi Rang melihat hantu. Jimat-jimat ini memanggil hantu. Apa yang sedang kamu lakukan?",
+        "jp": "イランは幽霊を見る。このお守りが幽霊を呼んでいるんですよ。何してるんですか？",
+        "ko": "이랑이가 귀신을 봐. 이 부적들이 귀신을 부르는거에요. 뭐 하셔유?",
+        "vi": "Yi Rang thấy ma. Mấy lá bùa này đang gọi ma đấy. Đang làm gì đấy ạ?"
+      },
+      "end_time": 14.2,
+      "start_time": 8.0,
+      "vocabulary": [
+        {
+          "word": "귀신",
+          "meanings": {
+            "en": "ghost, spirit",
+            "es": "fantasma, espíritu",
+            "id": "hantu, roh",
+            "jp": "幽霊",
+            "vi": "ma, quỷ"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_13fcd401af462ade04ff15373b434b5b.mp3"
+        },
+        {
+          "word": "부적",
+          "meanings": {
+            "en": "talisman, amulet",
+            "es": "talismán, amuleto",
+            "id": "jimat",
+            "jp": "お守り",
+            "vi": "bùa"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_e9a163634b61bf0862761cd67c628aeb.mp3"
+        },
+        {
+          "word": "뭐 하셔유?",
+          "meanings": {
+            "en": "What are you doing? (Chungcheong dialect)",
+            "es": "¿Qué estás haciendo? (dialecto de Chungcheong)",
+            "id": "Apa yang sedang Anda lakukan? (dialek Chungcheong)",
+            "jp": "何してるんですか？ (忠清道方言)",
+            "vi": "Đang làm gì đấy? (tiếng địa phương Chungcheong)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_f73f00674c644202c674ecf9d3f204bc.mp3"
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "\"뭐 하셔유?\" is a Chungcheong dialect, meaning the same as Seoul's \"뭐 하세요?\". It's a regional expression that conveys a friendly and gentle feeling.",
+        "es": "\"뭐 하셔유?\" es un dialecto de Chungcheong, que significa lo mismo que \"뭐 하세요?\" en el dialecto de Seúl. Es una expresión regional que transmite un sentimiento amable y suave.",
+        "id": "\"뭐 하셔유?\" adalah dialek Chungcheong, yang berarti sama dengan \"뭐 하세요?\" dalam dialek Seoul. Ini adalah ekspresi regional yang menyampaikan perasaan ramah dan lembut.",
+        "jp": "「뭐 하셔유?」は忠清道方言で、ソウル言葉の「뭐 하세요?」と同じ意味です。親しみやすく、やわらかい感じを与える地域的な表現です。",
+        "ko": "\"뭐 하셔유?\"는 충청도 방언으로, 서울말의 \"뭐 하세요?\"와 같은 의미입니다. 친근하면서도 부드러운 느낌을 주는 지역적 표현입니다.",
+        "vi": "\"뭐 하셔유?\" là tiếng địa phương của vùng Chungcheong, có nghĩa tương tự như \"뭐 하세요?\" trong tiếng Seoul. Đây là một cách diễn đạt mang tính vùng miền, tạo cảm giác thân thiện và nhẹ nhàng."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Did I get possessed, by any chance? Is that something a lawyer should be saying right now? Why are you so stubborn and unreasonable? So damn unlucky (or annoying).",
+        "es": "¿Acaso estoy poseída? ¿Es eso algo que un abogado debería decir ahora mismo? ¿Por qué eres tan terco e irrazonable? Tan rematadamente desafortunado (o molesto).",
+        "id": "Apa saya kesurupan? Apa itu hal yang seharusnya diucapkan pengacara sekarang? Kenapa kamu begitu keras kepala dan tidak masuk akal? Sungguh sial (atau menyebalkan).",
+        "jp": "私もしかして憑依しましたか？それが今、弁護士が話すべきことですか？なんでこんなに融通が利かないの？すごく運悪く（またはすごく気に食わない）。",
+        "ko": "저 혹시 빙의했어요? 그게 지금 변호사가 할 이야기에요? 아니 왜 이렇게 앞뒤 꽉 막혀버린거야? 열라 재수없게.",
+        "vi": "Chẳng lẽ tôi bị nhập hồn à? Đó có phải là chuyện một luật sư nên nói bây giờ không? Sao lại cứng nhắc và thiếu linh hoạt thế? Thật là đáng ghét (hoặc xui xẻo kinh khủng)."
+      },
+      "end_time": 27.2,
+      "start_time": 21.0,
+      "vocabulary": [
+        {
+          "word": "빙의했어요?",
+          "meanings": {
+            "en": "(Did I) get possessed? (Possession by a spirit)",
+            "es": "¿Fui poseído/a?",
+            "id": "Kesurupan?",
+            "jp": "憑依しましたか？",
+            "vi": "Bị nhập hồn/ma nhập à?"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_17752021496cfa2edf3178fefca03ed4.mp3"
+        },
+        {
+          "word": "앞뒤 꽉 막히다",
+          "meanings": {
+            "en": "to be stubborn, narrow-minded, unreasonable",
+            "es": "ser terco/a, intransigente, cerrado/a",
+            "id": "keras kepala, berpikiran sempit, tidak masuk akal",
+            "jp": "融通が利かない、頭が固い",
+            "vi": "cứng nhắc, bảo thủ, thiếu linh hoạt"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_bd0f404f0fac8f4cb2eaa64e3729f83f.mp3"
+        },
+        {
+          "word": "열라 재수없게",
+          "meanings": {
+            "en": "so damn unlucky; incredibly annoying (can be vulgar)",
+            "es": "muy desafortunado/a; increíblemente molesto/a (puede ser vulgar)",
+            "id": "sungguh sial, sangat menyebalkan (bisa kasar)",
+            "jp": "すごく運悪く、ひどく気に食わない",
+            "vi": "thật là đáng ghét, cực kỳ xui xẻo"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_21c1b33f5d441db6569aa193858942e6.mp3"
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "This dialogue expresses the speaker's strong dissatisfaction with the other person's stubborn and unreasonable attitude. \"앞뒤 꽉 막히다\" is used to criticize someone as stubborn and inflexible, and \"열라 재수없게\" is a near-vulgar expression used to severely criticize someone or express strong annoyance.",
+        "es": "Este diálogo expresa la fuerte insatisfacción del hablante con la actitud obstinada e irrazonable de la otra persona. \"앞뒤 꽉 막히다\" se usa para criticar a alguien por ser terco e inflexible, y \"열라 재수없게\" es una expresión casi vulgar usada para criticar severamente a alguien o expresar una gran molestia.",
+        "id": "Dialog ini mengungkapkan ketidakpuasan kuat pembicara terhadap sikap lawan bicara yang keras kepala dan tidak masuk akal. \"앞뒤 꽉 막히다\" digunakan untuk mengkritik seseorang yang keras kepala dan tidak fleksibel, dan \"열라 재수없게\" adalah ekspresi yang hampir vulgar untuk mengkritik keras seseorang atau mengungkapkan kejengkelan yang kuat.",
+        "jp": "この会話は、相手の頑固で非合理的な態度に対する話し手の強い不満を表現しています。「앞뒤 꽉 막히다」は、意固地で融通の利かない人を非難する表現であり、「열라 재수없게」は相手をひどく非難したり、苛立ちを表現したりする際に使う俗語に近い表現です。",
+        "ko": "이 대화는 상대방의 답답하고 비합리적인 태도에 대한 화자의 강한 불만을 표현합니다. \"앞뒤 꽉 막히다\"는 고집스럽고 융통성 없는 사람을 비난하는 표현이며, \"열라 재수없게\"는 상대를 심하게 비난하거나 짜증을 표현할 때 쓰는 비속어에 가까운 표현입니다.",
+        "vi": "Đoạn hội thoại này thể hiện sự bất mãn mạnh mẽ của người nói đối với thái độ cứng nhắc và vô lý của đối phương. \"앞뒤 꽉 막히다\" là cách diễn đạt chỉ trích người bướng bỉnh, thiếu linh hoạt, còn \"열라 재수없게\" là một cách nói gần với tục tĩu, dùng để chỉ trích gay gắt hoặc thể hiện sự khó chịu tột độ với đối phương."
+      }
+    },
+    {
+      "scripts": {
+        "en": "I'm the one who's having a hard time because I'm possessed, you know? Rolling, falling, getting hit, throwing up... there's no chaos like it. Are you out of your mind right now? Huh?",
+        "es": "Soy yo quien lo está pasando mal por estar poseído, ¿sabes? Rodando, cayendo, siendo golpeado, vomitando... no hay caos como este. ¿Estás fuera de tus cabales ahora mismo? ¿Eh?",
+        "id": "Aku yang kesulitan karena kesurupan, tahu? Berguling, jatuh, tertabrak, muntah, tidak ada kekacauan seperti itu. Apa kamu gila sekarang? Hah?",
+        "jp": "憑依されて辛いのは私なんですよ？転がって倒れてぶつかって吐いて、こんなにひどい騒ぎはない。今、頭がおかしくなったのか？え？",
+        "ko": "빙의 돼서 힘든 건 나거든? 구르고 넘어지고 치이고 토하고, 난리도 그런 난리가 없어. 시방 정신 나간겨? 어?",
+        "vi": "Tôi mới là người khổ sở vì bị ma nhập đó chứ? Lăn lê bò toài, ngã, bị đụng, nôn mửa... không có cái loạn nào như thế. Bây giờ cậu bị mất trí rồi à? Hả?"
+      },
+      "end_time": 36.8,
+      "start_time": 28.0,
+      "vocabulary": [
+        {
+          "word": "빙의 돼서",
+          "meanings": {
+            "en": "because (I) got possessed",
+            "es": "por haber sido poseído/a",
+            "id": "karena kesurupan",
+            "jp": "憑依されて",
+            "vi": "vì bị nhập hồn/ma nhập"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_4182ff64d2b92772ecd62d2dec392ac7.mp3"
+        },
+        {
+          "word": "난리도 그런 난리가 없어",
+          "meanings": {
+            "en": "there's no such chaos (as this); it's an utter mess",
+            "es": "no hay tal caos (como este); es un completo desastre",
+            "id": "tidak ada kekacauan seperti ini",
+            "jp": "これほどひどい騒ぎはない",
+            "vi": "không có sự hỗn loạn nào như thế"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_b7b11776fe4072d2717bd220dbb7aa88.mp3"
+        },
+        {
+          "word": "시방",
+          "meanings": {
+            "en": "right now (Jeolla dialect, can sound rough)",
+            "es": "ahora mismo (dialecto de Jeolla, puede sonar tosco)",
+            "id": "sekarang (dialek Jeolla, bisa terdengar kasar)",
+            "jp": "今 (全羅道方言、やや荒っぽい響き)",
+            "vi": "bây giờ (tiếng địa phương Jeolla, có thể nghe thô lỗ)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_bbc6e3b8479ac3e26942f1fe057daf3c.mp3"
+        },
+        {
+          "word": "정신 나간겨?",
+          "meanings": {
+            "en": "Are you out of your mind? (Jeolla dialect for 정신 나간 거야?)",
+            "es": "¿Estás fuera de tus cabales?",
+            "id": "Apa kamu gila?",
+            "jp": "頭がおかしくなったのか？",
+            "vi": "Mất trí rồi à?"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_8053b59459f3a4ea7bf2896a4631486d.mp3"
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "\"시방\" is a Jeolla dialect meaning 'now', and it can sound somewhat rough or impolite when used to express strong dissatisfaction or anger. '빙의' (possession) refers to the phenomenon of a spirit entering a body and is a common theme in Korean cultural content.",
+        "es": "\"시방\" es un dialecto de Jeolla que significa 'ahora', y puede sonar algo brusco o descortés cuando se usa para expresar una fuerte insatisfacción o enojo. '빙의' (posesión) se refiere al fenómeno de la entrada de un espíritu en un cuerpo y es un tema que aparece frecuentemente en el contenido cultural de Corea.",
+        "id": "\"시방\" adalah dialek Jeolla yang berarti 'sekarang', dan bisa terdengar agak kasar atau tidak sopan saat digunakan untuk menyatakan ketidakpuasan atau kemarahan yang kuat. '빙의' (kesurupan) mengacu pada fenomena masuknya roh ke dalam tubuh dan merupakan tema yang sering muncul dalam konten budaya Korea.",
+        "jp": "「시방」は「지금（今）」を意味する全羅道方言で、強い不満や怒りを表現する際に使われると、やや荒っぽく聞こえたり、失礼に聞こえたりすることがあります。「빙의」は魂が体に入る現象を意味し、韓国の文化コンテンツで頻繁に登場する題材です。",
+        "ko": "\"시방\"은 '지금'을 뜻하는 전라도 방언으로, 매우 강한 불만이나 분노를 표현할 때 사용되어 다소 거칠거나 무례하게 들릴 수 있습니다. '빙의'는 영혼이 몸에 들어오는 현상을 뜻하며, 한국 문화 콘텐츠에서 자주 등장하는 소재입니다.",
+        "vi": "\"시방\" là tiếng địa phương của vùng Jeolla, có nghĩa là 'bây giờ', và khi dùng để thể hiện sự bất mãn hoặc tức giận mạnh mẽ, nó có thể nghe hơi thô lỗ hoặc bất lịch sự. '빙의' (nhập hồn) là hiện tượng linh hồn nhập vào cơ thể, và là một chủ đề thường xuyên xuất hiện trong các nội dung văn hóa Hàn Quốc."
+      }
+    },
+    {
+      "scripts": {
+        "en": "What if you get hurt? If I don't do it, who will listen to these people's stories?",
+        "es": "¿Qué pasaría si te lastimas? Si yo no lo hago, ¿quién escuchará las historias de estas personas?",
+        "id": "Bagaimana jika kamu terluka? Jika aku tidak melakukannya, siapa yang akan mendengarkan cerita orang-orang ini?",
+        "jp": "君が怪我でもしたらどうするんだ？私がやらなかったら、この人たちの話を誰が聞いてくれるんだ。",
+        "ko": "네가 다치기라도 하면 어쩔건데? 내가 안 하면 이 사람들 이야기는 누가 들어줘.",
+        "vi": "Nếu cậu mà bị thương thì sao? Nếu tôi không làm, ai sẽ lắng nghe câu chuyện của những người này đây?"
+      },
+      "end_time": 41.4,
+      "start_time": 37.7,
+      "vocabulary": [
+        {
+          "word": "다치기라도 하면",
+          "meanings": {
+            "en": "if (you) even get hurt (implies \"what if you get seriously hurt?\")",
+            "es": "si llegaras a lastimarte",
+            "id": "jika sampai terluka",
+            "jp": "怪我でもしたら",
+            "vi": "nếu mà bị thương"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_6a5a3e46724cd10709ee027adcaa1f9b.mp3"
+        },
+        {
+          "word": "어쩔건데?",
+          "meanings": {
+            "en": "What are you going to do? / What will happen? (often implies \"what then?\")",
+            "es": "¿Qué vas a hacer? / ¿Qué pasará entonces?",
+            "id": "Mau bagaimana? / Akan jadi apa?",
+            "jp": "どうするんだ？",
+            "vi": "thì sao? / sẽ làm gì?"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_40b96ddd9859800a360162cb1f855184.mp3"
+        },
+        {
+          "word": "이야기를 들어주다",
+          "meanings": {
+            "en": "to listen to someone's story (with empathy); to hear someone out",
+            "es": "escuchar la historia de alguien (con empatía)",
+            "id": "mendengarkan cerita (dengan empati)",
+            "jp": "話を聞いてあげる",
+            "vi": "lắng nghe câu chuyện (với sự đồng cảm)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_37b544c41fe4aef0599e5773682b2bc4.mp3"
+        }
+      ],
+      "section_num": 5,
+      "cultural_note": {
+        "en": "\"이야기를 들어주다\" means more than just hearing words; it signifies the important social role of empathizing with someone's difficulties and providing emotional support. The speaker expresses a strong sense of duty and dedication to this responsibility.",
+        "es": "\"이야기를 들어주다\" significa más que solo escuchar palabras; denota el importante rol social de empatizar con las dificultades de alguien y brindarle apoyo emocional. El hablante expresa un fuerte sentido del deber y dedicación a esta responsabilidad.",
+        "id": "\"이야기를 들어주다\" berarti lebih dari sekadar mendengar kata-kata; itu menandakan peran sosial penting untuk berempati dengan kesulitan seseorang dan memberikan dukungan emosional. Pembicara mengungkapkan rasa tugas dan dedikasi yang kuat terhadap tanggung jawab ini.",
+        "jp": "「이야기를 들어주다」は単に話を聞くことを超え、相手の困難に共感し、情緒的な支持を送る重要な社会的役割を意味します。話し手は、この責任を自分が負うべきだという強い義務感と献身的な態度を表明しています。",
+        "ko": "\"이야기를 들어주다\"는 단순히 말을 듣는 것을 넘어, 상대방의 어려움에 공감하고 정서적 지지를 보내는 중요한 사회적 역할을 뜻합니다. 화자는 이 책임을 자신이 져야 한다는 강한 의무감과 헌신적인 태도를 드러내고 있습니다.",
+        "vi": "\"이야기를 들어주다\" không chỉ đơn thuần là nghe lời nói, mà còn có nghĩa là đóng vai trò xã hội quan trọng trong việc thấu hiểu khó khăn của người khác và hỗ trợ tinh thần. Người nói thể hiện ý thức trách nhiệm và sự cống hiến mạnh mẽ đối với vai trò này."
+      }
+    }
+  ]
+}

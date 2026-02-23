@@ -1,0 +1,361 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "Very calm and satisfied",
+        "es": "Muy tranquilo/a y satisfecho/a",
+        "id": "Sangat tenang dan puas",
+        "jp": "非常に穏やかで満足している",
+        "ko": "매우 평온하고 만족스러움",
+        "vi": "Rất bình yên và hài lòng"
+      },
+      {
+        "en": "Suppressing inner conflict and pain",
+        "es": "Suprimiendo conflictos y dolor internos",
+        "id": "Menekan konflik dan rasa sakit batin",
+        "jp": "内面の葛藤と苦痛を抑えつけている",
+        "ko": "내면의 갈등과 고통을 억누르고 있음",
+        "vi": "Đang kìm nén mâu thuẫn và nỗi đau nội tâm"
+      },
+      {
+        "en": "Filled with anticipation for a new relationship",
+        "es": "Lleno/a de anticipación por una nueva relación",
+        "id": "Penuh antisipasi untuk hubungan baru",
+        "jp": "新しい関係に対する期待で満ちている",
+        "ko": "새로운 관계에 대한 기대로 가득 참",
+        "vi": "Tràn đầy kỳ vọng về một mối quan hệ mới"
+      },
+      {
+        "en": "Showing strong confidence in relationships with people around them",
+        "es": "Mostrando gran confianza en las relaciones con las personas a su alrededor",
+        "id": "Menunjukkan kepercayaan diri yang kuat dalam hubungan dengan orang-orang di sekitar mereka",
+        "jp": "周囲の人々との関係に強い自信を見せている",
+        "ko": "주변 사람들과의 관계에 대한 강한 자신감을 보임",
+        "vi": "Thể hiện sự tự tin mạnh mẽ trong các mối quan hệ với những người xung quanh"
+      }
+    ],
+    "question": {
+      "en": "What can be inferred about the overall internal state of the character through the dialogues in this video?",
+      "es": "¿Qué se puede inferir sobre el estado interno general del personaje a través de los diálogos de este video?",
+      "id": "Apa yang dapat disimpulkan tentang keadaan batin keseluruhan karakter melalui dialog dalam video ini?",
+      "jp": "この動画の会話から推測できる登場人物の全体的な内面状態は何ですか？",
+      "ko": "이 영상의 대화들을 통해 유추할 수 있는 등장인물의 전반적인 내면 상태는 무엇인가요?",
+      "vi": "Điều gì có thể suy ra về trạng thái nội tâm tổng thể của nhân vật qua các đoạn hội thoại trong video này?"
+    },
+    "answer_index": 1
+  },
+  "metadata": {
+    "titles": {
+      "en": "As You Stood By (2025)",
+      "es": "Tú siempre estuviste ahí (2025)",
+      "id": "As You Stood By (2025)",
+      "jp": "あなたが殺した (2025)",
+      "ko": "당신이 죽였다 (2025)",
+      "vi": "Tội ác kẻ làm ngơ (2025)"
+    },
+    "categories": {
+      "en": "Drama, Crime, Mystery",
+      "es": "Drama, Crimen, Misterio",
+      "id": "Drama, Kriminal, Misteri",
+      "jp": "ドラマ、犯罪、ミステリー",
+      "ko": "드라마, 범죄, 미스테리",
+      "vi": "Chính kịch, Tội phạm, Bí ẩn"
+    },
+    "difficulty": 4,
+    "youtube_id": "CStK0hNcJXM",
+    "youtube_url": "https://www.youtube.com/watch?v=CStK0hNcJXM"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Welcome. Customer. Would you like to try it on once?",
+        "es": "Bienvenido/a. Cliente. ¿Le gustaría probárselo?",
+        "id": "Selamat datang. Pelanggan. Mau coba pakai sekali?",
+        "jp": "いらっしゃいませ、お客様。一度お試しになりませんか？",
+        "ko": "반갑습니다. 고객님. 한 번 착용해 보시겠어요? ",
+        "vi": "Rất vui được gặp quý khách. Quý khách có muốn thử một lần không ạ?"
+      },
+      "end_time": 8.0,
+      "start_time": 0.0,
+      "vocabulary": [
+        {
+          "word": "반갑습니다",
+          "meanings": {
+            "en": "Welcome, Nice to meet you",
+            "es": "Encantado/a de conocerle, Bienvenido/a",
+            "id": "Selamat datang, Senang bertemu",
+            "jp": "いらっしゃいませ、お会いできて嬉しいです",
+            "vi": "Rất vui được gặp, Xin chào"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_246a2e17740c9693d2d72a9e6ec16dca.mp3"
+        },
+        {
+          "word": "고객님",
+          "meanings": {
+            "en": "Customer, Client (honorific)",
+            "es": "Cliente (con respeto)",
+            "id": "Pelanggan (sapaan hormat)",
+            "jp": "お客様",
+            "vi": "Quý khách"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_d91b53df310c95f6c1880aa8c72cad45.mp3"
+        },
+        {
+          "word": "착용하다",
+          "meanings": {
+            "en": "To wear, to try on",
+            "es": "Ponerse, probarse",
+            "id": "Memakai, mencoba pakai",
+            "jp": "着用する、試着する",
+            "vi": "Mặc, đội, đeo, thử"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_f2166fe3f14575f58cd83535f3fc3937.mp3"
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "'반갑습니다' is a basic greeting used to welcome customers in a store. The use of honorifics like '고객님' demonstrates Korea's culture of extreme and courteous customer service.",
+        "es": "'반갑습니다' es una expresión de saludo básica para dar la bienvenida a los clientes en una tienda. El uso de honoríficos como '고객님' demuestra la cultura coreana de un servicio al cliente extremadamente atento y cortés.",
+        "id": "'반갑습니다' adalah ungkapan salam dasar untuk menyambut pelanggan di toko. Penggunaan panggilan kehormatan seperti '고객님' menunjukkan budaya layanan pelanggan Korea yang sangat ramah dan sopan.",
+        "jp": "「반갑습니다」は、お店でお客様を歓迎する基本的な挨拶の表現です。「고객님」のような敬称の使用は、韓国の丁寧で手厚い顧客サービス文化を示しています。",
+        "ko": "\"반갑습니다\"는 상점에서 손님을 환영하는 기본적인 인사의 표현입니다. '고객님'과 같은 존칭 사용은 한국의 극진하고 정중한 고객 서비스 문화를 보여줍니다.",
+        "vi": "\"반갑습니다\" là một lời chào cơ bản dùng để chào đón khách hàng trong cửa hàng. Việc sử dụng kính ngữ như '고객님' thể hiện văn hóa dịch vụ khách hàng cực kỳ chu đáo và lịch sự của Hàn Quốc."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Hello. Would it suit Heesu? It's pretty. Okay.",
+        "es": "Hola. ¿Le quedaría bien a Heesu? Es bonito. Entendido.",
+        "id": "Halo. Apakah ini cocok untuk Heesu? Cantik. Oke.",
+        "jp": "こんにちは。ヒスに似合うかな？きれいだね。わかった。",
+        "ko": "안녕하세요. 희수한테 어울릴까요? 예뻐요. 알았어. ",
+        "vi": "Chào bạn. Cái này có hợp với Heesu không? Đẹp quá. Được rồi."
+      },
+      "end_time": 15.5,
+      "start_time": 9.5,
+      "vocabulary": [
+        {
+          "word": "어울리다",
+          "meanings": {
+            "en": "To suit, to match",
+            "es": "Quedar bien, pegar",
+            "id": "Cocok, sesuai",
+            "jp": "似合う、調和する",
+            "vi": "Hợp, phù hợp"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_75f3237b63421460e10bbc42287a46b5.mp3"
+        },
+        {
+          "word": "예쁘다",
+          "meanings": {
+            "en": "To be pretty, beautiful",
+            "es": "Ser bonito/a, guapo/a",
+            "id": "Cantik, indah",
+            "jp": "きれいだ、可愛い",
+            "vi": "Đẹp, xinh"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_e78d115aaaf0b8c5ef06b68b7a8b8e33.mp3"
+        },
+        {
+          "word": "알았어",
+          "meanings": {
+            "en": "Okay, I got it, Understood (informal)",
+            "es": "Entendido, Vale (informal)",
+            "id": "Oke, Aku mengerti (informal)",
+            "jp": "わかった、了解",
+            "vi": "Tôi hiểu rồi, Được rồi (thân mật)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_a979496b2e41fcf93d0cec9013717a5c.mp3"
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "This is a common situation where one asks for another's opinion on whether a gift or a specific item would suit Heesu. '알았어' is used to express understanding or a decision after hearing someone's reply.",
+        "es": "Esta es una situación cotidiana en la que se pregunta la opinión de otra persona sobre si un regalo o un artículo específico le quedaría bien a Heesu. '알았어' se usa para indicar que se ha comprendido la respuesta o que se ha tomado una decisión.",
+        "id": "Ini adalah situasi sehari-hari di mana seseorang menanyakan pendapat orang lain apakah hadiah atau barang tertentu akan cocok untuk Heesu. '알았어' digunakan untuk menyatakan pemahaman atau keputusan setelah mendengar jawaban lawan bicara.",
+        "jp": "プレゼントや特定の品物がヒスに似合うかどうか、他人の意見を尋ねる日常的な状況です。「알았어」は相手の返答を聞いて理解した、または決定したという意味で使われます。",
+        "ko": "선물이나 특정 물건을 희수에게 주거나 살 때 어울릴지 타인의 의견을 묻는 일상적인 상황입니다. '알았어'는 상대방의 대답을 듣고 이해했거나 결정했다는 의미로 쓰입니다.",
+        "vi": "Đây là một tình huống hàng ngày khi hỏi ý kiến người khác xem món quà hoặc vật phẩm cụ thể có hợp với Heesu không. '알았어' được dùng để diễn tả sự hiểu hoặc quyết định sau khi nghe câu trả lời của đối phương."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Jo Eun-soo sometimes. Doesn't a crazy person just pop out from inside here?",
+        "es": "Jo Eun-soo a veces. ¿No hay momentos en que un loco sale de aquí?",
+        "id": "Jo Eun-soo kadang-kadang. Bukankah ada saatnya orang gila keluar dari sini?",
+        "jp": "チョ・ウンスは時々。この中から狂ったやつが飛び出してくる時ないのか？",
+        "ko": "조은수는 가끔. 이 안에서 미친놈 튀어나올 때 없냐?",
+        "vi": "Jo Eun-soo đôi khi. Không phải lúc nào cũng có thằng điên nhảy ra từ bên trong này sao?"
+      },
+      "end_time": 29.8,
+      "start_time": 23.0,
+      "vocabulary": [
+        {
+          "word": "가끔",
+          "meanings": {
+            "en": "Sometimes, occasionally",
+            "es": "A veces, ocasionalmente",
+            "id": "Kadang-kadang",
+            "jp": "時々、たまに",
+            "vi": "Thỉnh thoảng, đôi khi"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_eb2c184b094abf34714004be0b774568.mp3"
+        },
+        {
+          "word": "미친놈",
+          "meanings": {
+            "en": "Crazy person, madman (informal, derogatory)",
+            "es": "Loco, demente (coloquial, ofensivo)",
+            "id": "Orang gila, bajingan gila (informal)",
+            "jp": "狂ったやつ、バカ野郎 (俗語)",
+            "vi": "Thằng điên, đồ điên (tục)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_8e0dea61263e966b01b90a8ed73d8210.mp3"
+        },
+        {
+          "word": "튀어나오다",
+          "meanings": {
+            "en": "To pop out, to jump out, to emerge suddenly",
+            "es": "Saltar, aparecer de repente",
+            "id": "Muncul tiba-tiba, melompat keluar",
+            "jp": "飛び出す、突然現れる",
+            "vi": "Nhảy ra, bật ra đột ngột"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_0e94404f031e781ed992e4f70034e66f.mp3"
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "\"미친놈 튀어나오다\" is a slang expression that metaphorically describes a situation where someone unexpectedly causes trouble or problems. It expresses dissatisfaction or concern about unpredictable situations.",
+        "es": "'미친놈 튀어나오다' es una expresión argot que describe metafóricamente una situación en la que alguien problemático o \"loco\" aparece inesperadamente. Expresa insatisfacción o preocupación por situaciones impredecibles.",
+        "id": "'미친놈 튀어나오다' adalah ungkapan slang yang secara metaforis menggambarkan situasi di mana seseorang tiba-tiba menyebabkan masalah atau kekacauan. Ini mengekspresikan ketidakpuasan atau kekhawatiran tentang situasi yang tidak dapat diprediksi.",
+        "jp": "「미친놈 튀어나오다」は、予期せぬ問題やトラブルを引き起こす人が現れる状況を比喩的に表現する俗語です。予測不可能な状況に対する不満や懸念を含んでいます。",
+        "ko": "\"미친놈 튀어나오다\"는 예기치 않게 돌발적인 문제를 일으키는 사람이 나타날 수 있는 상황을 비유적으로 표현하는 속어입니다. 이는 예측 불가능한 상황에 대한 불만이나 우려를 담고 있습니다.",
+        "vi": "\"미친놈 튀어나오다\" là một cách nói lóng mô tả một cách ẩn dụ tình huống mà một người bất ngờ gây ra rắc rối hoặc vấn đề. Nó thể hiện sự không hài lòng hoặc lo ngại về những tình huống khó lường."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Fearing it might pop out. Because I think I lived pressing it down tightly. I need to do my makeup well.",
+        "es": "Por miedo a que saliera. Porque creo que viví reprimiéndolo fuertemente. Tengo que maquillarme bien.",
+        "id": "Takutnya keluar. Karena kurasa aku hidup sambil terus menahannya. Aku harus merias wajah dengan baik.",
+        "jp": "飛び出してくるんじゃないかと。ぎゅっと抑えながら生きてきたみたいで。化粧、ちゃんとしないと。",
+        "ko": "튀어나올까 봐. 꾹꾹 눌러가면서 살았을 거 같아서. 화장 잘해야겠다. ",
+        "vi": "Sợ nó sẽ bật ra. Vì tôi nghĩ mình đã sống bằng cách kìm nén chặt chẽ. Tôi phải trang điểm thật đẹp."
+      },
+      "end_time": 35.9,
+      "start_time": 31.0,
+      "vocabulary": [
+        {
+          "word": "눌러가다",
+          "meanings": {
+            "en": "To press down, to suppress, to hold back",
+            "es": "Reprimir, suprimir",
+            "id": "Menekan, menahan",
+            "jp": "押し殺す、抑えつける",
+            "vi": "Đè nén, kìm nén"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_c6c581f1e9c7a08a9f739c1f3a5f08f1.mp3"
+        },
+        {
+          "word": "살다",
+          "meanings": {
+            "en": "To live, to reside",
+            "es": "Vivir",
+            "id": "Hidup, tinggal",
+            "jp": "生きる、暮らす",
+            "vi": "Sống"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_172e0666e518c7ff69a16aebaa43759f.mp3"
+        },
+        {
+          "word": "화장하다",
+          "meanings": {
+            "en": "To put on makeup",
+            "es": "Maquillarse",
+            "id": "Berdandan, memakai riasan",
+            "jp": "化粧する",
+            "vi": "Trang điểm"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_68a5844527eed8beaccc8461f3bd87d7.mp3"
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "This script conveys a Korean sentiment where a character, who has lived suppressing their emotions, tries to hide their inner pain or exhaustion and project a strong image to others by focusing on their outward appearance (makeup).",
+        "es": "Este fragmento transmite un sentimiento coreano en el que un personaje, que ha vivido reprimiendo sus emociones, intenta ocultar su dolor interno o agotamiento y proyectar una imagen fuerte a los demás cuidando su apariencia externa (maquillaje).",
+        "id": "Naskah ini menyampaikan sentimen Korea di mana seorang karakter, yang telah hidup menekan emosinya, mencoba menyembunyikan rasa sakit batin atau kelelahan mereka dan memproyeksikan citra yang kuat kepada orang lain dengan memperhatikan penampilan luar mereka (rias wajah).",
+        "jp": "このセリフは、自分の感情を抑えながら生きてきた人物が、内面の苦痛や疲労を隠し、他人に強い印象を与えるために外見（化粧）に気を遣うという韓国的な感情を伝えています。",
+        "ko": "자신의 감정을 억누르며 살아온 인물이 내면의 고통이나 지친 모습을 감추고 타인에게는 강한 인상을 보여주기 위해 외모(화장)에 신경 쓰는 한국적인 정서가 담겨 있습니다.",
+        "vi": "Đoạn kịch bản này truyền tải một tình cảm đặc trưng của Hàn Quốc, nơi một nhân vật đã sống bằng cách kìm nén cảm xúc của mình, cố gắng che giấu nỗi đau nội tâm hoặc sự mệt mỏi và thể hiện một hình ảnh mạnh mẽ với người khác bằng cách chú trọng đến vẻ bề ngoài (trang điểm)."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Even so, I still think it's love. When I experienced violence close to death... Is this, is this okay?",
+        "es": "Aun así, todavía lo considero amor. Cuando experimenté violencia cercana a la muerte... ¿Esto, esto está bien?",
+        "id": "Meskipun begitu, saya masih menganggapnya cinta. Saat saya mengalami kekerasan yang mendekati kematian... Apakah ini, apakah ini baik-baik saja?",
+        "jp": "それでもまだ愛だと思っていますよね。死に近い暴力を経験した時…これが、これが大丈夫なの？",
+        "ko": "그래도 아직은 사랑이라고 생각하죠. 죽음에 가까울 폭력을 경험했을 때... 이게, 이게 괜찮은거야?",
+        "vi": "Dù vậy, tôi vẫn nghĩ đó là tình yêu. Khi tôi trải qua bạo lực gần kề cái chết... Cái này, cái này có ổn không?"
+      },
+      "end_time": 49.5,
+      "start_time": 42.2,
+      "vocabulary": [
+        {
+          "word": "사랑",
+          "meanings": {
+            "en": "Love",
+            "es": "Amor",
+            "id": "Cinta",
+            "jp": "愛",
+            "vi": "Tình yêu"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_1be29cfd1cd1d996d94674e81e3164ba.mp3"
+        },
+        {
+          "word": "죽음",
+          "meanings": {
+            "en": "Death",
+            "es": "Muerte",
+            "id": "Kematian",
+            "jp": "死",
+            "vi": "Cái chết"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_cf442b09cdd15a46baeff07cf7ea7380.mp3"
+        },
+        {
+          "word": "폭력",
+          "meanings": {
+            "en": "Violence",
+            "es": "Violencia",
+            "id": "Kekerasan",
+            "jp": "暴力",
+            "vi": "Bạo lực"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_8ab0810605305a566c2fcc377b7d9732.mp3"
+        },
+        {
+          "word": "경험하다",
+          "meanings": {
+            "en": "To experience",
+            "es": "Experimentar",
+            "id": "Mengalami",
+            "jp": "経験する",
+            "vi": "Trải nghiệm, kinh nghiệm"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_a92da06b1412a1b0762645dd3d7072c5.mp3"
+        }
+      ],
+      "section_num": 5,
+      "cultural_note": {
+        "en": "This shows a distorted perception of violence as love, highlighting the psychological pain and confusion experienced by victims of abusive relationships. This can also stem from complex backgrounds such as a societal emphasis on maintaining relationships or the victim's emotional dependence.",
+        "es": "Esto muestra una percepción distorsionada de la violencia como amor, resaltando el dolor psicológico y la confusión que experimentan las víctimas de relaciones abusivas. Esto también puede derivar de antecedentes complejos como el énfasis social en mantener las relaciones o la dependencia emocional de la víctima.",
+        "id": "Ini menunjukkan persepsi yang menyimpang tentang kekerasan sebagai cinta, menyoroti rasa sakit psikologis dan kebingungan yang dialami oleh korban hubungan yang kasar. Ini juga dapat berasal dari latar belakang kompleks seperti penekanan masyarakat pada pemeliharaan hubungan atau ketergantungan emosional korban.",
+        "jp": "これは暴力を愛と歪曲して認識する様子を示しており、虐待関係の被害者が経験する心理的な苦痛と混乱を表しています。これは、関係維持を重視する社会的雰囲気や被害者の情緒的依存など、複合的な背景から生じることもあります。",
+        "ko": "폭력을 사랑으로 여기는 왜곡된 인식을 보여주며, 학대 관계 피해자가 겪는 심리적 고통과 혼란을 나타냅니다. 이는 관계 유지를 중시하는 사회적 분위기나 피해자의 정서적 의존 등 복합적 배경에서 비롯되기도 합니다.",
+        "vi": "Điều này cho thấy nhận thức sai lệch về bạo lực là tình yêu, làm nổi bật nỗi đau tâm lý và sự bối rối mà nạn nhân trong các mối quan hệ lạm dụng phải chịu đựng. Điều này cũng có thể xuất phát từ các yếu cảnh phức tạp như áp lực xã hội về việc duy trì mối quan hệ hoặc sự phụ thuộc tình cảm của nạn nhân."
+      }
+    }
+  ]
+}

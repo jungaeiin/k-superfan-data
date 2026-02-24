@@ -1,5 +1,28 @@
 [
   {
+    "id": 22,
+    "youtube_id": "m9x5qdFuNss",
+    "thumbnail": "https://img.youtube.com/vi/m9x5qdFuNss/maxresdefault.jpg",
+    "difficulty": 4,
+    "titles": {
+      "en": "Method Acting (2026)",
+      "es": "Method Acting (2026)",
+      "id": "Method Acting (2026)",
+      "jp": "Method Acting (2026)",
+      "ko": "메소드연기 (2026)",
+      "vi": "Method Acting (2026)"
+    },
+    "categories": {
+      "en": "Film, Comedy",
+      "es": "Cine, Comedia",
+      "id": "Film, Komedi",
+      "jp": "映画、コメディ",
+      "ko": "영화, 코미디",
+      "vi": "Phim, Hài kịch"
+    },
+    "pub_date": "2026-02-24T00:45:54.021834+00:00"
+  },
+  {
     "id": 21,
     "youtube_id": "CStK0hNcJXM",
     "thumbnail": "https://img.youtube.com/vi/CStK0hNcJXM/maxresdefault.jpg",
@@ -124,7 +147,7 @@
       "es": "Pavana (2026)",
       "id": "Pavane (2026)",
       "jp": "Pavane (2026)",
-      "ko": "파반느 공식 예고편 | Netflix ",
+      "ko": "파반느 공시 예고편 | Netflix ",
       "vi": "Pavane (2026)"
     },
     "categories": {

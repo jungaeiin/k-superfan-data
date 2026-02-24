@@ -1,0 +1,238 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "There is a perception that he is limited to one genre and cannot show diverse acting.",
+        "es": "Existe la percepción de que está limitado a un género y no puede mostrar una actuación diversa.",
+        "id": "Ada persepsi bahwa ia terbatas pada satu genre dan tidak dapat menunjukkan akting yang beragam.",
+        "jp": "一つのジャンルに限定され、多様な演技を見せられないという認識がある。",
+        "ko": "한 가지 장르에 국한되어 다양한 연기를 보여주지 못한다는 인식이 있다.",
+        "vi": "Có nhận thức rằng anh ấy bị giới hạn trong một thể loại và không thể thể hiện diễn xuất đa dạng."
+      },
+      {
+        "en": "It's high praise that he's so good at comedy that other acting is unimaginable.",
+        "es": "Es un gran elogio que sea tan bueno en la actuación de comedia que otras actuaciones son inimaginables.",
+        "id": "Ini adalah pujian tinggi bahwa dia sangat bagus dalam akting komedi sehingga akting lain tidak terbayangkan.",
+        "jp": "彼がコメディ演技を非常に優れてこなすため、他の演技は考えられないという絶賛である。",
+        "ko": "그가 코미디 연기를 매우 뛰어나게 잘해서 다른 연기는 생각할 수 없다는 극찬이다.",
+        "vi": "Đó là lời khen ngợi rằng anh ấy quá giỏi trong diễn xuất hài kịch đến mức không thể tưởng tượng được các kiểu diễn khác."
+      },
+      {
+        "en": "It means his comedy acting range is wide enough to handle any role.",
+        "es": "Significa que su rango de actuación de comedia es lo suficientemente amplio como para manejar cualquier papel.",
+        "id": "Ini berarti jangkauan akting komedinya cukup luas untuk menangani peran apa pun.",
+        "jp": "コメディ演技の幅が広く、どんな役柄でもこなせるという意味である。",
+        "ko": "코미디 연기 폭이 넓어 어떤 역할이든 소화할 수 있다는 의미이다.",
+        "vi": "Điều đó có nghĩa là phạm vi diễn xuất hài kịch của anh ấy đủ rộng để đảm nhận bất kỳ vai nào."
+      },
+      {
+        "en": "It's a criticism that he's unpopular in genres other than comedy.",
+        "es": "Es una crítica de que es impopular en géneros distintos a la comedia.",
+        "id": "Ini adalah kritik bahwa ia tidak populer di genre selain komedi.",
+        "jp": "コメディ演技以外では人気がないという批判である。",
+        "ko": "코미디 연기 외에 다른 장르에서는 인기가 없다는 비판이다.",
+        "vi": "Đó là một lời chỉ trích rằng anh ấy không nổi tiếng ở các thể loại khác ngoài hài kịch."
+      }
+    ],
+    "question": {
+      "en": "Based on the dialogue in Section 3, \"Is it because Dong-hwi oppa only does comedy acting? Everything seems quite similar. If it's not comedy acting, then what kind of acting does he do?\", what is the general public perception of Lee Dong-hwi that can be inferred?",
+      "es": "Basado en el diálogo de la Sección 3, \"¿Será porque Dong-hwi oppa solo hace comedia? Todo parece muy similar. Si no es actuación de comedia, ¿qué tipo de actuación hace?\", ¿cuál es la percepción general del público sobre Lee Dong-hwi que se puede inferir?",
+      "id": "Berdasarkan dialog di Bagian 3, \"Apa karena Dong-hwi oppa cuma main akting komedi ya? Semuanya terasa mirip-mirip. Kalau bukan akting komedi, akting macam apa yang dia lakukan?\", persepsi umum publik tentang Lee Dong-hwi yang dapat disimpulkan adalah apa?",
+      "jp": "スクリプト3の「ドンフィお兄さんはコメディ演技ばかりしているからかな？なんか全部似たり寄ったりだね。コメディ演技じゃなかったら、一体どんな演技をするっていうの？」というセリフから推測できる、イ・ドンフィに対する一般的な大衆の認識は何ですか？",
+      "ko": "스크립트 3에서 \"동휘 오빠는 코미디 연기만 해서 그런가? 뭔가 다 비슷비슷해. 코미디 연기가 아니면 대체 어떤 연기를 한다는 거죠?\"라는 대사를 통해 유추할 수 있는 이동휘에 대한 대중의 일반적인 인식은 무엇인가요?",
+      "vi": "Dựa vào đoạn hội thoại trong Phần 3, \"Có phải vì anh Dong-hwi chỉ đóng phim hài không? Mọi thứ cứ na ná nhau. Nếu không phải diễn hài thì anh ấy diễn thể loại gì chứ?\", bạn có thể suy ra nhận thức chung của công chúng về Lee Dong-hwi là gì?"
+    },
+    "answer_index": 0
+  },
+  "metadata": {
+    "titles": {
+      "en": "Method Acting (2026)",
+      "es": "Method Acting (2026)",
+      "id": "Method Acting (2026)",
+      "jp": "Method Acting (2026)",
+      "ko": "메소드연기 (2026)",
+      "vi": "Method Acting (2026)"
+    },
+    "categories": {
+      "en": "Film, Comedy",
+      "es": "Cine, Comedia",
+      "id": "Film, Komedi",
+      "jp": "映画、コメディ",
+      "ko": "영화, 코미디",
+      "vi": "Phim, Hài kịch"
+    },
+    "difficulty": 4,
+    "youtube_id": "m9x5qdFuNss",
+    "youtube_url": "https://youtu.be/m9x5qdFuNss"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Fashionista~ Comedy actor, actor Lee Dong-hwi~! Yes, hello. I'm Lee Dong-hwi.",
+        "es": "¡Fashionista~ Actor de comedia, actor Lee Dong-hwi~! Sí, hola. Soy Lee Dong-hwi.",
+        "id": "Fashionista~ Aktor komedi, aktor Lee Dong-hwi~! Ya, halo. Saya Lee Dong-hwi.",
+        "jp": "ファッショニスタ〜コメディ俳優、俳優イ・ドンフィ〜！はい、こんにちは。イ・ドンフィです。",
+        "ko": "패셔니스타~ 코미디 배우, 배우 이동휘~! 네 안녕하세요. 이동휘입니다.",
+        "vi": "Fashionista~ Diễn viên hài, diễn viên Lee Dong-hwi~! Vâng, xin chào. Tôi là Lee Dong-hwi."
+      },
+      "end_time": 13.2,
+      "start_time": 0.0,
+      "vocabulary": [
+        {
+          "word": "패셔니스타",
+          "meanings": {
+            "en": "fashionista",
+            "es": "fashionista",
+            "id": "fashionista",
+            "jp": "ファッショニスタ",
+            "vi": "tín đồ thời trang, fashionista"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_3628ee6c056492f4e175cb465d4c6da7.mp3"
+        },
+        {
+          "word": "코미디 배우",
+          "meanings": {
+            "en": "comedy actor",
+            "es": "actor de comedia",
+            "id": "aktor komedi",
+            "jp": "コメディ俳優",
+            "vi": "diễn viên hài"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_6b343e443cb4aeea877b41ff1988339e.mp3"
+        },
+        {
+          "word": "배우",
+          "meanings": {
+            "en": "actor/actress",
+            "es": "actor/actriz",
+            "id": "aktor/aktris",
+            "jp": "俳優",
+            "vi": "diễn viên"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_752fc407bceecba2d375c5f9a38e40c2.mp3"
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "In Korea, when introducing celebrities, it's common to highlight their charm by mentioning their personality or a specific image, like 'fashionista,' in addition to their profession.",
+        "es": "En Corea, al presentar a las celebridades, es común resaltar su encanto mencionando su personalidad o una imagen específica, como 'fashionista', además de su profesión.",
+        "id": "Di Korea, saat memperkenalkan selebriti, adalah hal yang umum untuk menyoroti pesona mereka dengan menyebutkan kepribadian atau citra tertentu, seperti 'fashionista,' selain profesi mereka.",
+        "jp": "韓国では、芸能人を紹介する際、職業以外に「ファッショニスタ」のように彼らの個性や特定のイメージを併記して魅力を強調することが一般的です。",
+        "ko": "한국에서는 연예인을 소개할 때 직업 외에 '패셔니스타'처럼 그들의 개성이나 특정 이미지를 함께 언급하여 매력을 부각하는 경우가 흔합니다.",
+        "vi": "Ở Hàn Quốc, khi giới thiệu người nổi tiếng, ngoài nghề nghiệp, việc đề cập thêm tính cách hoặc hình ảnh đặc trưng của họ, như 'fashionista', để làm nổi bật sự cuốn hút là điều phổ biến."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Cut! Hey! Come here! Please show your sagacity, Your Majesty! (A plea from a historical drama)",
+        "es": "¡Corten! ¡Oye! ¡Ven aquí! ¡Por favor, considérelo con sensatez, Su Majestad! (Una súplica de un drama histórico)",
+        "id": "Cut! Hei! Kemari! Mohon pertimbangkan dengan bijak, Yang Mulia!",
+        "jp": "カット！おい！こっちに来い！殿下、どうかご聡明にお考えくださいませ！",
+        "ko": "컷! 야! 일로 와바! 통촉하여 주시옵소서 전하!",
+        "vi": "Cắt! Này! Lại đây! Xin bệ hạ hãy xem xét thấu đáo!"
+      },
+      "end_time": 20.2,
+      "start_time": 13.0,
+      "vocabulary": [
+        {
+          "word": "컷",
+          "meanings": {
+            "en": "cut (film term)",
+            "es": "¡Corten! (término cinematográfico)",
+            "id": "cut (istilah film)",
+            "jp": "カット",
+            "vi": "cắt (thuật ngữ điện ảnh)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_8e2da998063cdcef78ebfa7b8cd0b17d.mp3"
+        },
+        {
+          "word": "통촉하다",
+          "meanings": {
+            "en": "to show sagacity; to consider wisely (formal, historical)",
+            "es": "considerar con sensatez, mostrar sagacidad (formal, histórico)",
+            "id": "mempertimbangkan dengan bijak, menunjukkan kebijaksanaan (bahasa formal, sejarah)",
+            "jp": "聡明にお考えになる、ご賢察なさる (歴史劇で使われる言葉)",
+            "vi": "xem xét thấu đáo, sáng suốt phán xét (ngôn ngữ cổ, cung đình)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_6d050c7caf44ed752aef1615013d6345.mp3"
+        },
+        {
+          "word": "전하",
+          "meanings": {
+            "en": "Your Majesty (addressing a king/prince)",
+            "es": "Su Majestad (dirigido a un rey/príncipe)",
+            "id": "Yang Mulia (menyapa raja/pangeran)",
+            "jp": "殿下 (王や王子への呼びかけ)",
+            "vi": "Bệ hạ, Điện hạ (xưng hô với vua/hoàng tử)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_213cec68333470a25d63438ae4aadde2.mp3"
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "The latter part of the script uses historical drama language, pleading with the king, while the initial \"Cut! Hey!\" is a modern filming set instruction and address, suggesting a historical drama acting situation.",
+        "es": "La última parte del guion utiliza un lenguaje de drama histórico, suplicando al rey, mientras que el \"¡Corten! ¡Oye!\" inicial es una instrucción y un llamado en un set de filmación moderno, lo que sugiere una situación de actuación de drama histórico.",
+        "id": "Bagian akhir dari skrip menggunakan bahasa drama sejarah, memohon kepada raja, sedangkan \"Cut! Hei!\" di awal adalah instruksi dan panggilan di lokasi syuting modern, menunjukkan situasi akting drama sejarah.",
+        "jp": "スクリプトの後半は王に懇願する史劇の言葉遣いで、冒頭の「カット！おい！」は現代の撮影現場での指示や呼びかけであり、時代劇の演技状況であることが推測できます。",
+        "ko": "스크립트의 후반부는 왕에게 간청하는 사극 말투이며, 초반의 \"컷! 야!\"는 현대 촬영 현장의 지시와 호칭으로, 시대극 연기 상황임을 짐작할 수 있습니다.",
+        "vi": "Phần sau của kịch bản sử dụng lời thoại của phim cổ trang, cầu xin nhà vua, trong khi \"Cắt! Này!\" ở đầu là chỉ dẫn và cách gọi trong một trường quay hiện đại, cho thấy đây là tình huống diễn xuất trong phim cổ trang."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Is it because Dong-hwi oppa only does comedy acting? Everything seems quite similar. If it's not comedy acting, then what kind of acting does he do?",
+        "es": "¿Será porque Dong-hwi oppa solo hace comedia? Todo parece muy similar. Si no es actuación de comedia, ¿qué tipo de actuación hace?",
+        "id": "Apa karena Dong-hwi oppa cuma main akting komedi ya? Semuanya terasa mirip-mirip. Kalau bukan akting komedi, akting macam apa yang dia lakukan?",
+        "jp": "ドンフィお兄さんはコメディ演技ばかりしているからかな？なんか全部似たり寄ったりだね。コメディ演技じゃなかったら、一体どんな演技をするっていうの？",
+        "ko": "동휘 오빠는 코미디 연기만 해서 그런가? 뭔가 다 비슷비슷해. 코미디 연기가 아니면 대체 어떤 연기를 한다는 거죠?",
+        "vi": "Có phải vì anh Dong-hwi chỉ đóng phim hài không? Mọi thứ cứ na ná nhau. Nếu không phải diễn hài thì anh ấy diễn thể loại gì chứ?"
+      },
+      "end_time": 28.2,
+      "start_time": 21.5,
+      "vocabulary": [
+        {
+          "word": "연기",
+          "meanings": {
+            "en": "acting, performance",
+            "es": "actuación",
+            "id": "akting",
+            "jp": "演技",
+            "vi": "diễn xuất"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_65d641d66989f0b99f6901d3ecf07eaf.mp3"
+        },
+        {
+          "word": "비슷비슷하다",
+          "meanings": {
+            "en": "to be all similar, to be much alike",
+            "es": "ser muy similar, ser parecido",
+            "id": "mirip-mirip, seragam",
+            "jp": "似たり寄ったりだ",
+            "vi": "giống na ná, tương tự nhau"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_eab81d4ca8371a8054bf49e17f43a489.mp3"
+        },
+        {
+          "word": "대체",
+          "meanings": {
+            "en": "(used to emphasize a question) on earth, exactly, for heaven's sake",
+            "es": "(usado para enfatizar una pregunta) ¿qué demonios?, ¿exactamente?",
+            "id": "sebenarnya, sebenarnya apa (digunakan untuk menekankan pertanyaan)",
+            "jp": "一体 (疑問詞を強調する際に使用)",
+            "vi": "rốt cuộc, vậy thì (nhấn mạnh câu hỏi)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_9a060fbfd76039a0121c4df385b870de.mp3"
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "This line reflects the general public perception that a particular actor, by appearing only in one genre (comedy), has a narrow acting range or that their roles are similar.",
+        "es": "Esta línea refleja la percepción general del público de que un actor en particular, al aparecer solo en un género (comedia), tiene un rango de actuación limitado o que sus papeles son similares.",
+        "id": "Baris ini mencerminkan persepsi umum publik bahwa seorang aktor tertentu, karena hanya tampil dalam satu genre (komedi), memiliki jangkauan akting yang sempit atau peran mereka mirip.",
+        "jp": "このセリフは、特定の俳優が特定のジャンル（コメディ）にばかり出演し、演技の幅が狭い、あるいは役柄が似ていると感じる大衆の一般的な認識を反映しています。",
+        "ko": "이 대사는 특정 배우가 한 가지 장르(코미디)에만 출연하여 연기 폭이 좁거나 역할이 비슷하다고 느끼는 대중의 일반적인 인식을 반영합니다.",
+        "vi": "Câu thoại này phản ánh nhận thức chung của công chúng rằng một diễn viên cụ thể, chỉ xuất hiện trong một thể loại (hài kịch), có phạm vi diễn xuất hẹp hoặc các vai diễn của họ tương tự nhau."
+      }
+    }
+  ]
+}

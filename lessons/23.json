@@ -1,0 +1,227 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "Because they are actually taking pictures for money to earn travel expenses.",
+        "es": "Porque realmente están tomando fotos por dinero para cubrir los gastos del viaje.",
+        "id": "Karena mereka benar-benar mengambil foto dengan bayaran untuk mendapatkan biaya perjalanan.",
+        "jp": "彼らが旅行費用を稼ぐために実際に写真を撮ってあげているからだ。",
+        "ko": "그들이 여행 경비를 벌기 위해 실제로 사진을 찍어주고 있기 때문이다.",
+        "vi": "Vì họ thực sự đang chụp ảnh để kiếm tiền trang trải chi phí du lịch."
+      },
+      {
+        "en": "Because their appearance, wearing cowboy hats and giving 'one, two, three, four' commands while posing, makes them look like they are taking pictures for tourists for money.",
+        "es": "Porque su apariencia, con sombreros de vaquero y dando órdenes de 'uno, dos, tres, cuatro' mientras posan, los hace parecer como si estuvieran tomando fotos a turistas por dinero.",
+        "id": "Karena penampilan mereka, mengenakan topi koboi dan memberikan aba-aba 'satu, dua, tiga, empat' saat berpose, membuat mereka terlihat seperti sedang mengambil foto untuk wisatawan dengan bayaran.",
+        "jp": "カウボーイハットをかぶり、「いち、に、さん、し」と掛け声をしてポーズをとる姿が、まるで観光客からお金をもらって写真を撮ってあげているように見えるからだ。",
+        "ko": "카우보이 모자를 쓰고 '하나 둘 셋 넷' 구령을 하며 포즈를 취하는 모습이 마치 관광객들에게 돈을 받고 사진을 찍어주는 것처럼 보이기 때문이다.",
+        "vi": "Vì vẻ ngoài của họ, đội mũ cao bồi và hô 'một, hai, ba, bốn' khi tạo dáng, khiến họ trông như đang chụp ảnh cho khách du lịch để kiếm tiền."
+      },
+      {
+        "en": "Because the surrounding scenery is so beautiful that people are asking them to take pictures.",
+        "es": "Porque el paisaje circundante es tan hermoso que la gente les está pidiendo que tomen fotos.",
+        "id": "Karena pemandangan di sekitar sangat indah sehingga orang-orang meminta mereka untuk mengambil gambar.",
+        "jp": "周りの景色がとても美しいので、人々が彼らに写真を撮ってくれるよう頼むからだ。",
+        "ko": "주변 풍경이 매우 아름다워 사람들이 그들에게 사진을 찍어달라고 요청하기 때문이다.",
+        "vi": "Vì phong cảnh xung quanh quá đẹp nên mọi người đang yêu cầu họ chụp ảnh."
+      },
+      {
+        "en": "Because they possess professional knowledge and equipment for photography.",
+        "es": "Porque poseen conocimientos y equipo profesional para la fotografía.",
+        "id": "Karena mereka memiliki pengetahuan dan peralatan profesional untuk fotografi.",
+        "jp": "彼らが写真撮影に関する専門知識と機材を持っているからだ。",
+        "ko": "그들이 사진 촬영에 대한 전문적인 지식과 장비를 갖추고 있기 때문이다.",
+        "vi": "Vì họ sở hữu kiến thức và thiết bị chuyên nghiệp để chụp ảnh."
+      }
+    ],
+    "question": {
+      "en": "According to the conversation, what makes the speakers feel like 'people who take pictures for money'?",
+      "es": "Según la conversación, ¿qué hace que los oradores se sientan como 'personas que toman fotos por dinero'?",
+      "id": "Berdasarkan percakapan, apa yang membuat pembicara merasa seperti 'orang-orang yang mengambil foto dengan bayaran'?",
+      "jp": "会話の内容によると、話者たちが自分たちを「お金をもらって写真を撮ってあげる子たち」のように感じる理由は何ですか？",
+      "ko": "대화 내용에 따르면, 화자들이 자신들을 '돈 받고 사진 찍어주는 애들' 같다고 느끼는 이유는 무엇입니까?",
+      "vi": "Dựa trên nội dung cuộc trò chuyện, điều gì khiến những người nói cảm thấy mình giống như 'những người chụp ảnh lấy tiền'?"
+    },
+    "answer_index": 1
+  },
+  "metadata": {
+    "titles": {
+      "en": "Lee Seo-jin's Dalla Dalla (2026)",
+      "es": "Lee Seo-jin's Dalla Dalla (2026)",
+      "id": "Lee Seo-jin's Dalla Dalla (2026)",
+      "jp": "Lee Seo-jin's Dalla Dalla (2026)",
+      "ko": "이서진의 달라달라 | 공식 티저 예고편",
+      "vi": "Lee Seo-jin's Dalla Dalla (2026)"
+    },
+    "categories": {
+      "en": "Entertainment, Travel, Healing",
+      "es": "Entretenimiento, Viajes, Sanación",
+      "id": "Hiburan, Perjalanan, Penyembuhan",
+      "jp": "バラエティ、旅行、ヒーリング",
+      "ko": "예능, 여행, 힐링",
+      "vi": "Giải trí, Du lịch, Chữa lành"
+    },
+    "difficulty": 2,
+    "youtube_id": "PFt4ETh8648",
+    "youtube_url": "https://www.youtube.com/watch?v=PFt4ETh8648"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Just looking at this picture, it'll be really funny.",
+        "es": "Con solo ver esta imagen, seguro que será muy divertido.",
+        "id": "Melihat gambar ini saja pasti akan sangat lucu.",
+        "jp": "この絵を見るだけでも本当に面白そうだ。",
+        "ko": "이 그림만 봐도 정말 웃기겠다.",
+        "vi": "Chỉ nhìn bức ảnh này thôi đã thấy buồn cười rồi."
+      },
+      "end_time": 21.6,
+      "start_time": 18.5,
+      "vocabulary": [
+        {
+          "word": "그림",
+          "meanings": {
+            "en": "picture, drawing",
+            "es": "cuadro, dibujo",
+            "id": "gambar, lukisan",
+            "jp": "絵、図",
+            "vi": "bức tranh, hình vẽ"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_472b71fdf738ee3d9a766ea51a27bf89.mp3"
+        },
+        {
+          "word": "웃기겠다",
+          "meanings": {
+            "en": "it will be funny, looks funny (colloquial prediction)",
+            "es": "será divertido, parece divertido",
+            "id": "akan lucu, terlihat lucu",
+            "jp": "面白そうだ、笑えるだろう",
+            "vi": "sẽ buồn cười, trông buồn cười"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_ac56588b4f9d86796bd2ac1cdc79132f.mp3"
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "This expression is used to predict or admire that a specific picture or scene will be immediately funny. It is primarily used when encountering universally understandable humor without much explanation.",
+        "es": "Esta expresión se usa para predecir o admirar que una imagen o escena específica será inmediatamente divertida. Se utiliza principalmente al encontrar humor universalmente comprensible sin mucha explicación.",
+        "id": "Ekspresi ini digunakan untuk memprediksi atau mengagumi bahwa suatu gambar atau adegan tertentu akan segera lucu. Ini terutama digunakan saat melihat humor yang dapat dipahami secara universal tanpa banyak penjelasan.",
+        "jp": "この表現は、特定の絵や場面がすぐに面白いだろうと予測したり感嘆したりするときに使われます。特に説明がなくても普遍的に通じるユーモアを見たときに主に使用されます。",
+        "ko": "이 표현은 특정 그림이나 장면이 즉각적으로 재미있을 것이라고 예측하거나 감탄할 때 사용됩니다. 별다른 설명 없이도 보편적으로 통할 만한 유머를 보았을 때 주로 쓰입니다.",
+        "vi": "Biểu hiện này được sử dụng khi dự đoán hoặc ngưỡng mộ rằng một bức tranh hoặc cảnh cụ thể sẽ ngay lập tức gây cười. Nó chủ yếu được sử dụng khi gặp một sự hài hước phổ biến mà không cần nhiều lời giải thích."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Especially that hat and that thing... One, two, three, four... You can do it like this.",
+        "es": "Especialmente ese sombrero y eso... Uno, dos, tres, cuatro... Puedes hacerlo así, ¿verdad?",
+        "id": "Terutama topi itu dan itu... Satu, dua, tiga, empat... Bisa begini kan.",
+        "jp": "特にあの帽子とあれが... いち、に、さん、し... こうやってできるじゃない。",
+        "ko": "특히 저 모자랑 저게... 하나 둘 셋 넷... 이렇게 할 수 있잖아.",
+        "vi": "Đặc biệt là cái mũ đó và cái đó... Một, hai, ba, bốn... Cứ thế mà làm được mà."
+      },
+      "end_time": 26.7,
+      "start_time": 22.4,
+      "vocabulary": [
+        {
+          "word": "특히",
+          "meanings": {
+            "en": "especially, particularly",
+            "es": "especialmente, particularmente",
+            "id": "terutama, khususnya",
+            "jp": "特に",
+            "vi": "đặc biệt"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_8a9ae6cdafb5e1bbf2b28dc2ebdf1e2a.mp3"
+        },
+        {
+          "word": "모자",
+          "meanings": {
+            "en": "hat, cap",
+            "es": "sombrero, gorra",
+            "id": "topi",
+            "jp": "帽子",
+            "vi": "mũ"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_902ba1a96caa3879588ee7ecb1a3bd3a.mp3"
+        },
+        {
+          "word": "하나 둘 셋 넷",
+          "meanings": {
+            "en": "one, two, three, four (counting or posing cue)",
+            "es": "uno, dos, tres, cuatro (usado para contar o dar poses)",
+            "id": "satu, dua, tiga, empat (digunakan untuk menghitung atau memberi aba-aba)",
+            "jp": "いち、に、さん、し (数える時やポーズの指示に使う)",
+            "vi": "một, hai, ba, bốn (dùng để đếm hoặc ra hiệu tạo dáng)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_06da890626c94c23f3669bf4f2f15a93.mp3"
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "'One, two, three, four' is often used as a command to guide people to pose or prepare for a photo shoot.",
+        "es": "'Uno, dos, tres, cuatro' se usa a menudo como una orden para guiar a las personas a posar o prepararse para una sesión de fotos.",
+        "id": "'Satu, dua, tiga, empat' sering digunakan sebagai aba-aba untuk mengarahkan orang berpose atau bersiap-siap untuk sesi foto.",
+        "jp": "「하나 둘 셋 넷（いち、に、さん、し）」は、写真撮影時にポーズをとったり準備したりするよう案内する掛け声としてよく使われます。",
+        "ko": "'하나 둘 셋 넷'은 사진 촬영 시 포즈를 취하거나 준비하도록 안내하는 구령으로 자주 사용됩니다.",
+        "vi": "'Một, hai, ba, bốn' thường được dùng làm khẩu lệnh để hướng dẫn mọi người tạo dáng hoặc chuẩn bị chụp ảnh."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Hey, don't we look like people who take pictures for money? Getting 10 bucks each...",
+        "es": "Oye, ¿no parecemos gente que toma fotos por dinero? Recibiendo 10 dólares cada uno...",
+        "id": "Hei, bukankah kita terlihat seperti orang-orang yang mengambil foto dengan bayaran? Masing-masing dapat 10 dolar...",
+        "jp": "ねえ、私たち、お金をもらって写真を撮ってあげる子たちみたいじゃない？10ドルずつもらって...",
+        "ko": "야, 우리 돈 받고 사진 찍어주는 애들 같지 않아? 10불씩 받고...",
+        "vi": "Này, chúng ta trông như mấy đứa chụp ảnh lấy tiền không? Mỗi đứa 10 đô..."
+      },
+      "end_time": 39.0,
+      "start_time": 32.4,
+      "vocabulary": [
+        {
+          "word": "돈",
+          "meanings": {
+            "en": "money",
+            "es": "dinero",
+            "id": "uang",
+            "jp": "お金",
+            "vi": "tiền"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_728f9e6621b886c9b54614763a16c423.mp3"
+        },
+        {
+          "word": "받고",
+          "meanings": {
+            "en": "receiving, getting (from 받다)",
+            "es": "recibiendo, obteniendo (de 받다)",
+            "id": "menerima, mendapatkan (dari 받다)",
+            "jp": "受け取って、もらって (「받다」から)",
+            "vi": "nhận, lấy (từ 받다)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_9a4d7639677d4e2552597d1602e2206e.mp3"
+        },
+        {
+          "word": "애들",
+          "meanings": {
+            "en": "kids, children, guys (informal)",
+            "es": "niños, chicos (informal)",
+            "id": "anak-anak, orang-orang (informal)",
+            "jp": "子供たち、やつら (インフォーマル)",
+            "vi": "bọn trẻ, mấy đứa (thân mật)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_a98b5189bdf603d45fba9482441dbdb7.mp3"
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "This means their appearance, dressed in cowboy outfits in the local area, makes them look like characters who take pictures for tourists for money.",
+        "es": "Esto significa que su apariencia, vestidos con trajes de vaquero en la zona, les hace parecer personajes que toman fotos a turistas por dinero.",
+        "id": "Ini berarti penampilan mereka, mengenakan pakaian koboi di daerah setempat, membuat mereka terlihat seperti karakter yang memotret wisatawan dengan bayaran.",
+        "jp": "現地でカウボーイの衣装を着た自分の姿が、旅行客からお金をもらって写真を撮ってあげるキャラクターのようではないかという意味です。",
+        "ko": "현지에서 카우보이 옷을 입은 자신의 모습이 여행객들에게 돈을 받고 사진을 찍어주는 캐릭터 같지 않냐는 의미입니다.",
+        "vi": "Điều này có nghĩa là diện mạo của họ, mặc trang phục cao bồi ở địa phương, khiến họ trông giống như những nhân vật chụp ảnh cho khách du lịch để kiếm tiền."
+      }
+    }
+  ]
+}

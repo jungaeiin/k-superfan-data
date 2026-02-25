@@ -1,9 +1,32 @@
 [
   {
+    "id": 23,
+    "youtube_id": "PFt4ETh8648",
+    "thumbnail": "https://img.youtube.com/vi/PFt4ETh8648/maxresdefault.jpg",
+    "difficulty": 2,
+    "titles": {
+      "en": "Lee Seo-jin's Dalla Dalla (2026)",
+      "es": "Lee Seo-jin's Dalla Dalla (2026)",
+      "id": "Lee Seo-jin's Dalla Dalla (2026)",
+      "jp": "Lee Seo-jin's Dalla Dalla (2026)",
+      "ko": "이서진의 달라달라 | 공식 티저 예고편",
+      "vi": "Lee Seo-jin's Dalla Dalla (2026)"
+    },
+    "categories": {
+      "en": "Entertainment, Travel, Healing",
+      "es": "Entretenimiento, Viajes, Sanación",
+      "id": "Hiburan, Perjalanan, Penyembuhan",
+      "jp": "バラエティ、旅行、ヒーリング",
+      "ko": "예능, 여행, 힐링",
+      "vi": "Giải trí, Du lịch, Chữa lành"
+    },
+    "pub_date": "2026-02-25T06:46:38.272911+00:00"
+  },
+  {
     "id": 22,
     "youtube_id": "m9x5qdFuNss",
     "thumbnail": "https://img.youtube.com/vi/m9x5qdFuNss/maxresdefault.jpg",
-    "difficulty": 4, 
+    "difficulty": 4,
     "titles": {
       "en": "Method Acting (2026)",
       "es": "Method Acting (2026)",

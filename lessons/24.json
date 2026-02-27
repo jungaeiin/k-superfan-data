@@ -1,0 +1,227 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "They resembled humans from the beginning.",
+        "es": "Se parecían a los humanos desde el principio.",
+        "id": "Mereka memiliki penampilan mirip manusia sejak awal.",
+        "jp": "最初から人間と似た姿をしていた。",
+        "ko": "처음부터 인간을 닮은 모습을 가졌다.",
+        "vi": "Chúng có hình dáng giống con người ngay từ đầu."
+      },
+      {
+        "en": "They are gradually evolving and becoming similar to humans.",
+        "es": "Están evolucionando gradualmente y volviéndose similares a los humanos.",
+        "id": "Mereka secara bertahap berevolusi dan menjadi mirip manusia.",
+        "jp": "徐々に進化し、人間と似てきている。",
+        "ko": "점점 진화하여 인간과 비슷해지고 있다.",
+        "vi": "Chúng đang dần tiến hóa và trở nên giống con người."
+      },
+      {
+        "en": "They move in a completely different way from humans.",
+        "es": "Se mueven de una manera completamente diferente a los humanos.",
+        "id": "Mereka bergerak dengan cara yang sama sekali berbeda dari manusia.",
+        "jp": "人間とは全く異なる方法で動く。",
+        "ko": "인간과 전혀 다른 방식으로 움직인다.",
+        "vi": "Chúng di chuyển theo cách hoàn toàn khác với con người."
+      },
+      {
+        "en": "They are making humans regress to the next stage.",
+        "es": "Están haciendo que los humanos retrocedan a la siguiente etapa.",
+        "id": "Mereka membuat manusia mengalami kemunduran ke tahap berikutnya.",
+        "jp": "人間を次の段階へと退化させている。",
+        "ko": "인간을 다음 단계로 퇴보시키고 있다.",
+        "vi": "Chúng đang khiến con người thụt lùi xuống giai đoạn tiếp theo."
+      }
+    ],
+    "question": {
+      "en": "What is the most significant characteristic of 'those guys' the speaker is talking about?",
+      "es": "¿Cuál es la característica más significativa de 'esos tipos' de los que habla el orador?",
+      "id": "Apa karakteristik paling signifikan dari 'mereka' yang dibicarakan oleh penutur?",
+      "jp": "話者が言及する「あいつら」の最も大きな特徴は何ですか？",
+      "ko": "화자가 말하는 '저놈들'의 가장 큰 특징은 무엇인가요?",
+      "vi": "Đặc điểm nổi bật nhất của 'bọn chúng' mà người nói đang nhắc đến là gì?"
+    },
+    "answer_index": 1
+  },
+  "metadata": {
+    "titles": {
+      "en": "Colony (2026) ",
+      "es": "Colony (2026) ",
+      "id": "Colony (2026) ",
+      "jp": "Colony (2026) ",
+      "ko": "군체 (2026) | 극장 예고편",
+      "vi": "Colony (2026) "
+    },
+    "categories": {
+      "en": "Movie, Zombie, Horror",
+      "es": "Película, Zombi, Terror",
+      "id": "Film, Zombi, Horor",
+      "jp": "映画, ゾンビ, ホラー",
+      "ko": "영화, 좀비, 공포",
+      "vi": "Phim, Zombie, Kinh dị"
+    },
+    "difficulty": 2,
+    "youtube_id": "MWveUG9bZig",
+    "youtube_url": "https://www.youtube.com/watch?v=MWveUG9bZig"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Those guys... at first they walked on all fours, then they walked on two legs.",
+        "es": "Esos tipos... al principio caminaban a cuatro patas, y luego caminaron a dos patas.",
+        "id": "Mereka... awalnya berjalan merangkak, lalu berjalan dengan dua kaki.",
+        "jp": "あいつら... 最初は四つん這いで歩いて、それから二本足で歩いて。",
+        "ko": "저놈들... 처음엔 네발로 걷고 그러다가 두발로 걷고 ",
+        "vi": "Bọn chúng... ban đầu đi bằng bốn chân, rồi sau đó đi bằng hai chân."
+      },
+      "end_time": 7.2,
+      "start_time": 0.0,
+      "vocabulary": [
+        {
+          "word": "놈들",
+          "meanings": {
+            "en": "those guys/them (derogatory/informal)",
+            "es": "esos tipos/ellos (despectivo/informal)",
+            "id": "mereka (kasar/informal)",
+            "jp": "あいつら、奴ら (軽蔑的・くだけた表現)",
+            "vi": "bọn chúng, những tên đó (mang tính miệt thị/thân mật)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_79ba5cfb60cb67933ff3e8a8600c1b9d.mp3"
+        },
+        {
+          "word": "네발",
+          "meanings": {
+            "en": "four legs/on all fours",
+            "es": "cuatro patas",
+            "id": "empat kaki",
+            "jp": "四つん這い、四足",
+            "vi": "bốn chân"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_e4c8b24f25cea4a96506f18f53b16189.mp3"
+        },
+        {
+          "word": "두발",
+          "meanings": {
+            "en": "two legs/on two feet",
+            "es": "dos patas",
+            "id": "dua kaki",
+            "jp": "二本足、両足",
+            "vi": "hai chân"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_a952ce69a5dfd39d5b384961400f6ab1.mp3"
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "This expression metaphorically refers to the developmental stages of humans, critically satirizing how a group initially appears weak or innocent but gradually transforms over time into something cunning or adept at manipulation.",
+        "es": "Esta expresión se refiere metafóricamente a las etapas de desarrollo humano, satirizando críticamente cómo un grupo inicialmente parece débil o inocente pero con el tiempo se transforma en algo astuto o hábil en la manipulación.",
+        "id": "Ungkapan ini secara metaforis merujuk pada tahap perkembangan manusia, secara kritis menyindir bagaimana suatu kelompok awalnya tampak lemah atau polos namun seiring waktu berubah menjadi licik atau mahir dalam manipulasi.",
+        "jp": "この表現は、人間の発達段階を比喩的に使い、ある集団が最初は弱々しく純粋な姿を見せるが、時間が経つにつれて狡猾になったり、権謀術数に長けた姿に変質していく様子を批判的に風刺するものです。",
+        "ko": "인간의 발달 단계를 빗대어, 어떤 무리가 처음에는 약하거나 순수한 모습을 보이다가 시간이 지나며 교활하거나 권모술수에 능한 모습으로 변질되었음을 비판적으로 풍자하는 표현입니다.",
+        "vi": "Cách diễn đạt này ẩn dụ đến các giai đoạn phát triển của con người, châm biếm một cách phê phán về việc một nhóm ban đầu tỏ ra yếu đuối hoặc ngây thơ, nhưng theo thời gian lại biến chất thành xảo quyệt hoặc tinh thông mưu kế."
+      }
+    },
+    {
+      "scripts": {
+        "en": "What the... Are those bastards imitating us now?",
+        "es": "¿Qué... Esos cabrones nos están imitando ahora?",
+        "id": "Apa-apaan ini... Apa bajingan-bajingan itu sedang meniru kita sekarang?",
+        "jp": "何だよ... あいつら、今私たちを真似しているのか？",
+        "ko": "뭐야... 저 새끼들 지금 우리 따라 하는 거야?",
+        "vi": "Cái gì vậy... Bọn khốn đó đang bắt chước chúng ta sao?"
+      },
+      "end_time": 11.2,
+      "start_time": 6.8,
+      "vocabulary": [
+        {
+          "word": "새끼들",
+          "meanings": {
+            "en": "bastards/sons of bitches (strong derogatory slang)",
+            "es": "cabrones/hijos de puta (jerga muy despectiva)",
+            "id": "bajingan-bajingan (slang sangat kasar/derogatori)",
+            "jp": "あいつら、野郎ども (非常に侮辱的なスラング)",
+            "vi": "bọn khốn, lũ (tiếng lóng miệt thị mạnh)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_7f0c8fcbc6cd9c695159a0699f82f946.mp3"
+        },
+        {
+          "word": "따라 하다",
+          "meanings": {
+            "en": "to imitate, to copy, to follow",
+            "es": "imitar, copiar, seguir",
+            "id": "meniru, mengikuti",
+            "jp": "真似する、追随する",
+            "vi": "bắt chước, làm theo"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_9c5808b661cc2e80210bf6644c985231.mp3"
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "The word \"새끼\" can be used playfully or affectionately among very close friends, but in this context, it is a strong derogatory slang used to demean someone or express anger.",
+        "es": "La palabra \"새끼\" puede usarse de forma juguetona o afectuosa entre amigos muy cercanos, pero en este contexto, es un argot muy despectivo utilizado para menospreciar a alguien o expresar enojo.",
+        "id": "Kata \"새끼\" dapat digunakan secara bercanda atau penuh kasih sayang di antara teman yang sangat akrab, namun dalam konteks ini, ini adalah kata slang yang sangat merendahkan dan digunakan untuk meremehkan seseorang atau menyatakan kemarahan.",
+        "jp": "「새끼」は非常に親しい間柄で冗談のように使われたり、愛情を込めて使われることもありますが、この文脈では相手を蔑んだり怒りを表現する際に使われる強い悪口です。",
+        "ko": "\"새끼\"는 매우 친한 사이에서 농담처럼 쓰이거나 애정을 담아 쓰이기도 하지만, 이 문맥에서는 상대방을 비하하거나 화를 표현할 때 쓰는 강한 비속어입니다.",
+        "vi": "Từ \"새끼\" có thể được sử dụng một cách đùa cợt hoặc trìu mến giữa những người rất thân thiết, nhưng trong ngữ cảnh này, nó là một từ lóng mạnh mang tính miệt thị, dùng để hạ thấp đối phương hoặc thể hiện sự tức giận."
+      }
+    },
+    {
+      "scripts": {
+        "en": "It seems like they are evolving. They are making humans leap to the next stage.",
+        "es": "Parece que están evolucionando. Están haciendo que los humanos den un salto a la siguiente etapa.",
+        "id": "Sepertinya mereka sedang berevolusi. Mereka akan membuat manusia melompat ke tahap berikutnya.",
+        "jp": "進化しているようです。人間を次の段階へと飛躍させるんだ。",
+        "ko": "진화 하고 있는거 같아요. 인간을 다음 단계로 도약 시키는거야.",
+        "vi": "Có vẻ như chúng đang tiến hóa. Chúng đang khiến con người nhảy vọt lên giai đoạn tiếp theo."
+      },
+      "end_time": 28.9,
+      "start_time": 12.0,
+      "vocabulary": [
+        {
+          "word": "진화하다",
+          "meanings": {
+            "en": "to evolve",
+            "es": "evolucionar",
+            "id": "berevolusi",
+            "jp": "進化する",
+            "vi": "tiến hóa"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_aba53ce940b3f25484e0b3b9c95c4124.mp3"
+        },
+        {
+          "word": "도약하다",
+          "meanings": {
+            "en": "to leap, to jump, to make a great stride",
+            "es": "dar un salto, avanzar a pasos agigantados",
+            "id": "melompat, membuat kemajuan besar",
+            "jp": "飛躍する、跳躍する",
+            "vi": "nhảy vọt, đột phá"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_4b1acb34f2d3142bd003e352f3254f31.mp3"
+        },
+        {
+          "word": "시키다",
+          "meanings": {
+            "en": "to make (someone do something), to cause",
+            "es": "hacer que (alguien haga algo), causar",
+            "id": "menyuruh, membuat (seseorang melakukan sesuatu)",
+            "jp": "～させる、～にする",
+            "vi": "khiến, cho (làm gì đó)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_c5c78e11eb6d21e974fb24ea9287251c.mp3"
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "This expression is used in general discussions about the future evolution of humanity or technological development, rather than referring to a specific socio-cultural background.",
+        "es": "Esta expresión se utiliza en discusiones generales sobre la evolución futura de la humanidad o el desarrollo tecnológico, en lugar de referirse a un contexto sociocultural específico.",
+        "id": "Ungkapan ini digunakan dalam diskusi umum tentang evolusi masa depan umat manusia atau pengembangan teknologi, bukan merujuk pada latar belakang sosial-budaya tertentu.",
+        "jp": "特定の社会・文化的背景よりも、人類の未来の進化や技術発展に関する一般的な議論で使われる表現です。",
+        "ko": "특정 사회·문화적 배경보다는, 인류의 미래 진화나 기술 발전에 대한 일반적인 논의에서 사용되는 표현입니다.",
+        "vi": "Cách diễn đạt này được sử dụng trong các cuộc thảo luận chung về sự tiến hóa tương lai của nhân loại hoặc sự phát triển công nghệ, thay vì đề cập đến một bối cảnh văn hóa-xã hội cụ thể."
+      }
+    }
+  ]
+}

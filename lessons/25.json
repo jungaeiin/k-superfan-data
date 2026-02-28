@@ -1,0 +1,273 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "A positive situation moving towards a hopeful future",
+        "es": "Una situación positiva que avanza hacia un futuro esperanzador",
+        "id": "Situasi positif yang bergerak menuju masa depan yang penuh harapan",
+        "jp": "希望に満ちた未来へと進む肯定的な状況",
+        "ko": "희망찬 미래를 향해 나아가는 긍정적인 상황",
+        "vi": "Một tình huống tích cực đang tiến tới một tương lai đầy hy vọng"
+      },
+      {
+        "en": "A desperate situation where dangerous choices must be made to escape a hopeless reality",
+        "es": "Una situación desesperada en la que deben tomarse decisiones peligrosas para escapar de una realidad sin esperanza",
+        "id": "Situasi putus asa di mana pilihan berbahaya harus diambil untuk melarikan diri dari kenyataan yang tanpa harapan",
+        "jp": "絶望的な現実から抜け出すために危険な選択をしなければならない状況",
+        "ko": "절망적인 현실 속에서 벗어나기 위해 위험한 선택을 해야 하는 상황",
+        "vi": "Một tình huống tuyệt vọng trong đó phải đưa ra những lựa chọn nguy hiểm để thoát khỏi thực tại vô vọng"
+      },
+      {
+        "en": "A situation where they are trying to maintain a stable life and live peacefully",
+        "es": "Una situación en la que intentan mantener una vida estable y vivir en paz",
+        "id": "Situasi di mana mereka berusaha mempertahankan hidup yang stabil dan hidup damai",
+        "jp": "安定した生活を維持し、平和に過ごそうとする状況",
+        "ko": "안정적인 삶을 유지하며 평화롭게 지내려는 상황",
+        "vi": "Một tình huống mà họ đang cố gắng duy trì cuộc sống ổn định và sống yên bình"
+      },
+      {
+        "en": "A regretful situation where they are trying to regain past glory",
+        "es": "Una situación lamentable en la que intentan recuperar la gloria pasada",
+        "id": "Situasi yang penuh penyesalan di mana mereka berusaha mendapatkan kembali kejayaan masa lalu",
+        "jp": "過去の栄光を取り戻そうと努力する後悔の状況",
+        "ko": "과거의 영광을 되찾기 위해 노력하는 후회스러운 상황",
+        "vi": "Một tình huống đầy hối tiếc khi họ đang cố gắng lấy lại vinh quang trong quá khứ"
+      }
+    ],
+    "question": {
+      "en": "Considering the overall atmosphere and dialogues of this trailer, what are the main characteristics of the situation the characters are in?",
+      "es": "Considerando la atmósfera general y los diálogos de este tráiler, ¿cuáles son las características principales de la situación en la que se encuentran los personajes?",
+      "id": "Mempertimbangkan suasana dan dialog keseluruhan dari trailer ini, apa ciri-ciri utama situasi yang dihadapi para karakter?",
+      "jp": "この予告編の全体的な雰囲気とセリフを考慮すると、登場人物たちが置かれている状況は主にどのような特徴を持っていますか？",
+      "ko": "이 예고편의 전반적인 분위기와 대사를 고려할 때, 등장인물들이 처한 상황은 주로 어떤 특징을 가지고 있습니까?",
+      "vi": "Xem xét không khí chung và các đoạn hội thoại trong trailer này, tình huống mà các nhân vật đang gặp phải chủ yếu có những đặc điểm nào?"
+    },
+    "answer_index": 1
+  },
+  "metadata": {
+    "titles": {
+      "en": "Project Y (2026)",
+      "es": "Project Y (2026)",
+      "id": "Project Y (2026)",
+      "jp": "Project Y (2026)",
+      "ko": "프로젝트 Y | 예고편 ",
+      "vi": "Project Y (2026)"
+    },
+    "categories": {
+      "en": "Film, Crime, Thriller, Action",
+      "es": "Película, Crimen, Thriller, Acción",
+      "id": "Film, Kriminal, Thriller, Aksi",
+      "jp": "映画, 犯罪, スリラー, アクション",
+      "ko": "영화, 범죄, 스릴러, 액션",
+      "vi": "Phim, Tội phạm, Kinh dị, Hành động"
+    },
+    "difficulty": 4,
+    "youtube_id": "f-Gqp6M33T8",
+    "youtube_url": "https://www.youtube.com/watch?v=f-Gqp6M33T8"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "How much more are you going to hit rock bottom? I'm doing this so we don't hit rock bottom.",
+        "es": "¿Hasta dónde más vas a tocar fondo? Estoy haciendo esto para no tocar fondo.",
+        "id": "Seberapa parah lagi kamu mau jatuh ke titik terendah? Aku melakukan ini agar tidak jatuh ke titik terendah.",
+        "jp": "これ以上どれだけどん底に落ちるつもりだ？どん底に落ちないためにこうしてるんじゃないか。",
+        "ko": "뭘 얼마나 더 바닥을 치실 건데? 바닥 안 치려고 이러는거 아냐.",
+        "vi": "Anh còn định chạm đáy bao nhiêu nữa? Tôi làm thế này là để không chạm đáy mà."
+      },
+      "end_time": 8.0,
+      "start_time": 0.0,
+      "vocabulary": [
+        {
+          "word": "바닥을 치다",
+          "meanings": {
+            "en": "to hit rock bottom, to reach the lowest point",
+            "es": "tocar fondo",
+            "id": "mencapai titik terendah",
+            "jp": "どん底に落ちる",
+            "vi": "chạm đáy"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_7322d72b3a236346c4fec3757ef5a83b.mp3"
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "'바닥을 치다' is an idiom that metaphorically expresses reaching the worst possible state where a situation or circumstances cannot get any worse. This dialogue shows the effort and conflict to prevent things from worsening in a desperate situation.",
+        "es": "'바닥을 치다' es una expresión idiomática que metafóricamente significa haber tocado fondo, alcanzando el peor estado posible donde una situación o circunstancia no puede empeorar más. Este diálogo muestra el esfuerzo y el conflicto para evitar que las cosas empeoren en una situación desesperada.",
+        "id": "'바닥을 치다' adalah ungkapan idiomatik yang secara metaforis menggambarkan pencapaian titik terburuk di mana situasi atau keadaan tidak bisa menjadi lebih buruk lagi. Dialog ini menunjukkan upaya dan konflik untuk mencegah hal-hal memburuk dalam situasi putus asa.",
+        "jp": "「바닥을 치다」は、状況や状態がこれ以上悪くなりようがない最悪の状況に達したことを比喩的に表現する慣用句です。この会話は、絶望的な状況でこれ以上悪くならないようにするための努力と葛藤を示しています。",
+        "ko": "'바닥을 치다'는 상황이나 형편이 더 나빠질 수 없는 최악의 상태에 도달했음을 비유적으로 표현하는 관용구입니다. 이 대화는 절망적인 상황에서 더 이상 나빠지지 않기 위한 노력과 갈등을 보여줍니다.",
+        "vi": "'바닥을 치다' là một thành ngữ mang tính ẩn dụ, diễn tả việc đạt đến tình trạng tồi tệ nhất mà tình hình hoặc hoàn cảnh không thể tệ hơn được nữa. Đoạn hội thoại này thể hiện sự nỗ lực và xung đột để ngăn chặn mọi thứ tồi tệ hơn trong một tình huống tuyệt vọng."
+      }
+    },
+    {
+      "scripts": {
+        "en": "It's too late, too late. Can you live doing this crap for another four years?",
+        "es": "Es tarde, es tarde. ¿Puedes vivir haciendo esta porquería por cuatro años más?",
+        "id": "Terlambat, terlambat. Bisakah kamu hidup melakukan omong kosong ini selama empat tahun lagi?",
+        "jp": "遅い、遅い。お前、このくだらないことをあと4年もしながら生きていけるのか？",
+        "ko": "늦어 늦어. 너 이짓거리 4년 더 하면서 살수 있어?",
+        "vi": "Trễ rồi, trễ rồi. Mày có thể sống tiếp 4 năm nữa mà làm cái trò này không?"
+      },
+      "end_time": 13.2,
+      "start_time": 8.0,
+      "vocabulary": [
+        {
+          "word": "이짓거리",
+          "meanings": {
+            "en": "this crap, this kind of behavior/act (derogatory)",
+            "es": "esta porquería, esta tontería",
+            "id": "omong kosong ini, perbuatan tak berguna ini",
+            "jp": "このくだらないこと、このざま",
+            "vi": "cái trò này, việc vớ vẩn này"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_08661e07f25bb562f1b2512fd513dc02.mp3"
+        },
+        {
+          "word": "살수 있어",
+          "meanings": {
+            "en": "Can you live? / Can you endure?",
+            "es": "¿Puedes vivir/soportar?",
+            "id": "bisakah kamu hidup/bertahan?",
+            "jp": "生きていけるのか？",
+            "vi": "có thể sống được không?"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_eacf8c39a1c82343e99358dfae37b86d.mp3"
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "In Korea, '4 years' often symbolizes a long and arduous period, such as a 4-year university program, job searching, or preparing for high-stakes exams. '이짓거리' is a slang term used by the speaker to express negative and skeptical feelings about what they are currently doing.",
+        "es": "En Corea, '4 años' a menudo simboliza un período largo y arduo, como un programa universitario de 4 años, la búsqueda de empleo o la preparación para exámenes importantes. '이짓거리' es una jerga utilizada por el hablante para expresar sentimientos negativos y escépticos sobre lo que están haciendo actualmente.",
+        "id": "Di Korea, '4 tahun' sering melambangkan periode waktu yang panjang dan sulit, seperti program universitas 4 tahun, mencari pekerjaan, atau mempersiapkan ujian penting. '이짓거리' adalah istilah slang yang digunakan oleh pembicara untuk mengungkapkan perasaan negatif dan skeptis tentang apa yang sedang mereka lakukan.",
+        "jp": "韓国で「4年」は、4年制大学の課程や就職、国家試験の準備など、長期間にわたる苦しい時間を象徴することがよくあります。「이짓거리」は、話し手が現在していることに対して否定的で懐疑的な感情を表現する際に使う俗語です。",
+        "ko": "한국에서 '4년'은 4년제 대학 과정이나 취업, 고시 준비 등 장기간의 고된 시간을 상징합니다. '이짓거리'는 화자가 현재 하는 일에 대해 부정적이고 회의적인 감정을 표현할 때 쓰는 속어입니다.",
+        "vi": "Ở Hàn Quốc, '4 năm' thường tượng trưng cho một khoảng thời gian dài và khó khăn, chẳng hạn như chương trình đại học 4 năm, tìm việc làm, hoặc chuẩn bị cho các kỳ thi quan trọng. '이짓거리' là một từ lóng được người nói dùng để thể hiện cảm xúc tiêu cực và hoài nghi về việc họ đang làm."
+      }
+    },
+    {
+      "scripts": {
+        "en": "It's totally your type, your constitution. Let's do it together.",
+        "es": "Es totalmente tu tipo, tu constitución. Hagámoslo juntos.",
+        "id": "Ini benar-benar cocok untukmu, sesuai sifatmu. Ayo kita lakukan bersama.",
+        "jp": "まったく体質に合ってるよ、体質。一緒にやろう。",
+        "ko": "아주 체질이야 체질. 같이 하자.",
+        "vi": "Rất hợp thể chất, hợp lắm. Cùng làm đi."
+      },
+      "end_time": 17.7,
+      "start_time": 13.3,
+      "vocabulary": [
+        {
+          "word": "체질",
+          "meanings": {
+            "en": "(lit.) physical constitution; (idiomatic) perfectly suited for, natural talent for",
+            "es": "(lit.) constitución física; (idiomático) muy adecuado para, talento natural para",
+            "id": "(harfiah) konstitusi fisik; (idiomatis) sangat cocok untuk, bakat alami",
+            "jp": "(文字通り) 体質; (比喩的に) ぴったり合う、天性の才能",
+            "vi": "(nghĩa đen) thể chất; (nghĩa bóng) rất phù hợp, có năng khiếu bẩm sinh"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_04b9ba93843c50ae0a19647de3977e4f.mp3"
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "While '체질' originally refers to one's physical constitution or inherent body characteristics, in this dialogue, it is used as a compliment to express that someone is very well-suited for a particular task or situation, or is very skilled at it.",
+        "es": "Aunque '체질' originalmente se refiere a la constitución física o características corporales inherentes de una persona, en este diálogo, se utiliza como un cumplido para expresar que alguien es muy adecuado para una tarea o situación particular, o es muy hábil en ella.",
+        "id": "Meskipun '체질' awalnya mengacu pada konstitusi fisik atau karakteristik tubuh bawaan seseorang, dalam dialog ini, ia digunakan sebagai pujian untuk menyatakan bahwa seseorang sangat cocok untuk tugas atau situasi tertentu, atau sangat terampil dalam hal itu.",
+        "jp": "「체질」は本来、体の特性を意味しますが、この会話では、ある仕事や状況に非常に良く合っている、または熟練しているという称賛の表現として使われています。",
+        "ko": "'체질'은 원래 몸의 특성을 의미하지만, 이 대화에서는 어떤 일이나 상황에 아주 잘 어울리거나 능숙하다는 칭찬의 표현으로 사용되었습니다.",
+        "vi": "Mặc dù '체질' ban đầu đề cập đến thể chất hoặc đặc điểm cơ thể bẩm sinh của một người, nhưng trong đoạn hội thoại này, nó được dùng như một lời khen để diễn tả rằng ai đó rất phù hợp với một nhiệm vụ hoặc tình huống cụ thể, hoặc rất giỏi trong việc đó."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Word got out that he acted like an idiot and fell into hell. We have to live somehow.",
+        "es": "Se corrió la voz de que actuó como un tonto y cayó al abismo. Tenemos que vivir de alguna manera.",
+        "id": "Kabar tersebar bahwa dia bertingkah bodoh dan jatuh ke jurang kehancuran. Kita harus hidup bagaimanapun caranya.",
+        "jp": "「調子に乗ってふざけていたら、奈落に落ちた」と噂が広まった。どうにかして生きなきゃ。",
+        "ko": "꼴값 떨다가 나락 갔다고 소문 쫙 났어. 어떻게든 살아야지.",
+        "vi": "Tin đồn lan rộng rằng hắn ta đã hành xử lố bịch và rơi xuống địa ngục. Chúng ta phải sống sót bằng mọi cách."
+      },
+      "end_time": 28.0,
+      "start_time": 22.0,
+      "vocabulary": [
+        {
+          "word": "꼴값 떨다",
+          "meanings": {
+            "en": "to act ridiculously, to show off one's arrogance (derogatory)",
+            "es": "actuar ridículamente, presumir arrogantemente",
+            "id": "bertingkah konyol/bodoh, pamer kesombongan",
+            "jp": "愚かに振る舞う、調子に乗る",
+            "vi": "hành xử lố bịch, khoe khoang một cách ngạo mạn"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_c2d33ad439baa2c7ebb1bf660eafa84d.mp3"
+        },
+        {
+          "word": "나락 가다",
+          "meanings": {
+            "en": "to fall into hell, to hit rock bottom, to be ruined",
+            "es": "caer al abismo, irse a la ruina",
+            "id": "jatuh ke jurang kehancuran, hancur lebur",
+            "jp": "奈落に落ちる、破滅する",
+            "vi": "rơi xuống địa ngục, bị hủy hoại"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_687cb692b9115e389eaac84df706278b.mp3"
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "'꼴값 떨다' is a slang term criticizing someone for acting arrogantly or ridiculously without knowing their place, and '나락 가다' means to plummet to the bottom of one's life, implying utter ruin. This line conveys the rumor that someone's arrogance ultimately led to their tragic downfall, and the desperate will to survive somehow amidst such circumstances.",
+        "es": "'꼴값 떨다' es una jerga que critica a alguien por actuar de manera arrogante o ridícula sin conocer su lugar, y '나락 가다' significa caer al fondo de la vida de uno, implicando una ruina total. Esta línea transmite el rumor de que la arrogancia de alguien finalmente llevó a su trágica caída, y la voluntad desesperada de sobrevivir de alguna manera en tales circunstancias.",
+        "id": "'꼴값 떨다' adalah istilah slang yang mengkritik seseorang karena bertingkah sombong atau konyol tanpa tahu diri, dan '나락 가다' berarti jatuh ke dasar hidup seseorang, menyiratkan kehancuran total. Baris ini menyampaikan desas-desus bahwa kesombongan seseorang pada akhirnya menyebabkan kejatuhan tragis mereka, dan kemauan putus asa untuk bertahan hidup entah bagaimana di tengah keadaan seperti itu.",
+        "jp": "「꼴값 떨다」は、自分の分をわきまえず傲慢に、または滑稽に振る舞うことを批判する俗語で、「나락 가다」は人生のどん底まで落ちる状況を意味します。このセリフは、他人の傲慢さが結局は悲劇的な没落につながったという噂と、その中で何とか生き残ろうとする切実な意志を示しています。",
+        "ko": "\"꼴값 떨다\"는 자신의 분수를 모르고 거만하거나 우스꽝스럽게 행동하는 것을 비판하는 속어이며, \"나락 가다\"는 인생의 밑바닥까지 추락하는 상황을 의미합니다. 이 대사는 타인의 오만함이 결국 비극적인 몰락으로 이어졌다는 소문과 그 속에서 어떻게든 살아남으려는 절박한 의지를 보여줍니다.",
+        "vi": "'꼴값 떨다' là một từ lóng chỉ trích ai đó hành động kiêu ngạo hoặc lố bịch mà không biết vị trí của mình, còn '나락 가다' có nghĩa là rơi xuống đáy cuộc đời, ngụ ý sự hủy hoại hoàn toàn. Câu thoại này truyền tải tin đồn rằng sự kiêu ngạo của một người cuối cùng đã dẫn đến sự sụp đổ bi thảm của họ, và ý chí sống sót tuyệt vọng bằng mọi cách trong hoàn cảnh đó."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Since you only live once, you gotta live it strong.",
+        "es": "Ya que solo se vive una vez, hay que vivirla intensamente.",
+        "id": "Karena hidup hanya sekali, kita harus menjalaninya dengan kuat.",
+        "jp": "一度きりの人生なんだから、強く生きなきゃ。",
+        "ko": "한번 가는 거 인생 씨게 가야지.",
+        "vi": "Đời người chỉ có một lần, phải sống thật mạnh mẽ chứ."
+      },
+      "end_time": 34.0,
+      "start_time": 31.0,
+      "vocabulary": [
+        {
+          "word": "한번 가는 거",
+          "meanings": {
+            "en": "(lit.) going once; (idiomatic) since you only live once, this one time",
+            "es": "(lit.) ir una vez; (idiomático) ya que solo se vive una vez",
+            "id": "(harfiah) sekali pergi; (idiomatis) karena hidup hanya sekali",
+            "jp": "(文字通り) 一度行くこと; (比喩的に) 一度きりの人生なんだから",
+            "vi": "(nghĩa đen) đi một lần; (nghĩa bóng) vì chỉ sống một lần"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_c45fffd0c7f25cea08abdca69485880a.mp3"
+        },
+        {
+          "word": "씨게",
+          "meanings": {
+            "en": "strongly, intensely, forcefully (colloquial for 세게)",
+            "es": "fuertemente, intensamente",
+            "id": "dengan kuat, intens",
+            "jp": "強く、激しく",
+            "vi": "mạnh mẽ, dữ dội"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_0af84fbbcd7678ee47834b1b65e3171e.mp3"
+        }
+      ],
+      "section_num": 5,
+      "cultural_note": {
+        "en": "'한번 가는 거' means 'life lived only once,' and '씨게' is slang for '세게' (strongly/intensely), expressing a determination or encouragement to live life intensely and without regret.",
+        "es": "'한번 가는 거' significa 'la vida se vive solo una vez', y '씨게' es jerga para '세게' (fuertemente/intensamente), expresando una determinación o aliento para vivir la vida intensamente y sin arrepentimientos.",
+        "id": "'한번 가는 거' berarti 'hidup hanya sekali,' dan '씨게' adalah slang untuk '세게' (dengan kuat/intens), yang mengekspresikan tekad atau dorongan untuk menjalani hidup dengan intens dan tanpa penyesalan.",
+        "jp": "「한번 가는 거」は「一度きりの人生」を意味し、「씨게」は「세게」（強く、激しく）の俗語で、後悔なく人生を強烈に生きるという決意や励ましを表します。",
+        "ko": "\"한번 가는 거\"는 '한 번뿐인 인생'을 의미하며, '씨게'는 '세게'의 속어로, 인생을 후회 없이 강렬하게 살라는 다짐이나 격려를 나타냅니다.",
+        "vi": "'한번 가는 거' có nghĩa là 'cuộc đời chỉ sống một lần', và '씨게' là tiếng lóng của '세게' (mạnh mẽ/dữ dội), thể hiện quyết tâm hoặc lời động viên hãy sống một cuộc đời mãnh liệt và không hối tiếc."
+      }
+    }
+  ]
+}

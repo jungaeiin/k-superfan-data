@@ -1,0 +1,328 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "They genuinely mistake the other person for their romantic partner.",
+        "es": "Confunden genuinamente a la otra persona con su pareja romántica.",
+        "id": "Mereka benar-benar salah mengira orang lain sebagai pasangan romantis mereka.",
+        "jp": "相手を心から自分の恋人だと勘違いしている。",
+        "ko": "상대방이 자신의 연인이라고 진심으로 착각하고 있다.",
+        "vi": "Họ thực sự nhầm lẫn người kia là người yêu của mình."
+      },
+      {
+        "en": "They regret having just said the other person isn't their type and are trying to develop the relationship.",
+        "es": "Se arrepienten de haber dicho que la otra persona no es su tipo y están tratando de desarrollar la relación.",
+        "id": "Mereka menyesal telah mengatakan bahwa orang lain bukan tipe mereka dan mencoba mengembangkan hubungan.",
+        "jp": "相手が自分のタイプではないと言ったことを後悔し、関係を発展させようとしている。",
+        "ko": "상대방이 자신의 타입이 아니라고 방금 말한 것을 후회하며 관계를 발전시키려 한다.",
+        "vi": "Họ hối hận vì vừa nói người kia không phải gu của mình và đang cố gắng phát triển mối quan hệ."
+      },
+      {
+        "en": "They are trying to make it seem to others that they and the other person are a couple to deter unwanted advances.",
+        "es": "Están tratando de hacer que parezca, ante otras personas, que ellos y la otra persona son una pareja para disuadir acercamientos no deseados.",
+        "id": "Mereka mencoba membuat orang lain terlihat seperti mereka dan orang lain adalah pasangan untuk mencegah pendekatan yang tidak diinginkan.",
+        "jp": "他の人に、自分と相手が恋人関係であるかのように見せかけ、接近を阻止しようとしている。",
+        "ko": "다른 사람에게 자신과 상대방이 연인 관계인 것처럼 보이게 하여 접근을 막으려 한다.",
+        "vi": "Họ đang cố gắng tạo ấn tượng với người khác rằng mình và người kia là một cặp để ngăn chặn những lời ve vãn không mong muốn."
+      },
+      {
+        "en": "They are expressing joy at seeing the other person after a long time and trying to show friendliness.",
+        "es": "Están expresando alegría al ver a la otra persona después de mucho tiempo y tratando de mostrar amabilidad.",
+        "id": "Mereka mengungkapkan kegembiraan melihat orang lain setelah waktu yang lama dan mencoba menunjukkan keramahan.",
+        "jp": "久しぶりに会った相手に喜びを表現し、親密さを示そうとしている。",
+        "ko": "오랫동안 보지 못한 상대방에게 반가움을 표현하며 친근함을 드러내려 한다.",
+        "vi": "Họ đang bày tỏ niềm vui khi gặp lại người kia sau một thời gian dài và cố gắng thể hiện sự thân thiện."
+      }
+    ],
+    "question": {
+      "en": "In the 4th section, what is the speaker's intention when they say \"Honey! It's been a really long time, hasn't it?\" immediately after saying \"You're really not my type, you know?\"",
+      "es": "En la cuarta sección, ¿cuál es la intención del hablante al decir \"¡Cariño! Ha pasado mucho tiempo, ¿verdad?\" inmediatamente después de decir \"¿En serio no eres mi tipo, sabes?\"",
+      "id": "Di bagian ke-4, apa maksud pembicara saat mengatakan \"Sayang! Kita sudah lama banget ya tidak ketemu?\" segera setelah mengatakan \"Kamu beneran bukan tipeku lho?\"",
+      "jp": "第4セクションで、「そっち、マジで私のタイプじゃないんですけど？」と言った直後に「ダーリン！私たち、本当に久しぶりだね？」と話者が言った意図は何でしょうか？",
+      "ko": "4번째 섹션에서 \"그쪽 진짜 제 타입 아니시거든요?\"라고 말한 직후 \"자기야! 우리 진짜 오랫만이지?\"라고 말한 화자의 의도는 무엇일까요?",
+      "vi": "Ở phần thứ 4, ý định của người nói khi nói \"Anh yêu! Lâu lắm rồi chúng ta mới gặp nhau nhỉ?\" ngay sau khi nói \"Anh thật sự không phải gu của em đâu nhé?\" là gì?"
+    },
+    "answer_index": 2
+  },
+  "metadata": {
+    "titles": {
+      "en": "Our Universe (2026)",
+      "es": "Nuestro universo (2026)",
+      "id": "Our Universe (2026)",
+      "jp": "Our Universe (2026)",
+      "ko": "우주를 줄게 (2026) 공식 예고편 ",
+      "vi": "Vũ Trụ Của Đôi Ta (2026)"
+    },
+    "categories": {
+      "en": "Drama, Melodrama",
+      "es": "Drama, Melodrama",
+      "id": "Drama, Melodrama",
+      "jp": "ドラマ、メロ",
+      "ko": "드라마, 맬로",
+      "vi": "Kịch, Melodrama"
+    },
+    "difficulty": 3,
+    "youtube_id": "EJ8K8B-2iPE",
+    "youtube_url": "https://www.youtube.com/watch?v=EJ8K8B-2iPE"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "In my universe, where I was everything, another universe suddenly dropped in.",
+        "es": "En mi universo, donde yo era todo, otro universo cayó de repente.",
+        "id": "Di alam semestaku, di mana aku adalah segalanya, alam semesta lain tiba-tiba jatuh.",
+        "jp": "私が全てだった私の宇宙に、また別の宇宙がぽとりと落ちてきた。",
+        "ko": "내가 전부였던 내 우주속에 또 다른 우주가 뚝 떨어졌다.",
+        "vi": "Trong vũ trụ của tôi, nơi tôi là tất cả, một vũ trụ khác đột nhiên rơi xuống."
+      },
+      "end_time": 8.4,
+      "start_time": 0.9,
+      "vocabulary": [
+        {
+          "word": "전부",
+          "meanings": {
+            "en": "everything, all",
+            "es": "todo",
+            "id": "semua, seluruh",
+            "jp": "全て、全部",
+            "vi": "tất cả, toàn bộ"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_66b1a95cc097b4abd82738150bcf4cd4.mp3"
+        },
+        {
+          "word": "우주",
+          "meanings": {
+            "en": "universe, space",
+            "es": "universo",
+            "id": "alam semesta",
+            "jp": "宇宙",
+            "vi": "vũ trụ"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_81c061419ac78f32ab5eb6fb737c40ba.mp3"
+        },
+        {
+          "word": "뚝 떨어졌다",
+          "meanings": {
+            "en": "suddenly appeared/dropped (idiomatic)",
+            "es": "cayó de repente, apareció de pronto",
+            "id": "tiba-tiba muncul/jatuh",
+            "jp": "ぽとりと落ちてきた、突然現れた",
+            "vi": "đột ngột xuất hiện/rơi xuống"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_6f73774329d83df5fe732a002ce0d3e3.mp3"
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "This sentence metaphorically describes the experience of a new and completely different world unfolding when an unexpected, significant person or event suddenly appears in a life where only oneself existed.",
+        "es": "Esta frase describe metafóricamente la experiencia de cómo un mundo nuevo y completamente diferente se despliega cuando una persona o evento significativo e inesperado aparece repentinamente en una vida donde solo existía uno mismo.",
+        "id": "Kalimat ini secara metaforis menggambarkan pengalaman terbukanya dunia baru yang sama sekali berbeda ketika seseorang atau peristiwa penting yang tak terduga tiba-tiba muncul dalam kehidupan di mana hanya diri sendiri yang ada.",
+        "jp": "この文は、自分自身だけが存在していた人生に予期せぬ重要な存在や出来事が突然現れ、以前とは全く異なる新しい世界が広がる経験を比喩的に表現しています。",
+        "ko": "이 문장은 자기 자신만이 존재하던 삶에 예상치 못한 중요한 존재나 사건이 갑자기 나타나, 이전과는 완전히 다른 새로운 세계가 펼쳐지는 경험을 비유적으로 나타냅니다.",
+        "vi": "Câu này mô tả một cách ẩn dụ trải nghiệm về một thế giới mới hoàn toàn khác biệt mở ra khi một người hoặc sự kiện quan trọng, không lường trước được, bất ngờ xuất hiện trong một cuộc sống mà chỉ có bản thân tồn tại."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Are you two a couple? No! What's your relationship with this young lady? In-laws?",
+        "es": "¿Son ustedes dos una pareja? ¡No! Tú, ¿qué relación tienes con esta señorita? ¿Consuegros?",
+        "id": "Kalian berdua suami istri? Bukan! Kamu, apa hubunganmu dengan nona ini? Besan?",
+        "jp": "二人夫婦なの？違う！あんた、このお嬢さんとどんな関係なの？姻戚？",
+        "ko": "둘이 부부인거야? 아니! 니, 여 아가씨랑 뭔 사이여? 사돈?",
+        "vi": "Hai người là vợ chồng à? Không! Cậu với cô gái này là quan hệ gì? Sui gia?"
+      },
+      "end_time": 18.3,
+      "start_time": 12.7,
+      "vocabulary": [
+        {
+          "word": "부부",
+          "meanings": {
+            "en": "married couple",
+            "es": "pareja casada",
+            "id": "suami istri",
+            "jp": "夫婦",
+            "vi": "vợ chồng"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_ae98b29c625b2b6a6a83f9e99041adbf.mp3"
+        },
+        {
+          "word": "아가씨",
+          "meanings": {
+            "en": "young lady, miss",
+            "es": "señorita, joven",
+            "id": "nona muda",
+            "jp": "お嬢さん、若い女性",
+            "vi": "cô gái trẻ, tiểu thư"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_387d8c2a8f6d221edc32808cef9761ac.mp3"
+        },
+        {
+          "word": "사돈",
+          "meanings": {
+            "en": "in-laws (parents of one's child's spouse)",
+            "es": "consuegros",
+            "id": "besan (orang tua dari menantu)",
+            "jp": "姻戚、さどん (結婚により縁組した両家の親同士)",
+            "vi": "sui gia"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_7124f549c2f7fff361d2193ed0be5a60.mp3"
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "'사돈' (sadon) is a term used by parents of two families who are related through their children's marriage to refer to each other. This situation involves guessing the other party's relationship, even considering the possibility of a marital connection.",
+        "es": "'사돈' (sadon) es un término utilizado por los padres de dos familias que están relacionadas a través del matrimonio de sus hijos para referirse el uno al otro. Esta situación implica adivinar la relación de la otra parte, incluso considerando la posibilidad de una conexión matrimonial.",
+        "id": "'사돈' (sadon) adalah istilah yang digunakan oleh orang tua dari dua keluarga yang terhubung melalui pernikahan anak-anak mereka untuk saling memanggil. Situasi ini melibatkan dugaan hubungan pihak lain, bahkan mempertimbangkan kemungkinan adanya hubungan kekerabatan melalui pernikahan.",
+        "jp": "「사돈」は、子供の結婚によって結ばれた両家の親が互いを呼ぶ呼称です。相手の関係を推測し、婚姻によって結ばれた親族関係の可能性まで念頭に置いて質問している状況です。",
+        "ko": "'사돈'은 자녀의 결혼으로 맺어진 두 집안의 부모들이 서로를 부르는 호칭입니다. 상대방의 관계를 추측하며 혼인으로 맺어진 인척 관계일 가능성까지 염두에 두고 질문하는 상황입니다.",
+        "vi": "'사돈' (sadon) là cách gọi mà cha mẹ của hai gia đình có mối quan hệ thông gia thông qua hôn nhân của con cái dùng để gọi nhau. Tình huống này liên quan đến việc đoán mối quan hệ của đối phương, thậm chí xem xét khả năng họ là họ hàng qua hôn nhân."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Hey, are you seriously not conscious of it? So, it's a woman and a man.",
+        "es": "Oye, ¿en serio no eres consciente? Al final, es una mujer y un hombre.",
+        "id": "Hei, kamu serius tidak sadar? Jadi, ini perempuan dan laki-laki.",
+        "jp": "おい、俺のこと本当に意識してないのか？結局、女と男だろ。",
+        "ko": "야, 나 진짜 의식 안 되냐? 그래서 여자랑 남잔데.",
+        "vi": "Này, cậu thật sự không nhận ra à? Dù sao thì cũng là con gái với con trai mà."
+      },
+      "end_time": 26.7,
+      "start_time": 22.5,
+      "vocabulary": [
+        {
+          "word": "의식",
+          "meanings": {
+            "en": "consciousness, awareness",
+            "es": "conciencia, darse cuenta",
+            "id": "kesadaran",
+            "jp": "意識",
+            "vi": "ý thức, nhận thức"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_6d8b4e38c291aab6a2e38116162a97b6.mp3"
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "This is a question indicating awareness that living in the same house is not typical for a man and a woman, even if they are in-laws.",
+        "es": "Esta es una pregunta que indica la conciencia de que vivir en la misma casa no es típico para un hombre y una mujer, incluso si son consuegros.",
+        "id": "Ini adalah pertanyaan yang menunjukkan kesadaran bahwa tinggal serumah tidaklah umum bagi seorang pria dan wanita, meskipun mereka adalah besan.",
+        "jp": "姻戚関係ではあるものの、そのまま男女の関係であるため、同じ家に住む状況が一般的ではない状態であることを意識した質問です。",
+        "ko": "사돈 사이이긴 하지만 그대로 남자와 여자 사이이기 때문에 한 집에 사는 상황이 일반적이지 않은 상태임을 의식한 질문입니다.",
+        "vi": "Đây là một câu hỏi thể hiện sự nhận thức rằng việc sống chung một nhà là không bình thường đối với một người đàn ông và một người phụ nữ, ngay cả khi họ là sui gia."
+      }
+    },
+    {
+      "scripts": {
+        "en": "You're really not my type, you know? Honey! It's been a really long time, hasn't it?",
+        "es": "¿En serio no eres mi tipo, sabes? ¡Cariño! Ha pasado mucho tiempo, ¿verdad?",
+        "id": "Kamu beneran bukan tipeku lho? Sayang! Kita sudah lama banget ya tidak ketemu?",
+        "jp": "そっち、マジで私のタイプじゃないんですけど？ダーリン！私たち、本当に久しぶりだね？",
+        "ko": "그쪽 진짜 제 타입 아니시거든요? 자기야! 우리 진짜 오랫만이지?",
+        "vi": "Anh thật sự không phải gu của em đâu nhé? Anh yêu! Lâu lắm rồi chúng ta mới gặp nhau nhỉ?"
+      },
+      "end_time": 33.0,
+      "start_time": 29.0,
+      "vocabulary": [
+        {
+          "word": "그쪽",
+          "meanings": {
+            "en": "that person (implying distance/dislike), that side",
+            "es": "esa persona (implicando distancia/desagrado), por ahí",
+            "id": "kamu (berjarak, kurang akrab), pihak sana",
+            "jp": "そちら、あなた (相手に距離を置くニュアンス)",
+            "vi": "bên đó, người đó (ám chỉ khoảng cách/không thích)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_1935ea88c6152e348aad153569a6a784.mp3"
+        },
+        {
+          "word": "타입",
+          "meanings": {
+            "en": "type (of person)",
+            "es": "tipo (de persona)",
+            "id": "tipe",
+            "jp": "タイプ",
+            "vi": "kiểu, gu"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_70869aa8b8f5870d642bdf24548853e1.mp3"
+        },
+        {
+          "word": "자기야",
+          "meanings": {
+            "en": "honey, darling (term of endearment)",
+            "es": "cariño, mi amor",
+            "id": "sayang (panggilan mesra)",
+            "jp": "ダーリン、ハニー (恋人への呼びかけ)",
+            "vi": "anh yêu/em yêu, cục cưng"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_cd86ec922284802ceb763fa0636ea18f.mp3"
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "\"그쪽\" (geujjok) is an expression used to draw a line or create distance with the other person. The immediate use of the term of endearment \"자기야\" (jagiya) afterward indicates a situation where one is trying to block someone else's approach.",
+        "es": "\"그쪽\" (geujjok) es una expresión que se usa para establecer una distancia con la otra persona. El uso inmediato del término cariñoso \"자기야\" (jagiya) después indica una situación en la que se está tratando de bloquear el acercamiento de otra persona.",
+        "id": "\"그쪽\" (geujjok) adalah ungkapan yang digunakan untuk memberi batasan atau menjaga jarak dengan lawan bicara. Penggunaan panggilan mesra \"자기야\" (jagiya) sesudahnya menunjukkan situasi di mana seseorang mencoba untuk menghalangi pendekatan orang lain.",
+        "jp": "「그쪽」は相手に線を引いたり距離を置こうとする時に使う表現で、直後に恋人への呼称である「자기야」を使って他の人の接近を阻止しようとしている状況だと分かります。",
+        "ko": "\"그쪽\"은 상대방에게 선을 긋거나 거리를 두려 할 때 쓰는 표현으로, 직후에 연인 호칭인 \"자기야\"를 사용하여 다른 사람의 접근을 차단하려는 상황임을 알 수 있습니다.",
+        "vi": "\"그쪽\" (geujjok) là một cách diễn đạt được sử dụng để vạch ranh giới hoặc tạo khoảng cách với người đối diện. Việc sử dụng ngay sau đó từ ngữ thân mật \"자기야\" (jagiya) cho thấy đây là tình huống mà người nói đang cố gắng ngăn chặn sự tiếp cận của người khác."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Oh, it's Suzy to my senior. Wait, something got on it. I thought I was going crazy the whole time.",
+        "es": "Ah, para el sunbae, es Suzy. Espera, algo se pegó. Pensé que me estaba volviendo loca todo el tiempo.",
+        "id": "Oh, ini Suzy bagi seniorku. Tunggu sebentar, ada yang menempel. Aku pikir aku akan gila selama ini.",
+        "jp": "あ、先輩にはスジなのに。ちょっと待って、何か付いた。ずっとおかしくなりそうだったんだ。",
+        "ko": "아, 선배한테 수지인데. 잠깐만 뭐 뭍었다. 내내 미치는 줄 알았다고.",
+        "vi": "À, với tiền bối thì là Suzy. Khoan đã, có gì dính vào. Em cứ tưởng mình phát điên mất rồi."
+      },
+      "end_time": 42.9,
+      "start_time": 35.7,
+      "vocabulary": [
+        {
+          "word": "선배",
+          "meanings": {
+            "en": "senior (in school/work), elder colleague",
+            "es": "compañero/a mayor, superior",
+            "id": "senior",
+            "jp": "先輩",
+            "vi": "tiền bối"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_ac8b3ebac258e721a3c6eba4910a7bae.mp3"
+        },
+        {
+          "word": "뭍었다",
+          "meanings": {
+            "en": "got on, smeared, stained (likely '묻었다')",
+            "es": "se pegó, se manchó",
+            "id": "menempel, ternoda",
+            "jp": "付いた、汚れた",
+            "vi": "dính vào, vấy bẩn"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_9bd3b37885e4a3d5612a6d1201924eea.mp3"
+        },
+        {
+          "word": "미치는 줄 알았다고",
+          "meanings": {
+            "en": "thought one was going crazy / driven mad",
+            "es": "pensé que me estaba volviendo loco/a",
+            "id": "kupikir aku akan gila",
+            "jp": "おかしくなりそうだった、狂いそうだった",
+            "vi": "tưởng mình phát điên"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_eddbd387b46984c35102157617c5864d.mp3"
+        }
+      ],
+      "section_num": 5,
+      "cultural_note": {
+        "en": "\"Suzy\" is the name of a famous Korean movie's female protagonist, often regarded as synonymous with the first love of all young men during their youth.",
+        "es": "\"Suzy\" es el nombre de la protagonista femenina de una famosa película coreana, a menudo considerada sinónimo del primer amor de todos los jóvenes durante su juventud.",
+        "id": "\"Suzy\" adalah nama tokoh utama wanita dalam film Korea terkenal, sering dianggap sebagai sinonim dengan cinta pertama semua pria muda di masa muda mereka.",
+        "jp": "「スジ」は韓国の有名映画のヒロインの名前で、若い頃の全ての男性の初恋と同義語として扱われることもあります。",
+        "ko": "\"수지\"는 한국의 유명한 영화의 여주인공의 이름으로 젊은 시절 모든 남자들의 첫사랑과 동의어로 취급 받기도 합니다.",
+        "vi": "\"Suzy\" là tên của nữ nhân vật chính trong một bộ phim nổi tiếng của Hàn Quốc, thường được coi là đồng nghĩa với mối tình đầu của tất cả các chàng trai trẻ trong thời thanh xuân của họ."
+      }
+    }
+  ]
+}

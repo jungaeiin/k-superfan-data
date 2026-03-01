@@ -1,0 +1,384 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "Because he wants to escape exile with his loved ones.",
+        "es": "Porque quiere escapar del exilio con sus seres queridos.",
+        "id": "Karena dia ingin melarikan diri dari pengasingan bersama orang-orang yang dicintainya.",
+        "jp": "彼が愛する人々と一緒に流刑地から脱出したいからだ。",
+        "ko": "그가 사랑하는 사람들과 함께 유배지에서 탈출하고 싶기 때문이다.",
+        "vi": "Bởi vì ông muốn trốn thoát khỏi nơi lưu đày cùng những người thân yêu của mình."
+      },
+      {
+        "en": "Because he feels guilty that his royal status and the conflicts it caused have put his loved ones in danger.",
+        "es": "Porque se siente culpable de que su estatus real y los conflictos que causó hayan puesto en peligro a sus seres queridos.",
+        "id": "Karena dia merasa bersalah bahwa status bangsawannya dan konflik yang ditimbulkannya telah membahayakan orang-orang yang dicintainya.",
+        "jp": "彼の王族の身分とそれによって引き起こされた葛藤が、愛する人々を危険にさらしたという罪悪感を感じているからだ。",
+        "ko": "그의 왕족 신분과 그로 인한 갈등이 사랑하는 사람들을 위험에 빠뜨렸다는 죄책감을 느끼기 때문이다.",
+        "vi": "Bởi vì ông cảm thấy tội lỗi khi địa vị hoàng tộc và những xung đột do nó gây ra đã đẩy những người thân yêu của mình vào nguy hiểm."
+      },
+      {
+        "en": "Because he needs their help to regain his throne.",
+        "es": "Porque necesita su ayuda para recuperar su trono.",
+        "id": "Karena dia membutuhkan bantuan mereka untuk merebut kembali takhtanya.",
+        "jp": "王位を取り戻すために彼らの助けが必要だからだ。",
+        "ko": "왕위를 되찾기 위해 그들의 도움이 필요하기 때문이다.",
+        "vi": "Bởi vì ông cần sự giúp đỡ của họ để giành lại ngai vàng."
+      },
+      {
+        "en": "Because he is afraid of being left alone in exile.",
+        "es": "Porque tiene miedo de quedarse solo en el exilio.",
+        "id": "Karena dia takut ditinggalkan sendirian di pengasingan.",
+        "jp": "流刑地で一人残されるのが怖いからだ。",
+        "ko": "유배지에서 혼자 남겨지는 것이 두렵기 때문이다.",
+        "vi": "Bởi vì ông sợ bị bỏ lại một mình nơi lưu đày."
+      }
+    ],
+    "question": {
+      "en": "In the context of the script, what is the primary reason Nosangun (Danjong) states he no longer wants to lose the people he loves?",
+      "es": "En el contexto del guion, ¿cuál es la razón principal por la que Nosangun (Danjong) afirma que ya no quiere perder a las personas que ama?",
+      "id": "Dalam konteks naskah, apa alasan utama Nosangun (Danjong) menyatakan bahwa dia tidak ingin lagi kehilangan orang-orang yang dia cintai?",
+      "jp": "スクリプトの文脈で、盧山君（端宗）がこれ以上愛する人々を失いたくないと述べる主な理由は何ですか？",
+      "ko": "스크립트의 맥락에서, 노산군(단종)이 더 이상 사랑하는 사람들을 잃고 싶지 않다고 말하는 주된 이유는 무엇입니까?",
+      "vi": "Trong ngữ cảnh của đoạn kịch bản, lý do chính mà Nosangun (Danjong) nói rằng ông không muốn mất đi những người mình yêu thương nữa là gì?"
+    },
+    "answer_index": 1
+  },
+  "metadata": {
+    "titles": {
+      "en": "The King's Warden (2026)",
+      "es": "The King's Warden (2026)",
+      "id": "The King's Warden (2026)",
+      "jp": "The King's Warden (2026)",
+      "ko": "왕과 사는 남자 | 공식 예고편 ",
+      "vi": "The King's Warden (2026)"
+    },
+    "categories": {
+      "en": "Film, Comedy, Tragedy, Historical Drama",
+      "es": "Película, Comedia, Tragedia, Drama Histórico",
+      "id": "Film, Komedi, Tragedi, Drama Sejarah",
+      "jp": "映画, コメディ, 悲劇, 時代劇",
+      "ko": "영화, 코미디, 비극, 사극",
+      "vi": "Phim, Hài kịch, Bi kịch, Phim cổ trang"
+    },
+    "difficulty": 4,
+    "youtube_id": "9sxEZuJskvM",
+    "youtube_url": "https://www.youtube.com/watch?v=9sxEZuJskvM"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Have you heard of Cheongnyeongpo, located deep within Gwangcheongol? In winter, a cold chill sweeps down the river, and a fierce cold sweeps down from the cliffs.",
+        "es": "¿Ha oído hablar de Cheongnyeongpo, ubicado en lo profundo de Gwangcheongol? En invierno, un frío glacial desciende por el río, y un frío intenso desciende de los acantilados.",
+        "id": "Pernahkah Anda mendengar tentang Cheongnyeongpo, yang terletak jauh di dalam Gwangcheongol? Di musim dingin, hawa dingin menusuk dari tepi sungai, dan hawa dingin yang menusuk turun dari tebing.",
+        "jp": "光川ゴル奥に位置する清冷浦と聞いたことはありますか？冬には川辺に冷気がスッと、崖からは寒気がスッと降りてきます。",
+        "ko": "광천골 안 쪽에 위치한 청령포라고 들어보셨습니까? 겨울에는 강가에 냉기가 샥 절벽에서는 한기가 샥 내려오고.",
+        "vi": "Bạn đã từng nghe nói về Cheongnyeongpo nằm sâu bên trong Gwangcheongol chưa? Vào mùa đông, khí lạnh ùa xuống bờ sông, và hơi lạnh buốt giá ùa xuống từ vách đá."
+      },
+      "end_time": 10.5,
+      "start_time": 0.0,
+      "vocabulary": [
+        {
+          "word": "청령포",
+          "meanings": {
+            "en": "Cheongnyeongpo (a historical site)",
+            "es": "Cheongnyeongpo (un sitio histórico)",
+            "id": "Cheongnyeongpo (situs sejarah)",
+            "jp": "清冷浦（歴史的場所）",
+            "vi": "Cheongnyeongpo (một di tích lịch sử)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_a121cec5fb0b0c7b7b6e340c218f8599.mp3"
+        },
+        {
+          "word": "위치한",
+          "meanings": {
+            "en": "located",
+            "es": "ubicado",
+            "id": "terletak",
+            "jp": "位置する",
+            "vi": "nằm ở, tọa lạc"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_929eab2988d49875e506c82e84116124.mp3"
+        },
+        {
+          "word": "냉기",
+          "meanings": {
+            "en": "cold air, chill",
+            "es": "aire frío",
+            "id": "hawa dingin",
+            "jp": "冷気",
+            "vi": "khí lạnh"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_5061748e9e6564c212e9913c5390497a.mp3"
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "Cheongnyeongpo is a tragic historical site where King Danjong of the Joseon Dynasty was exiled. The description of the harsh winter cold evokes the suffering of King Danjong at that time. '샥' is an onomatopoeia emphasizing the feeling of cold air quickly and sharply penetrating.",
+        "es": "Cheongnyeongpo es un sitio histórico trágico donde el Rey Danjong de la Dinastía Joseon fue exiliado. La descripción del crudo frío invernal evoca el sufrimiento del Rey Danjong en ese momento. '샥' es una onomatopeya que enfatiza la sensación del aire frío penetrando rápida y bruscamente.",
+        "id": "Cheongnyeongpo adalah situs bersejarah tragis di mana Raja Danjong dari Dinasti Joseon diasingkan. Gambaran dinginnya musim dingin yang keras membangkitkan penderitaan Raja Danjong pada saat itu. '샥' adalah onomatopoeia yang menekankan perasaan udara dingin yang cepat dan tajam menusuk.",
+        "jp": "清冷浦は、朝鮮時代に端宗大王が流刑された悲劇的な歴史遺跡です。厳しい冬の寒さの描写は、当時の端宗の苦難を想起させます。「샥」は、冷たい気が素早く鋭く染み込む感覚を強調する擬態語です。",
+        "ko": "청령포는 조선 시대 단종대왕이 유배되었던 비극적인 역사 유적으로, 혹독한 겨울 추위 묘사는 당시 단종의 고난을 상기시킵니다. '샥'은 차가운 기운이 빠르고 날카롭게 스며드는 느낌을 강조하는 의태어입니다.",
+        "vi": "Cheongnyeongpo là một di tích lịch sử bi thảm nơi vua Danjong của triều đại Joseon bị lưu đày. Mô tả về cái lạnh mùa đông khắc nghiệt gợi nhớ đến những khổ nạn của vua Danjong lúc bấy giờ. '샥' là từ tượng thanh nhấn mạnh cảm giác không khí lạnh nhanh chóng và sắc bén xuyên qua."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Meaning, it's the optimal place for exile. This place is designated as a place of exile.",
+        "es": "Es decir, es el lugar óptimo para el exilio. Este lugar es designado como lugar de exilio.",
+        "id": "Maksudnya, ini adalah tempat pengasingan yang optimal. Tempat ini ditetapkan sebagai tempat pengasingan.",
+        "jp": "最適な流刑地だという話。ここを流刑地に指定する。",
+        "ko": "최적의 유배지라는 말씀. 이곳을 유배지로 지정한다.",
+        "vi": "Ý là, đây là nơi lưu đày tối ưu. Nơi này được chỉ định làm nơi lưu đày."
+      },
+      "end_time": 18.4,
+      "start_time": 12.2,
+      "vocabulary": [
+        {
+          "word": "최적",
+          "meanings": {
+            "en": "optimal, best",
+            "es": "óptimo, el mejor",
+            "id": "optimal, terbaik",
+            "jp": "最適",
+            "vi": "tối ưu, tốt nhất"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_44e81e8a149299550a8710c17f5984d5.mp3"
+        },
+        {
+          "word": "유배지",
+          "meanings": {
+            "en": "place of exile",
+            "es": "lugar de exilio",
+            "id": "tempat pengasingan",
+            "jp": "流刑地",
+            "vi": "nơi lưu đày"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_fa750f7e7617ba28baeba0ad3813853a.mp3"
+        },
+        {
+          "word": "지정한다",
+          "meanings": {
+            "en": "to designate, to appoint",
+            "es": "designar, nombrar",
+            "id": "menetapkan, menunjuk",
+            "jp": "指定する",
+            "vi": "chỉ định, định rõ"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_7e83d43f2cfb859f0d5b008d753aba0c.mp3"
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "'Exile' (유배) was a severe punishment in past Korea, imposed on royalty or powerful figures, meaning to be sent to a distant place and isolated.",
+        "es": "'Exilio' (유배) era un castigo severo en la Corea antigua, impuesto a la realeza o figuras poderosas, que significaba ser enviado a un lugar lejano y aislado.",
+        "id": "'Pengasingan' (유배) adalah hukuman berat di Korea masa lalu, dijatuhkan pada bangsawan atau tokoh berkuasa, yang berarti dikirim ke tempat yang jauh dan diisolasi.",
+        "jp": "「流刑」は、過去の韓国で王族や権力層に科せられた重い刑罰で、遠隔地に送って隔離することを意味します。",
+        "ko": "「유배」는 과거 한국에서 왕족이나 권력층에게 내려졌던 중한 형벌로, 먼 곳으로 보내 격리시키는 것을 의미합니다.",
+        "vi": "'Lưu đày' (유배) là một hình phạt nặng ở Hàn Quốc thời xưa, áp dụng cho hoàng tộc hoặc những người có quyền lực, nghĩa là bị gửi đến một nơi xa xôi và bị cô lập."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Can you handle it? No matter who comes. Smile.",
+        "es": "¿Podrás soportarlo? No importa quién venga. Sonríe.",
+        "id": "Bisakah kau menanganinya? Siapa pun yang datang. Tersenyumlah.",
+        "jp": "耐えられるか？誰が来ようともだ。笑え。",
+        "ko": "감당할 수 있겠느냐? 누가 오든 말이다. 웃어.",
+        "vi": "Ngươi có chịu đựng được không? Dù cho ai đến đi nữa. Cười lên."
+      },
+      "end_time": 24.5,
+      "start_time": 20.0,
+      "vocabulary": [
+        {
+          "word": "감당할",
+          "meanings": {
+            "en": "to handle, to cope with",
+            "es": "soportar, manejar",
+            "id": "menangani, menanggung",
+            "jp": "耐える、引き受ける",
+            "vi": "đảm đương, chịu đựng"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_f601eeaada7d3d0ddb8354f257870445.mp3"
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "The command \"Smile\" (웃어) here is not simply to express joy, but to show boldness by maintaining a strong or calm demeanor without faltering in threatening situations or adversity, thus not yielding to the opponent. It is a strategic directive to hide one's inner feelings and gain psychological advantage.",
+        "es": "La orden \"Sonríe\" (웃어) aquí no es simplemente para expresar alegría, sino para mostrar audacia manteniendo una actitud fuerte o tranquila sin vacilar en situaciones amenazantes o adversas, para no ceder ante el oponente. Es una directriz estratégica para ocultar los sentimientos internos y obtener una ventaja psicológica.",
+        "id": "Perintah \"Tersenyumlah\" (웃어) di sini bukan sekadar untuk mengekspresikan kegembiraan, tetapi untuk menunjukkan keberanian dengan mempertahankan sikap yang kuat atau tenang tanpa goyah dalam situasi mengancam atau kesulitan, sehingga tidak menyerah kepada lawan. Ini adalah arahan strategis untuk menyembunyikan perasaan batin dan mendapatkan keuntungan psikologis.",
+        "jp": "「笑え」は、単に喜びを表現するのではなく、威嚇的な状況や逆境の中でも動揺せず、強い姿や冷静な態度を保ち、相手に屈しない大胆さを見せろという意味で使われます。これは、自分の内面を隠し、心理的に優位に立とうとする戦略的な指示です。",
+        "ko": "\"웃어\"는 단순히 기쁨을 표현하는 것이 아닌, 위협적인 상황이나 역경 속에서도 흔들림 없이 강한 모습이나 침착한 태도를 유지하여 상대에게 굴하지 않는 대담함을 보여주라는 의미로 사용됩니다. 이는 자신의 내면을 감추고 심리적으로 우위를 점하려는 전략적 지시입니다.",
+        "vi": "Lệnh \"Cười lên\" (웃어) ở đây không đơn thuần là thể hiện niềm vui, mà là thể hiện sự táo bạo bằng cách duy trì vẻ ngoài mạnh mẽ hoặc thái độ bình tĩnh mà không nao núng trong những tình huống đe dọa hoặc nghịch cảnh, do đó không nhượng bộ đối thủ. Đây là một chỉ thị chiến lược để che giấu cảm xúc bên trong và giành lợi thế tâm lý."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Do you know who the exiled noble is? It's Nogsangun Yi Hong-wi! The person who was the king of this country until recently.",
+        "es": "¿Sabes quién es el noble exiliado? ¡Es Nogsangun Yi Hong-wi! La persona que fue rey de este país hasta hace poco.",
+        "id": "Tahukah Anda siapa bangsawan yang diasingkan itu? Itu Nogsangun Yi Hong-wi! Orang yang baru-baru ini menjadi raja negara ini.",
+        "jp": "流刑された両班が誰かご存知ですか？盧山君、李弘暐です！最近までこの国の王だった人です。",
+        "ko": "귀양 온 양반이 누군지 아십니까? 노산군 이홍위에요! 얼마 전까지 이 나라의 왕이었던 사람이요.",
+        "vi": "Ngươi có biết người quý tộc bị lưu đày là ai không? Đó là Nosangun Yi Hong-wi! Người đã từng là vua của đất nước này cho đến gần đây."
+      },
+      "end_time": 40.5,
+      "start_time": 30.0,
+      "vocabulary": [
+        {
+          "word": "귀양",
+          "meanings": {
+            "en": "exile (for high-ranking officials/royalty)",
+            "es": "exilio",
+            "id": "pengasingan",
+            "jp": "流刑",
+            "vi": "lưu đày"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_14491626025b832b558f7d1947e79066.mp3"
+        },
+        {
+          "word": "양반",
+          "meanings": {
+            "en": "noble, gentry (historically, a member of the ruling class)",
+            "es": "noble, la élite (históricamente, miembro de la clase dominante)",
+            "id": "bangsawan (secara historis, anggota kelas penguasa)",
+            "jp": "両班（ヤンバン、朝鮮時代の支配階級）",
+            "vi": "quý tộc (trong lịch sử, thành viên của tầng lớp thống trị)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_620b8bd57c72e9064e0a6c7773cece01.mp3"
+        },
+        {
+          "word": "노산군",
+          "meanings": {
+            "en": "Prince Nosan (a title for a deposed king)",
+            "es": "Príncipe Nosan (título para un rey depuesto)",
+            "id": "Pangeran Nosan (gelar untuk raja yang digulingkan)",
+            "jp": "盧山君（廃位された王の称号）",
+            "vi": "Nosangun (tước hiệu dành cho một vị vua bị phế truất)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_753999027ea4d0f0cc8de834e2265fab.mp3"
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "Nosangun is the name used to demean King Danjong, a deposed king of Joseon. 'The exiled noble' (귀양 온 양반) refers to a situation where a royal or high-ranking official was exiled to a distant place due to a serious crime.",
+        "es": "Nosangun es el nombre usado para menospreciar al Rey Danjong, un rey depuesto de Joseon. 'El noble exiliado' (귀양 온 양반) se refiere a una situación en la que un miembro de la realeza o un alto funcionario era exiliado a un lugar lejano debido a un crimen grave.",
+        "id": "Nosangun adalah nama yang digunakan untuk merendahkan Raja Danjong, raja Joseon yang digulingkan. 'Bangsawan yang diasingkan' (귀양 온 양반) merujuk pada situasi di mana seorang bangsawan atau pejabat tinggi diasingkan ke tempat yang jauh karena kejahatan serius.",
+        "jp": "盧山君は、廃位された朝鮮の王、端宗を卑しめて呼んだ名前です。「流刑された両班」は、王族や高位層の人物が重罪によって遠隔地に流刑された状況を指します。",
+        "ko": "노산군은 폐위된 조선의 왕 단종을 낮춰 부르던 이름입니다. '귀양 온 양반'은 왕족이나 고위층 인물이 중죄로 인해 먼 곳으로 유배된 상황을 뜻합니다.",
+        "vi": "Nosangun là tên gọi miệt thị vua Danjong, một vị vua bị phế truất của Joseon. 'Quý tộc bị lưu đày' (귀양 온 양반) chỉ tình huống một thành viên hoàng tộc hoặc quan chức cấp cao bị lưu đày đến một nơi xa xôi vì trọng tội."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Anyone who communicates with Nosan must die. Your Majesty! You scoundrel! How dare you insult royalty?",
+        "es": "Cualquiera que se comunique con Nosan debe morir. ¡Su Majestad! ¡Tú, canalla! ¿Cómo te atreves a insultar a la realeza?",
+        "id": "Siapa pun yang berhubungan dengan Nosan harus mati. Yang Mulia! Kau bajingan! Beraninya kau menghina bangsawan?",
+        "jp": "盧山と通じる者は死ぬべきだ。殿下！貴様！貴様がよくも王族を侮辱するのか。",
+        "ko": "노산과 통하는 자는 죽어여 한다. 전하! 네 이놈! 네 놈이 감히 왕족을 능멸하는가.",
+        "vi": "Kẻ nào thông đồng với Nosan đều phải chết. Bệ hạ! Tên khốn này! Ngươi dám sỉ nhục hoàng tộc sao?"
+      },
+      "end_time": 49.1,
+      "start_time": 41.7,
+      "vocabulary": [
+        {
+          "word": "통하는",
+          "meanings": {
+            "en": "to communicate with, to be connected with (often implies conspiracy)",
+            "es": "comunicarse con, estar conectado con (a menudo implica conspiración)",
+            "id": "berhubungan, terhubung (sering menyiratkan konspirasi)",
+            "jp": "通じる、つながる（共謀を意味することが多い）",
+            "vi": "thông đồng, liên lạc (thường ngụ ý mưu đồ)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_391a4afdb8d3ab13a4d819d4307458c5.mp3"
+        },
+        {
+          "word": "전하",
+          "meanings": {
+            "en": "Your Majesty (a respectful title for a king or high-ranking royal)",
+            "es": "Su Majestad (un título respetuoso para un rey o miembro de la realeza de alto rango)",
+            "id": "Yang Mulia (gelar hormat untuk raja atau bangsawan berpangkat tinggi)",
+            "jp": "殿下（国王や高位の王族に対する敬称）",
+            "vi": "Bệ hạ (tước hiệu tôn kính dành cho vua hoặc thành viên hoàng tộc cấp cao)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_213cec68333470a25d63438ae4aadde2.mp3"
+        },
+        {
+          "word": "능멸하는가",
+          "meanings": {
+            "en": "to insult, to treat contemptuously, to despise (rhetorical question 'do you insult?')",
+            "es": "insultar, despreciar (pregunta retórica '¿te atreves a insultar?')",
+            "id": "menghina, meremehkan (pertanyaan retoris 'beranikah kau menghina?')",
+            "jp": "凌蔑する、侮辱する（反語的に「侮辱するのか」）",
+            "vi": "sỉ nhục, khinh bỉ (câu hỏi tu từ 'ngươi dám sỉ nhục sao?')"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_adab8ea8be96a4a63e9bb279a5758911.mp3"
+        }
+      ],
+      "section_num": 5,
+      "cultural_note": {
+        "en": "\"Nosan\" refers to the deposed Danjong, reflecting a severe political situation where anyone conspiring with him would not escape death. Furthermore, daring to insult royalty was considered a grave crime.",
+        "es": "\"Nosan\" se refiere al depuesto Danjong, reflejando una situación política severa donde cualquiera que conspirara con él no escaparía de la muerte. Además, atreverse a insultar a la realeza era considerado un crimen grave.",
+        "id": "\"Nosan\" mengacu pada Danjong yang digulingkan, mencerminkan situasi politik yang parah di mana siapa pun yang bersekongkol dengannya tidak akan luput dari kematian. Selain itu, berani menghina bangsawan dianggap sebagai kejahatan serius.",
+        "jp": "「盧山」は廃位された端宗を指し、彼と逆謀を企む者は死を免れない厳酷な政治状況を反映しています。また、王族をあえて侮辱する行為は大きな罪として扱われました。",
+        "ko": "\"노산\"은 폐위된 단종을 지칭하며, 그와 역모를 꾀하는 자는 죽음을 면치 못하던 엄혹한 정치 상황을 반영합니다. 또한 왕족을 감히 모욕하는 행위는 큰 죄로 다루어졌습니다.",
+        "vi": "\"Nosan\" chỉ vua Danjong bị phế truất, phản ánh tình hình chính trị khắc nghiệt, nơi bất kỳ ai âm mưu với ông ta đều không thể thoát khỏi cái chết. Hơn nữa, dám xúc phạm hoàng tộc được coi là một tội lớn."
+      }
+    },
+    {
+      "scripts": {
+        "en": "I don't want to lose the people I cherish and love anymore because of me.",
+        "es": "No quiero perder más a las personas que aprecio y amo por mi culpa.",
+        "id": "Aku tidak ingin kehilangan orang-orang yang ku hargai dan cintai lagi karena diriku.",
+        "jp": "もうこれ以上、私のせいで大切にし、愛していた人々を失いたくない。",
+        "ko": "더 이상 나로 인해 내가 아끼고 사랑하던 사람들을 잃고 싶지 않다.",
+        "vi": "Ta không muốn mất đi những người ta trân trọng và yêu quý nữa vì ta."
+      },
+      "end_time": 56.2,
+      "start_time": 51.5,
+      "vocabulary": [
+        {
+          "word": "더 이상",
+          "meanings": {
+            "en": "no longer, anymore",
+            "es": "ya no, más",
+            "id": "tidak lagi",
+            "jp": "これ以上",
+            "vi": "không còn nữa, nữa"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_7bed3ff18d6e4e3e2f9cda8e8d5efcfd.mp3"
+        },
+        {
+          "word": "아끼고",
+          "meanings": {
+            "en": "to cherish, to treasure",
+            "es": "apreciar, atesorar",
+            "id": "menghargai, menyayangi",
+            "jp": "大切にする、惜しむ",
+            "vi": "trân trọng, quý trọng"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_5beec78dc961f209979e1348b09dd0bc.mp3"
+        },
+        {
+          "word": "잃고",
+          "meanings": {
+            "en": "to lose",
+            "es": "perder",
+            "id": "kehilangan",
+            "jp": "失う",
+            "vi": "mất"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_b8b1b2697e3a1c3565780e6b3df742cf.mp3"
+        }
+      ],
+      "section_num": 6,
+      "cultural_note": {
+        "en": "In Korean society, relationships with family and close acquaintances are highly valued, so the thought of causing harm to them generates great guilt and a strong will to protect them.",
+        "es": "En la sociedad coreana, las relaciones con la familia y los conocidos cercanos son muy valoradas, por lo que la idea de causarles daño genera una gran culpa y una fuerte voluntad de protegerlos.",
+        "id": "Dalam masyarakat Korea, hubungan dengan keluarga dan kerabat dekat sangat dihargai, sehingga pemikiran untuk menyakiti mereka menimbulkan rasa bersalah yang besar dan keinginan kuat untuk melindungi mereka.",
+        "jp": "韓国社会では、家族や親しい人々との関係を重視するため、自分が彼らに害を与えるという考えは、大きな罪悪感と彼らを守ろうとする強い意志を生み出します。",
+        "ko": "한국 사회에서는 가족이나 가까운 사람들과의 관계를 중요하게 여기므로, 자신이 그들에게 해를 끼친다는 생각은 큰 죄책감과 보호하려는 강한 의지를 낳습니다.",
+        "vi": "Trong xã hội Hàn Quốc, mối quan hệ với gia đình và người thân rất được coi trọng, vì vậy ý nghĩ gây hại cho họ sẽ tạo ra cảm giác tội lỗi lớn và ý chí mạnh mẽ để bảo vệ họ."
+      }
+    }
+  ]
+}

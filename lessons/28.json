@@ -1,0 +1,294 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "Corporate success is easily achieved if one is talented.",
+        "es": "El éxito corporativo se logra fácilmente si uno tiene talento.",
+        "id": "Kesuksesan korporat mudah dicapai jika seseorang berbakat.",
+        "jp": "企業での成功は才能があれば簡単に得られる。",
+        "ko": "기업에서의 성공은 재능이 있다면 쉽게 얻을 수 있다.",
+        "vi": "Thành công trong công ty dễ dàng đạt được nếu có tài năng."
+      },
+      {
+        "en": "It is important to strategically invest in real estate for a stable future.",
+        "es": "Es importante invertir estratégicamente en bienes raíces para un futuro estable.",
+        "id": "Penting untuk berinvestasi secara strategis di real estat untuk masa depan yang stabil.",
+        "jp": "安定した未来のために不動産に戦略的に投資することが重要だ。",
+        "ko": "안정적인 미래를 위해 부동산에 전략적으로 투자하는 것이 중요하다.",
+        "vi": "Việc đầu tư chiến lược vào bất động sản là quan trọng để có một tương lai ổn định."
+      },
+      {
+        "en": "Even achieving a seemingly normal life after a long corporate career requires immense struggle and vigilance against potential pitfalls.",
+        "es": "Incluso lograr una vida aparentemente normal después de una larga carrera corporativa requiere una lucha inmensa y vigilancia contra posibles trampas.",
+        "id": "Bahkan mencapai kehidupan yang tampaknya normal setelah karir korporat yang panjang membutuhkan perjuangan besar dan kewaspadaan terhadap potensi jebakan.",
+        "jp": "長い会社生活の後に平凡な生活を築くことさえ、計り知れない努力と潜在的な危険に対する警戒を要する。",
+        "ko": "긴 회사 생활 후 평범한 삶을 이루는 것조차 엄청난 노력과 잠재적 위험에 대한 경계를 요구한다.",
+        "vi": "Ngay cả việc đạt được một cuộc sống bình thường sau một sự nghiệp dài trong công ty cũng đòi hỏi nỗ lực to lớn và sự cảnh giác trước những cạm bẫy tiềm ẩn."
+      },
+      {
+        "en": "Parents expect their children to surpass their own career achievements.",
+        "es": "Los padres esperan que sus hijos superen sus propios logros profesionales.",
+        "id": "Orang tua mengharapkan anak-anak mereka melampaui pencapaian karir mereka sendiri.",
+        "jp": "親は子供が自分のキャリアの成果を上回ることを期待する。",
+        "ko": "부모는 자녀가 자신의 경력 성과를 뛰어넘기를 기대한다.",
+        "vi": "Cha mẹ mong đợi con cái vượt qua thành tích sự nghiệp của mình."
+      }
+    ],
+    "question": {
+      "en": "What overarching sentiment does Manager Kim convey to his child about corporate life and success?",
+      "es": "¿Qué sentimiento general transmite el gerente Kim a su hijo sobre la vida corporativa y el éxito?",
+      "id": "Sentimen menyeluruh apa yang disampaikan Manajer Kim kepada anaknya mengenai kehidupan perusahaan dan kesuksesan?",
+      "jp": "キム部長は自分の子供に、企業生活と成功についてどのような全体的な感情を伝えていますか？",
+      "ko": "김 부장은 자녀에게 기업 생활과 성공에 대해 어떤 전반적인 감정을 전달하고 있습니까?",
+      "vi": "Trưởng phòng Kim truyền tải cảm xúc tổng thể nào cho con mình về cuộc sống doanh nghiệp và sự thành công?"
+    },
+    "answer_index": 2
+  },
+  "metadata": {
+    "titles": {
+      "en": "The Dream Life of Mr. Kim (2025)",
+      "es": "La vida soñada del Sr. Kim (2025)",
+      "id": "The Dream Life of Mr. Kim (2025)",
+      "jp": "The Dream Life of Mr. Kim (2025)",
+      "ko": "서울 자가에 대기업 다니는 김 부장 이야기 (2025)",
+      "vi": "Cuộc Sống Trong Mơ của Ông Kim (2025)"
+    },
+    "categories": {
+      "en": "Drama, Comedy",
+      "es": "Drama, Comedia",
+      "id": "Drama, Komedi",
+      "jp": "ドラマ、コメディ",
+      "ko": "드라마, 코미디",
+      "vi": "Kịch, Hài kịch"
+    },
+    "difficulty": 3,
+    "youtube_id": "9Svf_9I5lkM",
+    "youtube_url": "https://www.youtube.com/watch?v=9Svf_9I5lkM"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Look at how much this apartment's price went up. We wouldn't have been able to buy it if it weren't for that timing.",
+        "es": "Mira cómo subió el precio de este apartamento. Si no hubiera sido por ese momento, no habríamos podido comprarlo.",
+        "id": "Lihat harga apartemen ini naik. Kalau bukan karena waktu itu, kita tidak akan bisa membelinya.",
+        "jp": "このマンションの家賃が上がったのを見てみて。あのタイミングじゃなかったら買えなかったよ。",
+        "ko": "이 아파트 집값 오른거 봐바. 그 타이밍 아니었으면 못 샀다니까.",
+        "vi": "Nhìn giá căn hộ này tăng kìa. Nếu không phải đúng thời điểm đó thì đã không thể mua được rồi."
+      },
+      "end_time": 11.0,
+      "start_time": 6.5,
+      "vocabulary": [
+        {
+          "word": "집값",
+          "meanings": {
+            "en": "house price, home price",
+            "es": "precio de la casa",
+            "id": "harga rumah",
+            "jp": "住宅価格",
+            "vi": "giá nhà"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_d2651b3ffb3317d930b9ebd895bc7e39.mp3"
+        },
+        {
+          "word": "오르다",
+          "meanings": {
+            "en": "to go up, to rise",
+            "es": "subir",
+            "id": "naik",
+            "jp": "上がる",
+            "vi": "tăng lên"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_bbd39a8dc3a6d6acc6081c537fcace78.mp3"
+        },
+        {
+          "word": "타이밍",
+          "meanings": {
+            "en": "timing",
+            "es": "momento, oportunidad",
+            "id": "waktu yang tepat, timing",
+            "jp": "タイミング",
+            "vi": "thời điểm, thời cơ"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_b8398443f419f038e8dd79dff788881f.mp3"
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "In Korea, apartment prices often rise sharply, so choosing the right time to buy a home is considered very important for wealth accumulation.",
+        "es": "En Corea, los precios de los apartamentos a menudo suben bruscamente, por lo que elegir el momento adecuado para comprar una vivienda se considera muy importante para la acumulación de riqueza.",
+        "id": "Di Korea, harga apartemen seringkali naik tajam, sehingga memilih waktu yang tepat untuk membeli rumah dianggap sangat penting untuk akumulasi kekayaan.",
+        "jp": "韓国ではアパートの価格が急騰することが多く、住宅購入の時期をうまく選ぶことが資産を増やす上で非常に重要だと考えられています。",
+        "ko": "한국은 아파트 가격이 급등하는 경우가 많아, 주택 구매 시기를 잘 선택하는 것이 재산 증식에 매우 중요하게 여겨집니다.",
+        "vi": "Ở Hàn Quốc, giá căn hộ thường tăng vọt, vì vậy việc lựa chọn thời điểm thích hợp để mua nhà được coi là rất quan trọng để tích lũy tài sản."
+      }
+    },
+    {
+      "scripts": {
+        "en": "I received a scout offer. You've also taken your first step towards a great life, just like your father.",
+        "es": "Recibí una oferta de reclutamiento. Tú también has dado tu primer paso hacia una gran vida, como tu padre.",
+        "id": "Saya menerima tawaran rekrutmen. Kamu juga telah mengambil langkah pertama menuju kehidupan yang hebat, seperti ayahmu.",
+        "jp": "スカウトの申し出を受けました。お前も父親のように偉大な人生の第一歩を踏み出したんだな。",
+        "ko": "스카우트 제의 받았어요. 너도 아버지 처럼 위대한 인생에 첫 발을 디뎠구나.",
+        "vi": "Con đã nhận được lời đề nghị chiêu mộ rồi ạ. Con cũng đã đặt bước chân đầu tiên vào một cuộc đời vĩ đại, giống như cha rồi."
+      },
+      "end_time": 19.7,
+      "start_time": 15.8,
+      "vocabulary": [
+        {
+          "word": "스카우트 제의",
+          "meanings": {
+            "en": "scout offer, recruitment offer",
+            "es": "oferta de reclutamiento",
+            "id": "tawaran rekrutmen",
+            "jp": "スカウトの申し出",
+            "vi": "lời đề nghị chiêu mộ"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_02272226e6c3cb3ecc4967496868f962.mp3"
+        },
+        {
+          "word": "위대하다",
+          "meanings": {
+            "en": "great, magnificent",
+            "es": "grande, magnífico",
+            "id": "hebat, agung",
+            "jp": "偉大だ",
+            "vi": "vĩ đại"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_f0a48fcb4f76a412dacd9c1f7f1efddf.mp3"
+        },
+        {
+          "word": "첫 발을 디디다",
+          "meanings": {
+            "en": "to take the first step",
+            "es": "dar el primer paso",
+            "id": "mengambil langkah pertama",
+            "jp": "第一歩を踏み出す",
+            "vi": "đặt bước chân đầu tiên"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_0f867cfcf88c5224e1d7db0d84d17e59.mp3"
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "A scout offer is considered the beginning of a successful career, recognized for special talent, and can also be interpreted as following in the footsteps of one's parents' successful life.",
+        "es": "Una oferta de reclutamiento se considera el comienzo de una carrera exitosa, reconocida por un talento especial, y también puede interpretarse como seguir los pasos de la vida exitosa de los padres.",
+        "id": "Tawaran rekrutmen dianggap sebagai awal karir yang sukses, diakui karena bakat khusus, dan juga dapat diartikan sebagai mengikuti jejak kehidupan sukses orang tua.",
+        "jp": "スカウトの申し出は、特別な才能が認められ成功したキャリアの始まりと見なされ、親の成功した人生を受け継ぐという意味合いで解釈されることもあります。",
+        "ko": "스카우트 제의는 특별한 재능을 인정받아 성공적인 커리어의 시작으로 여겨지며, 부모의 성공적인 삶을 잇는다는 의미로도 해석될 수 있습니다.",
+        "vi": "Lời đề nghị chiêu mộ được xem là sự khởi đầu của một sự nghiệp thành công, được công nhận tài năng đặc biệt, và cũng có thể được hiểu là tiếp nối cuộc sống thành công của cha mẹ."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Do you know how hard it is to survive as a manager at a large corporation for 25 years and then live a normal life like this?",
+        "es": "¿Sabes lo difícil que es sobrevivir como gerente en una gran corporación durante 25 años y luego vivir una vida normal como esta?",
+        "id": "Apakah kamu tahu betapa sulitnya bertahan sebagai manajer di perusahaan besar selama 25 tahun dan kemudian hidup normal seperti ini?",
+        "jp": "大企業の25年目の部長として生き残り、お前がこんなに平凡に生きることがどれだけ大変なことか分かるか？",
+        "ko": "대기업 25년 차 부장으로 살아 남아서 너 이렇게 평범하게 사는게 얼마나 힘든 일인지 알아?",
+        "vi": "Con có biết việc sống sót 25 năm làm trưởng phòng ở một tập đoàn lớn rồi lại sống một cuộc đời bình thường như thế này khó khăn đến mức nào không?"
+      },
+      "end_time": 25.0,
+      "start_time": 19.8,
+      "vocabulary": [
+        {
+          "word": "부장",
+          "meanings": {
+            "en": "general manager, department head",
+            "es": "gerente, jefe de departamento",
+            "id": "manajer departemen",
+            "jp": "部長",
+            "vi": "trưởng phòng"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_718cfa57c7f6bc9dd79e720dfe794333.mp3"
+        },
+        {
+          "word": "살아 남다",
+          "meanings": {
+            "en": "to survive",
+            "es": "sobrevivir",
+            "id": "bertahan hidup",
+            "jp": "生き残る",
+            "vi": "sống sót, sống còn"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_903a9d80ac9beecb476f3bc96dfc110b.mp3"
+        },
+        {
+          "word": "평범하다",
+          "meanings": {
+            "en": "to be ordinary, to be common",
+            "es": "ser común, ser ordinario",
+            "id": "biasa, normal",
+            "jp": "平凡だ",
+            "vi": "bình thường"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_0947a67e8eed1e3560edee6ddfec7899.mp3"
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "In Korean society, surviving 25 years as a manager at a large corporation is a difficult process of enduring extreme competition and pressure, and the 'normal life' that follows is recognized as a precious outcome not easily achieved.",
+        "es": "En la sociedad coreana, sobrevivir 25 años como gerente en una gran corporación es un proceso difícil de soportar una competencia y presión extremas, y la \"vida normal\" que sigue se reconoce como un resultado precioso que no se logra fácilmente.",
+        "id": "Dalam masyarakat Korea, bertahan 25 tahun sebagai manajer di perusahaan besar adalah proses yang sulit dengan menahan persaingan dan tekanan ekstrem, dan 'kehidupan normal' setelahnya diakui sebagai hasil yang berharga dan tidak mudah didapatkan.",
+        "jp": "韓国社会で大企業の部長として25年間生き残ることは、極度の競争とプレッシャーに耐え抜いた困難な過程であり、その後の「平凡な生活」は簡単に得られない貴重な結果と認識されています。",
+        "ko": "한국 사회에서 대기업 부장으로 25년간 살아남는 것은 극심한 경쟁과 압박을 견뎌낸 힘든 과정이며, 이후의 '평범한 삶'은 쉽게 얻어지지 않는 귀한 결과로 인식됩니다.",
+        "vi": "Trong xã hội Hàn Quốc, việc sống sót 25 năm làm trưởng phòng tại một tập đoàn lớn là một quá trình khó khăn phải chịu đựng sự cạnh tranh và áp lực khắc nghiệt, và 'cuộc sống bình thường' sau đó được coi là một thành quả quý giá không dễ dàng đạt được."
+      }
+    },
+    {
+      "scripts": {
+        "en": "It seems reporters have caught wind of something, you know? It'll be a minus for your executive promotion, buddy.",
+        "es": "Parece que los periodistas han olido algo, ¿sabes? Será un punto en contra para tu ascenso a ejecutivo, muchacho.",
+        "id": "Sepertinya wartawan sudah mencium sesuatu, tahu? Itu akan menjadi nilai minus untuk promosi eksekutifmu, nak.",
+        "jp": "今、記者たちが何かを嗅ぎつけたみたいなんだ。お前の役員昇進にはマイナスだぞ、お前。",
+        "ko": "지금 기자들이 냄새를 좀 맡은 거 같거든? 네 임원 승진에 마이너스야 인마.",
+        "vi": "Có vẻ như các phóng viên đã đánh hơi được điều gì đó rồi đó? Điều đó sẽ là điểm trừ cho việc thăng chức lên cấp điều hành của con đó."
+      },
+      "end_time": 34.0,
+      "start_time": 28.7,
+      "vocabulary": [
+        {
+          "word": "기자",
+          "meanings": {
+            "en": "reporter, journalist",
+            "es": "periodista",
+            "id": "wartawan",
+            "jp": "記者",
+            "vi": "phóng viên"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_abe3348185be55e71c5bc1209024739b.mp3"
+        },
+        {
+          "word": "냄새를 맡다",
+          "meanings": {
+            "en": "to smell (literally), to catch wind of (figuratively), to sniff out",
+            "es": "oler, husmear (figurativo)",
+            "id": "mencium bau (harfiah), mencium gelagat (kiasan)",
+            "jp": "嗅ぎつける",
+            "vi": "đánh hơi (nghĩa bóng), ngửi thấy mùi"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_003d0903ff6666d608b40923a14ada6b.mp3"
+        },
+        {
+          "word": "임원 승진",
+          "meanings": {
+            "en": "executive promotion",
+            "es": "ascenso a ejecutivo",
+            "id": "promosi eksekutif",
+            "jp": "役員昇進",
+            "vi": "thăng chức cấp điều hành, thăng tiến lên vị trí điều hành"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_c82024ccd308d54f0f970b1cb81f1a28.mp3"
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "The expression \"reporters caught wind of something\" is a metaphor indicating that the media has discovered hidden negative facts about a particular incident, and this situation warns that if exposed, it could have a fatal impact on executive promotion.",
+        "es": "La expresión \"los periodistas han olido algo\" es una metáfora que indica que los medios han descubierto hechos negativos ocultos sobre un incidente particular, y esta situación advierte que, si se expone, podría tener un impacto fatal en el ascenso a ejecutivo.",
+        "id": "Ungkapan \"wartawan mencium bau\" adalah metafora yang menunjukkan bahwa media telah menemukan fakta-fakta negatif tersembunyi tentang insiden tertentu, dan situasi ini memperingatkan bahwa jika terungkap, hal itu dapat berdampak fatal pada promosi eksekutif.",
+        "jp": "記者たちが「匂いを嗅ぎつけた」という表現は、メディアが特定事件の隠された否定的な事実を察知したという比喩であり、これが発覚した場合、役員昇進に致命的な影響を与える可能性があると警告する状況です。",
+        "ko": "기자들이 '냄새를 맡았다'는 표현은 언론이 특정 사건의 숨겨진 부정적 사실을 알아차렸다는 비유이며, 이것이 발각될 경우 임원 승진에 치명적인 영향을 줄 수 있음을 경고하는 상황입니다.",
+        "vi": "Cụm từ \"phóng viên đánh hơi được điều gì đó\" là một phép ẩn dụ chỉ việc giới truyền thông đã phát hiện ra những sự thật tiêu cực ẩn giấu về một sự việc cụ thể, và tình huống này cảnh báo rằng nếu bị phanh phui, nó có thể ảnh hưởng nghiêm trọng đến việc thăng chức lên cấp điều hành."
+      }
+    }
+  ]
+}

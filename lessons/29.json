@@ -1,0 +1,294 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "An atmosphere that respects individual work-life balance.",
+        "es": "Un ambiente que respeta el equilibrio entre la vida laboral y personal.",
+        "id": "Suasana yang menghormati keseimbangan kehidupan kerja pribadi.",
+        "jp": "個人のワークライフバランスを尊重する雰囲気。",
+        "ko": "개인의 워라밸(일과 삶의 균형)을 존중하는 분위기",
+        "vi": "Một bầu không khí tôn trọng sự cân bằng giữa công việc và cuộc sống cá nhân."
+      },
+      {
+        "en": "A society where family ties are considered paramount above all else.",
+        "es": "Una sociedad donde los lazos familiares son considerados primordiales por encima de todo.",
+        "id": "Masyarakat di mana ikatan keluarga dianggap paling utama.",
+        "jp": "家族の絆が何よりも重要視される社会。",
+        "ko": "가족 간의 유대가 무엇보다 중요하게 여겨지는 사회",
+        "vi": "Một xã hội mà tình cảm gia đình được coi trọng hơn hết."
+      },
+      {
+        "en": "A competitive culture that demands strong pressure and sacrifice to achieve goals.",
+        "es": "Una cultura competitiva que exige una fuerte presión y sacrificio para lograr metas.",
+        "id": "Budaya kompetitif yang menuntut tekanan dan pengorbanan yang kuat untuk mencapai tujuan.",
+        "jp": "目標達成のために強いプレッシャーと犠牲を要求する競争的な文化。",
+        "ko": "목표 달성을 위해 강한 압박과 희생을 요구하는 경쟁적인 문화",
+        "vi": "Một văn hóa cạnh tranh đòi hỏi áp lực mạnh mẽ và sự hy sinh để đạt được mục tiêu."
+      },
+      {
+        "en": "An environment where free communication is encouraged regardless of hierarchy.",
+        "es": "Un entorno donde se fomenta la comunicación libre sin importar la jerarquía.",
+        "id": "Lingkungan di mana komunikasi bebas didorong tanpa memandang hierarki.",
+        "jp": "上下関係なく自由なコミュニケーションが奨励される環境。",
+        "ko": "상하 관계 없이 자유로운 의사소통이 장려되는 환경",
+        "vi": "Một môi trường khuyến khích giao tiếp tự do không phân biệt cấp bậc."
+      }
+    ],
+    "question": {
+      "en": "What characteristic of Korean society or workplace culture can be inferred from the various characters' lines shown in this trailer?",
+      "es": "¿Qué característica de la sociedad o cultura laboral coreana se puede inferir de las diversas líneas de los personajes mostradas en este tráiler?",
+      "id": "Karakteristik masyarakat atau budaya tempat kerja Korea apa yang dapat disimpulkan dari berbagai dialog karakter yang ditunjukkan dalam trailer ini?",
+      "jp": "この予告編で描かれている様々な登場人物のセリフから推測できる、韓国社会または職場文化の特徴は何ですか？",
+      "ko": "이 예고편에서 보여지는 여러 인물의 대사를 통해 유추할 수 있는 한국 사회 또는 직장 문화의 특징은 무엇입니까?",
+      "vi": "Đặc điểm nào của xã hội hoặc văn hóa công sở Hàn Quốc có thể được suy ra từ những lời thoại của các nhân vật khác nhau được thể hiện trong đoạn giới thiệu này?"
+    },
+    "answer_index": 2
+  },
+  "metadata": {
+    "titles": {
+      "en": "Mad Dance Office (2026)",
+      "es": "Mad Dance Office (2026)",
+      "id": "Mad Dance Office (2026)",
+      "jp": "Mad Dance Office (2026)",
+      "ko": "매드 댄스 오피스 | 예고편 ",
+      "vi": "Mad Dance Office (2026)"
+    },
+    "categories": {
+      "en": "Film, Comedy",
+      "es": "Cine, Comedia",
+      "id": "Film, Komedi",
+      "jp": "映画, コメディ",
+      "ko": "영화, 코미디",
+      "vi": "Phim, Hài kịch"
+    },
+    "difficulty": 4,
+    "youtube_id": "CwWauWt6hVo",
+    "youtube_url": "https://www.youtube.com/watch?v=CwWauWt6hVo"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "This is Kim Guk-hee, the section chief of the Planning Department at Hanbyeol District Office.",
+        "es": "Soy Kim Guk-hee, jefa de la sección de Planificación de la Oficina del Distrito de Hanbyeol.",
+        "id": "Saya Kim Guk-hee, kepala seksi Perencanaan di Kantor Kecamatan Hanbyeol.",
+        "jp": "ハンビョル区庁企画課課長のキム・グクヒです。",
+        "ko": "한별구청 기획과 과장 김국희입니다. ",
+        "vi": "Tôi là Kim Guk-hee, trưởng phòng Kế hoạch của Văn phòng Quận Hanbyeol."
+      },
+      "end_time": 2.7,
+      "start_time": 0.0,
+      "vocabulary": [
+        {
+          "word": "구청",
+          "meanings": {
+            "en": "District Office",
+            "es": "Oficina del Distrito",
+            "id": "Kantor Kecamatan",
+            "jp": "区庁",
+            "vi": "Văn phòng Quận"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_c11985738bc331f84a5e35d88a8f573e.mp3"
+        },
+        {
+          "word": "기획과",
+          "meanings": {
+            "en": "Planning Department",
+            "es": "Departamento de Planificación",
+            "id": "Departemen Perencanaan",
+            "jp": "企画課",
+            "vi": "Phòng Kế hoạch"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_c7e1d61b4235aa359c413ae7e4223e4d.mp3"
+        },
+        {
+          "word": "과장",
+          "meanings": {
+            "en": "Section Chief / Manager",
+            "es": "Jefa de sección",
+            "id": "Kepala Seksi",
+            "jp": "課長",
+            "vi": "Trưởng phòng"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_675226353f928221f1d94afc29db2dd5.mp3"
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "In Korea, when introducing oneself in a formal situation, it is customary to state one's affiliation (e.g., organization) and position (e.g., 'section chief') before one's name to show respect and clearly define one's role.",
+        "es": "En Corea, al presentarse en una situación formal, es costumbre indicar la afiliación (por ejemplo, organización) y el puesto (por ejemplo, 'jefe de sección') antes del nombre para mostrar respeto y definir claramente el propio rol.",
+        "id": "Di Korea, saat memperkenalkan diri dalam situasi formal, kebiasaan adalah menyebutkan afiliasi (misalnya, organisasi) dan jabatan (misalnya, 'kepala seksi') sebelum nama untuk menunjukkan rasa hormat dan memperjelas peran seseorang.",
+        "jp": "韓国では、公式な場で自己紹介をする際、所属機関と「課長」のような役職を名前よりも先に述べ、礼儀を示し、自分の役割を明確にします。",
+        "ko": "한국에서는 공식적인 상황에서 자신을 소개할 때 소속 기관과 '과장'과 같은 직책을 이름보다 먼저 밝혀 예의를 갖추고 자신의 역할을 명확히 합니다.",
+        "vi": "Ở Hàn Quốc, khi giới thiệu bản thân trong tình huống trang trọng, người ta thường nêu rõ cơ quan trực thuộc và chức danh như 'trưởng phòng' trước tên của mình để thể hiện sự tôn trọng và làm rõ vai trò của bản thân."
+      }
+    },
+    {
+      "scripts": {
+        "en": "\"Death if you live, life if you die.\" Don't even think about leaving work on time until it's perfect. Let's die trying!",
+        "es": "\"Muerte para vivir, vida para morir.\" No pienses en irte a casa a tiempo hasta que sea perfecto. ¡Vamos a morir intentándolo!",
+        "id": "\"Hidup dalam kematian, mati dalam kehidupan.\" Jangan berani berpikir untuk pulang tepat waktu sampai semuanya sempurna. Mari kita mati-matian!",
+        "jp": "「死中に活あり、生中に死あり」。完璧になるまで定時退勤なんて考えるな。死ぬ気でやってみよう！",
+        "ko": "사즉생 생즉사 완벽할 때까지 칼퇴할 생각하지마. 죽어보자!",
+        "vi": "\"Chết thì sống, sống thì chết.\" Đừng nghĩ đến việc tan làm đúng giờ cho đến khi mọi thứ hoàn hảo. Hãy làm đến chết!"
+      },
+      "end_time": 12.2,
+      "start_time": 6.5,
+      "vocabulary": [
+        {
+          "word": "사즉생 생즉사",
+          "meanings": {
+            "en": "(Idiom) Life in death, death in life; meaning 'to fight desperately for survival'",
+            "es": "Muerte para vivir, vida para morir",
+            "id": "Hidup dalam kematian, mati dalam kehidupan",
+            "jp": "死中に活あり、生中に死あり",
+            "vi": "Chết thì sống, sống thì chết"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_9d2a14ac5b8791f901b66da87ba535e8.mp3"
+        },
+        {
+          "word": "칼퇴",
+          "meanings": {
+            "en": "Leaving work on time (slang)",
+            "es": "Salida a la hora",
+            "id": "Pulang kerja tepat waktu",
+            "jp": "定時退勤",
+            "vi": "Tan làm đúng giờ"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_36c4518f4c9a78efa2c6336e93c94849.mp3"
+        },
+        {
+          "word": "죽어보자",
+          "meanings": {
+            "en": "Let's die trying; let's give it our all",
+            "es": "Vamos a morir intentándolo",
+            "id": "Mari kita mati-matian",
+            "jp": "死ぬ気でやってみよう",
+            "vi": "Hãy làm đến chết"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_de1488ea97e9934190a3b7374c963ee6.mp3"
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "\"Sa-jeuk-saeng Saeng-jeuk-sa\" is a famous saying by Admiral Yi Sun-sin, meaning \"life in death, death in life.\" \"Kal-toe\" means leaving work on time. This line represents the intense pressure and passion within Korean workplaces to forgo leaving on time and work with a desperate resolve for perfection.",
+        "es": "\"Sa-jeuk-saeng Saeng-jeuk-sa\" es un famoso dicho del Almirante Yi Sun-sin, que significa \"vida en la muerte, muerte en la vida\". \"Kal-toe\" significa salir del trabajo a tiempo. Esta frase representa la intensa presión y pasión en los lugares de trabajo coreanos para renunciar a irse a tiempo y trabajar con una determinación desesperada por la perfección.",
+        "id": "\"Sa-jeuk-saeng Saeng-jeuk-sa\" adalah pepatah terkenal oleh Laksamana Yi Sun-sin, yang berarti \"hidup dalam kematian, mati dalam kehidupan.\" \"Kal-toe\" berarti pulang kerja tepat waktu. Baris ini melambangkan tekanan dan semangat yang kuat di tempat kerja Korea untuk mengorbankan pulang tepat waktu dan bekerja dengan tekad mati-matian demi kesempurnaan.",
+        "jp": "「사즉생 생즉사」は李舜臣将軍の名言で、「칼퇴」は定時退勤を意味します。このセリフは、完璧のために定時退勤を諦め、死ぬ覚悟で働くという韓国の職場における強いプレッシャーと情熱を示しています。",
+        "ko": "\"사즉생 생즉사\"는 이순신 장군의 명언으로, \"칼퇴\"는 정시 퇴근을 의미합니다. 이 대사는 완벽을 위해 정시 퇴근을 포기하고 죽을 각오로 일하라는 한국 직장 내의 강한 압박과 열정을 나타냅니다.",
+        "vi": "\"Sa-jeuk-saeng Saeng-jeuk-sa\" là câu nói nổi tiếng của Đô đốc Yi Sun-sin, có nghĩa là \"chết thì sống, sống thì chết\". \"Kal-toe\" có nghĩa là tan làm đúng giờ. Câu thoại này thể hiện áp lực và nhiệt huyết mạnh mẽ trong môi trường làm việc ở Hàn Quốc, nơi người ta sẵn sàng từ bỏ việc tan làm đúng giờ và làm việc với tinh thần quyết tử để đạt được sự hoàn hảo."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Live well, Mom. Let's never see each other again.",
+        "es": "Viva bien, mamá. No nos volvamos a ver nunca más.",
+        "id": "Hiduplah dengan baik, Ibu. Jangan pernah bertemu lagi di masa depan.",
+        "jp": "元気でね、お母さん。もう二度と会わないでください。",
+        "ko": "잘 사세요, 어머니 앞으론 다신 보지 말아요.",
+        "vi": "Mẹ sống tốt nhé. Từ giờ đừng bao giờ gặp lại nữa."
+      },
+      "end_time": 30.8,
+      "start_time": 25.0,
+      "vocabulary": [
+        {
+          "word": "잘 사세요",
+          "meanings": {
+            "en": "Live well (formal/polite)",
+            "es": "Viva bien",
+            "id": "Hiduplah dengan baik",
+            "jp": "元気でね",
+            "vi": "Sống tốt nhé"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_8ca789c9b0c6ca5c2824397724cd3572.mp3"
+        },
+        {
+          "word": "어머니",
+          "meanings": {
+            "en": "Mother",
+            "es": "Madre",
+            "id": "Ibu",
+            "jp": "お母さん",
+            "vi": "Mẹ"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_e5b7109f3db3217bfd15994ffce8ef5f.mp3"
+        },
+        {
+          "word": "다신 보지 말아요",
+          "meanings": {
+            "en": "Let's never see each other again",
+            "es": "No nos volvamos a ver nunca más",
+            "id": "Jangan pernah bertemu lagi",
+            "jp": "もう二度と会わないでください",
+            "vi": "Đừng bao giờ gặp lại nữa"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_46c4d955cbfe5b7ef60cbd1451477c76.mp3"
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "Saying 'let's never see each other again' to one's mother is a very rare and taboo expression in Korean society, signifying an extreme situation of severed parent-child relations. This implies a shocking and serious conflict in a culture that highly values filial piety.",
+        "es": "Decirle a la madre 'no nos volvamos a ver nunca más' es una expresión muy rara y tabú en la sociedad coreana, que significa una situación extrema de ruptura de las relaciones entre padres e hijos. Esto implica un conflicto impactante y grave en una cultura que valora mucho la piedad filial.",
+        "id": "Mengatakan 'jangan pernah bertemu lagi' kepada ibu adalah ungkapan yang sangat langka dan tabu dalam masyarakat Korea, menandakan situasi ekstrem putusnya hubungan orang tua-anak. Ini menyiratkan konflik yang mengejutkan dan serius dalam budaya yang sangat menghargai bakti.",
+        "jp": "母親に「もう二度と会わないで」と言うのは、韓国社会では非常に稀でタブー視される表現であり、親子の関係断絶を意味する極端な状況を示します。これは、親孝行を重んじる文化において、非常に衝撃的で深刻な対立状況を暗示しています。",
+        "ko": "어머니에게 '다신 보지 말자'고 하는 것은 한국 사회에서 매우 드물고 금기시되는 표현으로, 부모 자식 간의 관계 단절을 의미하는 극단적인 상황을 나타냅니다. 이는 효를 중시하는 문화에서 매우 충격적이고 심각한 갈등 상황을 암시합니다.",
+        "vi": "Việc nói 'đừng bao giờ gặp lại nữa' với mẹ là một biểu hiện rất hiếm và bị cấm kỵ trong xã hội Hàn Quốc, tượng trưng cho một tình huống cực đoan về việc cắt đứt mối quan hệ cha mẹ-con cái. Điều này ngụ ý một xung đột gây sốc và nghiêm trọng trong một nền văn hóa đề cao lòng hiếu thảo."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Shall I give you a tip? Open your eyes like this. Don't lose, don't lose. Don't you dare mess with me.",
+        "es": "¿Quieres que te dé un consejo? Abre los ojos así. No pierdas, no pierdas. No te atrevas a fastidiarme.",
+        "id": "Mau aku kasih tips? Buka matamu seperti ini. Jangan kalah, jangan kalah. Jangan macam-macam.",
+        "jp": "ヒントを一つあげようか。目をこうやって開けろ。負けるな、負けるな。生意気な真似をするな、ということだ。",
+        "ko": "내가 팁 하나 줄까. 눈을 요러고 떠. 지면 안돼 지면 안돼. 깝치지들 말라 이거야. ",
+        "vi": "Tôi cho bạn một mẹo nhé? Mở mắt như thế này. Đừng thua, đừng thua. Đừng có mà làm bừa."
+      },
+      "end_time": 60.3,
+      "start_time": 55.0,
+      "vocabulary": [
+        {
+          "word": "팁",
+          "meanings": {
+            "en": "Tip",
+            "es": "Consejo",
+            "id": "Tips",
+            "jp": "ヒント",
+            "vi": "Mẹo"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_9ba880c52d53647cecfa8dc8d8be7a6e.mp3"
+        },
+        {
+          "word": "요러고",
+          "meanings": {
+            "en": "Like this, in this manner (colloquial)",
+            "es": "Así",
+            "id": "Seperti ini",
+            "jp": "こうやって",
+            "vi": "Như thế này"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_7ebfa767ba3501eee329954b2debc934.mp3"
+        },
+        {
+          "word": "깝치다",
+          "meanings": {
+            "en": "To act cocky/arrogant, to mess around (slang/vulgar)",
+            "es": "Portarse chulo/provocar",
+            "id": "Bertingkah sombong/melakukan hal yang tidak sopan",
+            "jp": "生意気な真似をする",
+            "vi": "Làm bừa/kiêu ngạo"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_4d08d0b4e17b40bc1d6781702669e6e2.mp3"
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "\"Kkap-chi-da\" is a vulgar slang term meaning to act cocky, arrogant, or to mess with someone by looking down on them. This line contains advice to not show weakness and confront the opponent confidently, along with a strong warning not to underestimate or challenge the speaker.",
+        "es": "\"Kkap-chi-da\" es un término argot vulgar que significa actuar con arrogancia, engreimiento o burlarse de alguien menospreciándolo. Esta frase contiene el consejo de no mostrar debilidad y enfrentar al oponente con confianza, junto con una fuerte advertencia de no subestimar ni desafiar al hablante.",
+        "id": "\"Kkap-chi-da\" adalah istilah slang vulgar yang berarti bertingkah sombong, angkuh, atau mengganggu seseorang dengan meremehkan mereka. Baris ini berisi nasihat untuk tidak menunjukkan kelemahan dan menghadapi lawan dengan percaya diri, disertai dengan peringatan keras agar tidak meremehkan atau menantang pembicara.",
+        "jp": "「깝치다」は、生意気に振る舞ったり、相手を見下して挑発する行動を指す俗語です。このセリフは、相手に弱い姿を見せず堂々と立ち向かうべきだという助言と、自分を侮ったり挑戦したりするなという強い警告の意味が込められています。",
+        "ko": "\"깝치다\"는 건방지게 굴거나 상대를 얕잡아 보고 대드는 행동을 뜻하는 비속어입니다. 이 대사는 상대방에게 약한 모습을 보이지 말고 당당하게 맞서야 한다는 조언과 함께, 자신을 얕보거나 도전하지 말라는 강한 경고의 의미를 담고 있습니다.",
+        "vi": "\"Kkap-chi-da\" là một từ lóng thô tục có nghĩa là hành động ngạo mạn, kiêu căng hoặc coi thường người khác. Câu thoại này chứa đựng lời khuyên không nên thể hiện sự yếu đuối mà hãy đối mặt một cách tự tin, cùng với lời cảnh báo mạnh mẽ không được đánh giá thấp hoặc thách thức người nói."
+      }
+    }
+  ]
+}

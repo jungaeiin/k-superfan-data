@@ -1,0 +1,294 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "Correcting past wrongs and achieving justice",
+        "es": "Corregir errores pasados y lograr justicia",
+        "id": "Memperbaiki kesalahan masa lalu dan mencapai keadilan",
+        "jp": "過去の過ちを正し、正義を実現すること",
+        "ko": "과거의 잘못을 바로잡고 정의를 실현하는 것",
+        "vi": "Sửa chữa lỗi lầm trong quá khứ và thực hiện công lý"
+      },
+      {
+        "en": "The desire to belong to or dominate the highest echelons of society",
+        "es": "El deseo de pertenecer o dominar las altas esferas de la sociedad",
+        "id": "Keinginan untuk menjadi bagian atau mendominasi strata tertinggi masyarakat",
+        "jp": "社会の最高層に属するか、彼らを支配しようとする欲望",
+        "ko": "사회의 가장 높은 계층에 속하거나 그들을 지배하려는 욕망",
+        "vi": "Khát vọng thuộc về hoặc thống trị tầng lớp cao nhất của xã hội"
+      },
+      {
+        "en": "Finding lost family and restoring bonds",
+        "es": "Encontrar a la familia perdida y restaurar los lazos",
+        "id": "Menemukan keluarga yang hilang dan memulihkan ikatan",
+        "jp": "失われた家族を見つけ、絆を取り戻すこと",
+        "ko": "잃어버린 가족을 찾아 유대감을 회복하는 것",
+        "vi": "Tìm lại gia đình thất lạc và phục hồi mối quan hệ"
+      },
+      {
+        "en": "Pursuing personal artistic expression and creative freedom",
+        "es": "Buscar la expresión artística personal y la libertad creativa",
+        "id": "Mengejar ekspresi artistik pribadi dan kebebasan kreatif",
+        "jp": "個人的な芸術的表現と創造の自由を追求すること",
+        "ko": "개인적인 예술적 표현과 창작의 자유를 추구하는 것",
+        "vi": "Theo đuổi sự thể hiện nghệ thuật cá nhân và tự do sáng tạo"
+      }
+    ],
+    "question": {
+      "en": "Based on the overall context of the scripts, what overarching theme or ambition is most strongly suggested by the characters' statements?",
+      "es": "Basado en el contexto general de los guiones, ¿qué tema o ambición principal se sugiere más fuertemente en las declaraciones de los personajes?",
+      "id": "Berdasarkan konteks keseluruhan dari skrip, tema atau ambisi menyeluruh apa yang paling kuat disarankan oleh pernyataan karakter?",
+      "jp": "提示されたスクリプト全体の文脈から見て、登場人物たちの発言から最も強く示唆される主要なテーマや野望は何ですか？",
+      "ko": "제시된 대본의 전반적인 맥락으로 볼 때, 등장인물들의 발언에서 가장 강력하게 암시되는 주된 주제나 야망은 무엇입니까?",
+      "vi": "Dựa trên bối cảnh chung của các đoạn kịch bản, chủ đề hoặc tham vọng bao trùm nào được gợi ý mạnh mẽ nhất qua lời nói của các nhân vật?"
+    },
+    "answer_index": 1
+  },
+  "metadata": {
+    "titles": {
+      "en": "Climax (2026)",
+      "es": "Climax (2026)",
+      "id": "Climax (2026)",
+      "jp": "Climax (2026)",
+      "ko": "클라이맥스 | 예고편 ",
+      "vi": "Climax (2026)"
+    },
+    "categories": {
+      "en": "Drama, Mystery",
+      "es": "Drama, Misterio",
+      "id": "Drama, Misteri",
+      "jp": "ドラマ、ミステリー",
+      "ko": "드라마, 미스테리",
+      "vi": "Phim truyền hình, Bí ẩn"
+    },
+    "difficulty": 4,
+    "youtube_id": "_2dpr-13LJU",
+    "youtube_url": "https://www.youtube.com/watch?v=_2dpr-13LJU"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "I wanted to look down at them from above the world. Do you think you can fit in among these Jingol just by doing that?",
+        "es": "Quería mirarlos desde lo alto del mundo. ¿Crees que por eso podrás encajar entre estos Jingol?",
+        "id": "Aku ingin memandang rendah mereka dari atas dunia. Apa menurutmu dengan begitu kau bisa masuk di antara para Jingol ini?",
+        "jp": "世の上から彼らを見下ろしたかった。そうしたところで、お前がこの真骨たちの間に割って入れるとでも思っているのか？",
+        "ko": "세상 위에서 그들을 내려다 보고 싶었다. 그런다고 네가 이 진골들 사이에 낄 수 있을 것 같나?",
+        "vi": "Tôi muốn nhìn xuống họ từ trên đỉnh thế giới. Liệu cậu nghĩ làm thế là có thể chen chân vào giữa những Chân Cốt này sao?"
+      },
+      "end_time": 9.0,
+      "start_time": 0.0,
+      "vocabulary": [
+        {
+          "word": "내려다보다",
+          "meanings": {
+            "en": "to look down (upon)",
+            "es": "mirar hacia abajo",
+            "id": "memandang rendah",
+            "jp": "見下ろす",
+            "vi": "nhìn xuống"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_884833f6a7a138aa9ce123704fe5a884.mp3"
+        },
+        {
+          "word": "진골",
+          "meanings": {
+            "en": "Jingol (the highest noble rank in Silla's bone-rank system)",
+            "es": "Jingol (el rango noble más alto en el sistema de rango de huesos de Silla)",
+            "id": "Jingol (pangkat bangsawan tertinggi dalam sistem peringkat tulang Silla)",
+            "jp": "真骨 (新羅時代の骨品制度で最上位の貴族)",
+            "vi": "Chân Cốt (địa vị quý tộc cao nhất trong hệ thống cốt phẩm thời Silla)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_3024efb4a82345c44bfa1c913ba23a69.mp3"
+        },
+        {
+          "word": "끼다",
+          "meanings": {
+            "en": "to fit in, to join (a group)",
+            "es": "encajar, unirse",
+            "id": "masuk, bergabung",
+            "jp": "挟まる、仲間に入る",
+            "vi": "chen vào, tham gia"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_e45f7f5b46f03da7442b8ab5f2c68956.mp3"
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "\"Jingol (眞骨)\" refers to the highest bloodline aristocrats in the strict bone-rank system of the Silla Dynasty. Since this status was determined by birth, it reveals an exclusiveness, implying that not just anyone could join their ranks.",
+        "es": "\"Jingol (眞骨)\" se refiere a los aristócratas de más alto linaje en el estricto sistema de rango de huesos de la Dinastía Silla. Dado que este estatus se determinaba por nacimiento, revela una exclusividad, implicando que no cualquiera podía unirse a sus filas.",
+        "id": "\"Jingol (眞骨)\" mengacu pada bangsawan garis keturunan tertinggi dalam sistem peringkat tulang yang ketat di Dinasti Silla. Karena status ini ditentukan oleh kelahiran, hal ini menunjukkan eksklusivitas, menyiratkan bahwa tidak sembarang orang bisa masuk di antara mereka.",
+        "jp": "「真骨（眞骨）」は、新羅時代の厳格な身分制度である骨品制において、最も高い血統の貴族を指します。生まれによって定められる身分であるため、誰もが彼らの間に割って入れるわけではないという排他性を表しています。",
+        "ko": "\"진골(眞骨)\"은 신라 시대의 엄격한 신분 제도인 골품제에서 가장 높은 혈통 귀족을 지칭합니다. 태생으로 정해지는 신분이기에, 아무나 그들 사이에 낄 수 없다는 배타성을 드러냅니다.",
+        "vi": "\"Chân Cốt (眞骨)\" là thuật ngữ chỉ tầng lớp quý tộc có huyết thống cao nhất trong hệ thống cốt phẩm nghiêm ngặt của triều đại Silla. Vì thân phận này được định đoạt bởi dòng dõi, nó thể hiện tính độc quyền, ngụ ý rằng không phải ai cũng có thể chen chân vào hàng ngũ của họ."
+      }
+    },
+    {
+      "scripts": {
+        "en": "I needed the key that could open that kingdom.",
+        "es": "Necesitaba la llave que pudiera abrir ese reino.",
+        "id": "Aku butuh kunci yang bisa membuka kerajaan itu.",
+        "jp": "その王国を開くことができる鍵が必要だった。",
+        "ko": "그 왕국을 열 수 있는 키가 필요했다.",
+        "vi": "Tôi cần một chiếc chìa khóa có thể mở ra vương quốc đó."
+      },
+      "end_time": 13.7,
+      "start_time": 9.5,
+      "vocabulary": [
+        {
+          "word": "왕국",
+          "meanings": {
+            "en": "kingdom",
+            "es": "reino",
+            "id": "kerajaan",
+            "jp": "王国",
+            "vi": "vương quốc"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_29c709c9413f98410b417363f4553f58.mp3"
+        },
+        {
+          "word": "열다",
+          "meanings": {
+            "en": "to open",
+            "es": "abrir",
+            "id": "membuka",
+            "jp": "開く",
+            "vi": "mở"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_c7c397f57f1ea5cf9fe135d7531aaaac.mp3"
+        },
+        {
+          "word": "키",
+          "meanings": {
+            "en": "key",
+            "es": "llave",
+            "id": "kunci",
+            "jp": "鍵",
+            "vi": "chìa khóa"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_e49ee7074917cb3bc012ba4047cb7f25.mp3"
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "In Korean narratives, 'to open a kingdom' is often used as a metaphor for starting a new era or securing dominance over a specific domain, going beyond simply opening a gate. In this context, the 'key' symbolizes a crucial element necessary to achieve that purpose.",
+        "es": "En las narrativas coreanas, 'abrir un reino' se usa a menudo como una metáfora para iniciar una nueva era o asegurar el dominio sobre un ámbito específico, yendo más allá de simplemente abrir una puerta. En este contexto, la 'llave' simboliza un elemento crucial necesario para lograr ese propósito.",
+        "id": "Dalam narasi Korea, 'membuka kerajaan' sering digunakan sebagai metafora untuk memulai era baru atau mengamankan dominasi atas wilayah tertentu, melampaui sekadar membuka gerbang. Dalam konteks ini, 'kunci' melambangkan elemen krusial yang diperlukan untuk mencapai tujuan tersebut.",
+        "jp": "韓国の物語において、「王国を開く」という表現は、単に門を開けるだけでなく、新しい時代を始めることや特定の領域に対する支配権を確保することの比喩としてよく使われます。この時、「鍵」はその目的を達成するために不可欠な核心要素を象徴します。",
+        "ko": "한국 서사에서 '왕국을 열다'는 단순한 문 개방을 넘어 새로운 시대를 시작하거나 특정 영역에 대한 지배권을 확보하는 비유로 자주 사용됩니다. 이때 '키'는 그 목적을 달성하는 데 필수적인 핵심 요소를 상징합니다.",
+        "vi": "Trong các tác phẩm tự sự Hàn Quốc, 'mở một vương quốc' thường được dùng như một phép ẩn dụ cho việc bắt đầu một kỷ nguyên mới hoặc giành quyền thống trị một lĩnh vực cụ thể, vượt ra ngoài việc đơn thuần mở một cánh cổng. Trong bối cảnh này, 'chìa khóa' tượng trưng cho yếu tố cốt lõi cần thiết để đạt được mục đích đó."
+      }
+    },
+    {
+      "scripts": {
+        "en": "When I look at this woman, I feel like I'm looking at myself, like I'm looking at myself. So I wanted to have her, and I thought I had her.",
+        "es": "Cuando miro a esta mujer, siento que me estoy mirando a mí mismo, como si me estuviera viendo a mí mismo. Así que la quería, y pensé que la tenía.",
+        "id": "Saat aku melihat wanita ini, aku merasa seperti melihat diriku sendiri, seperti melihat diriku sendiri. Jadi aku ingin memilikinya, dan kukira aku sudah memilikinya.",
+        "jp": "この女を見ていると、自分を見ているような、自分を見ているような気がする。だから手に入れたかったし、手に入れたと思っていたのに。",
+        "ko": "이 여자를 보고 있으면 나를 보고 있으면 나를 보고 있는 것 같은 생각이 들어. 그래서 갖고 싶었고 갖었다고 생각했는데.",
+        "vi": "Khi nhìn người phụ nữ này, tôi cảm thấy như đang nhìn chính mình. Vì vậy tôi đã muốn có cô ấy, và tôi nghĩ mình đã có được cô ấy."
+      },
+      "end_time": 23.0,
+      "start_time": 16.0,
+      "vocabulary": [
+        {
+          "word": "보고 있으면",
+          "meanings": {
+            "en": "if I look at, when I see",
+            "es": "si miro, cuando veo",
+            "id": "jika saya melihat, saat saya melihat",
+            "jp": "見ていると",
+            "vi": "khi nhìn"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_64d5cf966e9d0968cd09a8af2986d986.mp3"
+        },
+        {
+          "word": "생각이 들다",
+          "meanings": {
+            "en": "to have a thought, to feel like",
+            "es": "tener un pensamiento, sentir que",
+            "id": "merasa, berpikir",
+            "jp": "気がする、～と思う",
+            "vi": "có suy nghĩ, cảm thấy như"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_31a8c2cc7e7f925944cd4cb3da940562.mp3"
+        },
+        {
+          "word": "갖다",
+          "meanings": {
+            "en": "to have, to possess",
+            "es": "tener, poseer",
+            "id": "memiliki, menguasai",
+            "jp": "持つ、所有する",
+            "vi": "có, sở hữu"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_46207c6870f693c3024190cfd01d3a28.mp3"
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "\"I wanted to have her, and I thought I had her\" is an expression used to describe a strong possessive desire or a deep longing for connection, often by identifying with the other person, frequently seen in dramas or literature to portray dramatic love. The 'had' ending (~했는데) implies that the possession was not actually realized or was a misunderstanding, conveying lingering feelings and regret.",
+        "es": "\"La quería y pensé que la tenía\" es una expresión utilizada para describir un fuerte deseo posesivo o un anhelo profundo de conexión, a menudo identificándose con la otra persona, frecuentemente vista en dramas o literatura para retratar amores dramáticos. El final '~했는데' (pensé que) implica que la posesión en realidad no se realizó o fue un malentendido, transmitiendo sentimientos persistentes y arrepentimiento.",
+        "id": "\"Aku ingin memilikinya, dan kukira aku sudah memilikinya\" adalah ekspresi yang digunakan untuk menggambarkan keinginan posesif yang kuat atau kerinduan akan koneksi mendalam, seringkali dengan mengidentifikasi diri dengan orang lain, sering terlihat dalam drama atau sastra untuk menggambarkan cinta yang dramatis. Akhiran '~했는데' (kukira) menyiratkan bahwa kepemilikan tersebut sebenarnya tidak terwujud atau merupakan kesalahpahaman, menyampaikan perasaan tertinggal dan penyesalan.",
+        "jp": "「欲しかったし、手に入れたと思っていたのに」という表現は、相手を自分と同一視し、強い所有欲や深い絆を求める心情を表し、ドラマや文学で劇的な愛を描写する際によく使われます。特に「～と思っていたのに」という語尾は、その所有が実際には実現しなかったり、錯覚であったりしたことを暗示し、未練や心残りを込めています。",
+        "ko": "\"갖고 싶었고 갖었다고 생각했는데\"는 상대방을 자신과 동일시하며 강한 소유욕이나 깊은 유대감을 갈구하는 표현으로, 드라마나 문학에서 극적인 사랑을 묘사할 때 자주 쓰입니다. 특히 '~했는데'는 그 소유가 실제로는 이루어지지 않았거나 착각이었음을 암시하여 미련과 아쉬움을 담고 있습니다.",
+        "vi": "\"Đã muốn có và nghĩ rằng đã có\" là cách diễn đạt thể hiện khao khát chiếm hữu mạnh mẽ hoặc sự gắn kết sâu sắc, thường bằng cách đồng hóa đối phương với bản thân, thường được dùng trong phim truyền hình hoặc văn học để miêu tả tình yêu đầy kịch tính. Đặc biệt, đuôi câu '~했는데' ngụ ý rằng sự sở hữu đó thực ra chưa đạt được hoặc là một sự nhầm lẫn, chứa đựng sự tiếc nuối và nuối tiếc."
+      }
+    },
+    {
+      "scripts": {
+        "en": "It all starts from here. The place where unofficial histories that shake up and influence Korea are born.",
+        "es": "Todo empieza desde aquí. El lugar donde nacen las historias no oficiales que conmocionan y manipulan a Corea del Sur.",
+        "id": "Semuanya dimulai dari sini. Tempat lahirnya kisah-kisah tidak resmi yang mengguncang dan mengendalikan Korea Selatan.",
+        "jp": "全てはここから始まるんだ。大韓民国を揺るがす裏話が誕生する場所。",
+        "ko": "다 여기서부터 시작되는 거야. 대한민국을 들었다 놨다 하는 야사들이 탄생하는 곳",
+        "vi": "Mọi thứ đều bắt đầu từ đây. Nơi sinh ra những giai thoại không chính thức làm khuấy đảo Hàn Quốc."
+      },
+      "end_time": 38.1,
+      "start_time": 31.0,
+      "vocabulary": [
+        {
+          "word": "시작되다",
+          "meanings": {
+            "en": "to begin, to start",
+            "es": "empezar, comenzar",
+            "id": "dimulai",
+            "jp": "始まる",
+            "vi": "bắt đầu"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_7595f60b0f813cc65ea2a2ca94a2536d.mp3"
+        },
+        {
+          "word": "들었다 놨다 하다",
+          "meanings": {
+            "en": "to manipulate, to influence greatly (idiom)",
+            "es": "manipular, influir enormemente (modismo)",
+            "id": "memanipulasi, sangat mempengaruhi (idiom)",
+            "jp": "（人を）もてあそぶ、大きく揺さぶる（慣用句）",
+            "vi": "thao túng, ảnh hưởng lớn (thành ngữ)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_cb736e67524fb093a93364d96917e770.mp3"
+        },
+        {
+          "word": "야사",
+          "meanings": {
+            "en": "unofficial history, unofficial record",
+            "es": "historia no oficial, registro no oficial",
+            "id": "sejarah tidak resmi, catatan tidak resmi",
+            "jp": "野史、裏話",
+            "vi": "dã sử, giai thoại không chính thức"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_177876eb427ea387a7f2632b3e8ce6cb.mp3"
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "'Yasa' refers to unofficial histories or untold stories not found in official records, and 'to shake up and influence Korea' (대한민국을 들었다 놨다 하다) means to have a significant impact or cause great upheaval in Korean society.",
+        "es": "'Yasa' se refiere a historias no oficiales o relatos no registrados en documentos oficiales, y 'conmocionar y manipular a Corea del Sur' (대한민국을 들었다 놨다 하다) significa tener un impacto significativo o causar una gran conmoción en la sociedad coreana.",
+        "id": "'Yasa' mengacu pada sejarah tidak resmi atau kisah yang tidak dicatat dalam catatan resmi, dan 'mengguncang dan mempengaruhi Korea' (대한민국을 들었다 놨다 하다) berarti memiliki dampak signifikan atau menyebabkan pergolakan besar dalam masyarakat Korea.",
+        "jp": "「野史（ヤサ）」とは、公式記録にない秘話や裏話を意味し、「大韓民国を揺るがす（대한민국을 들었다 놨다 하다）」とは、韓国社会に大きな影響を与えたり、揺るがすほどの波及力が大きいことを意味します。",
+        "ko": "'야사'는 공식 기록에 없는 비사나 뒷이야기를 뜻하며, '대한민국을 들었다 놨다 하다'는 한국 사회에 큰 영향을 미치거나 뒤흔들 만큼 파급력이 크다는 의미입니다.",
+        "vi": "'Dã sử' (Yasa) là những câu chuyện không chính thức hoặc bí mật không có trong sử liệu chính thức. Còn 'làm khuấy đảo Hàn Quốc' (대한민국을 들었다 놨다 하다) có nghĩa là gây ảnh hưởng lớn hoặc tạo ra sự chấn động mạnh mẽ trong xã hội Hàn Quốc."
+      }
+    }
+  ]
+}

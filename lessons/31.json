@@ -1,0 +1,294 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "He constantly strives to be accepted back by his peers.",
+        "es": "Él se esfuerza constantemente por ser aceptado de nuevo por sus compañeros.",
+        "id": "Ia terus-menerus berusaha untuk diterima kembali oleh rekan-rekannya.",
+        "jp": "仲間たちに再び受け入れられるために絶えず努力する。",
+        "ko": "동료들에게 다시 받아들여지기 위해 끊임없이 노력한다.",
+        "vi": "Anh không ngừng cố gắng để được đồng nghiệp chấp nhận trở lại."
+      },
+      {
+        "en": "He never stops exploring humanity and seeking answers to life.",
+        "es": "Nunca deja de explorar la humanidad y buscar respuestas a la vida.",
+        "id": "Ia tidak pernah berhenti menjelajahi kemanusiaan dan mencari jawaban hidup.",
+        "jp": "人間を探求し、人生の答えを見つけることを止めない。",
+        "ko": "인간을 탐구하고 삶의 해답을 찾는 것을 멈추지 않는다.",
+        "vi": "Anh không ngừng khám phá nhân loại và tìm kiếm câu trả lời cho cuộc sống."
+      },
+      {
+        "en": "His goal is to build the biggest bookstore in the cutest neighborhood.",
+        "es": "Su objetivo es construir la librería más grande en el barrio más lindo del mundo.",
+        "id": "Tujuannya adalah membangun toko buku terbesar di lingkungan paling lucu di dunia.",
+        "jp": "世界で一番可愛い町に最大の書店を建てるのが目標だ。",
+        "ko": "세상에서 가장 귀여운 동네에 가장 큰 서점을 짓는 것이 목표다.",
+        "vi": "Mục tiêu của anh là xây dựng hiệu sách lớn nhất ở khu phố dễ thương nhất thế giới."
+      },
+      {
+        "en": "He dedicates himself to widely spreading his master's teachings to the world.",
+        "es": "Se dedica a difundir ampliamente las enseñanzas de su maestro por el mundo.",
+        "id": "Ia mendedikasikan dirinya untuk menyebarkan ajaran gurunya secara luas ke seluruh dunia.",
+        "jp": "師匠の教えを世に広く知らせることに専念する。",
+        "ko": "스승의 가르침을 세상에 널리 알리는 데 전념한다.",
+        "vi": "Anh cống hiến để truyền bá rộng rãi những lời dạy của thầy mình ra thế giới."
+      }
+    ],
+    "question": {
+      "en": "What is Ho-crates' most important pursuit throughout his thousands of years of existence?",
+      "es": "¿Cuál es la búsqueda más importante de Ho-crates a lo largo de sus miles de años de existencia?",
+      "id": "Apa yang paling utama dikejar oleh Ho-crates selama ribuan tahun keberadaannya?",
+      "jp": "ホクラテスが数千年間生きてきて、最も重要に追求していることは何ですか？",
+      "ko": "호크라테스가 수천 년 동안 살아오면서 가장 중요하게 추구하는 것은 무엇인가요?",
+      "vi": "Điều mà Ho-crates theo đuổi quan trọng nhất trong suốt hàng ngàn năm tồn tại của mình là gì?"
+    },
+    "answer_index": 1
+  },
+  "metadata": {
+    "titles": {
+      "en": " Kang Ho-dong's Bookstore",
+      "es": " Kang Ho-dong's Bookstore",
+      "id": " Kang Ho-dong's Bookstore",
+      "jp": " Kang Ho-dong's Bookstore",
+      "ko": "강호동네 서점 | 티저 예고",
+      "vi": " Kang Ho-dong's Bookstore"
+    },
+    "categories": {
+      "en": "Entertainment, Comedy",
+      "es": "Entretenimiento, Comedia",
+      "id": "Hiburan, Komedi",
+      "jp": "バラエティ、コメディ",
+      "ko": "예능, 코미디 ",
+      "vi": "Giải trí, Hài kịch"
+    },
+    "difficulty": 3,
+    "youtube_id": "OGhK8XGyWmI",
+    "youtube_url": "https://www.youtube.com/watch?v=OGhK8XGyWmI"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Ho-crates, the last disciple of Socrates, received his master's love with endless curiosity and questions, but ",
+        "es": "Ho-crates, el último discípulo de Sócrates, recibió el amor de su maestro con una curiosidad y preguntas interminables, pero",
+        "id": "Ho-crates, murid terakhir Socrates, menerima kasih sayang gurunya dengan rasa ingin tahu dan pertanyaan tanpa henti, namun",
+        "jp": "ホクラテス、彼はソクラテスの最後の弟子で、尽きない好奇心と質問で師匠の愛を受けたが、",
+        "ko": "호크라테스 그는 소크라테스의 마지막 제자 끝없는 호기심과 질문으로 스승의 사랑을 받았지만 ",
+        "vi": "Ho-crates, đệ tử cuối cùng của Socrates, đã nhận được tình yêu của thầy mình nhờ sự tò mò và những câu hỏi không ngừng, nhưng"
+      },
+      "end_time": 22.0,
+      "start_time": 13.0,
+      "vocabulary": [
+        {
+          "word": "제자",
+          "meanings": {
+            "en": "disciple, student",
+            "es": "discípulo, alumno",
+            "id": "murid, pengikut",
+            "jp": "弟子",
+            "vi": "đệ tử, học trò"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_a09e3c8dbbab934fec46698efcaa6386.mp3"
+        },
+        {
+          "word": "끝없는",
+          "meanings": {
+            "en": "endless, incessant",
+            "es": "interminable, sin fin",
+            "id": "tak berujung, tanpa henti",
+            "jp": "終わりない",
+            "vi": "vô tận, không ngừng"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_f5d13ee5d0bf3ca079e7c5d543abf3e0.mp3"
+        },
+        {
+          "word": "호기심",
+          "meanings": {
+            "en": "curiosity",
+            "es": "curiosidad",
+            "id": "rasa ingin tahu",
+            "jp": "好奇心",
+            "vi": "sự tò mò"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_ae0ef505f825b1ce86e4a774b1d4913b.mp3"
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "\"Received the master's love\" goes beyond simply being favored by the teacher; it signifies being held in high esteem for one's abilities and attitude, receiving special affection and recognition.",
+        "es": "\"Recibir el amor del maestro\" va más allá de ser simplemente querido por el profesor; significa ser altamente valorado por las habilidades y la actitud del discípulo, recibiendo un afecto y reconocimiento especiales.",
+        "id": "\"Menerima kasih sayang guru\" tidak hanya berarti disukai oleh guru, tetapi juga menunjukkan bahwa kemampuan dan sikap murid sangat dihargai, sehingga menerima perhatian dan pengakuan khusus.",
+        "jp": "「ス승의 사랑을 받았다」は、単に先生に可愛がられたという意味を超え、弟子の能力と態度が高く評価され、特別な寵愛と認められたことを示します。",
+        "ko": "\"스승의 사랑을 받았다\"는 단순히 선생님에게 귀여움을 받았다는 의미를 넘어, 제자의 능력과 태도를 높이 평가하여 특별한 총애와 인정을 받았음을 나타냅니다.",
+        "vi": "\"Nhận được tình yêu của thầy\" không chỉ đơn thuần là được thầy yêu mến, mà còn biểu thị rằng năng lực và thái độ của người đệ tử được đánh giá cao, nhận được sự ưu ái và công nhận đặc biệt."
+      }
+    },
+    {
+      "scripts": {
+        "en": "After his master left, he was exiled by his peers for asking too many questions. ",
+        "es": "Después de que su maestro se fue, fue exiliado por sus compañeros debido a que hacía demasiadas preguntas.",
+        "id": "Setelah gurunya pergi, dia diusir oleh rekan-rekannya karena terlalu banyak bertanya.",
+        "jp": "師匠が去った後、質問が多すぎるという理由で仲間たちから追放される。",
+        "ko": "스승이 떠난 뒤 질문이 너무 많다는 이유로 동료들로부터 추방된다. ",
+        "vi": "Sau khi thầy rời đi, anh bị đồng nghiệp trục xuất vì hỏi quá nhiều câu hỏi."
+      },
+      "end_time": 29.7,
+      "start_time": 22.0,
+      "vocabulary": [
+        {
+          "word": "떠난 뒤",
+          "meanings": {
+            "en": "after leaving",
+            "es": "después de irse",
+            "id": "setelah pergi",
+            "jp": "去った後",
+            "vi": "sau khi rời đi"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_a7ec4f9f15b71d1671d85e0961ebcbef.mp3"
+        },
+        {
+          "word": "이유로",
+          "meanings": {
+            "en": "due to, for the reason of",
+            "es": "debido a, por la razón de",
+            "id": "dengan alasan, karena",
+            "jp": "理由で",
+            "vi": "vì lý do, do"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_cc078d6caed1e77dd45b257c78929b89.mp3"
+        },
+        {
+          "word": "추방된다",
+          "meanings": {
+            "en": "is exiled, is expelled",
+            "es": "es exiliado, es expulsado",
+            "id": "diusir, dibuang",
+            "jp": "追放される",
+            "vi": "bị trục xuất, bị lưu đày"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_029cb37ad9b17a991791c5234c8e6019.mp3"
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "In traditional Korean collective culture, an excessive number of questions can be perceived not merely as intellectual curiosity, but as a challenging act that disrupts existing order or community harmony, potentially leading to ostracism by peers.",
+        "es": "En la cultura colectiva tradicional coreana, un número excesivo de preguntas puede percibirse no solo como curiosidad intelectual, sino como un acto desafiante que altera el orden existente o la armonía de la comunidad, lo que puede llevar al ostracismo por parte de los compañeros.",
+        "id": "Dalam budaya kolektif tradisional Korea, terlalu banyak pertanyaan dapat dianggap bukan hanya sebagai rasa ingin tahu intelektual, tetapi sebagai tindakan menantang yang mengganggu tatanan yang ada atau harmoni komunitas, berpotensi menyebabkan pengucilan oleh rekan-rekan.",
+        "jp": "韓国の伝統的な集団文化では、過度な質問は単なる知的 Curiosityを超え、既存の秩序や共同体の和を乱す挑戦的な行動と見なされ、同僚から排斥される可能性があることを示しています。",
+        "ko": "한국의 전통적인 집단 문화에서는 지나치게 많은 질문이 단순히 지적 호기심을 넘어, 기존 질서나 공동체의 화합을 해치는 도전적인 행동으로 비춰져 동료들에게 배척당할 수 있음을 보여줍니다.",
+        "vi": "Trong văn hóa tập thể truyền thống của Hàn Quốc, việc đặt quá nhiều câu hỏi có thể không chỉ được coi là sự tò mò trí tuệ, mà còn là hành vi thách thức phá vỡ trật tự hiện có hoặc sự hài hòa của cộng đồng, có khả năng dẫn đến việc bị đồng nghiệp xa lánh."
+      }
+    },
+    {
+      "scripts": {
+        "en": "After leaving his hometown, he has lived for thousands of years as a philosopher, an ordinary citizen, an athlete, an advisor, and a host, exploring humanity and seeking answers to life – an immortal being",
+        "es": "Después de dejar su ciudad natal, ha vivido durante miles de años como filósofo, ciudadano común, atleta, consejero y presentador, explorando la humanidad y buscando respuestas a la vida: un ser inmortal.",
+        "id": "Setelah meninggalkan kampung halamannya, ia telah hidup selama ribuan tahun sebagai seorang filsuf, warga negara biasa, atlet, penasihat, dan pembawa acara, menjelajahi kemanusiaan dan mencari jawaban hidup – sebuah keberadaan abadi.",
+        "jp": "故郷を離れた彼はその後数千年間、哲学者、一般市民、運動選手、助言者、進行者として生き、人間を探求し、人生の答えを探し続けている不滅の存在だ。",
+        "ko": "고향을 떠난 그는 이후 수천 년째, 철학자, 일반 시민으로, 운동선수로, 조언자로, 진행자로 살아가며 인간을 탐구하고 삶의 해답을 찾고 있는 불멸의 존재",
+        "vi": "Rời bỏ quê hương, anh đã sống hàng ngàn năm như một triết gia, một công dân bình thường, một vận động viên, một cố vấn và một người dẫn chương trình, khám phá nhân loại và tìm kiếm câu trả lời cho cuộc sống – một sự tồn tại bất tử."
+      },
+      "end_time": 45.7,
+      "start_time": 29.8,
+      "vocabulary": [
+        {
+          "word": "수천 년째",
+          "meanings": {
+            "en": "for thousands of years, for millennia",
+            "es": "durante miles de años",
+            "id": "selama ribuan tahun",
+            "jp": "数千年間",
+            "vi": "hàng ngàn năm"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_7e59733f35f38d075927538e1dfe2137.mp3"
+        },
+        {
+          "word": "탐구하고",
+          "meanings": {
+            "en": "exploring, researching",
+            "es": "explorando, investigando",
+            "id": "menjelajahi, meneliti",
+            "jp": "探求し",
+            "vi": "khám phá, tìm hiểu"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_988b119a4b604b6a87c4910e68ed5d94.mp3"
+        },
+        {
+          "word": "불멸의 존재",
+          "meanings": {
+            "en": "immortal being, eternal existence",
+            "es": "ser inmortal, existencia inmortal",
+            "id": "keberadaan abadi, makhluk abadi",
+            "jp": "不滅の存在",
+            "vi": "sự tồn tại bất tử"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_c22e15c8abd864769449793e82f4b7c3.mp3"
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "The 'immortal being' in this sentence can be understood in the context of transcendent beings like Daoists or immortals (신선) in Eastern philosophy, who explore the truth of humanity and life through various lives over a long period.",
+        "es": "El 'ser inmortal' en esta oración puede entenderse en el contexto de seres trascendentes como los 도인 (doin) o 신선 (sinseon) en la filosofía oriental, quienes exploran la verdad de la humanidad y la vida a través de diversas vidas a lo largo de un largo período.",
+        "id": "'Keberadaan abadi' dalam kalimat ini dapat dipahami dalam konteks makhluk transenden seperti pertapa Tao (도인) atau dewa/dewi (신선) dalam filosofi Timur, yang menjelajahi kebenaran tentang kemanusiaan dan kehidupan melalui berbagai kehidupan selama periode yang sangat panjang.",
+        "jp": "この文の「不滅の存在」は、長い歳月を通じて様々な人生を送りながら人間と人生の真理を探求する東洋哲学における道人や神仙のような超越的な存在の文脈で理解できます。",
+        "ko": "이 문장의 불멸의 존재는 오랜 세월 동안 다양한 삶을 거치며 인간과 삶의 진리를 탐구하는 동양 철학 속 도인이나 신선과 같은 초월적 존재의 맥락에서 이해될 수 있습니다.",
+        "vi": "\"Sự tồn tại bất tử\" trong câu này có thể được hiểu trong ngữ cảnh của những thực thể siêu việt như đạo nhân (도인) hay tiên nhân (신선) trong triết học phương Đông, những người khám phá chân lý về nhân loại và cuộc sống qua nhiều kiếp sống trong suốt hàng ngàn năm."
+      }
+    },
+    {
+      "scripts": {
+        "en": "In 2026, he opened a small bookstore in Kang Ho-dong, the cutest neighborhood in the world. ",
+        "es": "En 2026, abrió una pequeña librería en Kang Ho-dong, el barrio más lindo del mundo.",
+        "id": "Pada tahun 2026, ia membuka toko buku kecil di Kang Ho-dong, lingkungan paling lucu di dunia.",
+        "jp": "2026年、彼は世界で一番可愛い町、カン・ホドンに小さな書店を開いた。",
+        "ko": "2026년 세상에서 가장 귀여운 동네 강호동에 작은 서점을 열었다. ",
+        "vi": "Năm 2026, anh đã mở một hiệu sách nhỏ ở Kang Ho-dong, khu phố dễ thương nhất thế giới."
+      },
+      "end_time": 55.1,
+      "start_time": 47.2,
+      "vocabulary": [
+        {
+          "word": "귀여운",
+          "meanings": {
+            "en": "cute, adorable",
+            "es": "lindo, adorable",
+            "id": "lucu, imut",
+            "jp": "かわいい",
+            "vi": "dễ thương, đáng yêu"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_53e02355147d8ab192f8d2f4779ac35b.mp3"
+        },
+        {
+          "word": "동네",
+          "meanings": {
+            "en": "neighborhood, district",
+            "es": "vecindario, barrio",
+            "id": "lingkungan, daerah",
+            "jp": "町、近所",
+            "vi": "khu phố, làng xóm"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_70fc92ef5585d97e9ea3f8f494180f28.mp3"
+        },
+        {
+          "word": "서점",
+          "meanings": {
+            "en": "bookstore",
+            "es": "librería",
+            "id": "toko buku",
+            "jp": "書店",
+            "vi": "hiệu sách"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_b51cd720aa396d23063c81ff9c8c162c.mp3"
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "\"Kang Ho-dong\" is the name of a famous Korean celebrity. Rather than referring to an actual neighborhood, it's a playful expression borrowing his friendly and cute image.",
+        "es": "\"Kang Ho-dong\" es el nombre de una celebridad coreana famosa. En lugar de referirse a un barrio real, es una expresión juguetona que toma prestada su imagen amigable y linda.",
+        "id": "\"Kang Ho-dong\" adalah nama selebriti terkenal Korea. Ini bukan merujuk pada lingkungan nyata, melainkan ekspresi bercanda yang meminjam citra ramah dan lucunya.",
+        "jp": "「カン・ホドン」は韓国の有名芸能人の名前であり、実際の町を指すのではなく、彼の親しみやすく可愛いイメージを借りて面白く表現したものです。",
+        "ko": "\"강호동\"은 한국의 유명 연예인 이름으로, 실제 동네를 뜻하기보다 그의 친근하고 귀여운 이미지를 빌려 장난스럽게 표현한 것입니다.",
+        "vi": "\"Kang Ho-dong\" là tên của một người nổi tiếng Hàn Quốc. Thay vì chỉ một khu phố thực sự, đây là cách nói đùa mượn hình ảnh thân thiện và dễ thương của anh ấy."
+      }
+    }
+  ]
+}

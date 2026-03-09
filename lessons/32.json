@@ -1,0 +1,350 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "To gain immense power and wealth.",
+        "es": "Para obtener inmenso poder y riqueza.",
+        "id": "Untuk mendapatkan kekuasaan dan kekayaan yang besar.",
+        "jp": "莫大な権力と富を得るため。",
+        "ko": "막대한 권력과 부를 얻기 위해서",
+        "vi": "Để đạt được quyền lực và của cải khổng lồ."
+      },
+      {
+        "en": "To protect their beloved family members.",
+        "es": "Para proteger a sus amados miembros de la familia.",
+        "id": "Untuk melindungi anggota keluarga tercinta mereka.",
+        "jp": "愛する家族を守るため。",
+        "ko": "사랑하는 가족들을 지키기 위해서",
+        "vi": "Để bảo vệ các thành viên gia đình thân yêu của mình."
+      },
+      {
+        "en": "To prove their strength to their rivals.",
+        "es": "Para demostrar su fuerza a sus rivales.",
+        "id": "Untuk membuktikan kekuatan mereka kepada para pesaing.",
+        "jp": "ライバルに自分の力を証明するため。",
+        "ko": "경쟁자들에게 자신의 힘을 증명하기 위해서",
+        "vi": "Để chứng minh sức mạnh của mình với các đối thủ."
+      },
+      {
+        "en": "To escape difficult situations without fighting.",
+        "es": "Para escapar de situaciones difíciles sin luchar.",
+        "id": "Untuk melarikan diri dari situasi sulit tanpa bertarung.",
+        "jp": "争いなしに困難な状況から逃れるため。",
+        "ko": "싸움 없이 어려운 상황에서 벗어나기 위해서",
+        "vi": "Để thoát khỏi những tình huống khó khăn mà không cần chiến đấu."
+      }
+    ],
+    "question": {
+      "en": "What is the main reason the protagonist in the trailer says they must become stronger and scarier than a beast?",
+      "es": "¿Cuál es la razón principal por la que el protagonista del tráiler dice que debe volverse más fuerte y aterrador que una bestia?",
+      "id": "Apa alasan utama protagonis dalam trailer mengatakan mereka harus menjadi lebih kuat dan lebih menakutkan dari binatang buas?",
+      "jp": "予告編の主人公が、獣よりも強くなり、恐ろしくならなければならないと語る主な理由は何ですか？",
+      "ko": "예고편 속 주인공이 강해지고 짐승보다 무서워져야 한다고 말하는 주된 이유가 무엇입니까?",
+      "vi": "Lý do chính khiến nhân vật chính trong đoạn trailer nói rằng họ phải trở nên mạnh mẽ và đáng sợ hơn cả quái thú là gì?"
+    },
+    "answer_index": 1
+  },
+  "metadata": {
+    "titles": {
+      "en": "Bloodhounds 2 (2026)",
+      "es": "Perros de caza 2 (2026)",
+      "id": "Bloodhounds 2 (2026)",
+      "jp": "Bloodhounds 2 (2026)",
+      "ko": "사냥개들 시즌 2 | 예고편 ",
+      "vi": "Chó Săn Công Lý 2 (2026)"
+    },
+    "categories": {
+      "en": "Drama, Action",
+      "es": "Drama, Acción",
+      "id": "Drama, Aksi",
+      "jp": "ドラマ, アクション",
+      "ko": "드라마, 액션",
+      "vi": "Phim truyền hình, Hành động"
+    },
+    "difficulty": 3,
+    "youtube_id": "9_B_xjpTx34",
+    "youtube_url": "https://www.youtube.com/watch?v=9_B_xjpTx34"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "I'm here because I have you, hyung. Let's be bad together until we die.",
+        "es": "Estoy aquí por ti, hyung. Seamos malos juntos hasta la muerte.",
+        "id": "Aku di sini karena ada hyung. Ayo kita berbuat jahat bersama sampai mati.",
+        "jp": "兄さんがいるから俺がここにいるんだ。死ぬまで一緒に悪事を働こう。",
+        "ko": "형이 있어서 내가 여기 있는거야. 죽을 때까지 같이 악 하자.",
+        "vi": "Em ở đây vì có anh đó, hyung. Chúng ta hãy cùng làm chuyện xấu cho đến chết."
+      },
+      "end_time": 19.8,
+      "start_time": 12.0,
+      "vocabulary": [
+        {
+          "word": "형",
+          "meanings": {
+            "en": "(male-to-male) older brother, bro",
+            "es": "hermano mayor (de hombre a hombre), colega",
+            "id": "kakak laki-laki (panggilan pria ke pria), bro",
+            "jp": "(男性から見た)兄さん、兄貴",
+            "vi": "anh trai (nam gọi nam), huynh"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_7b752ccf7b86b4b185311a6c9a5e7fc1.mp3"
+        },
+        {
+          "word": "악 하자",
+          "meanings": {
+            "en": "let's give it our all, let's go all out (colloquial; literally 'let's do evil' but implying fierce action together)",
+            "es": "vamos a darlo todo, hagámoslo hasta el final (coloquial; literalmente 'hagamos el mal' pero implica acción feroz juntos)",
+            "id": "ayo kita lakukan segalanya, ayo kita habis-habisan (bahasa sehari-hari; secara harfiah 'ayo berbuat jahat' tapi menyiratkan tindakan sengit bersama)",
+            "jp": "徹底的にやろう、全力で取り組もう（口語；直訳は「悪事を働こう」だが、一緒に激しく行動するという意味）",
+            "vi": "hãy cùng làm mọi thứ đến cùng, hãy chiến đấu hết mình (nghĩa đen là 'hãy làm điều ác' nhưng ám chỉ hành động quyết liệt cùng nhau)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_ab99d42e6e7d6f01afd1514dd6806dd9.mp3"
+        },
+        {
+          "word": "죽을 때까지",
+          "meanings": {
+            "en": "until death, until I die",
+            "es": "hasta la muerte",
+            "id": "sampai mati",
+            "jp": "死ぬまで",
+            "vi": "cho đến chết"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_419c36c61a9f78daece031266de861a8.mp3"
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "This line expresses a strong bond and loyalty between men, represented by the term 'hyung'. The informal phrase '악 하자' (let's be bad/give it our all) conveys a pledge-like commitment to dedicating everything or overcoming difficulties together until death.",
+        "es": "Esta frase expresa un fuerte vínculo y lealtad entre hombres, representado por el término 'hyung'. La frase informal '악 하자' (hagamos el mal/demoslo todo) transmite un compromiso similar a un juramento de dedicar todo o superar las dificultades juntos hasta la muerte.",
+        "id": "Kalimat ini mengungkapkan ikatan dan loyalitas yang kuat antara pria, yang diwakili oleh istilah 'hyung'. Frasa informal '악 하자' (ayo berbuat jahat/ayo habis-habisan) menyampaikan komitmen seperti janji untuk mendedikasikan segalanya atau mengatasi kesulitan bersama sampai mati.",
+        "jp": "このセリフは、「형」という呼び方で表現される男性間の強い絆と義理を基盤に、「악 하자（悪事を働こう/徹底的にやろう）」という非公式な表現を通じて、死ぬまで共に全てを捧げて最善を尽くしたり、困難を乗り越えようという誓いのような結束力を示しています。",
+        "ko": "이 대사는 '형'이라는 호칭으로 표현되는 남성 간의 강한 유대와 의리를 바탕으로, '악 하자'라는 비격식적 표현을 통해 죽을 때까지 함께 모든 것을 바쳐 최선을 다하거나 난관을 헤쳐나가자는 맹세와 같은 결속력을 드러냅니다.",
+        "vi": "Câu thoại này thể hiện sự gắn bó và lòng trung thành mạnh mẽ giữa những người đàn ông, được thể hiện qua cách gọi 'hyung'. Cụm từ thân mật '악 하자' (hãy cùng làm chuyện xấu/hãy chiến đấu hết mình) truyền tải một cam kết giống như lời thề sẽ cống hiến mọi thứ hoặc cùng nhau vượt qua khó khăn cho đến chết."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Flip it. No. There's still 30 more seconds left.",
+        "es": "Voltéalo. No. Aún quedan 30 segundos más.",
+        "id": "Balikkan. Jangan. Masih ada 30 detik lagi.",
+        "jp": "ひっくり返して。だめだ。まだ30秒残ってる。",
+        "ko": "뒤집어. 안 돼. 아직 30초 더 남았어.",
+        "vi": "Lật nó đi. Không. Vẫn còn 30 giây nữa."
+      },
+      "end_time": 32.2,
+      "start_time": 26.0,
+      "vocabulary": [
+        {
+          "word": "뒤집어",
+          "meanings": {
+            "en": "flip (it over), turn over",
+            "es": "voltear, dar la vuelta",
+            "id": "membalikkan, membalik",
+            "jp": "ひっくり返す、裏返す",
+            "vi": "lật, úp"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_009e8d5b8c85c3ef68a53eaff2f5b135.mp3"
+        },
+        {
+          "word": "남았어",
+          "meanings": {
+            "en": "is left, remains",
+            "es": "queda, restante",
+            "id": "tersisa",
+            "jp": "残っている",
+            "vi": "còn lại"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_c14cdc501cfbc84774c58ca95e57a27a.mp3"
+        },
+        {
+          "word": "삼겹살",
+          "meanings": {
+            "en": "pork belly",
+            "es": "panceta de cerdo",
+            "id": "perut babi",
+            "jp": "豚バラ肉",
+            "vi": "thịt ba chỉ"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_e9fc8fc041b960a80151c591b0fc81e4.mp3"
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "The protagonist's determination is felt, implying that flipping samgyeopsal too often while grilling makes it less tasty. In fact, in Korea, meat is generally not flipped frequently when grilling.",
+        "es": "Se siente la determinación del protagonista, lo que implica que voltear el samgyeopsal con demasiada frecuencia al asar lo hace menos sabroso. De hecho, en Corea, la carne generalmente no se voltea con frecuencia al asar.",
+        "id": "Tekad sang protagonis terasa, menyiratkan bahwa membalik samgyeopsal terlalu sering saat memanggang membuatnya kurang enak. Faktanya, di Korea, daging umumnya tidak sering dibalik saat dipanggang.",
+        "jp": "サムギョプサルを焼くとき、頻繁にひっくり返すと美味しくないという主人公の意志が感じられます。実際に韓国では、肉を焼く際に頻繁にひっくり返しません。",
+        "ko": "삼겹살을 구울 때 자주 뒤집으면 맛이 없다는 주인공의 의지가 느껴집니다. 실제로 한국에서는 고기를 구울 때 자주 뒤집지 않습니다.",
+        "vi": "Quyết tâm của nhân vật chính được cảm nhận, ngụ ý rằng lật thịt ba chỉ quá thường xuyên khi nướng sẽ làm nó kém ngon. Thực tế, ở Hàn Quốc, thịt thường không được lật quá thường xuyên khi nướng."
+      }
+    },
+    {
+      "scripts": {
+        "en": "I will achieve whatever I want, no matter what. You will definitely fight me.",
+        "es": "Lograré lo que quiera, pase lo que pase. Definitivamente lucharás conmigo.",
+        "id": "Aku akan mencapai apa pun yang kuinginkan, bagaimanapun caranya. Kau pasti akan bertarung denganku.",
+        "jp": "俺は自分が望むことは何でも必ず成し遂げる。お前はきっと俺と戦うことになるだろう。",
+        "ko": "난 내가 원하는 건 무조건 이뤄. 넌 꼭 나랑 싸우게 될거야.",
+        "vi": "Tôi sẽ đạt được bất cứ điều gì tôi muốn, bằng mọi giá. Bạn nhất định sẽ phải đối đầu với tôi."
+      },
+      "end_time": 41.0,
+      "start_time": 33.4,
+      "vocabulary": [
+        {
+          "word": "원하는 건",
+          "meanings": {
+            "en": "what I want",
+            "es": "lo que quiero",
+            "id": "yang kuinginkan",
+            "jp": "望むこと",
+            "vi": "điều tôi muốn"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_4528e8a70716583a4996a941821ffd16.mp3"
+        },
+        {
+          "word": "무조건",
+          "meanings": {
+            "en": "unconditionally, no matter what",
+            "es": "incondicionalmente, pase lo que pase",
+            "id": "tanpa syarat, bagaimanapun juga",
+            "jp": "無条件に、何が何でも",
+            "vi": "vô điều kiện, bằng mọi giá"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_093a46308f503ee150a5bbcc26e99da3.mp3"
+        },
+        {
+          "word": "이뤄",
+          "meanings": {
+            "en": "achieve, fulfill (informal, imperative/declarative)",
+            "es": "lograr, cumplir",
+            "id": "mencapai, memenuhi",
+            "jp": "成し遂げる、実現する",
+            "vi": "đạt được, thực hiện"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_28eb1a4633ce9573591ec8ed2824bda2.mp3"
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "This line showcases a typical characteristic of characters in Korean dramas or films who express strong will and confidence. '무조건 이뤄' (I will achieve it no matter what) signifies a resolute attitude to accomplish a goal, regardless of the cost.",
+        "es": "Esta frase muestra una característica típica de los personajes en dramas o películas coreanas que expresan una fuerte voluntad y confianza. '무조건 이뤄' (lo lograré pase lo que pase) significa una actitud resuelta para lograr un objetivo, sin importar el costo.",
+        "id": "Kalimat ini menampilkan karakteristik khas karakter dalam drama atau film Korea yang mengekspresikan kemauan dan kepercayaan diri yang kuat. '무조건 이뤄' (aku akan mencapainya bagaimanapun caranya) menandakan sikap tegas untuk mencapai tujuan, berapa pun biayanya.",
+        "jp": "このセリフは、強い意志と自信を表現する典型的な韓国ドラマや映画の登場人物の特徴を示しています。「무조건 이뤄（何が何でも成し遂げる）」は、どんな代償を払ってでも目標を達成するという決意の表れです。",
+        "ko": "이 대사는 강한 의지와 자신감을 표현하는 전형적인 한국 드라마나 영화 속 인물들의 특징을 보여줍니다. '무조건 이뤄'는 어떤 대가를 치르더라도 목표를 달성하겠다는 결연한 태도를 나타냅니다.",
+        "vi": "Câu thoại này thể hiện một đặc điểm điển hình của các nhân vật trong phim truyền hình hoặc điện ảnh Hàn Quốc, những người thể hiện ý chí và sự tự tin mạnh mẽ. '무조건 이뤄' (tôi sẽ đạt được bằng mọi giá) thể hiện thái độ kiên quyết hoàn thành mục tiêu, bất kể cái giá phải trả."
+      }
+    },
+    {
+      "scripts": {
+        "en": "To catch a beast. You have to become scarier than the beast.",
+        "es": "Para atrapar a una bestia. Tienes que volverte más aterrador que la bestia.",
+        "id": "Untuk menangkap seekor binatang buas. Kau harus menjadi lebih menakutkan daripada binatang buas itu.",
+        "jp": "獣を捕まえるなら。獣よりもっと恐ろしくならなければならないと。",
+        "ko": "짐승을 잡으려면. 짐승 보다 더 무서워져야 한다고.",
+        "vi": "Để bắt một con thú. Bạn phải trở nên đáng sợ hơn cả con thú."
+      },
+      "end_time": 55.0,
+      "start_time": 48.0,
+      "vocabulary": [
+        {
+          "word": "짐승",
+          "meanings": {
+            "en": "beast, animal",
+            "es": "bestia, animal",
+            "id": "binatang buas, hewan",
+            "jp": "獣、動物",
+            "vi": "thú, quái thú"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_1bb2f12c6cb4e6de1001e3de41c3ce60.mp3"
+        },
+        {
+          "word": "잡으려면",
+          "meanings": {
+            "en": "if you want to catch/grab",
+            "es": "si quieres atrapar/agarrar",
+            "id": "jika ingin menangkap/menggenggam",
+            "jp": "捕まえようとするなら、掴もうとするなら",
+            "vi": "nếu muốn bắt/nắm lấy"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_b5d9d24862a156c18b6e039f39dcf7de.mp3"
+        },
+        {
+          "word": "무서워져야 한다고",
+          "meanings": {
+            "en": "you have to become scarier (indirect quote)",
+            "es": "tienes que volverte más aterrador (cita indirecta)",
+            "id": "harus menjadi lebih menakutkan (kutipan tidak langsung)",
+            "jp": "恐ろしくならなければならないと",
+            "vi": "phải trở nên đáng sợ hơn (trích dẫn gián tiếp)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_58a4c7606e012c1e3c35e91980e14217.mp3"
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "In Korea, this expression is used to convey the lesson that to overcome a strong opponent or a difficult challenge, one must possess greater determination or strength than them.",
+        "es": "En Corea, esta expresión se utiliza para transmitir la lección de que para superar a un oponente fuerte o un desafío difícil, uno debe poseer mayor determinación o fuerza que ellos.",
+        "id": "Di Korea, ungkapan ini digunakan untuk menyampaikan pelajaran bahwa untuk mengatasi lawan yang kuat atau tantangan yang sulit, seseorang harus memiliki tekad atau kekuatan yang lebih besar dari mereka.",
+        "jp": "韓国では、強い相手や困難な難関を克服するためには、それ以上の大きな決断力や力を持つべきだという教訓を与える際に使われる表現です。",
+        "ko": "한국에서는 강한 상대나 어려운 난관을 극복하기 위해 그보다 더 큰 결단력이나 힘을 가져야 한다는 교훈을 줄 때 사용되는 표현입니다.",
+        "vi": "Ở Hàn Quốc, biểu hiện này được dùng để truyền đạt bài học rằng để vượt qua một đối thủ mạnh hoặc một thử thách khó khăn, người ta phải sở hữu quyết tâm hoặc sức mạnh lớn hơn họ."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Only then can I protect my beloved family.",
+        "es": "Solo así podré proteger a mi amada familia.",
+        "id": "Hanya dengan begitu aku bisa melindungi keluarga tercintaku.",
+        "jp": "そうしてこそ、私が愛する家族を守れると。",
+        "ko": "그래야 내가 사랑하는 가족들을 지킬 수 있다고.",
+        "vi": "Chỉ khi đó tôi mới có thể bảo vệ gia đình thân yêu của mình."
+      },
+      "end_time": 62.0,
+      "start_time": 56.0,
+      "vocabulary": [
+        {
+          "word": "그래야",
+          "meanings": {
+            "en": "only then, in that way",
+            "es": "solo así, de esa manera",
+            "id": "hanya dengan begitu, dengan cara itu",
+            "jp": "そうしてこそ、そうしなければ",
+            "vi": "chỉ khi đó, bằng cách đó"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_5bf86cf77bcd39fd465c049335017bfe.mp3"
+        },
+        {
+          "word": "사랑하는",
+          "meanings": {
+            "en": "beloved, loving",
+            "es": "amado, querido",
+            "id": "tercinta, menyayangi",
+            "jp": "愛する、大切な",
+            "vi": "yêu quý, thân yêu"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_494fe8496c787860b083504a0d17ba2d.mp3"
+        },
+        {
+          "word": "지킬 수 있다고",
+          "meanings": {
+            "en": "(I/you) can protect (indirect quote)",
+            "es": "puedo/puedes proteger (cita indirecta)",
+            "id": "bisa melindungi (kutipan tidak langsung)",
+            "jp": "守れると",
+            "vi": "có thể bảo vệ (trích dẫn gián tiếp)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_896825f502165cfd9f085f96f4544099.mp3"
+        }
+      ],
+      "section_num": 5,
+      "cultural_note": {
+        "en": "While true globally, in Korea, protecting one's family is considered a very important value, and a sacrificing attitude for this purpose is often praised.",
+        "es": "Aunque es cierto a nivel mundial, en Corea, proteger a la familia se considera un valor muy importante, y una actitud de sacrificio con este propósito a menudo es elogiada.",
+        "id": "Meskipun benar secara global, di Korea, melindungi keluarga dianggap sebagai nilai yang sangat penting, dan sikap pengorbanan untuk tujuan ini sering dipuji.",
+        "jp": "世界中どこでもそうかもしれませんが、韓国では家族を守ることを非常に重要な価値と見なし、そのために犠牲を払う態度はしばしば称賛されます。",
+        "ko": "세계 모두 그렇겠지만, 한국에서는 가족을 지키는 것을 매우 중요한 가치로 여기며, 이를 위해 희생하는 태도는 흔히 칭송받습니다.",
+        "vi": "Dù đúng trên toàn cầu, nhưng ở Hàn Quốc, việc bảo vệ gia đình được coi là một giá trị rất quan trọng, và thái độ hy sinh vì mục đích này thường được ca ngợi."
+      }
+    }
+  ]
+}

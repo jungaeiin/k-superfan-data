@@ -1,0 +1,328 @@
+{
+  "quiz": {
+    "options": [
+      {
+        "en": "Deep trust in each other",
+        "es": "Confianza profunda mutua",
+        "id": "Kepercayaan mendalam satu sama lain",
+        "jp": "お互いへの深い信頼",
+        "ko": "서로에 대한 깊은 신뢰",
+        "vi": "Niềm tin sâu sắc vào đối phương"
+      },
+      {
+        "en": "Certainty about the relationship's continuation",
+        "es": "Certeza sobre la continuidad de la relación",
+        "id": "Kepastian tentang kelangsungan hubungan",
+        "jp": "関係の継続に対する確信",
+        "ko": "관계의 지속에 대한 확신",
+        "vi": "Sự chắc chắn về sự tiếp nối của mối quan hệ"
+      },
+      {
+        "en": "Fear of separation and a strong desire to maintain the relationship",
+        "es": "Miedo a la separación y un fuerte deseo de mantener la relación",
+        "id": "Ketakutan akan perpisahan dan keinginan kuat untuk mempertahankan hubungan",
+        "jp": "別れへの恐れと関係維持への強い願望",
+        "ko": "이별에 대한 두려움과 관계 유지에 대한 강한 열망",
+        "vi": "Nỗi sợ chia ly và mong muốn mạnh mẽ duy trì mối quan hệ"
+      },
+      {
+        "en": "Longing for happy memories of the past",
+        "es": "Anhelo por los recuerdos felices del pasado",
+        "id": "Kerinduan akan kenangan bahagia masa lalu",
+        "jp": "過去の幸せな思い出への懐かしさ",
+        "ko": "과거의 행복했던 추억에 대한 그리움",
+        "vi": "Nỗi nhớ về những ký ức hạnh phúc trong quá khứ"
+      }
+    ],
+    "question": {
+      "en": "What is the strongest common feeling expressed by the speakers in the dialogues above?",
+      "es": "¿Cuál es el sentimiento común más fuerte expresado por los hablantes en los diálogos anteriores?",
+      "id": "Apa perasaan umum terkuat yang diungkapkan oleh para pembicara dalam dialog di atas?",
+      "jp": "上記の会話内容で、話し手たちが共通して最も強く感じている感情は何でしょうか？",
+      "ko": "위 대화 내용에서 화자들이 공통적으로 가장 강하게 느끼고 있는 감정은 무엇일까요?",
+      "vi": "Cảm xúc chung mạnh mẽ nhất mà những người nói thể hiện trong các đoạn hội thoại trên là gì?"
+    },
+    "answer_index": 2
+  },
+  "metadata": {
+    "titles": {
+      "en": "Once We Were Us (2025)",
+      "es": "Once We Were Us (2025)",
+      "id": "Once We Were Us (2025)",
+      "jp": "Once We Were Us (2025)",
+      "ko": "만약에 우리 | 예고편 ",
+      "vi": "Không Còn Chúng Ta (2025)"
+    },
+    "categories": {
+      "en": "Movie, Melodrama",
+      "es": "Cine, Melodrama",
+      "id": "Film, Melodrama",
+      "jp": "映画、メロドラマ",
+      "ko": "영화, 맬로",
+      "vi": "Phim, Phim tình cảm"
+    },
+    "difficulty": 3,
+    "youtube_id": "JV4aFt8AhWI",
+    "youtube_url": "https://www.youtube.com/watch?v=JV4aFt8AhWI"
+  },
+  "learning_sections": [
+    {
+      "scripts": {
+        "en": "Back then, thank you so much for being my home.",
+        "es": "En ese momento, muchas gracias por ser mi hogar.",
+        "id": "Dulu, terima kasih banyak sudah menjadi rumahku.",
+        "jp": "あの時、私の家になってくれて本当にありがとう。",
+        "ko": "그때, 내 집이 되어줘서 정말 고마웠어.",
+        "vi": "Lúc đó, cảm ơn cậu rất nhiều vì đã là mái nhà của mình."
+      },
+      "end_time": 30.3,
+      "start_time": 24.5,
+      "vocabulary": [
+        {
+          "word": "고마웠어",
+          "meanings": {
+            "en": "was grateful, thanked",
+            "es": "agradecí, di las gracias",
+            "id": "berterima kasih, bersyukur",
+            "jp": "感謝した、ありがとう",
+            "vi": "đã cảm ơn, đã biết ơn"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_f2bb7631b3c317192b9e69c9100b10eb.mp3"
+        },
+        {
+          "word": "내 집이 되어줘서",
+          "meanings": {
+            "en": "for being my home (idiomatic for providing comfort/security)",
+            "es": "por ser mi hogar (idiomático para proporcionar consuelo/seguridad)",
+            "id": "karena sudah menjadi rumahku (idiom untuk memberikan kenyamanan/keamanan)",
+            "jp": "私の家になってくれて (安心や安らぎを与えてくれて)",
+            "vi": "vì đã là mái nhà của tôi (ngụ ý mang lại sự an ủi/an toàn)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_9bce4b0043ab12b1ea9a501dab5a5850.mp3"
+        }
+      ],
+      "section_num": 1,
+      "cultural_note": {
+        "en": "'Being my home' is a metaphorical expression used to deeply thank someone who provided psychological stability, comfort, and a sense of belonging during difficult times.",
+        "es": "'Ser mi hogar' es una expresión metafórica utilizada para agradecer profundamente a alguien que proporcionó estabilidad psicológica, consuelo y un sentido de pertenencia en momentos difíciles.",
+        "id": "'Menjadi rumahku' adalah ungkapan metaforis yang digunakan untuk menyampaikan rasa terima kasih yang mendalam kepada seseorang yang telah memberikan stabilitas psikologis, kenyamanan, dan rasa memiliki di saat-saat sulit.",
+        "jp": "「私の家になってくれる」は、困難な時に心理的な安定と慰め、帰属意識を提供してくれた人に深い感謝を表す比喩的な表現です。",
+        "ko": "\"내 집이 되어주다\"는 힘들 때 심리적 안정과 위로, 소속감을 제공해 준 사람에게 깊은 감사를 표하는 비유적 표현입니다.",
+        "vi": "'Trở thành mái nhà của tôi' là một biểu hiện ẩn dụ dùng để bày tỏ lòng biết ơn sâu sắc đối với người đã mang lại sự ổn định tâm lý, sự an ủi và cảm giác thuộc về trong những lúc khó khăn."
+      }
+    },
+    {
+      "scripts": {
+        "en": "You know how much I loved you back then, right? You know.",
+        "es": "Sabes cuánto te amé en esos días, ¿verdad? Sí, lo sabes.",
+        "id": "Kamu tahu betapa aku sangat mencintaimu di masa itu, kan? Tahu kok.",
+        "jp": "あの頃の私は、君を本当にたくさん愛していたの、知ってるよね？知ってるよ。",
+        "ko": "그 시절에 나는, 너 정말 많이 사랑했던 거 알지? 알지.",
+        "vi": "Cậu biết mình đã yêu cậu nhiều như thế nào vào thời đó mà, đúng không? Biết chứ."
+      },
+      "end_time": 40.1,
+      "start_time": 32.0,
+      "vocabulary": [
+        {
+          "word": "그 시절",
+          "meanings": {
+            "en": "those days, that time",
+            "es": "esos días, en aquel tiempo",
+            "id": "masa itu, waktu itu",
+            "jp": "あの頃、その時代",
+            "vi": "thời đó, cái thời đó"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_b6abb7541a74aea169b2efb3143c71a6.mp3"
+        },
+        {
+          "word": "사랑했던",
+          "meanings": {
+            "en": "loved (past tense modifier)",
+            "es": "que amaba, que había amado (modificador de tiempo pasado)",
+            "id": "mencintai (kata sifat lampau)",
+            "jp": "愛していた (過去形の修飾語)",
+            "vi": "đã yêu (từ bổ nghĩa thì quá khứ)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_22de41f68981361a30d5d782c918a8c8.mp3"
+        },
+        {
+          "word": "알지?",
+          "meanings": {
+            "en": "You know, right?",
+            "es": "¿Sabes, verdad?",
+            "id": "Kamu tahu, kan?",
+            "jp": "知ってるよね？",
+            "vi": "Cậu biết mà, đúng không?"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_4b7837bd69488828befc6b9176207ce5.mp3"
+        }
+      ],
+      "section_num": 2,
+      "cultural_note": {
+        "en": "'알지?' carries the nuance of strongly confirming that the other person shares the same memories and feelings as the speaker, and seeking their agreement.",
+        "es": "'알지?' tiene el matiz de confirmar firmemente que la otra persona comparte los mismos recuerdos y sentimientos que el hablante, y de buscar su acuerdo.",
+        "id": "'알지?' memiliki nuansa untuk sangat memastikan bahwa lawan bicara juga berbagi ingatan dan perasaan yang sama dengan pembicara, serta mencari persetujuan mereka.",
+        "jp": "「알지?」は、相手も話し手と同じ記憶や感情を共有していることを強く確認し、同意を求めるニュアンスを含んでいます。",
+        "ko": "\"알지?\" 상대방도 화자와 같은 기억과 감정을 공유하고 있음을 강하게 확인하고, 동의를 구하는 뉘앙스를 담고 있습니다.",
+        "vi": "'알지?' mang sắc thái nhấn mạnh việc xác nhận rằng đối phương cũng chia sẻ những ký ức và cảm xúc tương tự với người nói, đồng thời tìm kiếm sự đồng thuận."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Lee Eunho! Even if we break up, let's see each other sometimes. But we're not breaking up, are we?",
+        "es": "¡Lee Eunho! Incluso si rompemos, veámonos de vez en cuando. Pero no vamos a romper, ¿verdad?",
+        "id": "Lee Eunho! Kalaupun kita putus, ayo kadang-kadang bertemu. Tapi kita tidak akan putus, kan?",
+        "jp": "イ・ウノ！私たち別れても、たまには会おう。別れないのに？",
+        "ko": "이은호! 우리 헤어져도 가끔은 보자. 안 헤어질건데?",
+        "vi": "Lee Eunho! Dù chúng ta chia tay, thỉnh thoảng vẫn gặp nhau nhé. Nhưng chúng ta sẽ không chia tay mà?"
+      },
+      "end_time": 52.8,
+      "start_time": 44.0,
+      "vocabulary": [
+        {
+          "word": "헤어져도",
+          "meanings": {
+            "en": "even if we break up",
+            "es": "incluso si rompemos",
+            "id": "kalaupun putus",
+            "jp": "別れても",
+            "vi": "dù có chia tay"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_ce4dc52ccec272e867a71ee0e471802d.mp3"
+        },
+        {
+          "word": "가끔은",
+          "meanings": {
+            "en": "sometimes, occasionally",
+            "es": "de vez en cuando",
+            "id": "kadang-kadang",
+            "jp": "たまには",
+            "vi": "thỉnh thoảng"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_3b079998b0bb9594c299752d7f30bff4.mp3"
+        },
+        {
+          "word": "안 헤어질건데?",
+          "meanings": {
+            "en": "But we're not breaking up, are we? (rhetorical, implies refusal)",
+            "es": "¿Pero no vamos a romper, verdad? (retórico, implica rechazo)",
+            "id": "Tapi kita tidak akan putus, kan? (retoris, menyiratkan penolakan)",
+            "jp": "別れないのに？ (反語的、拒否のニュアンス)",
+            "vi": "Nhưng chúng ta sẽ không chia tay mà? (mang tính chất tu từ, ngụ ý từ chối)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_bb17140bd5bab7eab3a5aa1071d9d62e.mp3"
+        }
+      ],
+      "section_num": 3,
+      "cultural_note": {
+        "en": "'안 헤어질건데?' is a common expression among Korean couples that playfully or seriously expresses strong affection and a desire to continue the relationship, firmly rejecting the other person's suggestion to break up.",
+        "es": "'안 헤어질건데?' es una expresión común entre parejas coreanas que, de forma juguetona o seria, expresa un fuerte afecto y el deseo de continuar la relación, rechazando firmemente la sugerencia de la otra persona de romper.",
+        "id": "'안 헤어질건데?' adalah ungkapan umum di antara pasangan Korea yang dengan bercanda atau serius menyatakan kasih sayang dan keinginan kuat untuk melanjutkan hubungan, dengan tegas menolak saran putus dari orang lain.",
+        "jp": "「안 헤어질건데?」は、相手の別れの提案を断固として拒否し、関係を続けたいという強い愛情と意志を冗談めかして、または真剣に表現する韓国の恋人たちの間でよくある表現です。",
+        "ko": "\"안 헤어질건데?\"는 상대방의 헤어짐 제안을 단호하게 거부하며, 관계를 지속하고 싶다는 강한 애정과 의지를 장난스럽거나 진지하게 표현하는 한국 연인들 사이의 흔한 표현입니다.",
+        "vi": "'안 헤어질건데?' là một biểu hiện phổ biến giữa các cặp đôi Hàn Quốc, thể hiện một cách bông đùa hoặc nghiêm túc tình cảm sâu sắc và mong muốn duy trì mối quan hệ, kiên quyết từ chối lời đề nghị chia tay của đối phương."
+      }
+    },
+    {
+      "scripts": {
+        "en": "I'm scared. What are you scared of? If I lose you too, I'll truly have nowhere to go back to.",
+        "es": "Tengo miedo. ¿De qué tienes miedo? Si te pierdo a ti también, realmente no tendré adónde regresar.",
+        "id": "Aku takut. Apa yang kamu takutkan? Kalau aku kehilangan kamu juga, aku benar-benar tidak punya tempat untuk kembali.",
+        "jp": "怖い。何が怖い？君まで失ったら、私、本当に帰る場所がなくなってしまうんだ。",
+        "ko": "무서워. 뭐가 무서워? 너까지 잃으면 나 진짜 돌아갈 데가 없어진단 말이야.",
+        "vi": "Sợ. Sợ cái gì? Nếu mất cả cậu nữa, tớ thật sự sẽ không còn nơi nào để trở về đâu."
+      },
+      "end_time": 59.1,
+      "start_time": 53.0,
+      "vocabulary": [
+        {
+          "word": "무서워",
+          "meanings": {
+            "en": "I'm scared, it's scary",
+            "es": "tengo miedo, es aterrador",
+            "id": "aku takut, menyeramkan",
+            "jp": "怖い、恐ろしい",
+            "vi": "tớ sợ, đáng sợ"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_11b7a710a002a7be327f87caf4fa61e4.mp3"
+        },
+        {
+          "word": "잃으면",
+          "meanings": {
+            "en": "if I lose, if you lose",
+            "es": "si pierdo, si pierdes",
+            "id": "kalau aku kehilangan",
+            "jp": "失ったら",
+            "vi": "nếu mất, nếu đánh mất"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_aecac59dd668ca8da7817db2f7243e39.mp3"
+        },
+        {
+          "word": "돌아갈 데가 없어진단 말이야",
+          "meanings": {
+            "en": "it means there will be no place to go back to (i.e., no one to rely on)",
+            "es": "significa que no habrá lugar al que regresar (es decir, nadie en quien apoyarse)",
+            "id": "artinya tidak akan ada tempat untuk kembali (yaitu, tidak ada yang bisa diandalkan)",
+            "jp": "帰る場所がなくなってしまうんだ (つまり、頼る人がいなくなる)",
+            "vi": "có nghĩa là sẽ không còn nơi nào để trở về (ngụ ý không còn ai để nương tựa)"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_ee6fb65170957d1904870e0188cdb9f7.mp3"
+        }
+      ],
+      "section_num": 4,
+      "cultural_note": {
+        "en": "'Nowhere to go back to' (돌아갈 데) goes beyond a mere physical space, implying a person one can lean on or a sanctuary for the heart. Losing this signifies extreme isolation and despair.",
+        "es": "'Un lugar adónde regresar' (돌아갈 데) va más allá de un simple espacio físico, implicando una persona en quien apoyarse o un santuario para el corazón. Perder esto significa una extrema sensación de aislamiento y desesperación.",
+        "id": "'Tempat untuk kembali' (돌아갈 데) lebih dari sekadar ruang fisik, melainkan berarti seseorang yang bisa diandalkan atau tempat perlindungan bagi hati. Kehilangan ini berarti isolasi dan keputusasaan yang ekstrem.",
+        "jp": "「돌아갈 데（帰る場所）」は、単に物理的な空間を超えて、頼れる人や心の安息の地を意味します。これを失うということは、極度の孤立感と絶望を意味します。",
+        "ko": "'돌아갈 데'는 단순히 물리적인 공간을 넘어, 기댈 수 있는 사람이나 마음의 안식처를 의미합니다. 이를 잃는다는 것은 극심한 고립감과 절망을 뜻합니다.",
+        "vi": "'Nơi để trở về' (돌아갈 데) không chỉ là một không gian vật lý, mà còn ám chỉ một người mình có thể dựa vào hoặc một nơi an ủi cho tâm hồn. Mất đi điều này có nghĩa là sự cô lập và tuyệt vọng cùng cực."
+      }
+    },
+    {
+      "scripts": {
+        "en": "Jeongwon. There was something I really wanted to ask. What if...",
+        "es": "Jeongwon. Había algo que realmente quería preguntar. Si...",
+        "id": "Jeongwon. Ada sesuatu yang benar-benar ingin kutanyakan. Kalau saja...",
+        "jp": "ジョンウォン。本当に聞きたいことがあったんだけど。もしも...",
+        "ko": "정원아. 진짜 묻고 싶은 게 있었는데. 만약에... ",
+        "vi": "Jeongwon. Có điều tớ thực sự muốn hỏi. Nếu như..."
+      },
+      "end_time": 72.7,
+      "start_time": 65.3,
+      "vocabulary": [
+        {
+          "word": "묻고 싶은 게",
+          "meanings": {
+            "en": "something I want to ask",
+            "es": "algo que quiero preguntar",
+            "id": "sesuatu yang ingin kutanyakan",
+            "jp": "聞きたいこと",
+            "vi": "điều muốn hỏi"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_9c5ced979089ca0a1c4551860d230c8f.mp3"
+        },
+        {
+          "word": "만약에",
+          "meanings": {
+            "en": "if, in case",
+            "es": "si, en caso de que",
+            "id": "jika, seandainya",
+            "jp": "もしも、万が一",
+            "vi": "nếu, trong trường hợp"
+          },
+          "audio_url": "https://cdn.jsdelivr.net/gh/jungaeiin/k-superfan-data@main/lessons/sounds/ko_619299ec67e8e69f5fa0e7915f978e08.mp3"
+        }
+      ],
+      "section_num": 5,
+      "cultural_note": {
+        "en": "\"I really wanted to ask something. What if...\" is a Korean expression used to pause and open a conversation before asking an important or sensitive question to the other person.",
+        "es": "\"Había algo que realmente quería preguntar. Si...\" es una expresión coreana utilizada para hacer una pausa e iniciar una conversación antes de hacer una pregunta importante o delicada a la otra persona.",
+        "id": "\"Ada sesuatu yang benar-benar ingin kutanyakan. Kalau saja...\" adalah ungkapan bahasa Korea yang digunakan untuk berhenti sejenak dan membuka percakapan sebelum mengajukan pertanyaan penting atau sensitif kepada lawan bicara.",
+        "jp": "「本当に聞きたいことがあったんだけど。もしも...」は、相手に重要で慎重な質問を切り出す前に、間を取って話を切り出す韓国語の表現です。",
+        "ko": "\"진짜 묻고 싶은 게 있었는데. 만약에...\"는 상대방에게 중요하거나 조심스러운 질문을 꺼내기 전 뜸을 들이며 서두를 여는 한국어 표현입니다.",
+        "vi": "\"Có điều tớ thực sự muốn hỏi. Nếu như...\" là một cách diễn đạt trong tiếng Hàn dùng để ngập ngừng và mở đầu cuộc trò chuyện trước khi đặt một câu hỏi quan trọng hoặc nhạy cảm cho đối phương."
+      }
+    }
+  ]
+}
